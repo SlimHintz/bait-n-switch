@@ -20,3 +20,14 @@
 
 
 ### Repository Structure
+```
+.
+├── README.md
+├── notebooks
+│   ├── EDA
+│   └── modelling
+└── src
+    ├── data
+    ├── models
+    └── modules
+```
