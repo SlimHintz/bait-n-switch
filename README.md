@@ -22,6 +22,7 @@
 ### Repository Structure
 ```
 .
+├── Index.ipynb
 ├── README.md
 ├── notebooks
 │   ├── EDA
