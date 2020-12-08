@@ -1,4 +1,4 @@
-# Bait n' Switch
+# Bait 'n' Switch
 ## A tool for decluttering a busy browsing experience
 
 ### Overview
