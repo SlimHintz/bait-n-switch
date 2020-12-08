@@ -1,0 +1,304 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHbdIAwWIAArhHA.jpg
+  tags: [class Tag {
+  confidence: 27.58379
+  tag: watercolor
+}
+, class Tag {
+  confidence: 26.17317
+  tag: design
+}
+, class Tag {
+  confidence: 20.740688
+  tag: graphic
+}
+, class Tag {
+  confidence: 20.026903
+  tag: grunge
+}
+, class Tag {
+  confidence: 19.274391
+  tag: element
+}
+, class Tag {
+  confidence: 18.790764
+  tag: art
+}
+, class Tag {
+  confidence: 17.762348
+  tag: blotch
+}
+, class Tag {
+  confidence: 17.212915
+  tag: color
+}
+, class Tag {
+  confidence: 16.690071
+  tag: pattern
+}
+, class Tag {
+  confidence: 16.443682
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 16.30198
+  tag: atlas
+}
+, class Tag {
+  confidence: 15.818632
+  tag: colorful
+}
+, class Tag {
+  confidence: 15.809008
+  tag: blob
+}
+, class Tag {
+  confidence: 15.376197
+  tag: splash
+}
+, class Tag {
+  confidence: 14.847908
+  tag: decoration
+}
+, class Tag {
+  confidence: 14.825744
+  tag: paint
+}
+, class Tag {
+  confidence: 14.812889
+  tag: texture
+}
+, class Tag {
+  confidence: 14.357629
+  tag: australia
+}
+, class Tag {
+  confidence: 14.026687
+  tag: shape
+}
+, class Tag {
+  confidence: 13.409491
+  tag: backdrop
+}
+, class Tag {
+  confidence: 13.278654
+  tag: drop
+}
+, class Tag {
+  confidence: 13.129031
+  tag: light
+}
+, class Tag {
+  confidence: 12.637837
+  tag: liquid
+}
+, class Tag {
+  confidence: 12.109262
+  tag: topography
+}
+, class Tag {
+  confidence: 11.896767
+  tag: drawing
+}
+, class Tag {
+  confidence: 11.648388
+  tag: floral
+}
+, class Tag {
+  confidence: 11.648139
+  tag: bright
+}
+, class Tag {
+  confidence: 11.532376
+  tag: silhouette
+}
+, class Tag {
+  confidence: 11.3887615
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.076973
+  tag: artistic
+}
+, class Tag {
+  confidence: 10.839495
+  tag: world
+}
+, class Tag {
+  confidence: 10.744398
+  tag: decorative
+}
+, class Tag {
+  confidence: 10.698513
+  tag: clean
+}
+, class Tag {
+  confidence: 10.58415
+  tag: bubbles
+}
+, class Tag {
+  confidence: 10.367102
+  tag: circle
+}
+, class Tag {
+  confidence: 10.336581
+  tag: motion
+}
+, class Tag {
+  confidence: 10.288943
+  tag: ornament
+}
+, class Tag {
+  confidence: 10.010103
+  tag: creative
+}
+, class Tag {
+  confidence: 9.971287
+  tag: water
+}
+, class Tag {
+  confidence: 9.918868
+  tag: ocean
+}
+, class Tag {
+  confidence: 9.799472
+  tag: map
+}
+, class Tag {
+  confidence: 9.660597
+  tag: clear
+}
+, class Tag {
+  confidence: 9.6452675
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 9.480373
+  tag: fresh
+}
+, class Tag {
+  confidence: 9.436559
+  tag: dirty
+}
+, class Tag {
+  confidence: 9.165849
+  tag: transparent
+}
+, class Tag {
+  confidence: 9.160362
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.997995
+  tag: style
+}
+, class Tag {
+  confidence: 8.915497
+  tag: wave
+}
+, class Tag {
+  confidence: 8.888857
+  tag: bubble
+}
+, class Tag {
+  confidence: 8.694248
+  tag: earth
+}
+, class Tag {
+  confidence: 8.639727
+  tag: frame
+}
+, class Tag {
+  confidence: 8.633195
+  tag: border
+}
+, class Tag {
+  confidence: 8.56802
+  tag: drink
+}
+, class Tag {
+  confidence: 8.389901
+  tag: geography
+}
+, class Tag {
+  confidence: 8.372815
+  tag: yellow
+}
+, class Tag {
+  confidence: 8.364011
+  tag: stain
+}
+, class Tag {
+  confidence: 8.355419
+  tag: spot
+}
+, class Tag {
+  confidence: 8.286282
+  tag: celebration
+}
+, class Tag {
+  confidence: 8.192565
+  tag: planet
+}
+, class Tag {
+  confidence: 8.136355
+  tag: detail
+}
+, class Tag {
+  confidence: 8.056291
+  tag: sign
+}
+, class Tag {
+  confidence: 7.9318156
+  tag: modern
+}
+, class Tag {
+  confidence: 7.9246144
+  tag: collection
+}
+, class Tag {
+  confidence: 7.904369
+  tag: global
+}
+, class Tag {
+  confidence: 7.8576183
+  tag: flower
+}
+, class Tag {
+  confidence: 7.842225
+  tag: effect
+}
+, class Tag {
+  confidence: 7.7650194
+  tag: freshness
+}
+, class Tag {
+  confidence: 7.689374
+  tag: digital
+}
+, class Tag {
+  confidence: 7.5310206
+  tag: ink
+}
+, class Tag {
+  confidence: 7.395977
+  tag: grungy
+}
+, class Tag {
+  confidence: 7.321054
+  tag: cold
+}
+, class Tag {
+  confidence: 7.2353444
+  tag: globe
+}
+, class Tag {
+  confidence: 7.153806
+  tag: health
+}
+]
+}
+]
+  unsuccessful: null
+}

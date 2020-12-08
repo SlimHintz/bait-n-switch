@@ -1,0 +1,220 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNFTCFU0AEpKSV.png
+  tags: [class Tag {
+  confidence: 31.487673
+  tag: light
+}
+, class Tag {
+  confidence: 29.685724
+  tag: sky
+}
+, class Tag {
+  confidence: 28.487879
+  tag: sun
+}
+, class Tag {
+  confidence: 24.038298
+  tag: landscape
+}
+, class Tag {
+  confidence: 20.291222
+  tag: silhouette
+}
+, class Tag {
+  confidence: 18.731607
+  tag: sunset
+}
+, class Tag {
+  confidence: 16.95954
+  tag: night
+}
+, class Tag {
+  confidence: 16.620234
+  tag: clouds
+}
+, class Tag {
+  confidence: 16.25083
+  tag: sunrise
+}
+, class Tag {
+  confidence: 13.603251
+  tag: color
+}
+, class Tag {
+  confidence: 13.602333
+  tag: star
+}
+, class Tag {
+  confidence: 13.407359
+  tag: cloud
+}
+, class Tag {
+  confidence: 12.414102
+  tag: horizon
+}
+, class Tag {
+  confidence: 12.409263
+  tag: dark
+}
+, class Tag {
+  confidence: 12.315223
+  tag: water
+}
+, class Tag {
+  confidence: 12.091683
+  tag: environment
+}
+, class Tag {
+  confidence: 11.983453
+  tag: fountain
+}
+, class Tag {
+  confidence: 11.71739
+  tag: orange
+}
+, class Tag {
+  confidence: 10.530804
+  tag: bright
+}
+, class Tag {
+  confidence: 10.397852
+  tag: reflection
+}
+, class Tag {
+  confidence: 10.256114
+  tag: weather
+}
+, class Tag {
+  confidence: 10.1072645
+  tag: structure
+}
+, class Tag {
+  confidence: 10.015415
+  tag: sunlight
+}
+, class Tag {
+  confidence: 10.005087
+  tag: sea
+}
+, class Tag {
+  confidence: 9.747538
+  tag: evening
+}
+, class Tag {
+  confidence: 9.747217
+  tag: summer
+}
+, class Tag {
+  confidence: 9.733145
+  tag: scene
+}
+, class Tag {
+  confidence: 9.498384
+  tag: yellow
+}
+, class Tag {
+  confidence: 9.467695
+  tag: day
+}
+, class Tag {
+  confidence: 9.307195
+  tag: black
+}
+, class Tag {
+  confidence: 9.112981
+  tag: dusk
+}
+, class Tag {
+  confidence: 8.976282
+  tag: rocket
+}
+, class Tag {
+  confidence: 8.71689
+  tag: beach
+}
+, class Tag {
+  confidence: 8.626681
+  tag: tranquil
+}
+, class Tag {
+  confidence: 8.53294
+  tag: ocean
+}
+, class Tag {
+  confidence: 8.283604
+  tag: travel
+}
+, class Tag {
+  confidence: 8.199091
+  tag: sunny
+}
+, class Tag {
+  confidence: 8.150532
+  tag: cloudy
+}
+, class Tag {
+  confidence: 8.064989
+  tag: smoke
+}
+, class Tag {
+  confidence: 7.9195523
+  tag: field
+}
+, class Tag {
+  confidence: 7.8840003
+  tag: tree
+}
+, class Tag {
+  confidence: 7.831194
+  tag: city
+}
+, class Tag {
+  confidence: 7.8185167
+  tag: design
+}
+, class Tag {
+  confidence: 7.802034
+  tag: morning
+}
+, class Tag {
+  confidence: 7.769681
+  tag: park
+}
+, class Tag {
+  confidence: 7.5665174
+  tag: moon
+}
+, class Tag {
+  confidence: 7.4811006
+  tag: natural
+}
+, class Tag {
+  confidence: 7.4600954
+  tag: heaven
+}
+, class Tag {
+  confidence: 7.446
+  tag: life
+}
+, class Tag {
+  confidence: 7.4090366
+  tag: ray
+}
+, class Tag {
+  confidence: 7.3612037
+  tag: season
+}
+, class Tag {
+  confidence: 7.1020145
+  tag: people
+}
+, class Tag {
+  confidence: 7.0774746
+  tag: peace
+}
+]
+}
+]
+  unsuccessful: null
+}

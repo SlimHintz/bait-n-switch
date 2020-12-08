@@ -1,0 +1,148 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOUpw2W4AAw4EQ.jpg
+  tags: [class Tag {
+  confidence: 59.75202
+  tag: signboard
+}
+, class Tag {
+  confidence: 36.34
+  tag: freight car
+}
+, class Tag {
+  confidence: 29.781952
+  tag: car
+}
+, class Tag {
+  confidence: 21.804
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 17.928352
+  tag: sky
+}
+, class Tag {
+  confidence: 17.57344
+  tag: scoreboard
+}
+, class Tag {
+  confidence: 15.515297
+  tag: board
+}
+, class Tag {
+  confidence: 14.307535
+  tag: vehicle
+}
+, class Tag {
+  confidence: 14.109491
+  tag: landscape
+}
+, class Tag {
+  confidence: 12.456053
+  tag: city
+}
+, class Tag {
+  confidence: 11.322036
+  tag: tree
+}
+, class Tag {
+  confidence: 11.128898
+  tag: building
+}
+, class Tag {
+  confidence: 10.973203
+  tag: architecture
+}
+, class Tag {
+  confidence: 10.880627
+  tag: conveyance
+}
+, class Tag {
+  confidence: 10.741374
+  tag: travel
+}
+, class Tag {
+  confidence: 9.604433
+  tag: panorama
+}
+, class Tag {
+  confidence: 9.067131
+  tag: locomotive
+}
+, class Tag {
+  confidence: 8.974668
+  tag: summer
+}
+, class Tag {
+  confidence: 8.243517
+  tag: grass
+}
+, class Tag {
+  confidence: 8.123433
+  tag: house
+}
+, class Tag {
+  confidence: 8.059362
+  tag: urban
+}
+, class Tag {
+  confidence: 7.878615
+  tag: sun
+}
+, class Tag {
+  confidence: 7.784362
+  tag: water
+}
+, class Tag {
+  confidence: 7.622474
+  tag: business
+}
+, class Tag {
+  confidence: 7.572701
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.535352
+  tag: mountain
+}
+, class Tag {
+  confidence: 7.5336647
+  tag: tourism
+}
+, class Tag {
+  confidence: 7.3555098
+  tag: cloud
+}
+, class Tag {
+  confidence: 7.3371606
+  tag: industry
+}
+, class Tag {
+  confidence: 7.288063
+  tag: hill
+}
+, class Tag {
+  confidence: 7.269367
+  tag: train
+}
+, class Tag {
+  confidence: 7.2318773
+  tag: sign
+}
+, class Tag {
+  confidence: 7.1535783
+  tag: light
+}
+, class Tag {
+  confidence: 7.107245
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.014958
+  tag: field
+}
+]
+}
+]
+  unsuccessful: null
+}

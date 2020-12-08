@@ -1,0 +1,316 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHcDJguWcAA714v.jpg
+  tags: [class Tag {
+  confidence: 25.171062
+  tag: crowd
+}
+, class Tag {
+  confidence: 22.7225
+  tag: sky
+}
+, class Tag {
+  confidence: 20.69336
+  tag: silhouette
+}
+, class Tag {
+  confidence: 17.685911
+  tag: sport
+}
+, class Tag {
+  confidence: 16.618713
+  tag: ball
+}
+, class Tag {
+  confidence: 15.142568
+  tag: bright
+}
+, class Tag {
+  confidence: 15.03257
+  tag: people
+}
+, class Tag {
+  confidence: 14.839235
+  tag: man
+}
+, class Tag {
+  confidence: 14.516607
+  tag: nation
+}
+, class Tag {
+  confidence: 14.340342
+  tag: male
+}
+, class Tag {
+  confidence: 13.944093
+  tag: competition
+}
+, class Tag {
+  confidence: 13.606991
+  tag: athlete
+}
+, class Tag {
+  confidence: 13.258957
+  tag: flag
+}
+, class Tag {
+  confidence: 13.103817
+  tag: audience
+}
+, class Tag {
+  confidence: 12.869559
+  tag: muscular
+}
+, class Tag {
+  confidence: 12.54649
+  tag: player
+}
+, class Tag {
+  confidence: 12.348842
+  tag: event
+}
+, class Tag {
+  confidence: 12.159234
+  tag: cloud
+}
+, class Tag {
+  confidence: 12.091154
+  tag: patriotic
+}
+, class Tag {
+  confidence: 12.069134
+  tag: match
+}
+, class Tag {
+  confidence: 11.808628
+  tag: field
+}
+, class Tag {
+  confidence: 11.718528
+  tag: aircraft
+}
+, class Tag {
+  confidence: 11.713264
+  tag: training
+}
+, class Tag {
+  confidence: 11.674957
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.655069
+  tag: glowing
+}
+, class Tag {
+  confidence: 11.535098
+  tag: lights
+}
+, class Tag {
+  confidence: 11.45165
+  tag: icon
+}
+, class Tag {
+  confidence: 11.315798
+  tag: championship
+}
+, class Tag {
+  confidence: 11.300829
+  tag: stadium
+}
+, class Tag {
+  confidence: 11.239109
+  tag: sun
+}
+, class Tag {
+  confidence: 11.17281
+  tag: soccer
+}
+, class Tag {
+  confidence: 11.080383
+  tag: person
+}
+, class Tag {
+  confidence: 10.986971
+  tag: landscape
+}
+, class Tag {
+  confidence: 10.9382925
+  tag: vibrant
+}
+, class Tag {
+  confidence: 10.884678
+  tag: travel
+}
+, class Tag {
+  confidence: 10.51822
+  tag: summer
+}
+, class Tag {
+  confidence: 10.295791
+  tag: skill
+}
+, class Tag {
+  confidence: 10.1931505
+  tag: airship
+}
+, class Tag {
+  confidence: 10.166354
+  tag: outdoor
+}
+, class Tag {
+  confidence: 9.98183
+  tag: design
+}
+, class Tag {
+  confidence: 9.904066
+  tag: sunny
+}
+, class Tag {
+  confidence: 9.898763
+  tag: shiny
+}
+, class Tag {
+  confidence: 9.70597
+  tag: team
+}
+, class Tag {
+  confidence: 9.665397
+  tag: day
+}
+, class Tag {
+  confidence: 9.604952
+  tag: clouds
+}
+, class Tag {
+  confidence: 9.595878
+  tag: balloon
+}
+, class Tag {
+  confidence: 9.540432
+  tag: pass
+}
+, class Tag {
+  confidence: 9.517347
+  tag: world
+}
+, class Tag {
+  confidence: 9.496576
+  tag: shoot
+}
+, class Tag {
+  confidence: 9.411433
+  tag: goal
+}
+, class Tag {
+  confidence: 9.088244
+  tag: internet
+}
+, class Tag {
+  confidence: 8.826452
+  tag: light
+}
+, class Tag {
+  confidence: 8.688871
+  tag: kick
+}
+, class Tag {
+  confidence: 8.668163
+  tag: park
+}
+, class Tag {
+  confidence: 8.580827
+  tag: football
+}
+, class Tag {
+  confidence: 8.506413
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.395944
+  tag: round
+}
+, class Tag {
+  confidence: 8.371017
+  tag: scene
+}
+, class Tag {
+  confidence: 8.237732
+  tag: vivid
+}
+, class Tag {
+  confidence: 7.9866996
+  tag: water
+}
+, class Tag {
+  confidence: 7.9866023
+  tag: group
+}
+, class Tag {
+  confidence: 7.8923926
+  tag: cheering
+}
+, class Tag {
+  confidence: 7.6789703
+  tag: craft
+}
+, class Tag {
+  confidence: 7.591622
+  tag: building
+}
+, class Tag {
+  confidence: 7.5345187
+  tag: spring
+}
+, class Tag {
+  confidence: 7.485298
+  tag: cloudy
+}
+, class Tag {
+  confidence: 7.303588
+  tag: air
+}
+, class Tag {
+  confidence: 7.2103953
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.1883183
+  tag: business
+}
+, class Tag {
+  confidence: 7.1877656
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.148834
+  tag: adult
+}
+, class Tag {
+  confidence: 7.0887966
+  tag: button
+}
+, class Tag {
+  confidence: 7.068807
+  tag: sunlight
+}
+, class Tag {
+  confidence: 7.059473
+  tag: rugby ball
+}
+, class Tag {
+  confidence: 7.0476537
+  tag: country
+}
+, class Tag {
+  confidence: 7.024674
+  tag: insignia
+}
+, class Tag {
+  confidence: 7.0072556
+  tag: roriginal
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,192 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHEZS0gW8AE-g2D.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: sign
+}
+, class Tag {
+  confidence: 38.217175
+  tag: street sign
+}
+, class Tag {
+  confidence: 32.13603
+  tag: road
+}
+, class Tag {
+  confidence: 29.153572
+  tag: signpost
+}
+, class Tag {
+  confidence: 23.651089
+  tag: sky
+}
+, class Tag {
+  confidence: 22.850546
+  tag: street
+}
+, class Tag {
+  confidence: 19.34735
+  tag: warning
+}
+, class Tag {
+  confidence: 18.509369
+  tag: post
+}
+, class Tag {
+  confidence: 18.00214
+  tag: board
+}
+, class Tag {
+  confidence: 17.463306
+  tag: information
+}
+, class Tag {
+  confidence: 16.166262
+  tag: traffic
+}
+, class Tag {
+  confidence: 14.750437
+  tag: empty
+}
+, class Tag {
+  confidence: 14.702436
+  tag: blank
+}
+, class Tag {
+  confidence: 14.316473
+  tag: message
+}
+, class Tag {
+  confidence: 13.8236065
+  tag: communication
+}
+, class Tag {
+  confidence: 13.686295
+  tag: direction
+}
+, class Tag {
+  confidence: 13.614784
+  tag: billboard
+}
+, class Tag {
+  confidence: 13.542988
+  tag: notice
+}
+, class Tag {
+  confidence: 13.301811
+  tag: city
+}
+, class Tag {
+  confidence: 12.672919
+  tag: business
+}
+, class Tag {
+  confidence: 12.224675
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.752592
+  tag: way
+}
+, class Tag {
+  confidence: 11.473994
+  tag: travel
+}
+, class Tag {
+  confidence: 11.048119
+  tag: space
+}
+, class Tag {
+  confidence: 11.024856
+  tag: copyspace
+}
+, class Tag {
+  confidence: 10.729755
+  tag: text
+}
+, class Tag {
+  confidence: 10.57562
+  tag: clear
+}
+, class Tag {
+  confidence: 10.465736
+  tag: urban
+}
+, class Tag {
+  confidence: 10.260699
+  tag: danger
+}
+, class Tag {
+  confidence: 10.066793
+  tag: caution
+}
+, class Tag {
+  confidence: 9.730543
+  tag: safety
+}
+, class Tag {
+  confidence: 9.634448
+  tag: pole
+}
+, class Tag {
+  confidence: 9.556538
+  tag: success
+}
+, class Tag {
+  confidence: 8.962424
+  tag: display
+}
+, class Tag {
+  confidence: 8.427892
+  tag: highway
+}
+, class Tag {
+  confidence: 8.3373785
+  tag: drive
+}
+, class Tag {
+  confidence: 8.2521925
+  tag: metal
+}
+, class Tag {
+  confidence: 8.227491
+  tag: signage
+}
+, class Tag {
+  confidence: 7.8427076
+  tag: arrow
+}
+, class Tag {
+  confidence: 7.838828
+  tag: panel
+}
+, class Tag {
+  confidence: 7.703529
+  tag: marketing
+}
+, class Tag {
+  confidence: 7.688696
+  tag: yellow
+}
+, class Tag {
+  confidence: 7.502515
+  tag: roadsign
+}
+, class Tag {
+  confidence: 7.500549
+  tag: turn
+}
+, class Tag {
+  confidence: 7.4884405
+  tag: transportation
+}
+, class Tag {
+  confidence: 7.4468875
+  tag: guide
+}
+]
+}
+]
+  unsuccessful: null
+}

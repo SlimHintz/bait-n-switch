@@ -1,0 +1,188 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAjQrSUQAA--Xs.jpg
+  tags: [class Tag {
+  confidence: 28.894695
+  tag: road
+}
+, class Tag {
+  confidence: 22.04175
+  tag: sky
+}
+, class Tag {
+  confidence: 21.651308
+  tag: city
+}
+, class Tag {
+  confidence: 19.854925
+  tag: landscape
+}
+, class Tag {
+  confidence: 17.500431
+  tag: architecture
+}
+, class Tag {
+  confidence: 16.810196
+  tag: travel
+}
+, class Tag {
+  confidence: 16.612322
+  tag: light
+}
+, class Tag {
+  confidence: 16.446081
+  tag: building
+}
+, class Tag {
+  confidence: 15.501187
+  tag: highway
+}
+, class Tag {
+  confidence: 15.251701
+  tag: urban
+}
+, class Tag {
+  confidence: 14.979738
+  tag: intersection
+}
+, class Tag {
+  confidence: 14.207081
+  tag: way
+}
+, class Tag {
+  confidence: 12.71704
+  tag: tourism
+}
+, class Tag {
+  confidence: 11.388947
+  tag: traffic light
+}
+, class Tag {
+  confidence: 9.950709
+  tag: scenic
+}
+, class Tag {
+  confidence: 9.799807
+  tag: cloud
+}
+, class Tag {
+  confidence: 9.755463
+  tag: sun
+}
+, class Tag {
+  confidence: 9.639249
+  tag: water
+}
+, class Tag {
+  confidence: 9.350709
+  tag: trees
+}
+, class Tag {
+  confidence: 9.341784
+  tag: business
+}
+, class Tag {
+  confidence: 8.911536
+  tag: street
+}
+, class Tag {
+  confidence: 8.898306
+  tag: day
+}
+, class Tag {
+  confidence: 8.844856
+  tag: usa
+}
+, class Tag {
+  confidence: 8.694972
+  tag: house
+}
+, class Tag {
+  confidence: 8.685323
+  tag: landmark
+}
+, class Tag {
+  confidence: 8.632753
+  tag: transportation
+}
+, class Tag {
+  confidence: 8.586256
+  tag: night
+}
+, class Tag {
+  confidence: 8.377451
+  tag: black
+}
+, class Tag {
+  confidence: 8.374872
+  tag: traffic
+}
+, class Tag {
+  confidence: 8.234235
+  tag: summer
+}
+, class Tag {
+  confidence: 8.20327
+  tag: grass
+}
+, class Tag {
+  confidence: 8.176971
+  tag: construction
+}
+, class Tag {
+  confidence: 8.168573
+  tag: town
+}
+, class Tag {
+  confidence: 8.116674
+  tag: bright
+}
+, class Tag {
+  confidence: 8.072426
+  tag: modern
+}
+, class Tag {
+  confidence: 8.06619
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.966609
+  tag: tree
+}
+, class Tag {
+  confidence: 7.8618393
+  tag: scenery
+}
+, class Tag {
+  confidence: 7.452213
+  tag: cloudy
+}
+, class Tag {
+  confidence: 7.4262595
+  tag: evening
+}
+, class Tag {
+  confidence: 7.3579817
+  tag: lights
+}
+, class Tag {
+  confidence: 7.1770325
+  tag: environment
+}
+, class Tag {
+  confidence: 7.148858
+  tag: park
+}
+, class Tag {
+  confidence: 7.1470246
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.0789614
+  tag: tourist
+}
+]
+}
+]
+  unsuccessful: null
+}

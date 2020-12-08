@@ -1,0 +1,180 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKTtOxVAAEHaJ6.jpg
+  tags: [class Tag {
+  confidence: 38.67342
+  tag: cartoon
+}
+, class Tag {
+  confidence: 28.52033
+  tag: drawing
+}
+, class Tag {
+  confidence: 22.468287
+  tag: art
+}
+, class Tag {
+  confidence: 18.305525
+  tag: fun
+}
+, class Tag {
+  confidence: 17.504553
+  tag: clipart
+}
+, class Tag {
+  confidence: 17.192635
+  tag: cheerful
+}
+, class Tag {
+  confidence: 16.772434
+  tag: clip art
+}
+, class Tag {
+  confidence: 16.059364
+  tag: animal
+}
+, class Tag {
+  confidence: 15.379977
+  tag: happy
+}
+, class Tag {
+  confidence: 14.847901
+  tag: funny
+}
+, class Tag {
+  confidence: 14.165394
+  tag: silhouette
+}
+, class Tag {
+  confidence: 13.283995
+  tag: design
+}
+, class Tag {
+  confidence: 12.997794
+  tag: children
+}
+, class Tag {
+  confidence: 12.788008
+  tag: humor
+}
+, class Tag {
+  confidence: 12.5447855
+  tag: character
+}
+, class Tag {
+  confidence: 12.416397
+  tag: cute
+}
+, class Tag {
+  confidence: 11.987234
+  tag: comic
+}
+, class Tag {
+  confidence: 11.121138
+  tag: painting
+}
+, class Tag {
+  confidence: 11.006195
+  tag: smile
+}
+, class Tag {
+  confidence: 11.00168
+  tag: childhood
+}
+, class Tag {
+  confidence: 10.82801
+  tag: boy
+}
+, class Tag {
+  confidence: 10.528964
+  tag: people
+}
+, class Tag {
+  confidence: 10.351486
+  tag: artwork
+}
+, class Tag {
+  confidence: 9.878119
+  tag: man
+}
+, class Tag {
+  confidence: 9.864793
+  tag: smiling
+}
+, class Tag {
+  confidence: 9.258913
+  tag: humorous
+}
+, class Tag {
+  confidence: 8.92403
+  tag: kids
+}
+, class Tag {
+  confidence: 8.892471
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.735691
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.406572
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.404823
+  tag: comics
+}
+, class Tag {
+  confidence: 8.39276
+  tag: amusing
+}
+, class Tag {
+  confidence: 8.2804785
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.257446
+  tag: love
+}
+, class Tag {
+  confidence: 7.9924417
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.9168034
+  tag: child
+}
+, class Tag {
+  confidence: 7.8370466
+  tag: toy
+}
+, class Tag {
+  confidence: 7.450332
+  tag: fairy tale
+}
+, class Tag {
+  confidence: 7.3457417
+  tag: scrapbook
+}
+, class Tag {
+  confidence: 7.3020496
+  tag: party
+}
+, class Tag {
+  confidence: 7.257047
+  tag: card
+}
+, class Tag {
+  confidence: 7.2432694
+  tag: toddler
+}
+, class Tag {
+  confidence: 7.19906
+  tag: flower
+}
+]
+}
+]
+  unsuccessful: null
+}

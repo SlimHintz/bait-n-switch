@@ -1,0 +1,256 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHFdzBqWgAEHFaS.jpg
+  tags: [class Tag {
+  confidence: 26.960157
+  tag: happy
+}
+, class Tag {
+  confidence: 24.272047
+  tag: people
+}
+, class Tag {
+  confidence: 22.937105
+  tag: smile
+}
+, class Tag {
+  confidence: 22.460611
+  tag: adult
+}
+, class Tag {
+  confidence: 21.89566
+  tag: happiness
+}
+, class Tag {
+  confidence: 21.822763
+  tag: person
+}
+, class Tag {
+  confidence: 18.765804
+  tag: smiling
+}
+, class Tag {
+  confidence: 18.7581
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.619497
+  tag: home
+}
+, class Tag {
+  confidence: 18.240833
+  tag: man
+}
+, class Tag {
+  confidence: 17.655062
+  tag: attractive
+}
+, class Tag {
+  confidence: 16.431858
+  tag: portrait
+}
+, class Tag {
+  confidence: 16.02503
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.920951
+  tag: cheerful
+}
+, class Tag {
+  confidence: 14.583098
+  tag: male
+}
+, class Tag {
+  confidence: 13.220415
+  tag: casual
+}
+, class Tag {
+  confidence: 11.579453
+  tag: women
+}
+, class Tag {
+  confidence: 11.221227
+  tag: domestic
+}
+, class Tag {
+  confidence: 10.982418
+  tag: pretty
+}
+, class Tag {
+  confidence: 10.745192
+  tag: fun
+}
+, class Tag {
+  confidence: 10.553481
+  tag: holding
+}
+, class Tag {
+  confidence: 10.427649
+  tag: interior
+}
+, class Tag {
+  confidence: 10.401757
+  tag: indoors
+}
+, class Tag {
+  confidence: 10.357971
+  tag: couple
+}
+, class Tag {
+  confidence: 9.816654
+  tag: face
+}
+, class Tag {
+  confidence: 9.596417
+  tag: shop
+}
+, class Tag {
+  confidence: 9.379026
+  tag: clothes
+}
+, class Tag {
+  confidence: 9.362889
+  tag: sitting
+}
+, class Tag {
+  confidence: 9.309712
+  tag: expression
+}
+, class Tag {
+  confidence: 9.156829
+  tag: indoor
+}
+, class Tag {
+  confidence: 9.015743
+  tag: lady
+}
+, class Tag {
+  confidence: 9.005846
+  tag: business
+}
+, class Tag {
+  confidence: 8.721485
+  tag: boy
+}
+, class Tag {
+  confidence: 8.660951
+  tag: model
+}
+, class Tag {
+  confidence: 8.639911
+  tag: hair
+}
+, class Tag {
+  confidence: 8.632031
+  tag: men
+}
+, class Tag {
+  confidence: 8.434654
+  tag: day
+}
+, class Tag {
+  confidence: 8.374666
+  tag: arab
+}
+, class Tag {
+  confidence: 8.361879
+  tag: communication
+}
+, class Tag {
+  confidence: 8.34672
+  tag: fashion
+}
+, class Tag {
+  confidence: 8.338035
+  tag: leisure
+}
+, class Tag {
+  confidence: 8.293372
+  tag: child
+}
+, class Tag {
+  confidence: 8.2802305
+  tag: outdoor
+}
+, class Tag {
+  confidence: 8.205786
+  tag: girls
+}
+, class Tag {
+  confidence: 8.108471
+  tag: muslim
+}
+, class Tag {
+  confidence: 7.847174
+  tag: japanese
+}
+, class Tag {
+  confidence: 7.777921
+  tag: outside
+}
+, class Tag {
+  confidence: 7.756348
+  tag: youth
+}
+, class Tag {
+  confidence: 7.6400084
+  tag: senior
+}
+, class Tag {
+  confidence: 7.593776
+  tag: mother
+}
+, class Tag {
+  confidence: 7.558385
+  tag: joy
+}
+, class Tag {
+  confidence: 7.533533
+  tag: occupation
+}
+, class Tag {
+  confidence: 7.530592
+  tag: one
+}
+, class Tag {
+  confidence: 7.466484
+  tag: shopping
+}
+, class Tag {
+  confidence: 7.4530916
+  tag: dress
+}
+, class Tag {
+  confidence: 7.411115
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.3042016
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.3006473
+  tag: job
+}
+, class Tag {
+  confidence: 7.1993465
+  tag: celebration
+}
+, class Tag {
+  confidence: 7.08
+  tag: butcher shop
+}
+, class Tag {
+  confidence: 7.05305
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.037402
+  tag: eyes
+}
+]
+}
+]
+  unsuccessful: null
+}

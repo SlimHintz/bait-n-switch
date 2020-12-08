@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPVr2fUUAAiRop.jpg
+  tags: [class Tag {
+  confidence: 26.11003
+  tag: icon
+}
+, class Tag {
+  confidence: 24.642942
+  tag: design
+}
+, class Tag {
+  confidence: 22.041945
+  tag: set
+}
+, class Tag {
+  confidence: 20.199108
+  tag: graphic
+}
+, class Tag {
+  confidence: 18.136667
+  tag: element
+}
+, class Tag {
+  confidence: 17.833519
+  tag: symbol
+}
+, class Tag {
+  confidence: 17.607258
+  tag: sign
+}
+, class Tag {
+  confidence: 16.070147
+  tag: business
+}
+, class Tag {
+  confidence: 15.920345
+  tag: art
+}
+, class Tag {
+  confidence: 15.512934
+  tag: shape
+}
+, class Tag {
+  confidence: 13.615555
+  tag: black
+}
+, class Tag {
+  confidence: 13.448428
+  tag: icons
+}
+, class Tag {
+  confidence: 12.797802
+  tag: modern
+}
+, class Tag {
+  confidence: 12.31055
+  tag: drawing
+}
+, class Tag {
+  confidence: 11.493395
+  tag: pattern
+}
+, class Tag {
+  confidence: 11.2137
+  tag: object
+}
+, class Tag {
+  confidence: 9.919238
+  tag: finance
+}
+, class Tag {
+  confidence: 9.799967
+  tag: web
+}
+, class Tag {
+  confidence: 9.755274
+  tag: elements
+}
+, class Tag {
+  confidence: 9.751587
+  tag: color
+}
+, class Tag {
+  confidence: 9.543859
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.523747
+  tag: cartoon
+}
+, class Tag {
+  confidence: 9.519269
+  tag: painting
+}
+, class Tag {
+  confidence: 9.098149
+  tag: curve
+}
+, class Tag {
+  confidence: 9.087374
+  tag: home
+}
+, class Tag {
+  confidence: 8.945417
+  tag: internet
+}
+, class Tag {
+  confidence: 8.460384
+  tag: computer
+}
+, class Tag {
+  confidence: 8.451406
+  tag: creative
+}
+, class Tag {
+  confidence: 8.168825
+  tag: decoration
+}
+, class Tag {
+  confidence: 8.144537
+  tag: card
+}
+, class Tag {
+  confidence: 8.129307
+  tag: label
+}
+, class Tag {
+  confidence: 8.037016
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 7.9834895
+  tag: water
+}
+, class Tag {
+  confidence: 7.813297
+  tag: house
+}
+, class Tag {
+  confidence: 7.788353
+  tag: collection
+}
+, class Tag {
+  confidence: 7.6126156
+  tag: paper
+}
+, class Tag {
+  confidence: 7.164346
+  tag: clip
+}
+, class Tag {
+  confidence: 7.1389728
+  tag: clean
+}
+, class Tag {
+  confidence: 7.1323285
+  tag: frame
+}
+, class Tag {
+  confidence: 7.034575
+  tag: group
+}
+]
+}
+]
+  unsuccessful: null
+}

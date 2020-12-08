@@ -1,0 +1,296 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOcBCPUkAA0ry2.png
+  tags: [class Tag {
+  confidence: 33.178146
+  tag: people
+}
+, class Tag {
+  confidence: 29.147312
+  tag: caucasian
+}
+, class Tag {
+  confidence: 29.133602
+  tag: attractive
+}
+, class Tag {
+  confidence: 29.130322
+  tag: couple
+}
+, class Tag {
+  confidence: 28.694218
+  tag: man
+}
+, class Tag {
+  confidence: 28.512661
+  tag: happy
+}
+, class Tag {
+  confidence: 27.088152
+  tag: adult
+}
+, class Tag {
+  confidence: 25.796349
+  tag: smiling
+}
+, class Tag {
+  confidence: 24.88288
+  tag: male
+}
+, class Tag {
+  confidence: 23.212914
+  tag: love
+}
+, class Tag {
+  confidence: 22.74889
+  tag: women
+}
+, class Tag {
+  confidence: 22.182812
+  tag: portrait
+}
+, class Tag {
+  confidence: 21.920837
+  tag: smile
+}
+, class Tag {
+  confidence: 21.905972
+  tag: together
+}
+, class Tag {
+  confidence: 20.80502
+  tag: happiness
+}
+, class Tag {
+  confidence: 20.30411
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 18.261875
+  tag: person
+}
+, class Tag {
+  confidence: 17.00477
+  tag: pretty
+}
+, class Tag {
+  confidence: 16.248571
+  tag: two
+}
+, class Tag {
+  confidence: 15.776619
+  tag: casual
+}
+, class Tag {
+  confidence: 14.333558
+  tag: cheerful
+}
+, class Tag {
+  confidence: 13.959534
+  tag: romance
+}
+, class Tag {
+  confidence: 13.487002
+  tag: outdoors
+}
+, class Tag {
+  confidence: 13.357008
+  tag: attendant
+}
+, class Tag {
+  confidence: 12.924247
+  tag: friends
+}
+, class Tag {
+  confidence: 12.752502
+  tag: men
+}
+, class Tag {
+  confidence: 12.651066
+  tag: sitting
+}
+, class Tag {
+  confidence: 12.12162
+  tag: adults
+}
+, class Tag {
+  confidence: 11.889339
+  tag: looking
+}
+, class Tag {
+  confidence: 11.406603
+  tag: lady
+}
+, class Tag {
+  confidence: 11.297365
+  tag: relationship
+}
+, class Tag {
+  confidence: 11.155307
+  tag: friendship
+}
+, class Tag {
+  confidence: 10.979525
+  tag: model
+}
+, class Tag {
+  confidence: 10.944861
+  tag: dress
+}
+, class Tag {
+  confidence: 10.779842
+  tag: blond
+}
+, class Tag {
+  confidence: 10.682661
+  tag: romantic
+}
+, class Tag {
+  confidence: 10.578001
+  tag: fashion
+}
+, class Tag {
+  confidence: 10.246986
+  tag: outside
+}
+, class Tag {
+  confidence: 10.238331
+  tag: celebration
+}
+, class Tag {
+  confidence: 10.212898
+  tag: hair
+}
+, class Tag {
+  confidence: 10.030062
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.95535
+  tag: girls
+}
+, class Tag {
+  confidence: 9.948707
+  tag: face
+}
+, class Tag {
+  confidence: 9.876926
+  tag: clothing
+}
+, class Tag {
+  confidence: 9.511608
+  tag: females
+}
+, class Tag {
+  confidence: 9.478372
+  tag: youth
+}
+, class Tag {
+  confidence: 9.362455
+  tag: 20s
+}
+, class Tag {
+  confidence: 8.9159155
+  tag: standing
+}
+, class Tag {
+  confidence: 8.913246
+  tag: brunette
+}
+, class Tag {
+  confidence: 8.867816
+  tag: hispanic
+}
+, class Tag {
+  confidence: 8.823144
+  tag: fun
+}
+, class Tag {
+  confidence: 8.713012
+  tag: home
+}
+, class Tag {
+  confidence: 8.681871
+  tag: laughing
+}
+, class Tag {
+  confidence: 8.673347
+  tag: togetherness
+}
+, class Tag {
+  confidence: 8.330762
+  tag: team
+}
+, class Tag {
+  confidence: 8.266736
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.247508
+  tag: group
+}
+, class Tag {
+  confidence: 8.101789
+  tag: indoors
+}
+, class Tag {
+  confidence: 8.0432415
+  tag: affectionate
+}
+, class Tag {
+  confidence: 7.992736
+  tag: bride
+}
+, class Tag {
+  confidence: 7.866314
+  tag: color
+}
+, class Tag {
+  confidence: 7.6490426
+  tag: wedding
+}
+, class Tag {
+  confidence: 7.60885
+  tag: joyful
+}
+, class Tag {
+  confidence: 7.6006985
+  tag: indoor
+}
+, class Tag {
+  confidence: 7.3486867
+  tag: family
+}
+, class Tag {
+  confidence: 7.136833
+  tag: day
+}
+, class Tag {
+  confidence: 7.1084585
+  tag: married
+}
+, class Tag {
+  confidence: 7.085561
+  tag: expression
+}
+, class Tag {
+  confidence: 7.075461
+  tag: 30s
+}
+, class Tag {
+  confidence: 7.058046
+  tag: studio
+}
+, class Tag {
+  confidence: 7.0375667
+  tag: date
+}
+, class Tag {
+  confidence: 7.017183
+  tag: human
+}
+]
+}
+]
+  unsuccessful: null
+}

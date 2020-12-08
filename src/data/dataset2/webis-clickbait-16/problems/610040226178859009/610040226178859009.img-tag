@@ -1,0 +1,264 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdMWCeWgAAizLb.jpg
+  tags: [class Tag {
+  confidence: 39.8559
+  tag: man
+}
+, class Tag {
+  confidence: 30.34993
+  tag: male
+}
+, class Tag {
+  confidence: 27.22494
+  tag: people
+}
+, class Tag {
+  confidence: 26.357815
+  tag: person
+}
+, class Tag {
+  confidence: 23.005556
+  tag: adult
+}
+, class Tag {
+  confidence: 21.897644
+  tag: machinist
+}
+, class Tag {
+  confidence: 20.105848
+  tag: caucasian
+}
+, class Tag {
+  confidence: 19.911467
+  tag: men
+}
+, class Tag {
+  confidence: 18.813818
+  tag: work
+}
+, class Tag {
+  confidence: 17.748251
+  tag: portrait
+}
+, class Tag {
+  confidence: 17.089352
+  tag: happy
+}
+, class Tag {
+  confidence: 16.543787
+  tag: working
+}
+, class Tag {
+  confidence: 16.22049
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 15.857434
+  tag: casual
+}
+, class Tag {
+  confidence: 15.675224
+  tag: smiling
+}
+, class Tag {
+  confidence: 15.615276
+  tag: indoors
+}
+, class Tag {
+  confidence: 14.629446
+  tag: home
+}
+, class Tag {
+  confidence: 14.31385
+  tag: worker
+}
+, class Tag {
+  confidence: 13.832832
+  tag: occupation
+}
+, class Tag {
+  confidence: 13.629582
+  tag: shop
+}
+, class Tag {
+  confidence: 12.633155
+  tag: job
+}
+, class Tag {
+  confidence: 12.621008
+  tag: business
+}
+, class Tag {
+  confidence: 12.463849
+  tag: room
+}
+, class Tag {
+  confidence: 12.16874
+  tag: hands
+}
+, class Tag {
+  confidence: 12.123518
+  tag: smile
+}
+, class Tag {
+  confidence: 12.045971
+  tag: attractive
+}
+, class Tag {
+  confidence: 11.469915
+  tag: 20s
+}
+, class Tag {
+  confidence: 11.362418
+  tag: professional
+}
+, class Tag {
+  confidence: 10.804887
+  tag: human
+}
+, class Tag {
+  confidence: 10.665124
+  tag: craftsman
+}
+, class Tag {
+  confidence: 10.248362
+  tag: holding
+}
+, class Tag {
+  confidence: 10.167458
+  tag: repair
+}
+, class Tag {
+  confidence: 10.1540985
+  tag: face
+}
+, class Tag {
+  confidence: 10.137042
+  tag: cheerful
+}
+, class Tag {
+  confidence: 10.049435
+  tag: hand
+}
+, class Tag {
+  confidence: 9.839853
+  tag: service
+}
+, class Tag {
+  confidence: 9.831244
+  tag: car
+}
+, class Tag {
+  confidence: 9.591647
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.586156
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.279852
+  tag: looking
+}
+, class Tag {
+  confidence: 8.866216
+  tag: phone
+}
+, class Tag {
+  confidence: 8.838136
+  tag: communication
+}
+, class Tag {
+  confidence: 8.689491
+  tag: mechanic
+}
+, class Tag {
+  confidence: 8.682284
+  tag: clothing
+}
+, class Tag {
+  confidence: 8.601503
+  tag: standing
+}
+, class Tag {
+  confidence: 8.521452
+  tag: technology
+}
+, class Tag {
+  confidence: 8.459776
+  tag: computer
+}
+, class Tag {
+  confidence: 8.363402
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.289478
+  tag: one person
+}
+, class Tag {
+  confidence: 8.167989
+  tag: building
+}
+, class Tag {
+  confidence: 7.806371
+  tag: office
+}
+, class Tag {
+  confidence: 7.7412205
+  tag: women
+}
+, class Tag {
+  confidence: 7.6677775
+  tag: american
+}
+, class Tag {
+  confidence: 7.662393
+  tag: collar
+}
+, class Tag {
+  confidence: 7.6263857
+  tag: mid adult
+}
+, class Tag {
+  confidence: 7.6233687
+  tag: auto
+}
+, class Tag {
+  confidence: 7.442865
+  tag: industry
+}
+, class Tag {
+  confidence: 7.4383745
+  tag: vehicle
+}
+, class Tag {
+  confidence: 7.3775215
+  tag: guy
+}
+, class Tag {
+  confidence: 7.3696623
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.3642173
+  tag: safety
+}
+, class Tag {
+  confidence: 7.1797376
+  tag: house
+}
+, class Tag {
+  confidence: 7.157702
+  tag: industrial
+}
+, class Tag {
+  confidence: 7.0627785
+  tag: european
+}
+]
+}
+]
+  unsuccessful: null
+}

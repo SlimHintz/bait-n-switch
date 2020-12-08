@@ -1,0 +1,192 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHT6-WbVAAAH_RF.jpg
+  tags: [class Tag {
+  confidence: 35.248444
+  tag: spectacles
+}
+, class Tag {
+  confidence: 30.670233
+  tag: sunglass
+}
+, class Tag {
+  confidence: 25.908852
+  tag: sunglasses
+}
+, class Tag {
+  confidence: 23.923948
+  tag: portrait
+}
+, class Tag {
+  confidence: 20.783045
+  tag: face
+}
+, class Tag {
+  confidence: 18.383978
+  tag: fashion
+}
+, class Tag {
+  confidence: 17.92048
+  tag: person
+}
+, class Tag {
+  confidence: 17.688145
+  tag: pretty
+}
+, class Tag {
+  confidence: 17.648235
+  tag: glasses
+}
+, class Tag {
+  confidence: 17.171257
+  tag: goggles
+}
+, class Tag {
+  confidence: 17.060617
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.03498
+  tag: attractive
+}
+, class Tag {
+  confidence: 16.019497
+  tag: smile
+}
+, class Tag {
+  confidence: 15.356842
+  tag: people
+}
+, class Tag {
+  confidence: 15.280835
+  tag: smiling
+}
+, class Tag {
+  confidence: 14.4527
+  tag: hair
+}
+, class Tag {
+  confidence: 13.755881
+  tag: adult
+}
+, class Tag {
+  confidence: 13.716027
+  tag: model
+}
+, class Tag {
+  confidence: 13.626464
+  tag: black
+}
+, class Tag {
+  confidence: 13.265164
+  tag: happy
+}
+, class Tag {
+  confidence: 11.35682
+  tag: cute
+}
+, class Tag {
+  confidence: 11.241655
+  tag: hand
+}
+, class Tag {
+  confidence: 10.334416
+  tag: lady
+}
+, class Tag {
+  confidence: 10.310564
+  tag: fun
+}
+, class Tag {
+  confidence: 10.114997
+  tag: close
+}
+, class Tag {
+  confidence: 10.02808
+  tag: human
+}
+, class Tag {
+  confidence: 9.756839
+  tag: head
+}
+, class Tag {
+  confidence: 9.631577
+  tag: communication
+}
+, class Tag {
+  confidence: 9.558503
+  tag: posing
+}
+, class Tag {
+  confidence: 9.537137
+  tag: headset
+}
+, class Tag {
+  confidence: 9.281232
+  tag: looking
+}
+, class Tag {
+  confidence: 8.9839
+  tag: male
+}
+, class Tag {
+  confidence: 8.914027
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.712004
+  tag: one
+}
+, class Tag {
+  confidence: 8.6405325
+  tag: business
+}
+, class Tag {
+  confidence: 8.540884
+  tag: man
+}
+, class Tag {
+  confidence: 8.423533
+  tag: youth
+}
+, class Tag {
+  confidence: 7.9044366
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.57652
+  tag: studio
+}
+, class Tag {
+  confidence: 7.519851
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.414132
+  tag: eye
+}
+, class Tag {
+  confidence: 7.343258
+  tag: brunette
+}
+, class Tag {
+  confidence: 7.3238835
+  tag: office
+}
+, class Tag {
+  confidence: 7.3103104
+  tag: technology
+}
+, class Tag {
+  confidence: 7.259234
+  tag: music
+}
+, class Tag {
+  confidence: 7.2499757
+  tag: women
+}
+]
+}
+]
+  unsuccessful: null
+}

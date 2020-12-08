@@ -1,0 +1,184 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeHph8W8AIErTt.jpg
+  tags: [class Tag {
+  confidence: 27.831907
+  tag: sign
+}
+, class Tag {
+  confidence: 23.715343
+  tag: symbol
+}
+, class Tag {
+  confidence: 22.226843
+  tag: icon
+}
+, class Tag {
+  confidence: 21.96841
+  tag: business
+}
+, class Tag {
+  confidence: 21.37595
+  tag: design
+}
+, class Tag {
+  confidence: 18.751545
+  tag: graphic
+}
+, class Tag {
+  confidence: 17.929785
+  tag: web
+}
+, class Tag {
+  confidence: 17.022488
+  tag: internet
+}
+, class Tag {
+  confidence: 16.18442
+  tag: information
+}
+, class Tag {
+  confidence: 15.166066
+  tag: 3d
+}
+, class Tag {
+  confidence: 13.467866
+  tag: button
+}
+, class Tag {
+  confidence: 12.204319
+  tag: art
+}
+, class Tag {
+  confidence: 12.20313
+  tag: set
+}
+, class Tag {
+  confidence: 11.816707
+  tag: text
+}
+, class Tag {
+  confidence: 11.2222
+  tag: communication
+}
+, class Tag {
+  confidence: 10.406098
+  tag: artwork
+}
+, class Tag {
+  confidence: 10.197682
+  tag: conceptual
+}
+, class Tag {
+  confidence: 9.852989
+  tag: paper
+}
+, class Tag {
+  confidence: 9.603516
+  tag: data
+}
+, class Tag {
+  confidence: 9.440954
+  tag: element
+}
+, class Tag {
+  confidence: 9.2772045
+  tag: creative
+}
+, class Tag {
+  confidence: 9.064492
+  tag: finance
+}
+, class Tag {
+  confidence: 8.805156
+  tag: letter
+}
+, class Tag {
+  confidence: 8.672222
+  tag: decorative
+}
+, class Tag {
+  confidence: 8.629838
+  tag: collection
+}
+, class Tag {
+  confidence: 8.593517
+  tag: idea
+}
+, class Tag {
+  confidence: 8.441644
+  tag: computer
+}
+, class Tag {
+  confidence: 8.343087
+  tag: reflection
+}
+, class Tag {
+  confidence: 8.200347
+  tag: color
+}
+, class Tag {
+  confidence: 8.133484
+  tag: arrow
+}
+, class Tag {
+  confidence: 8.111746
+  tag: label
+}
+, class Tag {
+  confidence: 8.031451
+  tag: icons
+}
+, class Tag {
+  confidence: 7.9512057
+  tag: sale
+}
+, class Tag {
+  confidence: 7.929617
+  tag: note
+}
+, class Tag {
+  confidence: 7.9180064
+  tag: black
+}
+, class Tag {
+  confidence: 7.7601924
+  tag: digital
+}
+, class Tag {
+  confidence: 7.5577726
+  tag: shiny
+}
+, class Tag {
+  confidence: 7.39916
+  tag: modern
+}
+, class Tag {
+  confidence: 7.36623
+  tag: collage
+}
+, class Tag {
+  confidence: 7.2621064
+  tag: word
+}
+, class Tag {
+  confidence: 7.163177
+  tag: company
+}
+, class Tag {
+  confidence: 7.1513224
+  tag: help
+}
+, class Tag {
+  confidence: 7.1358542
+  tag: glossy
+}
+, class Tag {
+  confidence: 7.122482
+  tag: style
+}
+]
+}
+]
+  unsuccessful: null
+}

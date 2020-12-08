@@ -1,0 +1,268 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeAq63XAAAU_JX.jpg
+  tags: [class Tag {
+  confidence: 30.736677
+  tag: male
+}
+, class Tag {
+  confidence: 29.171741
+  tag: man
+}
+, class Tag {
+  confidence: 27.012518
+  tag: people
+}
+, class Tag {
+  confidence: 26.164043
+  tag: player
+}
+, class Tag {
+  confidence: 25.628866
+  tag: person
+}
+, class Tag {
+  confidence: 24.052868
+  tag: game
+}
+, class Tag {
+  confidence: 21.878925
+  tag: adult
+}
+, class Tag {
+  confidence: 19.555466
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.328556
+  tag: happy
+}
+, class Tag {
+  confidence: 17.90663
+  tag: football
+}
+, class Tag {
+  confidence: 15.950543
+  tag: soccer
+}
+, class Tag {
+  confidence: 15.610947
+  tag: sport
+}
+, class Tag {
+  confidence: 15.01158
+  tag: boy
+}
+, class Tag {
+  confidence: 14.549082
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.295872
+  tag: smile
+}
+, class Tag {
+  confidence: 14.29569
+  tag: child
+}
+, class Tag {
+  confidence: 13.963623
+  tag: smiling
+}
+, class Tag {
+  confidence: 13.282202
+  tag: portrait
+}
+, class Tag {
+  confidence: 12.695681
+  tag: grass
+}
+, class Tag {
+  confidence: 12.26088
+  tag: family
+}
+, class Tag {
+  confidence: 12.050815
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.964026
+  tag: ball
+}
+, class Tag {
+  confidence: 11.465084
+  tag: fun
+}
+, class Tag {
+  confidence: 11.059994
+  tag: competition
+}
+, class Tag {
+  confidence: 10.696396
+  tag: tennis
+}
+, class Tag {
+  confidence: 10.630842
+  tag: standing
+}
+, class Tag {
+  confidence: 10.504032
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.425837
+  tag: pretty
+}
+, class Tag {
+  confidence: 10.328227
+  tag: outside
+}
+, class Tag {
+  confidence: 10.297236
+  tag: contestant
+}
+, class Tag {
+  confidence: 10.197813
+  tag: golfer
+}
+, class Tag {
+  confidence: 10.126039
+  tag: handsome
+}
+, class Tag {
+  confidence: 10.098462
+  tag: two
+}
+, class Tag {
+  confidence: 10.092587
+  tag: team
+}
+, class Tag {
+  confidence: 9.968925
+  tag: field
+}
+, class Tag {
+  confidence: 9.637109
+  tag: shirt
+}
+, class Tag {
+  confidence: 9.322341
+  tag: joy
+}
+, class Tag {
+  confidence: 9.054913
+  tag: looking
+}
+, class Tag {
+  confidence: 9.054198
+  tag: business
+}
+, class Tag {
+  confidence: 8.688347
+  tag: european
+}
+, class Tag {
+  confidence: 8.655156
+  tag: greek
+}
+, class Tag {
+  confidence: 8.574906
+  tag: playing
+}
+, class Tag {
+  confidence: 8.409744
+  tag: kid
+}
+, class Tag {
+  confidence: 8.314838
+  tag: couple
+}
+, class Tag {
+  confidence: 8.24363
+  tag: father
+}
+, class Tag {
+  confidence: 8.212767
+  tag: women
+}
+, class Tag {
+  confidence: 8.204811
+  tag: athlete
+}
+, class Tag {
+  confidence: 8.142791
+  tag: men
+}
+, class Tag {
+  confidence: 8.117207
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.028217
+  tag: play
+}
+, class Tag {
+  confidence: 8.021393
+  tag: summer
+}
+, class Tag {
+  confidence: 7.907857
+  tag: human
+}
+, class Tag {
+  confidence: 7.886555
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.857439
+  tag: hat
+}
+, class Tag {
+  confidence: 7.83454
+  tag: holding
+}
+, class Tag {
+  confidence: 7.83023
+  tag: children
+}
+, class Tag {
+  confidence: 7.5734844
+  tag: working
+}
+, class Tag {
+  confidence: 7.4570312
+  tag: cute
+}
+, class Tag {
+  confidence: 7.456884
+  tag: face
+}
+, class Tag {
+  confidence: 7.391611
+  tag: work
+}
+, class Tag {
+  confidence: 7.1955786
+  tag: mother
+}
+, class Tag {
+  confidence: 7.179437
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.165344
+  tag: communication
+}
+, class Tag {
+  confidence: 7.156971
+  tag: 20s
+}
+, class Tag {
+  confidence: 7.128604
+  tag: health
+}
+]
+}
+]
+  unsuccessful: null
+}

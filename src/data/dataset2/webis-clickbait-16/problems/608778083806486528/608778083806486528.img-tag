@@ -1,0 +1,344 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHLQSHhU0AAR2--.jpg
+  tags: [class Tag {
+  confidence: 35.1504
+  tag: people
+}
+, class Tag {
+  confidence: 33.80471
+  tag: happy
+}
+, class Tag {
+  confidence: 28.845284
+  tag: smiling
+}
+, class Tag {
+  confidence: 28.265137
+  tag: group
+}
+, class Tag {
+  confidence: 27.522995
+  tag: person
+}
+, class Tag {
+  confidence: 25.33475
+  tag: male
+}
+, class Tag {
+  confidence: 25.251656
+  tag: man
+}
+, class Tag {
+  confidence: 25.077127
+  tag: caucasian
+}
+, class Tag {
+  confidence: 24.841227
+  tag: women
+}
+, class Tag {
+  confidence: 23.710667
+  tag: smile
+}
+, class Tag {
+  confidence: 23.670773
+  tag: business
+}
+, class Tag {
+  confidence: 23.348763
+  tag: student
+}
+, class Tag {
+  confidence: 22.725592
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 22.525259
+  tag: team
+}
+, class Tag {
+  confidence: 21.44715
+  tag: corporate
+}
+, class Tag {
+  confidence: 21.383945
+  tag: adult
+}
+, class Tag {
+  confidence: 20.516376
+  tag: korean
+}
+, class Tag {
+  confidence: 20.450014
+  tag: confident
+}
+, class Tag {
+  confidence: 20.067984
+  tag: office
+}
+, class Tag {
+  confidence: 19.920465
+  tag: teamwork
+}
+, class Tag {
+  confidence: 18.687325
+  tag: happiness
+}
+, class Tag {
+  confidence: 18.474874
+  tag: portrait
+}
+, class Tag {
+  confidence: 17.940044
+  tag: attractive
+}
+, class Tag {
+  confidence: 16.781876
+  tag: casual
+}
+, class Tag {
+  confidence: 16.770641
+  tag: cheerful
+}
+, class Tag {
+  confidence: 16.408785
+  tag: together
+}
+, class Tag {
+  confidence: 16.305626
+  tag: asian
+}
+, class Tag {
+  confidence: 15.994117
+  tag: work
+}
+, class Tag {
+  confidence: 15.497433
+  tag: holding
+}
+, class Tag {
+  confidence: 15.43774
+  tag: lady
+}
+, class Tag {
+  confidence: 15.030544
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.584577
+  tag: success
+}
+, class Tag {
+  confidence: 13.901141
+  tag: successful
+}
+, class Tag {
+  confidence: 13.794969
+  tag: colleagues
+}
+, class Tag {
+  confidence: 13.2984495
+  tag: friends
+}
+, class Tag {
+  confidence: 12.78252
+  tag: businessman
+}
+, class Tag {
+  confidence: 12.630681
+  tag: businesspeople
+}
+, class Tag {
+  confidence: 12.559435
+  tag: standing
+}
+, class Tag {
+  confidence: 12.342074
+  tag: 20s
+}
+, class Tag {
+  confidence: 12.272068
+  tag: studio
+}
+, class Tag {
+  confidence: 12.196684
+  tag: room
+}
+, class Tag {
+  confidence: 11.933606
+  tag: classroom
+}
+, class Tag {
+  confidence: 11.908689
+  tag: job
+}
+, class Tag {
+  confidence: 11.550721
+  tag: men
+}
+, class Tag {
+  confidence: 11.4261055
+  tag: professional
+}
+, class Tag {
+  confidence: 11.404337
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.289133
+  tag: handsome
+}
+, class Tag {
+  confidence: 11.156089
+  tag: fun
+}
+, class Tag {
+  confidence: 10.997673
+  tag: staff
+}
+, class Tag {
+  confidence: 10.919865
+  tag: couple
+}
+, class Tag {
+  confidence: 10.888366
+  tag: meeting
+}
+, class Tag {
+  confidence: 10.806256
+  tag: looking
+}
+, class Tag {
+  confidence: 10.470984
+  tag: girls
+}
+, class Tag {
+  confidence: 10.4
+  tag: enrollee
+}
+, class Tag {
+  confidence: 10.324992
+  tag: partners
+}
+, class Tag {
+  confidence: 9.642057
+  tag: suit
+}
+, class Tag {
+  confidence: 9.577362
+  tag: face
+}
+, class Tag {
+  confidence: 9.344236
+  tag: ethnic
+}
+, class Tag {
+  confidence: 9.223913
+  tag: adults
+}
+, class Tag {
+  confidence: 9.129643
+  tag: youth
+}
+, class Tag {
+  confidence: 9.034982
+  tag: positive
+}
+, class Tag {
+  confidence: 8.968808
+  tag: two
+}
+, class Tag {
+  confidence: 8.915073
+  tag: buddy
+}
+, class Tag {
+  confidence: 8.544662
+  tag: education
+}
+, class Tag {
+  confidence: 8.386697
+  tag: love
+}
+, class Tag {
+  confidence: 8.28835
+  tag: friendship
+}
+, class Tag {
+  confidence: 8.281951
+  tag: guy
+}
+, class Tag {
+  confidence: 8.276741
+  tag: chinese
+}
+, class Tag {
+  confidence: 8.237664
+  tag: executive
+}
+, class Tag {
+  confidence: 8.13921
+  tag: friendly
+}
+, class Tag {
+  confidence: 8.083346
+  tag: hand
+}
+, class Tag {
+  confidence: 7.8905663
+  tag: black
+}
+, class Tag {
+  confidence: 7.82271
+  tag: working
+}
+, class Tag {
+  confidence: 7.8143077
+  tag: students
+}
+, class Tag {
+  confidence: 7.809182
+  tag: computer
+}
+, class Tag {
+  confidence: 7.8073306
+  tag: brunette
+}
+, class Tag {
+  confidence: 7.7878337
+  tag: model
+}
+, class Tag {
+  confidence: 7.7018476
+  tag: cute
+}
+, class Tag {
+  confidence: 7.688878
+  tag: diversity
+}
+, class Tag {
+  confidence: 7.3934054
+  tag: joy
+}
+, class Tag {
+  confidence: 7.364466
+  tag: child
+}
+, class Tag {
+  confidence: 7.2494326
+  tag: sexy
+}
+, class Tag {
+  confidence: 7.1074367
+  tag: family
+}
+, class Tag {
+  confidence: 7.090251
+  tag: indoors
+}
+]
+}
+]
+  unsuccessful: null
+}

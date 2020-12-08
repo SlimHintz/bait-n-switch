@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHC4e9JUYAAnMUS.jpg
+  tags: [class Tag {
+  confidence: 39.023136
+  tag: street
+}
+, class Tag {
+  confidence: 34.805164
+  tag: city
+}
+, class Tag {
+  confidence: 27.456797
+  tag: architecture
+}
+, class Tag {
+  confidence: 26.893969
+  tag: road
+}
+, class Tag {
+  confidence: 26.722305
+  tag: building
+}
+, class Tag {
+  confidence: 26.70277
+  tag: walk
+}
+, class Tag {
+  confidence: 20.530382
+  tag: urban
+}
+, class Tag {
+  confidence: 18.251554
+  tag: europe
+}
+, class Tag {
+  confidence: 17.1075
+  tag: buildings
+}
+, class Tag {
+  confidence: 16.93749
+  tag: sky
+}
+, class Tag {
+  confidence: 16.846767
+  tag: house
+}
+, class Tag {
+  confidence: 16.465584
+  tag: old
+}
+, class Tag {
+  confidence: 16.138466
+  tag: travel
+}
+, class Tag {
+  confidence: 15.263004
+  tag: town
+}
+, class Tag {
+  confidence: 15.204045
+  tag: way
+}
+, class Tag {
+  confidence: 13.079526
+  tag: tourism
+}
+, class Tag {
+  confidence: 11.515775
+  tag: cityscape
+}
+, class Tag {
+  confidence: 9.810963
+  tag: historic
+}
+, class Tag {
+  confidence: 9.499135
+  tag: water
+}
+, class Tag {
+  confidence: 8.731962
+  tag: landmark
+}
+, class Tag {
+  confidence: 8.446997
+  tag: brick
+}
+, class Tag {
+  confidence: 8.251614
+  tag: stone
+}
+, class Tag {
+  confidence: 8.22882
+  tag: construction
+}
+, class Tag {
+  confidence: 8.053066
+  tag: tourist
+}
+, class Tag {
+  confidence: 7.9903493
+  tag: tower
+}
+, class Tag {
+  confidence: 7.904003
+  tag: stairway
+}
+, class Tag {
+  confidence: 7.8644795
+  tag: new
+}
+, class Tag {
+  confidence: 7.7733145
+  tag: door
+}
+, class Tag {
+  confidence: 7.694435
+  tag: landscape
+}
+, class Tag {
+  confidence: 7.690926
+  tag: center
+}
+, class Tag {
+  confidence: 7.393291
+  tag: transport
+}
+, class Tag {
+  confidence: 7.2911406
+  tag: european
+}
+, class Tag {
+  confidence: 7.238361
+  tag: houses
+}
+, class Tag {
+  confidence: 7.152118
+  tag: home
+}
+, class Tag {
+  confidence: 7.1280284
+  tag: summer
+}
+, class Tag {
+  confidence: 7.1001782
+  tag: scenic
+}
+, class Tag {
+  confidence: 7.063525
+  tag: light
+}
+]
+}
+]
+  unsuccessful: null
+}

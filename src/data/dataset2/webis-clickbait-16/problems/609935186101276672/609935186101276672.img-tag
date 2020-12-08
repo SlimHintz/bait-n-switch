@@ -1,0 +1,192 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHbs0dhUEAAzx3h.jpg
+  tags: [class Tag {
+  confidence: 21.92502
+  tag: man
+}
+, class Tag {
+  confidence: 21.300554
+  tag: person
+}
+, class Tag {
+  confidence: 19.267899
+  tag: male
+}
+, class Tag {
+  confidence: 18.396336
+  tag: people
+}
+, class Tag {
+  confidence: 17.668636
+  tag: soldier
+}
+, class Tag {
+  confidence: 16.968687
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.489317
+  tag: portrait
+}
+, class Tag {
+  confidence: 16.457058
+  tag: adult
+}
+, class Tag {
+  confidence: 15.240833
+  tag: business
+}
+, class Tag {
+  confidence: 13.306513
+  tag: smile
+}
+, class Tag {
+  confidence: 12.98
+  tag: cash machine
+}
+, class Tag {
+  confidence: 12.895826
+  tag: outdoors
+}
+, class Tag {
+  confidence: 12.474515
+  tag: happy
+}
+, class Tag {
+  confidence: 11.859282
+  tag: businessman
+}
+, class Tag {
+  confidence: 11.030483
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.987624
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.75319
+  tag: human
+}
+, class Tag {
+  confidence: 10.5354595
+  tag: outside
+}
+, class Tag {
+  confidence: 10.264158
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.223701
+  tag: holding
+}
+, class Tag {
+  confidence: 10.150804
+  tag: helmet
+}
+, class Tag {
+  confidence: 9.95359
+  tag: device
+}
+, class Tag {
+  confidence: 9.904807
+  tag: machine
+}
+, class Tag {
+  confidence: 9.81088
+  tag: women
+}
+, class Tag {
+  confidence: 9.681108
+  tag: serviceman
+}
+, class Tag {
+  confidence: 9.55278
+  tag: suit
+}
+, class Tag {
+  confidence: 9.369405
+  tag: traveler
+}
+, class Tag {
+  confidence: 9.366672
+  tag: success
+}
+, class Tag {
+  confidence: 9.286692
+  tag: one
+}
+, class Tag {
+  confidence: 8.9414
+  tag: work
+}
+, class Tag {
+  confidence: 8.808534
+  tag: black
+}
+, class Tag {
+  confidence: 8.539099
+  tag: looking
+}
+, class Tag {
+  confidence: 8.525356
+  tag: standing
+}
+, class Tag {
+  confidence: 8.524298
+  tag: sky
+}
+, class Tag {
+  confidence: 8.401099
+  tag: american
+}
+, class Tag {
+  confidence: 8.338168
+  tag: men
+}
+, class Tag {
+  confidence: 8.282863
+  tag: casual
+}
+, class Tag {
+  confidence: 8.14996
+  tag: executive
+}
+, class Tag {
+  confidence: 7.937107
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.690012
+  tag: model
+}
+, class Tag {
+  confidence: 7.5760503
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.536836
+  tag: uniform
+}
+, class Tag {
+  confidence: 7.455212
+  tag: sit
+}
+, class Tag {
+  confidence: 7.3996754
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.2920165
+  tag: child
+}
+, class Tag {
+  confidence: 7.262286
+  tag: silhouette
+}
+]
+}
+]
+  unsuccessful: null
+}

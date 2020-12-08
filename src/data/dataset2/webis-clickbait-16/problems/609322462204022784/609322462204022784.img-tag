@@ -1,0 +1,116 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHS_jOXUAAAMUgW.jpg
+  tags: [class Tag {
+  confidence: 16.552477
+  tag: money
+}
+, class Tag {
+  confidence: 16.490334
+  tag: finance
+}
+, class Tag {
+  confidence: 15.67718
+  tag: currency
+}
+, class Tag {
+  confidence: 14.673074
+  tag: business
+}
+, class Tag {
+  confidence: 14.418385
+  tag: paper
+}
+, class Tag {
+  confidence: 14.259976
+  tag: cash
+}
+, class Tag {
+  confidence: 13.205691
+  tag: bank
+}
+, class Tag {
+  confidence: 12.454627
+  tag: hand
+}
+, class Tag {
+  confidence: 11.499467
+  tag: financial
+}
+, class Tag {
+  confidence: 10.1383095
+  tag: pen
+}
+, class Tag {
+  confidence: 10.133474
+  tag: investment
+}
+, class Tag {
+  confidence: 9.253687
+  tag: color
+}
+, class Tag {
+  confidence: 9.023037
+  tag: wealth
+}
+, class Tag {
+  confidence: 8.837003
+  tag: banknote
+}
+, class Tag {
+  confidence: 8.690996
+  tag: euro
+}
+, class Tag {
+  confidence: 8.632515
+  tag: design
+}
+, class Tag {
+  confidence: 8.183405
+  tag: man
+}
+, class Tag {
+  confidence: 8.0914955
+  tag: brush
+}
+, class Tag {
+  confidence: 7.689599
+  tag: savings
+}
+, class Tag {
+  confidence: 7.6454515
+  tag: economy
+}
+, class Tag {
+  confidence: 7.632023
+  tag: quill
+}
+, class Tag {
+  confidence: 7.616304
+  tag: banking
+}
+, class Tag {
+  confidence: 7.506781
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.298748
+  tag: binding
+}
+, class Tag {
+  confidence: 7.1785817
+  tag: education
+}
+, class Tag {
+  confidence: 7.1292048
+  tag: work
+}
+, class Tag {
+  confidence: 7.054253
+  tag: hundred
+}
+]
+}
+]
+  unsuccessful: null
+}

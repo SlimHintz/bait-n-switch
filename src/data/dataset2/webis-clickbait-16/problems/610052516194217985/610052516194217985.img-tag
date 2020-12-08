@@ -1,0 +1,288 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdXh_fWsAAL0Rs.jpg
+  tags: [class Tag {
+  confidence: 24.21075
+  tag: person
+}
+, class Tag {
+  confidence: 21.034426
+  tag: people
+}
+, class Tag {
+  confidence: 20.464617
+  tag: adult
+}
+, class Tag {
+  confidence: 19.768534
+  tag: happy
+}
+, class Tag {
+  confidence: 19.6336
+  tag: male
+}
+, class Tag {
+  confidence: 19.263662
+  tag: child
+}
+, class Tag {
+  confidence: 19.254684
+  tag: man
+}
+, class Tag {
+  confidence: 19.164402
+  tag: caucasian
+}
+, class Tag {
+  confidence: 17.349358
+  tag: attractive
+}
+, class Tag {
+  confidence: 17.007277
+  tag: boy
+}
+, class Tag {
+  confidence: 15.91424
+  tag: casual
+}
+, class Tag {
+  confidence: 15.194481
+  tag: pretty
+}
+, class Tag {
+  confidence: 14.075869
+  tag: smile
+}
+, class Tag {
+  confidence: 14.002432
+  tag: kid
+}
+, class Tag {
+  confidence: 13.714328
+  tag: happiness
+}
+, class Tag {
+  confidence: 13.495869
+  tag: youth
+}
+, class Tag {
+  confidence: 13.180894
+  tag: home
+}
+, class Tag {
+  confidence: 12.42622
+  tag: posing
+}
+, class Tag {
+  confidence: 12.202143
+  tag: education
+}
+, class Tag {
+  confidence: 11.792935
+  tag: model
+}
+, class Tag {
+  confidence: 11.782314
+  tag: hair
+}
+, class Tag {
+  confidence: 11.665308
+  tag: fun
+}
+, class Tag {
+  confidence: 11.642554
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.188552
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.163353
+  tag: sitting
+}
+, class Tag {
+  confidence: 11.080161
+  tag: expression
+}
+, class Tag {
+  confidence: 10.796776
+  tag: plunger
+}
+, class Tag {
+  confidence: 10.735307
+  tag: cute
+}
+, class Tag {
+  confidence: 10.675144
+  tag: working
+}
+, class Tag {
+  confidence: 10.657705
+  tag: fashion
+}
+, class Tag {
+  confidence: 10.624746
+  tag: indoors
+}
+, class Tag {
+  confidence: 10.549021
+  tag: to
+}
+, class Tag {
+  confidence: 9.817355
+  tag: house
+}
+, class Tag {
+  confidence: 9.777208
+  tag: business
+}
+, class Tag {
+  confidence: 9.4463005
+  tag: work
+}
+, class Tag {
+  confidence: 9.217913
+  tag: tool
+}
+, class Tag {
+  confidence: 9.133562
+  tag: clothing
+}
+, class Tag {
+  confidence: 9.13168
+  tag: worker
+}
+, class Tag {
+  confidence: 9.113583
+  tag: one
+}
+, class Tag {
+  confidence: 9.092957
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.63291
+  tag: hand tool
+}
+, class Tag {
+  confidence: 8.524244
+  tag: relax
+}
+, class Tag {
+  confidence: 8.494591
+  tag: laptop
+}
+, class Tag {
+  confidence: 8.4811125
+  tag: teenager
+}
+, class Tag {
+  confidence: 8.480672
+  tag: student
+}
+, class Tag {
+  confidence: 8.460532
+  tag: relaxation
+}
+, class Tag {
+  confidence: 8.438985
+  tag: alone
+}
+, class Tag {
+  confidence: 8.255874
+  tag: childhood
+}
+, class Tag {
+  confidence: 8.254999
+  tag: looking
+}
+, class Tag {
+  confidence: 8.205714
+  tag: little
+}
+, class Tag {
+  confidence: 8.186985
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.1839905
+  tag: computer
+}
+, class Tag {
+  confidence: 8.136755
+  tag: women
+}
+, class Tag {
+  confidence: 8.018315
+  tag: face
+}
+, class Tag {
+  confidence: 8.012408
+  tag: men
+}
+, class Tag {
+  confidence: 7.81622
+  tag: studio
+}
+, class Tag {
+  confidence: 7.713836
+  tag: 20s
+}
+, class Tag {
+  confidence: 7.669331
+  tag: emotion
+}
+, class Tag {
+  confidence: 7.658043
+  tag: indoor
+}
+, class Tag {
+  confidence: 7.577956
+  tag: children
+}
+, class Tag {
+  confidence: 7.555277
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.508273
+  tag: blond
+}
+, class Tag {
+  confidence: 7.458906
+  tag: job
+}
+, class Tag {
+  confidence: 7.2710776
+  tag: vertical
+}
+, class Tag {
+  confidence: 7.1817408
+  tag: tired
+}
+, class Tag {
+  confidence: 7.163575
+  tag: hands
+}
+, class Tag {
+  confidence: 7.0870004
+  tag: human
+}
+, class Tag {
+  confidence: 7.0789914
+  tag: wall
+}
+, class Tag {
+  confidence: 7.043601
+  tag: hand
+}
+, class Tag {
+  confidence: 7.0169587
+  tag: learn
+}
+]
+}
+]
+  unsuccessful: null
+}

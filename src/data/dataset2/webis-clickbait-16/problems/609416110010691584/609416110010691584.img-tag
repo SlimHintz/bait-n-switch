@@ -1,0 +1,232 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUMX_XWcAI1n8Z.jpg
+  tags: [class Tag {
+  confidence: 34.664795
+  tag: patio
+}
+, class Tag {
+  confidence: 28.7612
+  tag: structure
+}
+, class Tag {
+  confidence: 28.10687
+  tag: area
+}
+, class Tag {
+  confidence: 21.83837
+  tag: boathouse
+}
+, class Tag {
+  confidence: 21.016087
+  tag: architecture
+}
+, class Tag {
+  confidence: 20.401924
+  tag: resort
+}
+, class Tag {
+  confidence: 20.0157
+  tag: building
+}
+, class Tag {
+  confidence: 18.694607
+  tag: travel
+}
+, class Tag {
+  confidence: 17.425165
+  tag: shed
+}
+, class Tag {
+  confidence: 17.232313
+  tag: house
+}
+, class Tag {
+  confidence: 17.158037
+  tag: summer
+}
+, class Tag {
+  confidence: 16.241978
+  tag: sky
+}
+, class Tag {
+  confidence: 16.055399
+  tag: water
+}
+, class Tag {
+  confidence: 15.448302
+  tag: sea
+}
+, class Tag {
+  confidence: 14.356243
+  tag: vacation
+}
+, class Tag {
+  confidence: 13.582371
+  tag: landscape
+}
+, class Tag {
+  confidence: 13.577922
+  tag: tourism
+}
+, class Tag {
+  confidence: 13.100088
+  tag: outbuilding
+}
+, class Tag {
+  confidence: 13.033255
+  tag: village
+}
+, class Tag {
+  confidence: 12.5089655
+  tag: outdoors
+}
+, class Tag {
+  confidence: 12.497217
+  tag: ocean
+}
+, class Tag {
+  confidence: 12.245304
+  tag: tree
+}
+, class Tag {
+  confidence: 11.856483
+  tag: park
+}
+, class Tag {
+  confidence: 11.840906
+  tag: luxury
+}
+, class Tag {
+  confidence: 11.69744
+  tag: island
+}
+, class Tag {
+  confidence: 11.383102
+  tag: wood
+}
+, class Tag {
+  confidence: 11.127734
+  tag: scene
+}
+, class Tag {
+  confidence: 11.104802
+  tag: outdoor
+}
+, class Tag {
+  confidence: 10.925659
+  tag: chair
+}
+, class Tag {
+  confidence: 10.333768
+  tag: holiday
+}
+, class Tag {
+  confidence: 10.231794
+  tag: home
+}
+, class Tag {
+  confidence: 10.204472
+  tag: relax
+}
+, class Tag {
+  confidence: 10.153072
+  tag: tropical
+}
+, class Tag {
+  confidence: 10.1429825
+  tag: wooden
+}
+, class Tag {
+  confidence: 9.775675
+  tag: outside
+}
+, class Tag {
+  confidence: 9.514761
+  tag: leisure
+}
+, class Tag {
+  confidence: 9.403056
+  tag: clouds
+}
+, class Tag {
+  confidence: 9.246703
+  tag: table
+}
+, class Tag {
+  confidence: 8.873726
+  tag: exterior
+}
+, class Tag {
+  confidence: 8.554739
+  tag: furniture
+}
+, class Tag {
+  confidence: 8.551818
+  tag: trees
+}
+, class Tag {
+  confidence: 8.521066
+  tag: hotel
+}
+, class Tag {
+  confidence: 8.517048
+  tag: asia
+}
+, class Tag {
+  confidence: 8.484604
+  tag: river
+}
+, class Tag {
+  confidence: 8.377364
+  tag: urban
+}
+, class Tag {
+  confidence: 8.305427
+  tag: sunny
+}
+, class Tag {
+  confidence: 8.144061
+  tag: relaxation
+}
+, class Tag {
+  confidence: 8.082749
+  tag: beach
+}
+, class Tag {
+  confidence: 8.043958
+  tag: window
+}
+, class Tag {
+  confidence: 8.032263
+  tag: tourist
+}
+, class Tag {
+  confidence: 8.029009
+  tag: garden
+}
+, class Tag {
+  confidence: 7.8270183
+  tag: color
+}
+, class Tag {
+  confidence: 7.6969657
+  tag: reflection
+}
+, class Tag {
+  confidence: 7.649432
+  tag: bridge
+}
+, class Tag {
+  confidence: 7.3303475
+  tag: calm
+}
+, class Tag {
+  confidence: 7.3028445
+  tag: old
+}
+]
+}
+]
+  unsuccessful: null
+}

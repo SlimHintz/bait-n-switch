@@ -1,0 +1,112 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHWis38VEAA9zI8.jpg
+  tags: [class Tag {
+  confidence: 34.87026
+  tag: puzzle
+}
+, class Tag {
+  confidence: 30.886213
+  tag: jigsaw puzzle
+}
+, class Tag {
+  confidence: 20.726511
+  tag: game
+}
+, class Tag {
+  confidence: 14.383448
+  tag: design
+}
+, class Tag {
+  confidence: 11.745549
+  tag: texture
+}
+, class Tag {
+  confidence: 10.960524
+  tag: art
+}
+, class Tag {
+  confidence: 10.095974
+  tag: business
+}
+, class Tag {
+  confidence: 9.993988
+  tag: symbol
+}
+, class Tag {
+  confidence: 9.360915
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.204547
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 9.05045
+  tag: light
+}
+, class Tag {
+  confidence: 8.917585
+  tag: computer
+}
+, class Tag {
+  confidence: 8.875368
+  tag: technology
+}
+, class Tag {
+  confidence: 8.560196
+  tag: pattern
+}
+, class Tag {
+  confidence: 8.512238
+  tag: global
+}
+, class Tag {
+  confidence: 8.381772
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.291527
+  tag: digital
+}
+, class Tag {
+  confidence: 8.246897
+  tag: color
+}
+, class Tag {
+  confidence: 8.171638
+  tag: shape
+}
+, class Tag {
+  confidence: 8.128882
+  tag: close
+}
+, class Tag {
+  confidence: 7.637155
+  tag: futuristic
+}
+, class Tag {
+  confidence: 7.635332
+  tag: conceptual
+}
+, class Tag {
+  confidence: 7.4016433
+  tag: money
+}
+, class Tag {
+  confidence: 7.2459707
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.219953
+  tag: modern
+}
+, class Tag {
+  confidence: 7.077534
+  tag: black
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,84 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPeoGAW8AExnJv.jpg
+  tags: [class Tag {
+  confidence: 90.82497
+  tag: microwave
+}
+, class Tag {
+  confidence: 78.62026
+  tag: kitchen appliance
+}
+, class Tag {
+  confidence: 58.384
+  tag: home appliance
+}
+, class Tag {
+  confidence: 47.102165
+  tag: oven
+}
+, class Tag {
+  confidence: 40.41795
+  tag: appliance
+}
+, class Tag {
+  confidence: 17.888
+  tag: durables
+}
+, class Tag {
+  confidence: 15.018369
+  tag: stove
+}
+, class Tag {
+  confidence: 13.670419
+  tag: home
+}
+, class Tag {
+  confidence: 13.017103
+  tag: interior
+}
+, class Tag {
+  confidence: 11.798239
+  tag: rotisserie
+}
+, class Tag {
+  confidence: 10.873393
+  tag: design
+}
+, class Tag {
+  confidence: 10.018338
+  tag: modern
+}
+, class Tag {
+  confidence: 9.621839
+  tag: heater
+}
+, class Tag {
+  confidence: 8.597271
+  tag: house
+}
+, class Tag {
+  confidence: 8.530097
+  tag: device
+}
+, class Tag {
+  confidence: 8.404111
+  tag: kitchen
+}
+, class Tag {
+  confidence: 7.456429
+  tag: decor
+}
+, class Tag {
+  confidence: 7.0698066
+  tag: apartment
+}
+, class Tag {
+  confidence: 7.005161
+  tag: 3d
+}
+]
+}
+]
+  unsuccessful: null
+}

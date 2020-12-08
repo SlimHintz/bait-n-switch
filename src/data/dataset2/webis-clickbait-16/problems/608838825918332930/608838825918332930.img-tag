@@ -1,0 +1,260 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHK2BZbUwAI-l42.png
+  tags: [class Tag {
+  confidence: 40.137497
+  tag: architecture
+}
+, class Tag {
+  confidence: 34.82901
+  tag: house
+}
+, class Tag {
+  confidence: 34.625546
+  tag: building
+}
+, class Tag {
+  confidence: 23.317987
+  tag: city
+}
+, class Tag {
+  confidence: 22.74171
+  tag: old
+}
+, class Tag {
+  confidence: 20.99355
+  tag: mansion
+}
+, class Tag {
+  confidence: 20.636559
+  tag: travel
+}
+, class Tag {
+  confidence: 20.475348
+  tag: home
+}
+, class Tag {
+  confidence: 15.721174
+  tag: tourism
+}
+, class Tag {
+  confidence: 15.3266325
+  tag: palace
+}
+, class Tag {
+  confidence: 14.8221035
+  tag: monument
+}
+, class Tag {
+  confidence: 14.502763
+  tag: europe
+}
+, class Tag {
+  confidence: 14.3330145
+  tag: roof
+}
+, class Tag {
+  confidence: 14.26597
+  tag: history
+}
+, class Tag {
+  confidence: 14.090294
+  tag: sky
+}
+, class Tag {
+  confidence: 13.745197
+  tag: historic
+}
+, class Tag {
+  confidence: 13.524194
+  tag: landmark
+}
+, class Tag {
+  confidence: 13.517039
+  tag: tourist
+}
+, class Tag {
+  confidence: 13.479825
+  tag: door
+}
+, class Tag {
+  confidence: 13.355585
+  tag: trees
+}
+, class Tag {
+  confidence: 12.263662
+  tag: ancient
+}
+, class Tag {
+  confidence: 12.210896
+  tag: street
+}
+, class Tag {
+  confidence: 12.13454
+  tag: window
+}
+, class Tag {
+  confidence: 12.019145
+  tag: facade
+}
+, class Tag {
+  confidence: 11.893808
+  tag: residential
+}
+, class Tag {
+  confidence: 11.838773
+  tag: tower
+}
+, class Tag {
+  confidence: 11.689974
+  tag: brick
+}
+, class Tag {
+  confidence: 11.51894
+  tag: town
+}
+, class Tag {
+  confidence: 11.328573
+  tag: university
+}
+, class Tag {
+  confidence: 11.10858
+  tag: summer
+}
+, class Tag {
+  confidence: 11.0287285
+  tag: stone
+}
+, class Tag {
+  confidence: 10.970914
+  tag: estate
+}
+, class Tag {
+  confidence: 10.823276
+  tag: park
+}
+, class Tag {
+  confidence: 10.61754
+  tag: church
+}
+, class Tag {
+  confidence: 10.301017
+  tag: houses
+}
+, class Tag {
+  confidence: 10.2593155
+  tag: traditional
+}
+, class Tag {
+  confidence: 10.105121
+  tag: tree
+}
+, class Tag {
+  confidence: 10.089289
+  tag: historical
+}
+, class Tag {
+  confidence: 9.959489
+  tag: sunny
+}
+, class Tag {
+  confidence: 9.601023
+  tag: european
+}
+, class Tag {
+  confidence: 9.318953
+  tag: england
+}
+, class Tag {
+  confidence: 9.274589
+  tag: buildings
+}
+, class Tag {
+  confidence: 8.943359
+  tag: grass
+}
+, class Tag {
+  confidence: 8.834191
+  tag: garden
+}
+, class Tag {
+  confidence: 8.667651
+  tag: religion
+}
+, class Tag {
+  confidence: 8.461288
+  tag: urban
+}
+, class Tag {
+  confidence: 8.460546
+  tag: structure
+}
+, class Tag {
+  confidence: 8.2781105
+  tag: construction
+}
+, class Tag {
+  confidence: 8.256662
+  tag: destination
+}
+, class Tag {
+  confidence: 8.187794
+  tag: tradition
+}
+, class Tag {
+  confidence: 8.177802
+  tag: famous
+}
+, class Tag {
+  confidence: 8.068221
+  tag: style
+}
+, class Tag {
+  confidence: 7.9046903
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.829575
+  tag: residence
+}
+, class Tag {
+  confidence: 7.775386
+  tag: landscape
+}
+, class Tag {
+  confidence: 7.593131
+  tag: wall
+}
+, class Tag {
+  confidence: 7.586403
+  tag: real
+}
+, class Tag {
+  confidence: 7.473699
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.349377
+  tag: exterior
+}
+, class Tag {
+  confidence: 7.1963387
+  tag: road
+}
+, class Tag {
+  confidence: 7.0663614
+  tag: balcony
+}
+, class Tag {
+  confidence: 7.0562882
+  tag: new
+}
+, class Tag {
+  confidence: 7.027257
+  tag: st
+}
+]
+}
+]
+  unsuccessful: null
+}

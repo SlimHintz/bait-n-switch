@@ -1,0 +1,116 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHFg986W8AISmYF.png
+  tags: [class Tag {
+  confidence: 17.354656
+  tag: design
+}
+, class Tag {
+  confidence: 15.655299
+  tag: business
+}
+, class Tag {
+  confidence: 15.51893
+  tag: graphic
+}
+, class Tag {
+  confidence: 13.971778
+  tag: icon
+}
+, class Tag {
+  confidence: 13.216754
+  tag: black
+}
+, class Tag {
+  confidence: 12.628205
+  tag: sign
+}
+, class Tag {
+  confidence: 12.369246
+  tag: set
+}
+, class Tag {
+  confidence: 11.349965
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.397926
+  tag: color
+}
+, class Tag {
+  confidence: 10.099407
+  tag: computer
+}
+, class Tag {
+  confidence: 9.902214
+  tag: art
+}
+, class Tag {
+  confidence: 9.857523
+  tag: internet
+}
+, class Tag {
+  confidence: 9.055001
+  tag: space
+}
+, class Tag {
+  confidence: 8.8473835
+  tag: silhouette
+}
+, class Tag {
+  confidence: 8.788719
+  tag: element
+}
+, class Tag {
+  confidence: 8.586004
+  tag: text
+}
+, class Tag {
+  confidence: 8.45232
+  tag: paper
+}
+, class Tag {
+  confidence: 8.3858
+  tag: finance
+}
+, class Tag {
+  confidence: 8.119678
+  tag: communication
+}
+, class Tag {
+  confidence: 7.85481
+  tag: shape
+}
+, class Tag {
+  confidence: 7.6667233
+  tag: button
+}
+, class Tag {
+  confidence: 7.275932
+  tag: company
+}
+, class Tag {
+  confidence: 7.2222323
+  tag: frame
+}
+, class Tag {
+  confidence: 7.0944695
+  tag: pattern
+}
+, class Tag {
+  confidence: 7.0470514
+  tag: copy space
+}
+, class Tag {
+  confidence: 7.0337386
+  tag: light
+}
+, class Tag {
+  confidence: 7.0208464
+  tag: close
+}
+]
+}
+]
+  unsuccessful: null
+}

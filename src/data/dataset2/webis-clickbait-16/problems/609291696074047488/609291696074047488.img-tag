@@ -1,0 +1,92 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHSjW7VWcAAfhO9.jpg
+  tags: [class Tag {
+  confidence: 27.285368
+  tag: bib
+}
+, class Tag {
+  confidence: 12.106999
+  tag: design
+}
+, class Tag {
+  confidence: 11.526407
+  tag: art
+}
+, class Tag {
+  confidence: 11.50959
+  tag: paper
+}
+, class Tag {
+  confidence: 11.139274
+  tag: texture
+}
+, class Tag {
+  confidence: 10.721857
+  tag: frame
+}
+, class Tag {
+  confidence: 10.675758
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.541665
+  tag: pillow
+}
+, class Tag {
+  confidence: 10.134055
+  tag: color
+}
+, class Tag {
+  confidence: 9.81238
+  tag: decoration
+}
+, class Tag {
+  confidence: 8.623735
+  tag: pattern
+}
+, class Tag {
+  confidence: 8.542889
+  tag: cushion
+}
+, class Tag {
+  confidence: 8.538135
+  tag: sign
+}
+, class Tag {
+  confidence: 8.243087
+  tag: health
+}
+, class Tag {
+  confidence: 8.210735
+  tag: celebration
+}
+, class Tag {
+  confidence: 8.106595
+  tag: blank
+}
+, class Tag {
+  confidence: 7.4552054
+  tag: business
+}
+, class Tag {
+  confidence: 7.273986
+  tag: card
+}
+, class Tag {
+  confidence: 7.209817
+  tag: jersey
+}
+, class Tag {
+  confidence: 7.2011685
+  tag: letter
+}
+, class Tag {
+  confidence: 7.12938
+  tag: yellow
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,228 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHDbxugXAAA0bCl.jpg
+  tags: [class Tag {
+  confidence: 22.802984
+  tag: package
+}
+, class Tag {
+  confidence: 22.423513
+  tag: money
+}
+, class Tag {
+  confidence: 21.035828
+  tag: currency
+}
+, class Tag {
+  confidence: 20.653889
+  tag: business
+}
+, class Tag {
+  confidence: 19.81608
+  tag: paper
+}
+, class Tag {
+  confidence: 19.16285
+  tag: finance
+}
+, class Tag {
+  confidence: 17.59905
+  tag: bank
+}
+, class Tag {
+  confidence: 17.082233
+  tag: cash
+}
+, class Tag {
+  confidence: 15.894003
+  tag: wealth
+}
+, class Tag {
+  confidence: 13.739738
+  tag: packet
+}
+, class Tag {
+  confidence: 13.383252
+  tag: financial
+}
+, class Tag {
+  confidence: 13.3761425
+  tag: symbol
+}
+, class Tag {
+  confidence: 12.8751955
+  tag: investment
+}
+, class Tag {
+  confidence: 12.657393
+  tag: hand
+}
+, class Tag {
+  confidence: 11.484173
+  tag: euro
+}
+, class Tag {
+  confidence: 11.463276
+  tag: bill
+}
+, class Tag {
+  confidence: 11.409193
+  tag: text
+}
+, class Tag {
+  confidence: 11.332219
+  tag: design
+}
+, class Tag {
+  confidence: 11.16782
+  tag: banking
+}
+, class Tag {
+  confidence: 10.976247
+  tag: card
+}
+, class Tag {
+  confidence: 10.8268
+  tag: banknote
+}
+, class Tag {
+  confidence: 10.72924
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.864993
+  tag: hundred
+}
+, class Tag {
+  confidence: 9.732639
+  tag: education
+}
+, class Tag {
+  confidence: 9.656984
+  tag: pad
+}
+, class Tag {
+  confidence: 9.53116
+  tag: 3d
+}
+, class Tag {
+  confidence: 9.512033
+  tag: gift
+}
+, class Tag {
+  confidence: 9.457386
+  tag: object
+}
+, class Tag {
+  confidence: 9.412429
+  tag: color
+}
+, class Tag {
+  confidence: 9.389101
+  tag: note
+}
+, class Tag {
+  confidence: 8.9293785
+  tag: container
+}
+, class Tag {
+  confidence: 8.737795
+  tag: savings
+}
+, class Tag {
+  confidence: 8.575411
+  tag: christmas
+}
+, class Tag {
+  confidence: 8.49179
+  tag: letter
+}
+, class Tag {
+  confidence: 8.489877
+  tag: sign
+}
+, class Tag {
+  confidence: 8.423592
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.367214
+  tag: present
+}
+, class Tag {
+  confidence: 8.3369
+  tag: success
+}
+, class Tag {
+  confidence: 8.175572
+  tag: wages
+}
+, class Tag {
+  confidence: 8.137266
+  tag: icon
+}
+, class Tag {
+  confidence: 8.10601
+  tag: new
+}
+, class Tag {
+  confidence: 8.03511
+  tag: dollars
+}
+, class Tag {
+  confidence: 7.9740334
+  tag: notes
+}
+, class Tag {
+  confidence: 7.9645963
+  tag: exchange
+}
+, class Tag {
+  confidence: 7.857998
+  tag: decoration
+}
+, class Tag {
+  confidence: 7.805257
+  tag: human
+}
+, class Tag {
+  confidence: 7.7796574
+  tag: buy
+}
+, class Tag {
+  confidence: 7.7632775
+  tag: close
+}
+, class Tag {
+  confidence: 7.688039
+  tag: holding
+}
+, class Tag {
+  confidence: 7.60589
+  tag: element
+}
+, class Tag {
+  confidence: 7.595007
+  tag: message
+}
+, class Tag {
+  confidence: 7.3964334
+  tag: conceptual
+}
+, class Tag {
+  confidence: 7.2683926
+  tag: banknotes
+}
+, class Tag {
+  confidence: 7.1739616
+  tag: blank
+}
+, class Tag {
+  confidence: 7.085114
+  tag: pay
+}
+]
+}
+]
+  unsuccessful: null
+}

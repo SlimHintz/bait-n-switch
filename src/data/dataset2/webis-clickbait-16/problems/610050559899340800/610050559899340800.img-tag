@@ -1,0 +1,184 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdA3JOWIAARUMm.jpg
+  tags: [class Tag {
+  confidence: 22.618452
+  tag: adult
+}
+, class Tag {
+  confidence: 21.612415
+  tag: person
+}
+, class Tag {
+  confidence: 20.022295
+  tag: happy
+}
+, class Tag {
+  confidence: 19.120598
+  tag: people
+}
+, class Tag {
+  confidence: 17.588064
+  tag: attractive
+}
+, class Tag {
+  confidence: 16.831564
+  tag: caucasian
+}
+, class Tag {
+  confidence: 14.631259
+  tag: happiness
+}
+, class Tag {
+  confidence: 14.309832
+  tag: man
+}
+, class Tag {
+  confidence: 14.250443
+  tag: smile
+}
+, class Tag {
+  confidence: 13.83401
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 13.729523
+  tag: male
+}
+, class Tag {
+  confidence: 13.382445
+  tag: pretty
+}
+, class Tag {
+  confidence: 12.888183
+  tag: casual
+}
+, class Tag {
+  confidence: 12.8772545
+  tag: face
+}
+, class Tag {
+  confidence: 12.846941
+  tag: expression
+}
+, class Tag {
+  confidence: 12.062236
+  tag: youth
+}
+, class Tag {
+  confidence: 11.973588
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.933474
+  tag: hair
+}
+, class Tag {
+  confidence: 11.743478
+  tag: joy
+}
+, class Tag {
+  confidence: 11.216604
+  tag: model
+}
+, class Tag {
+  confidence: 11.103776
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.8694935
+  tag: cute
+}
+, class Tag {
+  confidence: 10.633649
+  tag: one
+}
+, class Tag {
+  confidence: 10.485193
+  tag: women
+}
+, class Tag {
+  confidence: 10.417975
+  tag: fun
+}
+, class Tag {
+  confidence: 9.643227
+  tag: home
+}
+, class Tag {
+  confidence: 9.373335
+  tag: studio
+}
+, class Tag {
+  confidence: 8.66696
+  tag: teen
+}
+, class Tag {
+  confidence: 8.642486
+  tag: fashion
+}
+, class Tag {
+  confidence: 8.539149
+  tag: color
+}
+, class Tag {
+  confidence: 8.487908
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.156321
+  tag: business
+}
+, class Tag {
+  confidence: 7.859732
+  tag: relax
+}
+, class Tag {
+  confidence: 7.8522177
+  tag: hand
+}
+, class Tag {
+  confidence: 7.7699194
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.76634
+  tag: health
+}
+, class Tag {
+  confidence: 7.7265477
+  tag: teenager
+}
+, class Tag {
+  confidence: 7.610001
+  tag: body
+}
+, class Tag {
+  confidence: 7.4719305
+  tag: working
+}
+, class Tag {
+  confidence: 7.2789226
+  tag: day
+}
+, class Tag {
+  confidence: 7.2688904
+  tag: hands
+}
+, class Tag {
+  confidence: 7.1885943
+  tag: human
+}
+, class Tag {
+  confidence: 7.0480366
+  tag: females
+}
+, class Tag {
+  confidence: 7.0246263
+  tag: holding
+}
+]
+}
+]
+  unsuccessful: null
+}

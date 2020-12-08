@@ -1,0 +1,304 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHM8A4mUgAAQ2yu.jpg
+  tags: [class Tag {
+  confidence: 52.129974
+  tag: bread
+}
+, class Tag {
+  confidence: 50.508
+  tag: loaf of bread
+}
+, class Tag {
+  confidence: 45.47917
+  tag: food
+}
+, class Tag {
+  confidence: 32.626915
+  tag: meal
+}
+, class Tag {
+  confidence: 29.564116
+  tag: loaf
+}
+, class Tag {
+  confidence: 29.044516
+  tag: bakery
+}
+, class Tag {
+  confidence: 28.15543
+  tag: brown
+}
+, class Tag {
+  confidence: 27.700317
+  tag: baked
+}
+, class Tag {
+  confidence: 25.384434
+  tag: delicious
+}
+, class Tag {
+  confidence: 24.930355
+  tag: wheat
+}
+, class Tag {
+  confidence: 24.604698
+  tag: fresh
+}
+, class Tag {
+  confidence: 24.548096
+  tag: nutrition
+}
+, class Tag {
+  confidence: 23.342634
+  tag: dinner
+}
+, class Tag {
+  confidence: 23.022055
+  tag: breakfast
+}
+, class Tag {
+  confidence: 22.835228
+  tag: tasty
+}
+, class Tag {
+  confidence: 21.69008
+  tag: healthy
+}
+, class Tag {
+  confidence: 21.294567
+  tag: crust
+}
+, class Tag {
+  confidence: 20.83746
+  tag: diet
+}
+, class Tag {
+  confidence: 20.712044
+  tag: slice
+}
+, class Tag {
+  confidence: 19.148132
+  tag: pastry
+}
+, class Tag {
+  confidence: 18.913622
+  tag: meat
+}
+, class Tag {
+  confidence: 18.856617
+  tag: eat
+}
+, class Tag {
+  confidence: 18.13587
+  tag: lunch
+}
+, class Tag {
+  confidence: 17.925295
+  tag: grain
+}
+, class Tag {
+  confidence: 17.858856
+  tag: gourmet
+}
+, class Tag {
+  confidence: 17.646568
+  tag: plate
+}
+, class Tag {
+  confidence: 17.19093
+  tag: cereal
+}
+, class Tag {
+  confidence: 16.986694
+  tag: whole
+}
+, class Tag {
+  confidence: 16.946545
+  tag: snack
+}
+, class Tag {
+  confidence: 16.494644
+  tag: rye
+}
+, class Tag {
+  confidence: 15.844806
+  tag: seed
+}
+, class Tag {
+  confidence: 15.147708
+  tag: close
+}
+, class Tag {
+  confidence: 13.590885
+  tag: beef
+}
+, class Tag {
+  confidence: 13.32492
+  tag: flour
+}
+, class Tag {
+  confidence: 13.322573
+  tag: dish
+}
+, class Tag {
+  confidence: 13.291607
+  tag: eating
+}
+, class Tag {
+  confidence: 13.089813
+  tag: homemade
+}
+, class Tag {
+  confidence: 13.036879
+  tag: sliced
+}
+, class Tag {
+  confidence: 13.026439
+  tag: bake
+}
+, class Tag {
+  confidence: 12.841207
+  tag: cuisine
+}
+, class Tag {
+  confidence: 12.09996
+  tag: cut
+}
+, class Tag {
+  confidence: 11.534532
+  tag: baker
+}
+, class Tag {
+  confidence: 11.231998
+  tag: nobody
+}
+, class Tag {
+  confidence: 10.940076
+  tag: carbohydrates
+}
+, class Tag {
+  confidence: 10.650925
+  tag: corn
+}
+, class Tag {
+  confidence: 10.452281
+  tag: organic
+}
+, class Tag {
+  confidence: 10.381997
+  tag: sweet
+}
+, class Tag {
+  confidence: 10.147569
+  tag: cooking
+}
+, class Tag {
+  confidence: 10.10564
+  tag: natural
+}
+, class Tag {
+  confidence: 9.114701
+  tag: studio
+}
+, class Tag {
+  confidence: 9.079322
+  tag: french loaf
+}
+, class Tag {
+  confidence: 9.011884
+  tag: slices
+}
+, class Tag {
+  confidence: 8.95138
+  tag: sandwich
+}
+, class Tag {
+  confidence: 8.947728
+  tag: dough
+}
+, class Tag {
+  confidence: 8.898452
+  tag: culinary
+}
+, class Tag {
+  confidence: 8.894553
+  tag: pork
+}
+, class Tag {
+  confidence: 8.864444
+  tag: fiber
+}
+, class Tag {
+  confidence: 8.508043
+  tag: closeup
+}
+, class Tag {
+  confidence: 8.406864
+  tag: crusty
+}
+, class Tag {
+  confidence: 8.252418
+  tag: bun
+}
+, class Tag {
+  confidence: 8.227537
+  tag: health
+}
+, class Tag {
+  confidence: 7.973143
+  tag: cheese
+}
+, class Tag {
+  confidence: 7.8534174
+  tag: sauce
+}
+, class Tag {
+  confidence: 7.721222
+  tag: sugar
+}
+, class Tag {
+  confidence: 7.64976
+  tag: cook
+}
+, class Tag {
+  confidence: 7.6417394
+  tag: horizontal
+}
+, class Tag {
+  confidence: 7.5783024
+  tag: meat loaf
+}
+, class Tag {
+  confidence: 7.4378242
+  tag: butter
+}
+, class Tag {
+  confidence: 7.2582383
+  tag: dessert
+}
+, class Tag {
+  confidence: 7.2056174
+  tag: spicy
+}
+, class Tag {
+  confidence: 7.174439
+  tag: nutritious
+}
+, class Tag {
+  confidence: 7.1467543
+  tag: french
+}
+, class Tag {
+  confidence: 7.0767264
+  tag: cake
+}
+, class Tag {
+  confidence: 7.0569425
+  tag: vegetable
+}
+]
+}
+]
+  unsuccessful: null
+}

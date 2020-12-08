@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAJPDNVAAEfSGY.png
+  tags: [class Tag {
+  confidence: 54.99317
+  tag: knife
+}
+, class Tag {
+  confidence: 24.113985
+  tag: tool
+}
+, class Tag {
+  confidence: 20.911598
+  tag: metal
+}
+, class Tag {
+  confidence: 18.098967
+  tag: close
+}
+, class Tag {
+  confidence: 17.247814
+  tag: equipment
+}
+, class Tag {
+  confidence: 16.441303
+  tag: handle
+}
+, class Tag {
+  confidence: 16.06888
+  tag: work
+}
+, class Tag {
+  confidence: 15.665241
+  tag: steel
+}
+, class Tag {
+  confidence: 15.524079
+  tag: wrench
+}
+, class Tag {
+  confidence: 13.756939
+  tag: object
+}
+, class Tag {
+  confidence: 13.033315
+  tag: hammer
+}
+, class Tag {
+  confidence: 12.093679
+  tag: cleaver
+}
+, class Tag {
+  confidence: 11.313522
+  tag: silver
+}
+, class Tag {
+  confidence: 11.038233
+  tag: hand
+}
+, class Tag {
+  confidence: 10.773574
+  tag: construction
+}
+, class Tag {
+  confidence: 10.599209
+  tag: scabbard
+}
+, class Tag {
+  confidence: 10.338463
+  tag: closeup
+}
+, class Tag {
+  confidence: 10.049221
+  tag: business
+}
+, class Tag {
+  confidence: 9.723761
+  tag: repair
+}
+, class Tag {
+  confidence: 9.456455
+  tag: iron
+}
+, class Tag {
+  confidence: 9.334819
+  tag: sheath
+}
+, class Tag {
+  confidence: 9.246088
+  tag: industrial
+}
+, class Tag {
+  confidence: 8.987715
+  tag: technology
+}
+, class Tag {
+  confidence: 8.89
+  tag: weapon
+}
+, class Tag {
+  confidence: 8.402649
+  tag: dagger
+}
+, class Tag {
+  confidence: 8.149134
+  tag: detail
+}
+, class Tag {
+  confidence: 8.083743
+  tag: home
+}
+, class Tag {
+  confidence: 8.031922
+  tag: hand tool
+}
+, class Tag {
+  confidence: 7.705094
+  tag: single
+}
+, class Tag {
+  confidence: 7.4576445
+  tag: blade
+}
+, class Tag {
+  confidence: 7.4335785
+  tag: paper
+}
+, class Tag {
+  confidence: 7.41806
+  tag: cutting
+}
+, class Tag {
+  confidence: 7.3427696
+  tag: hardware
+}
+, class Tag {
+  confidence: 7.26
+  tag: edge tool
+}
+, class Tag {
+  confidence: 7.254851
+  tag: tools
+}
+, class Tag {
+  confidence: 7.2013454
+  tag: industry
+}
+, class Tag {
+  confidence: 7.063078
+  tag: hold
+}
+, class Tag {
+  confidence: 7.009364
+  tag: old
+}
+]
+}
+]
+  unsuccessful: null
+}

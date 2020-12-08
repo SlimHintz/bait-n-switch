@@ -1,0 +1,44 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJapdWWgAE7HE1.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: hunting dog
+}
+, class Tag {
+  confidence: 100.0
+  tag: beagle
+}
+, class Tag {
+  confidence: 100.0
+  tag: hound
+}
+, class Tag {
+  confidence: 72.65173
+  tag: dog
+}
+, class Tag {
+  confidence: 35.22937
+  tag: foxhound
+}
+, class Tag {
+  confidence: 35.02
+  tag: walker hound
+}
+, class Tag {
+  confidence: 34.791035
+  tag: canine
+}
+, class Tag {
+  confidence: 30.904175
+  tag: domestic animal
+}
+, class Tag {
+  confidence: 9.02
+  tag: english foxhound
+}
+]
+}
+]
+  unsuccessful: null
+}

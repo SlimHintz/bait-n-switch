@@ -1,0 +1,144 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHLeaYHXIAACsqo.jpg
+  tags: [class Tag {
+  confidence: 72.52376
+  tag: web site
+}
+, class Tag {
+  confidence: 48.288197
+  tag: computer
+}
+, class Tag {
+  confidence: 22.435398
+  tag: window
+}
+, class Tag {
+  confidence: 19.026796
+  tag: internet
+}
+, class Tag {
+  confidence: 17.424086
+  tag: business
+}
+, class Tag {
+  confidence: 15.337132
+  tag: web
+}
+, class Tag {
+  confidence: 14.813111
+  tag: design
+}
+, class Tag {
+  confidence: 14.215545
+  tag: display
+}
+, class Tag {
+  confidence: 12.401434
+  tag: modern
+}
+, class Tag {
+  confidence: 12.336413
+  tag: technology
+}
+, class Tag {
+  confidence: 11.918366
+  tag: template
+}
+, class Tag {
+  confidence: 11.796875
+  tag: laptop
+}
+, class Tag {
+  confidence: 10.658631
+  tag: communication
+}
+, class Tag {
+  confidence: 10.425942
+  tag: screen
+}
+, class Tag {
+  confidence: 10.101933
+  tag: office
+}
+, class Tag {
+  confidence: 9.618128
+  tag: monitor
+}
+, class Tag {
+  confidence: 9.431181
+  tag: website
+}
+, class Tag {
+  confidence: 9.395974
+  tag: pc
+}
+, class Tag {
+  confidence: 9.341702
+  tag: www
+}
+, class Tag {
+  confidence: 8.912049
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.903459
+  tag: digital
+}
+, class Tag {
+  confidence: 8.661894
+  tag: text
+}
+, class Tag {
+  confidence: 8.377517
+  tag: blank
+}
+, class Tag {
+  confidence: 8.366987
+  tag: icon
+}
+, class Tag {
+  confidence: 8.165241
+  tag: notebook
+}
+, class Tag {
+  confidence: 8.161086
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.9299884
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.8562593
+  tag: page
+}
+, class Tag {
+  confidence: 7.673065
+  tag: paper
+}
+, class Tag {
+  confidence: 7.6595783
+  tag: banner
+}
+, class Tag {
+  confidence: 7.3849964
+  tag: set
+}
+, class Tag {
+  confidence: 7.1975684
+  tag: sign
+}
+, class Tag {
+  confidence: 7.1768684
+  tag: company
+}
+, class Tag {
+  confidence: 7.1355734
+  tag: style
+}
+]
+}
+]
+  unsuccessful: null
+}

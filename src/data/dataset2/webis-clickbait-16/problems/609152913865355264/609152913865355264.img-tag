@@ -1,0 +1,108 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOYnrQWkAA7JZt.jpg
+  tags: [class Tag {
+  confidence: 16.344254
+  tag: towel
+}
+, class Tag {
+  confidence: 13.09739
+  tag: paper
+}
+, class Tag {
+  confidence: 11.740592
+  tag: design
+}
+, class Tag {
+  confidence: 11.20215
+  tag: close
+}
+, class Tag {
+  confidence: 10.757203
+  tag: color
+}
+, class Tag {
+  confidence: 10.663978
+  tag: space
+}
+, class Tag {
+  confidence: 10.406039
+  tag: hand
+}
+, class Tag {
+  confidence: 10.084048
+  tag: home
+}
+, class Tag {
+  confidence: 9.7859335
+  tag: spa
+}
+, class Tag {
+  confidence: 9.62009
+  tag: business
+}
+, class Tag {
+  confidence: 8.004846
+  tag: object
+}
+, class Tag {
+  confidence: 7.8220873
+  tag: light
+}
+, class Tag {
+  confidence: 7.619431
+  tag: toilet tissue
+}
+, class Tag {
+  confidence: 7.582052
+  tag: relaxation
+}
+, class Tag {
+  confidence: 7.5609345
+  tag: health
+}
+, class Tag {
+  confidence: 7.5037994
+  tag: texture
+}
+, class Tag {
+  confidence: 7.4743557
+  tag: pad
+}
+, class Tag {
+  confidence: 7.432123
+  tag: bank
+}
+, class Tag {
+  confidence: 7.2678638
+  tag: wallet
+}
+, class Tag {
+  confidence: 7.2490373
+  tag: interior
+}
+, class Tag {
+  confidence: 7.136654
+  tag: decoration
+}
+, class Tag {
+  confidence: 7.083485
+  tag: finance
+}
+, class Tag {
+  confidence: 7.078943
+  tag: paper towel
+}
+, class Tag {
+  confidence: 7.0293393
+  tag: gift
+}
+, class Tag {
+  confidence: 7.001526
+  tag: human
+}
+]
+}
+]
+  unsuccessful: null
+}

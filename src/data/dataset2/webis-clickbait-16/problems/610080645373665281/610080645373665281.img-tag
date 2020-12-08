@@ -1,0 +1,164 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdxHU-WIAAhHUd.jpg
+  tags: [class Tag {
+  confidence: 18.996801
+  tag: design
+}
+, class Tag {
+  confidence: 18.245167
+  tag: texture
+}
+, class Tag {
+  confidence: 15.898744
+  tag: pattern
+}
+, class Tag {
+  confidence: 15.2191305
+  tag: black
+}
+, class Tag {
+  confidence: 13.701824
+  tag: silhouette
+}
+, class Tag {
+  confidence: 13.489162
+  tag: art
+}
+, class Tag {
+  confidence: 12.612763
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 11.807108
+  tag: color
+}
+, class Tag {
+  confidence: 11.344475
+  tag: graphic
+}
+, class Tag {
+  confidence: 11.314057
+  tag: surface
+}
+, class Tag {
+  confidence: 11.012466
+  tag: grunge
+}
+, class Tag {
+  confidence: 10.747928
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.29665
+  tag: icon
+}
+, class Tag {
+  confidence: 10.087698
+  tag: stucco
+}
+, class Tag {
+  confidence: 10.004936
+  tag: water
+}
+, class Tag {
+  confidence: 9.873884
+  tag: clean
+}
+, class Tag {
+  confidence: 9.1760845
+  tag: smooth
+}
+, class Tag {
+  confidence: 9.080136
+  tag: element
+}
+, class Tag {
+  confidence: 8.66306
+  tag: liquid
+}
+, class Tag {
+  confidence: 8.600096
+  tag: set
+}
+, class Tag {
+  confidence: 8.360669
+  tag: frame
+}
+, class Tag {
+  confidence: 8.246876
+  tag: backdrop
+}
+, class Tag {
+  confidence: 8.050027
+  tag: textured
+}
+, class Tag {
+  confidence: 7.8691854
+  tag: wave
+}
+, class Tag {
+  confidence: 7.8184485
+  tag: motion
+}
+, class Tag {
+  confidence: 7.7949567
+  tag: bright
+}
+, class Tag {
+  confidence: 7.721255
+  tag: bubble
+}
+, class Tag {
+  confidence: 7.6355276
+  tag: pure
+}
+, class Tag {
+  confidence: 7.580119
+  tag: old
+}
+, class Tag {
+  confidence: 7.4286265
+  tag: shape
+}
+, class Tag {
+  confidence: 7.412183
+  tag: drop
+}
+, class Tag {
+  confidence: 7.2727237
+  tag: light
+}
+, class Tag {
+  confidence: 7.272448
+  tag: natural
+}
+, class Tag {
+  confidence: 7.208588
+  tag: detail
+}
+, class Tag {
+  confidence: 7.1753607
+  tag: close
+}
+, class Tag {
+  confidence: 7.1456184
+  tag: space
+}
+, class Tag {
+  confidence: 7.1374474
+  tag: curve
+}
+, class Tag {
+  confidence: 7.1061816
+  tag: clear
+}
+, class Tag {
+  confidence: 7.077455
+  tag: drawing
+}
+]
+}
+]
+  unsuccessful: null
+}

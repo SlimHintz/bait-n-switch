@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUuErZUMAEtyRi.jpg
+  tags: [class Tag {
+  confidence: 28.139597
+  tag: artwork
+}
+, class Tag {
+  confidence: 23.033367
+  tag: drawing
+}
+, class Tag {
+  confidence: 20.938507
+  tag: art
+}
+, class Tag {
+  confidence: 15.884423
+  tag: design
+}
+, class Tag {
+  confidence: 14.931063
+  tag: face
+}
+, class Tag {
+  confidence: 14.038018
+  tag: cartoon
+}
+, class Tag {
+  confidence: 13.085393
+  tag: mask
+}
+, class Tag {
+  confidence: 12.044452
+  tag: clip art
+}
+, class Tag {
+  confidence: 11.632235
+  tag: haircut
+}
+, class Tag {
+  confidence: 11.426986
+  tag: silhouette
+}
+, class Tag {
+  confidence: 10.836218
+  tag: covering
+}
+, class Tag {
+  confidence: 10.518246
+  tag: people
+}
+, class Tag {
+  confidence: 10.212998
+  tag: fun
+}
+, class Tag {
+  confidence: 10.163024
+  tag: black
+}
+, class Tag {
+  confidence: 9.946852
+  tag: decorative
+}
+, class Tag {
+  confidence: 9.763446
+  tag: character
+}
+, class Tag {
+  confidence: 9.573229
+  tag: disguise
+}
+, class Tag {
+  confidence: 9.416459
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.340303
+  tag: smile
+}
+, class Tag {
+  confidence: 9.329289
+  tag: amusing
+}
+, class Tag {
+  confidence: 9.27203
+  tag: color
+}
+, class Tag {
+  confidence: 9.215885
+  tag: cheerful
+}
+, class Tag {
+  confidence: 9.159235
+  tag: pattern
+}
+, class Tag {
+  confidence: 9.036255
+  tag: boy
+}
+, class Tag {
+  confidence: 8.899784
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.487659
+  tag: animated
+}
+, class Tag {
+  confidence: 8.471236
+  tag: childhood
+}
+, class Tag {
+  confidence: 8.203437
+  tag: hair
+}
+, class Tag {
+  confidence: 7.914009
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.8865843
+  tag: child
+}
+, class Tag {
+  confidence: 7.685361
+  tag: style
+}
+, class Tag {
+  confidence: 7.6794267
+  tag: comic book
+}
+, class Tag {
+  confidence: 7.633776
+  tag: comics
+}
+, class Tag {
+  confidence: 7.277894
+  tag: culture
+}
+, class Tag {
+  confidence: 7.144038
+  tag: man
+}
+, class Tag {
+  confidence: 7.136926
+  tag: lady
+}
+, class Tag {
+  confidence: 7.081659
+  tag: element
+}
+]
+}
+]
+  unsuccessful: null
+}

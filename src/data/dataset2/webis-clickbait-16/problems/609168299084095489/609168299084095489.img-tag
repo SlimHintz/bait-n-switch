@@ -1,0 +1,332 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQzVybWgAAcoUU.jpg
+  tags: [class Tag {
+  confidence: 28.02533
+  tag: person
+}
+, class Tag {
+  confidence: 25.550888
+  tag: man
+}
+, class Tag {
+  confidence: 25.48351
+  tag: caucasian
+}
+, class Tag {
+  confidence: 24.277462
+  tag: restaurant
+}
+, class Tag {
+  confidence: 24.033092
+  tag: people
+}
+, class Tag {
+  confidence: 22.354986
+  tag: adult
+}
+, class Tag {
+  confidence: 21.584677
+  tag: happy
+}
+, class Tag {
+  confidence: 21.538036
+  tag: home
+}
+, class Tag {
+  confidence: 21.4019
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 20.337498
+  tag: waiter
+}
+, class Tag {
+  confidence: 19.913378
+  tag: male
+}
+, class Tag {
+  confidence: 19.466434
+  tag: smiling
+}
+, class Tag {
+  confidence: 18.944304
+  tag: attractive
+}
+, class Tag {
+  confidence: 17.650421
+  tag: portrait
+}
+, class Tag {
+  confidence: 17.368288
+  tag: business
+}
+, class Tag {
+  confidence: 16.738628
+  tag: employee
+}
+, class Tag {
+  confidence: 16.564503
+  tag: cafe
+}
+, class Tag {
+  confidence: 16.123837
+  tag: holding
+}
+, class Tag {
+  confidence: 15.536079
+  tag: indoors
+}
+, class Tag {
+  confidence: 15.362933
+  tag: food
+}
+, class Tag {
+  confidence: 15.219195
+  tag: smile
+}
+, class Tag {
+  confidence: 15.105561
+  tag: sitting
+}
+, class Tag {
+  confidence: 15.065177
+  tag: happiness
+}
+, class Tag {
+  confidence: 14.912
+  tag: dining-room attendant
+}
+, class Tag {
+  confidence: 13.932686
+  tag: building
+}
+, class Tag {
+  confidence: 13.692044
+  tag: men
+}
+, class Tag {
+  confidence: 13.070414
+  tag: work
+}
+, class Tag {
+  confidence: 12.29842
+  tag: cheerful
+}
+, class Tag {
+  confidence: 12.009268
+  tag: meal
+}
+, class Tag {
+  confidence: 11.941884
+  tag: women
+}
+, class Tag {
+  confidence: 11.851058
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.66736
+  tag: kitchen
+}
+, class Tag {
+  confidence: 11.4206295
+  tag: table
+}
+, class Tag {
+  confidence: 11.399749
+  tag: cooking
+}
+, class Tag {
+  confidence: 11.3932295
+  tag: looking
+}
+, class Tag {
+  confidence: 11.297331
+  tag: casual
+}
+, class Tag {
+  confidence: 11.26165
+  tag: professional
+}
+, class Tag {
+  confidence: 10.586564
+  tag: office
+}
+, class Tag {
+  confidence: 10.535006
+  tag: 20s
+}
+, class Tag {
+  confidence: 10.314599
+  tag: leisure
+}
+, class Tag {
+  confidence: 10.157436
+  tag: eat
+}
+, class Tag {
+  confidence: 10.128736
+  tag: face
+}
+, class Tag {
+  confidence: 10.080897
+  tag: interior
+}
+, class Tag {
+  confidence: 9.8826065
+  tag: worker
+}
+, class Tag {
+  confidence: 9.812392
+  tag: glasses
+}
+, class Tag {
+  confidence: 9.689048
+  tag: indoor
+}
+, class Tag {
+  confidence: 9.618006
+  tag: dinner
+}
+, class Tag {
+  confidence: 9.60779
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 9.511243
+  tag: blond
+}
+, class Tag {
+  confidence: 9.5055895
+  tag: banquet
+}
+, class Tag {
+  confidence: 9.257009
+  tag: enjoying
+}
+, class Tag {
+  confidence: 9.111917
+  tag: fun
+}
+, class Tag {
+  confidence: 8.775859
+  tag: glass
+}
+, class Tag {
+  confidence: 8.775551
+  tag: cook
+}
+, class Tag {
+  confidence: 8.766605
+  tag: handsome
+}
+, class Tag {
+  confidence: 8.752837
+  tag: drink
+}
+, class Tag {
+  confidence: 8.611378
+  tag: job
+}
+, class Tag {
+  confidence: 8.599737
+  tag: house
+}
+, class Tag {
+  confidence: 8.474125
+  tag: 30s
+}
+, class Tag {
+  confidence: 8.424332
+  tag: american
+}
+, class Tag {
+  confidence: 8.298057
+  tag: lunch
+}
+, class Tag {
+  confidence: 8.25704
+  tag: one person
+}
+, class Tag {
+  confidence: 8.078839
+  tag: confident
+}
+, class Tag {
+  confidence: 8.073318
+  tag: communication
+}
+, class Tag {
+  confidence: 8.058202
+  tag: horizontal
+}
+, class Tag {
+  confidence: 8.00043
+  tag: eating
+}
+, class Tag {
+  confidence: 7.9902143
+  tag: phone
+}
+, class Tag {
+  confidence: 7.9137216
+  tag: domestic
+}
+, class Tag {
+  confidence: 7.8455434
+  tag: european
+}
+, class Tag {
+  confidence: 7.7766075
+  tag: standing
+}
+, class Tag {
+  confidence: 7.7327585
+  tag: chatting
+}
+, class Tag {
+  confidence: 7.681629
+  tag: celebration
+}
+, class Tag {
+  confidence: 7.678611
+  tag: structure
+}
+, class Tag {
+  confidence: 7.6735506
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.594941
+  tag: mid adult
+}
+, class Tag {
+  confidence: 7.5341806
+  tag: color
+}
+, class Tag {
+  confidence: 7.4241004
+  tag: friends
+}
+, class Tag {
+  confidence: 7.3228636
+  tag: hand
+}
+, class Tag {
+  confidence: 7.281348
+  tag: one
+}
+, class Tag {
+  confidence: 7.1445312
+  tag: suit
+}
+, class Tag {
+  confidence: 7.05863
+  tag: outdoors
+}
+]
+}
+]
+  unsuccessful: null
+}

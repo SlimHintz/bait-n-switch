@@ -1,0 +1,260 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUxaEkUYAAGBaX.jpg
+  tags: [class Tag {
+  confidence: 70.83756
+  tag: crustacean
+}
+, class Tag {
+  confidence: 63.7808
+  tag: crayfish
+}
+, class Tag {
+  confidence: 58.0
+  tag: american lobster
+}
+, class Tag {
+  confidence: 40.422367
+  tag: crab
+}
+, class Tag {
+  confidence: 38.4826
+  tag: lobster
+}
+, class Tag {
+  confidence: 36.96
+  tag: king crab
+}
+, class Tag {
+  confidence: 33.586864
+  tag: arthropod
+}
+, class Tag {
+  confidence: 28.508894
+  tag: food
+}
+, class Tag {
+  confidence: 24.238491
+  tag: meal
+}
+, class Tag {
+  confidence: 23.413145
+  tag: meat
+}
+, class Tag {
+  confidence: 22.755018
+  tag: delicious
+}
+, class Tag {
+  confidence: 22.502567
+  tag: dinner
+}
+, class Tag {
+  confidence: 21.278406
+  tag: gourmet
+}
+, class Tag {
+  confidence: 19.218979
+  tag: tasty
+}
+, class Tag {
+  confidence: 19.196043
+  tag: plate
+}
+, class Tag {
+  confidence: 18.968554
+  tag: fresh
+}
+, class Tag {
+  confidence: 18.49841
+  tag: restaurant
+}
+, class Tag {
+  confidence: 18.476925
+  tag: vegetable
+}
+, class Tag {
+  confidence: 18.305475
+  tag: cuisine
+}
+, class Tag {
+  confidence: 18.012619
+  tag: cooking
+}
+, class Tag {
+  confidence: 16.861498
+  tag: seafood
+}
+, class Tag {
+  confidence: 16.665642
+  tag: healthy
+}
+, class Tag {
+  confidence: 16.14139
+  tag: dish
+}
+, class Tag {
+  confidence: 15.869596
+  tag: eat
+}
+, class Tag {
+  confidence: 14.313917
+  tag: lunch
+}
+, class Tag {
+  confidence: 14.105473
+  tag: sauce
+}
+, class Tag {
+  confidence: 13.775545
+  tag: diet
+}
+, class Tag {
+  confidence: 13.686989
+  tag: fish
+}
+, class Tag {
+  confidence: 13.388036
+  tag: invertebrate
+}
+, class Tag {
+  confidence: 13.329655
+  tag: nutrition
+}
+, class Tag {
+  confidence: 13.173285
+  tag: beef
+}
+, class Tag {
+  confidence: 12.815056
+  tag: salad
+}
+, class Tag {
+  confidence: 12.788435
+  tag: steak
+}
+, class Tag {
+  confidence: 12.272701
+  tag: pepper
+}
+, class Tag {
+  confidence: 11.894049
+  tag: tomato
+}
+, class Tag {
+  confidence: 11.862565
+  tag: close
+}
+, class Tag {
+  confidence: 11.105288
+  tag: raw
+}
+, class Tag {
+  confidence: 10.927635
+  tag: grilled
+}
+, class Tag {
+  confidence: 10.838351
+  tag: ingredient
+}
+, class Tag {
+  confidence: 10.265187
+  tag: cooked
+}
+, class Tag {
+  confidence: 9.837305
+  tag: slice
+}
+, class Tag {
+  confidence: 9.782198
+  tag: served
+}
+, class Tag {
+  confidence: 9.752828
+  tag: spicy
+}
+, class Tag {
+  confidence: 9.70142
+  tag: grill
+}
+, class Tag {
+  confidence: 9.41581
+  tag: shellfish
+}
+, class Tag {
+  confidence: 9.406589
+  tag: hot
+}
+, class Tag {
+  confidence: 9.073124
+  tag: pork
+}
+, class Tag {
+  confidence: 9.046489
+  tag: barbecue
+}
+, class Tag {
+  confidence: 8.936182
+  tag: closeup
+}
+, class Tag {
+  confidence: 8.674683
+  tag: fillet
+}
+, class Tag {
+  confidence: 8.657767
+  tag: cook
+}
+, class Tag {
+  confidence: 8.64
+  tag: dungeness crab
+}
+, class Tag {
+  confidence: 8.631531
+  tag: roast
+}
+, class Tag {
+  confidence: 8.294903
+  tag: onion
+}
+, class Tag {
+  confidence: 8.108216
+  tag: bbq
+}
+, class Tag {
+  confidence: 8.0144825
+  tag: appetizer
+}
+, class Tag {
+  confidence: 7.982828
+  tag: nobody
+}
+, class Tag {
+  confidence: 7.740958
+  tag: prepared
+}
+, class Tag {
+  confidence: 7.4024606
+  tag: vegetables
+}
+, class Tag {
+  confidence: 7.274275
+  tag: roasted
+}
+, class Tag {
+  confidence: 7.1788545
+  tag: sea
+}
+, class Tag {
+  confidence: 7.1589723
+  tag: dining
+}
+, class Tag {
+  confidence: 7.080915
+  tag: shrimp
+}
+]
+}
+]
+  unsuccessful: null
+}

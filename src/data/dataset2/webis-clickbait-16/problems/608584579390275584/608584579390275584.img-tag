@@ -1,0 +1,236 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHIgRr2W0AAsvlh.jpg
+  tags: [class Tag {
+  confidence: 34.138622
+  tag: garden
+}
+, class Tag {
+  confidence: 28.198832
+  tag: architecture
+}
+, class Tag {
+  confidence: 27.125483
+  tag: building
+}
+, class Tag {
+  confidence: 21.58658
+  tag: house
+}
+, class Tag {
+  confidence: 19.802237
+  tag: landscape
+}
+, class Tag {
+  confidence: 18.17963
+  tag: sky
+}
+, class Tag {
+  confidence: 17.821129
+  tag: trees
+}
+, class Tag {
+  confidence: 17.401192
+  tag: home
+}
+, class Tag {
+  confidence: 16.561111
+  tag: tree
+}
+, class Tag {
+  confidence: 16.179815
+  tag: travel
+}
+, class Tag {
+  confidence: 15.773743
+  tag: park
+}
+, class Tag {
+  confidence: 15.697749
+  tag: grass
+}
+, class Tag {
+  confidence: 15.1490555
+  tag: old
+}
+, class Tag {
+  confidence: 14.819841
+  tag: tourism
+}
+, class Tag {
+  confidence: 14.730005
+  tag: plot
+}
+, class Tag {
+  confidence: 13.668585
+  tag: city
+}
+, class Tag {
+  confidence: 12.78254
+  tag: europe
+}
+, class Tag {
+  confidence: 12.623211
+  tag: summer
+}
+, class Tag {
+  confidence: 11.922991
+  tag: tract
+}
+, class Tag {
+  confidence: 10.922108
+  tag: religion
+}
+, class Tag {
+  confidence: 10.889659
+  tag: stone
+}
+, class Tag {
+  confidence: 10.860543
+  tag: estate
+}
+, class Tag {
+  confidence: 10.768048
+  tag: outdoor
+}
+, class Tag {
+  confidence: 10.695014
+  tag: flower
+}
+, class Tag {
+  confidence: 10.625811
+  tag: monument
+}
+, class Tag {
+  confidence: 10.165254
+  tag: history
+}
+, class Tag {
+  confidence: 10.101184
+  tag: residential
+}
+, class Tag {
+  confidence: 10.023626
+  tag: rural
+}
+, class Tag {
+  confidence: 9.906956
+  tag: flowers
+}
+, class Tag {
+  confidence: 9.694918
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.660624
+  tag: exterior
+}
+, class Tag {
+  confidence: 9.6474
+  tag: historic
+}
+, class Tag {
+  confidence: 9.6022415
+  tag: plant
+}
+, class Tag {
+  confidence: 9.591284
+  tag: water
+}
+, class Tag {
+  confidence: 9.4232
+  tag: landmark
+}
+, class Tag {
+  confidence: 9.374579
+  tag: tower
+}
+, class Tag {
+  confidence: 9.224676
+  tag: palace
+}
+, class Tag {
+  confidence: 9.151988
+  tag: door
+}
+, class Tag {
+  confidence: 9.085085
+  tag: ancient
+}
+, class Tag {
+  confidence: 8.998381
+  tag: famous
+}
+, class Tag {
+  confidence: 8.885946
+  tag: church
+}
+, class Tag {
+  confidence: 8.48488
+  tag: color
+}
+, class Tag {
+  confidence: 8.298618
+  tag: lawn
+}
+, class Tag {
+  confidence: 8.123017
+  tag: town
+}
+, class Tag {
+  confidence: 7.7905865
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.6906514
+  tag: scenic
+}
+, class Tag {
+  confidence: 7.6417084
+  tag: property
+}
+, class Tag {
+  confidence: 7.5719833
+  tag: outside
+}
+, class Tag {
+  confidence: 7.5396085
+  tag: light
+}
+, class Tag {
+  confidence: 7.5367475
+  tag: natural
+}
+, class Tag {
+  confidence: 7.525965
+  tag: scene
+}
+, class Tag {
+  confidence: 7.5122476
+  tag: roof
+}
+, class Tag {
+  confidence: 7.4529915
+  tag: spring
+}
+, class Tag {
+  confidence: 7.42211
+  tag: construction
+}
+, class Tag {
+  confidence: 7.32099
+  tag: street
+}
+, class Tag {
+  confidence: 7.197691
+  tag: countryside
+}
+, class Tag {
+  confidence: 7.168333
+  tag: environment
+}
+]
+}
+]
+  unsuccessful: null
+}

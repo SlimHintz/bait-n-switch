@@ -1,0 +1,280 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHFwZCQXEAIE97_.png
+  tags: [class Tag {
+  confidence: 53.612137
+  tag: cartoon
+}
+, class Tag {
+  confidence: 32.45678
+  tag: animal
+}
+, class Tag {
+  confidence: 28.70585
+  tag: art
+}
+, class Tag {
+  confidence: 25.459112
+  tag: drawing
+}
+, class Tag {
+  confidence: 24.032291
+  tag: cute
+}
+, class Tag {
+  confidence: 21.538353
+  tag: bird
+}
+, class Tag {
+  confidence: 21.133207
+  tag: design
+}
+, class Tag {
+  confidence: 20.675026
+  tag: clipart
+}
+, class Tag {
+  confidence: 20.455486
+  tag: owl
+}
+, class Tag {
+  confidence: 20.198608
+  tag: graphic
+}
+, class Tag {
+  confidence: 19.982206
+  tag: fun
+}
+, class Tag {
+  confidence: 19.785563
+  tag: rabbit
+}
+, class Tag {
+  confidence: 18.969564
+  tag: funny
+}
+, class Tag {
+  confidence: 18.667707
+  tag: character
+}
+, class Tag {
+  confidence: 17.532373
+  tag: bunny
+}
+, class Tag {
+  confidence: 16.914028
+  tag: smile
+}
+, class Tag {
+  confidence: 16.71946
+  tag: clip art
+}
+, class Tag {
+  confidence: 16.389473
+  tag: colorful
+}
+, class Tag {
+  confidence: 16.207443
+  tag: happy
+}
+, class Tag {
+  confidence: 14.798274
+  tag: cheerful
+}
+, class Tag {
+  confidence: 14.777823
+  tag: element
+}
+, class Tag {
+  confidence: 14.44742
+  tag: color
+}
+, class Tag {
+  confidence: 13.948039
+  tag: holiday
+}
+, class Tag {
+  confidence: 13.782949
+  tag: pattern
+}
+, class Tag {
+  confidence: 13.688184
+  tag: icon
+}
+, class Tag {
+  confidence: 13.452895
+  tag: love
+}
+, class Tag {
+  confidence: 12.948494
+  tag: card
+}
+, class Tag {
+  confidence: 12.2725115
+  tag: caricature
+}
+, class Tag {
+  confidence: 12.202401
+  tag: flower
+}
+, class Tag {
+  confidence: 11.554511
+  tag: toy
+}
+, class Tag {
+  confidence: 11.486726
+  tag: set
+}
+, class Tag {
+  confidence: 11.192682
+  tag: humor
+}
+, class Tag {
+  confidence: 11.15942
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.114518
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.620984
+  tag: summer
+}
+, class Tag {
+  confidence: 10.596859
+  tag: children
+}
+, class Tag {
+  confidence: 10.414618
+  tag: child
+}
+, class Tag {
+  confidence: 10.278244
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 9.837759
+  tag: pet
+}
+, class Tag {
+  confidence: 9.832773
+  tag: animals
+}
+, class Tag {
+  confidence: 9.827978
+  tag: floral
+}
+, class Tag {
+  confidence: 9.591777
+  tag: retro
+}
+, class Tag {
+  confidence: 9.585957
+  tag: comic
+}
+, class Tag {
+  confidence: 9.568605
+  tag: pink
+}
+, class Tag {
+  confidence: 9.550465
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.432477
+  tag: wildlife
+}
+, class Tag {
+  confidence: 9.067338
+  tag: graphics
+}
+, class Tag {
+  confidence: 9.061263
+  tag: heart
+}
+, class Tag {
+  confidence: 8.934878
+  tag: painting
+}
+, class Tag {
+  confidence: 8.550398
+  tag: celebration
+}
+, class Tag {
+  confidence: 8.509648
+  tag: seamless
+}
+, class Tag {
+  confidence: 8.484648
+  tag: wild
+}
+, class Tag {
+  confidence: 8.43666
+  tag: ornament
+}
+, class Tag {
+  confidence: 8.176984
+  tag: artwork
+}
+, class Tag {
+  confidence: 8.174787
+  tag: decorative
+}
+, class Tag {
+  confidence: 8.115441
+  tag: valentine
+}
+, class Tag {
+  confidence: 8.065979
+  tag: yellow
+}
+, class Tag {
+  confidence: 7.871331
+  tag: humorous
+}
+, class Tag {
+  confidence: 7.8398523
+  tag: scrapbook
+}
+, class Tag {
+  confidence: 7.7911234
+  tag: zoo
+}
+, class Tag {
+  confidence: 7.6868567
+  tag: sweet
+}
+, class Tag {
+  confidence: 7.679275
+  tag: artistic
+}
+, class Tag {
+  confidence: 7.562824
+  tag: sign
+}
+, class Tag {
+  confidence: 7.5601234
+  tag: clip
+}
+, class Tag {
+  confidence: 7.5354495
+  tag: icons
+}
+, class Tag {
+  confidence: 7.4841027
+  tag: leaf
+}
+, class Tag {
+  confidence: 7.2186017
+  tag: childhood
+}
+, class Tag {
+  confidence: 7.1588163
+  tag: little
+}
+]
+}
+]
+  unsuccessful: null
+}

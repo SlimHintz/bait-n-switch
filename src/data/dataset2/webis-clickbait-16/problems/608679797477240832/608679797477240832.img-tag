@@ -1,0 +1,188 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJ3CseVAAAld5q.png
+  tags: [class Tag {
+  confidence: 24.950418
+  tag: man
+}
+, class Tag {
+  confidence: 23.92511
+  tag: rival
+}
+, class Tag {
+  confidence: 23.396301
+  tag: people
+}
+, class Tag {
+  confidence: 23.269634
+  tag: male
+}
+, class Tag {
+  confidence: 21.359201
+  tag: caucasian
+}
+, class Tag {
+  confidence: 21.323994
+  tag: adult
+}
+, class Tag {
+  confidence: 20.710257
+  tag: king
+}
+, class Tag {
+  confidence: 17.203342
+  tag: person
+}
+, class Tag {
+  confidence: 15.698537
+  tag: happy
+}
+, class Tag {
+  confidence: 14.514054
+  tag: smile
+}
+, class Tag {
+  confidence: 14.217242
+  tag: smiling
+}
+, class Tag {
+  confidence: 14.192458
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.137733
+  tag: ball
+}
+, class Tag {
+  confidence: 13.476107
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.7085495
+  tag: boy
+}
+, class Tag {
+  confidence: 10.858525
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.418635
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.250641
+  tag: face
+}
+, class Tag {
+  confidence: 10.072633
+  tag: casual
+}
+, class Tag {
+  confidence: 9.935651
+  tag: fun
+}
+, class Tag {
+  confidence: 9.837673
+  tag: basketball
+}
+, class Tag {
+  confidence: 9.699406
+  tag: sport
+}
+, class Tag {
+  confidence: 9.552
+  tag: game equipment
+}
+, class Tag {
+  confidence: 9.542652
+  tag: hand
+}
+, class Tag {
+  confidence: 9.542458
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.875523
+  tag: indoors
+}
+, class Tag {
+  confidence: 8.81788
+  tag: business
+}
+, class Tag {
+  confidence: 8.657534
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.624205
+  tag: youth
+}
+, class Tag {
+  confidence: 8.580293
+  tag: home
+}
+, class Tag {
+  confidence: 8.519928
+  tag: work
+}
+, class Tag {
+  confidence: 8.3658695
+  tag: handsome
+}
+, class Tag {
+  confidence: 8.342192
+  tag: holding
+}
+, class Tag {
+  confidence: 8.135527
+  tag: looking
+}
+, class Tag {
+  confidence: 8.131545
+  tag: standing
+}
+, class Tag {
+  confidence: 7.963811
+  tag: men
+}
+, class Tag {
+  confidence: 7.8932834
+  tag: professional
+}
+, class Tag {
+  confidence: 7.66
+  tag: ping-pong ball
+}
+, class Tag {
+  confidence: 7.6562347
+  tag: child
+}
+, class Tag {
+  confidence: 7.623049
+  tag: color
+}
+, class Tag {
+  confidence: 7.585816
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.451657
+  tag: family
+}
+, class Tag {
+  confidence: 7.2789736
+  tag: american
+}
+, class Tag {
+  confidence: 7.2436943
+  tag: equipment
+}
+, class Tag {
+  confidence: 7.118161
+  tag: adults
+}
+]
+}
+]
+  unsuccessful: null
+}

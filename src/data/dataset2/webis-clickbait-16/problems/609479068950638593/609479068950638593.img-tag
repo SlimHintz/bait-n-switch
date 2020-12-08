@@ -1,0 +1,196 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHVN--JW8AEcEX6.jpg
+  tags: [class Tag {
+  confidence: 51.1793
+  tag: sunglasses
+}
+, class Tag {
+  confidence: 49.4281
+  tag: sunglass
+}
+, class Tag {
+  confidence: 47.7591
+  tag: spectacles
+}
+, class Tag {
+  confidence: 21.751127
+  tag: optical instrument
+}
+, class Tag {
+  confidence: 18.618095
+  tag: portrait
+}
+, class Tag {
+  confidence: 17.736095
+  tag: glasses
+}
+, class Tag {
+  confidence: 17.671638
+  tag: fashion
+}
+, class Tag {
+  confidence: 16.420086
+  tag: black
+}
+, class Tag {
+  confidence: 14.521427
+  tag: person
+}
+, class Tag {
+  confidence: 14.373716
+  tag: attractive
+}
+, class Tag {
+  confidence: 14.308108
+  tag: goggles
+}
+, class Tag {
+  confidence: 14.307187
+  tag: face
+}
+, class Tag {
+  confidence: 13.441523
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.410684
+  tag: pretty
+}
+, class Tag {
+  confidence: 12.973278
+  tag: model
+}
+, class Tag {
+  confidence: 11.908411
+  tag: adult
+}
+, class Tag {
+  confidence: 11.655224
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.649402
+  tag: hair
+}
+, class Tag {
+  confidence: 11.109378
+  tag: people
+}
+, class Tag {
+  confidence: 10.02028
+  tag: looking
+}
+, class Tag {
+  confidence: 10.0
+  tag: car mirror
+}
+, class Tag {
+  confidence: 9.831941
+  tag: posing
+}
+, class Tag {
+  confidence: 9.564568
+  tag: close
+}
+, class Tag {
+  confidence: 9.485624
+  tag: smile
+}
+, class Tag {
+  confidence: 9.140821
+  tag: lady
+}
+, class Tag {
+  confidence: 9.065657
+  tag: mirror
+}
+, class Tag {
+  confidence: 8.537035
+  tag: cute
+}
+, class Tag {
+  confidence: 8.523266
+  tag: optical
+}
+, class Tag {
+  confidence: 8.487838
+  tag: glass
+}
+, class Tag {
+  confidence: 8.113922
+  tag: happy
+}
+, class Tag {
+  confidence: 8.08333
+  tag: closeup
+}
+, class Tag {
+  confidence: 8.042955
+  tag: communication
+}
+, class Tag {
+  confidence: 7.944496
+  tag: eye
+}
+, class Tag {
+  confidence: 7.8857927
+  tag: human
+}
+, class Tag {
+  confidence: 7.808991
+  tag: youth
+}
+, class Tag {
+  confidence: 7.7997994
+  tag: see
+}
+, class Tag {
+  confidence: 7.783356
+  tag: one
+}
+, class Tag {
+  confidence: 7.760778
+  tag: hand
+}
+, class Tag {
+  confidence: 7.7135262
+  tag: technology
+}
+, class Tag {
+  confidence: 7.7088733
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.628629
+  tag: business
+}
+, class Tag {
+  confidence: 7.406403
+  tag: eyewear
+}
+, class Tag {
+  confidence: 7.281162
+  tag: modern
+}
+, class Tag {
+  confidence: 7.205561
+  tag: headset
+}
+, class Tag {
+  confidence: 7.077318
+  tag: lens
+}
+, class Tag {
+  confidence: 7.0392804
+  tag: object
+}
+, class Tag {
+  confidence: 7.0358157
+  tag: style
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,180 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHA69SIXIAAFwz6.png
+  tags: [class Tag {
+  confidence: 23.915276
+  tag: person
+}
+, class Tag {
+  confidence: 19.999159
+  tag: happy
+}
+, class Tag {
+  confidence: 18.012789
+  tag: people
+}
+, class Tag {
+  confidence: 17.063955
+  tag: adult
+}
+, class Tag {
+  confidence: 16.4435
+  tag: smile
+}
+, class Tag {
+  confidence: 16.317833
+  tag: caucasian
+}
+, class Tag {
+  confidence: 15.471484
+  tag: smiling
+}
+, class Tag {
+  confidence: 15.148594
+  tag: man
+}
+, class Tag {
+  confidence: 14.887559
+  tag: happiness
+}
+, class Tag {
+  confidence: 13.408448
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 13.314274
+  tag: male
+}
+, class Tag {
+  confidence: 12.44934
+  tag: attractive
+}
+, class Tag {
+  confidence: 12.426523
+  tag: business
+}
+, class Tag {
+  confidence: 12.351274
+  tag: women
+}
+, class Tag {
+  confidence: 11.501568
+  tag: home
+}
+, class Tag {
+  confidence: 10.940053
+  tag: casual
+}
+, class Tag {
+  confidence: 10.894909
+  tag: expression
+}
+, class Tag {
+  confidence: 9.772463
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.348228
+  tag: youth
+}
+, class Tag {
+  confidence: 9.194336
+  tag: face
+}
+, class Tag {
+  confidence: 9.080638
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.754561
+  tag: fun
+}
+, class Tag {
+  confidence: 8.377426
+  tag: fashion
+}
+, class Tag {
+  confidence: 8.345506
+  tag: joy
+}
+, class Tag {
+  confidence: 8.329774
+  tag: holding
+}
+, class Tag {
+  confidence: 8.297367
+  tag: crowd
+}
+, class Tag {
+  confidence: 8.232141
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.1018915
+  tag: rug
+}
+, class Tag {
+  confidence: 8.020251
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.969193
+  tag: model
+}
+, class Tag {
+  confidence: 7.919246
+  tag: tourist
+}
+, class Tag {
+  confidence: 7.7534184
+  tag: building
+}
+, class Tag {
+  confidence: 7.7353444
+  tag: sky
+}
+, class Tag {
+  confidence: 7.723473
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.621417
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.57837
+  tag: positive
+}
+, class Tag {
+  confidence: 7.5015883
+  tag: laptop
+}
+, class Tag {
+  confidence: 7.4635634
+  tag: alone
+}
+, class Tag {
+  confidence: 7.4558406
+  tag: technology
+}
+, class Tag {
+  confidence: 7.4120183
+  tag: group
+}
+, class Tag {
+  confidence: 7.23306
+  tag: hair
+}
+, class Tag {
+  confidence: 7.1702485
+  tag: boy
+}
+, class Tag {
+  confidence: 7.044287
+  tag: hands
+}
+]
+}
+]
+  unsuccessful: null
+}

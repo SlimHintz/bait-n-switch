@@ -1,0 +1,136 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHV3MIDUMAARHW7.png
+  tags: [class Tag {
+  confidence: 22.7
+  tag: picture
+}
+, class Tag {
+  confidence: 17.200329
+  tag: photograph
+}
+, class Tag {
+  confidence: 16.2243
+  tag: black
+}
+, class Tag {
+  confidence: 14.011315
+  tag: texture
+}
+, class Tag {
+  confidence: 12.878349
+  tag: design
+}
+, class Tag {
+  confidence: 12.421196
+  tag: light
+}
+, class Tag {
+  confidence: 11.787444
+  tag: graphic
+}
+, class Tag {
+  confidence: 11.680063
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 11.627623
+  tag: motion
+}
+, class Tag {
+  confidence: 11.396841
+  tag: pattern
+}
+, class Tag {
+  confidence: 11.017051
+  tag: artistic
+}
+, class Tag {
+  confidence: 10.9304695
+  tag: art
+}
+, class Tag {
+  confidence: 10.528657
+  tag: color
+}
+, class Tag {
+  confidence: 10.4
+  tag: roentgenogram
+}
+, class Tag {
+  confidence: 10.121591
+  tag: dark
+}
+, class Tag {
+  confidence: 10.107621
+  tag: space
+}
+, class Tag {
+  confidence: 9.721599
+  tag: backdrop
+}
+, class Tag {
+  confidence: 9.682621
+  tag: digital
+}
+, class Tag {
+  confidence: 8.718758
+  tag: detail
+}
+, class Tag {
+  confidence: 8.513425
+  tag: human
+}
+, class Tag {
+  confidence: 8.220433
+  tag: water
+}
+, class Tag {
+  confidence: 8.19223
+  tag: shape
+}
+, class Tag {
+  confidence: 8.170734
+  tag: 3d
+}
+, class Tag {
+  confidence: 7.884162
+  tag: flow
+}
+, class Tag {
+  confidence: 7.8797812
+  tag: blur
+}
+, class Tag {
+  confidence: 7.5723057
+  tag: technology
+}
+, class Tag {
+  confidence: 7.4827585
+  tag: reflection
+}
+, class Tag {
+  confidence: 7.4308825
+  tag: paper
+}
+, class Tag {
+  confidence: 7.240511
+  tag: crystal
+}
+, class Tag {
+  confidence: 7.17556
+  tag: stream
+}
+, class Tag {
+  confidence: 7.1244235
+  tag: close
+}
+, class Tag {
+  confidence: 7.0243826
+  tag: symbol
+}
+]
+}
+]
+  unsuccessful: null
+}

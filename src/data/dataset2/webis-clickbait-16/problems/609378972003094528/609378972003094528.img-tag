@@ -1,0 +1,200 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTy2iYVEAAfg5_.jpg
+  tags: [class Tag {
+  confidence: 45.04093
+  tag: sport
+}
+, class Tag {
+  confidence: 27.831795
+  tag: traveler
+}
+, class Tag {
+  confidence: 25.063046
+  tag: man
+}
+, class Tag {
+  confidence: 23.342936
+  tag: people
+}
+, class Tag {
+  confidence: 20.514303
+  tag: person
+}
+, class Tag {
+  confidence: 20.505398
+  tag: adult
+}
+, class Tag {
+  confidence: 18.355095
+  tag: male
+}
+, class Tag {
+  confidence: 16.828556
+  tag: helmet
+}
+, class Tag {
+  confidence: 16.256601
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.678518
+  tag: happy
+}
+, class Tag {
+  confidence: 12.037304
+  tag: bobsled
+}
+, class Tag {
+  confidence: 11.884152
+  tag: two
+}
+, class Tag {
+  confidence: 11.35947
+  tag: outdoor
+}
+, class Tag {
+  confidence: 11.171273
+  tag: sled
+}
+, class Tag {
+  confidence: 11.147475
+  tag: vehicle
+}
+, class Tag {
+  confidence: 11.044367
+  tag: clothing
+}
+, class Tag {
+  confidence: 11.044314
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.939183
+  tag: crash helmet
+}
+, class Tag {
+  confidence: 10.416535
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.197004
+  tag: smile
+}
+, class Tag {
+  confidence: 9.920026
+  tag: fun
+}
+, class Tag {
+  confidence: 9.652038
+  tag: human
+}
+, class Tag {
+  confidence: 9.501513
+  tag: men
+}
+, class Tag {
+  confidence: 9.357985
+  tag: hat
+}
+, class Tag {
+  confidence: 9.2966795
+  tag: winter
+}
+, class Tag {
+  confidence: 9.268874
+  tag: healthy
+}
+, class Tag {
+  confidence: 9.238909
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.15454
+  tag: child
+}
+, class Tag {
+  confidence: 8.790921
+  tag: women
+}
+, class Tag {
+  confidence: 8.518629
+  tag: active
+}
+, class Tag {
+  confidence: 8.464055
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.304781
+  tag: summer
+}
+, class Tag {
+  confidence: 8.126142
+  tag: sky
+}
+, class Tag {
+  confidence: 7.9904203
+  tag: work
+}
+, class Tag {
+  confidence: 7.9075084
+  tag: black
+}
+, class Tag {
+  confidence: 7.907035
+  tag: grass
+}
+, class Tag {
+  confidence: 7.830619
+  tag: team
+}
+, class Tag {
+  confidence: 7.708521
+  tag: family
+}
+, class Tag {
+  confidence: 7.6105833
+  tag: couple
+}
+, class Tag {
+  confidence: 7.5324183
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.4573326
+  tag: love
+}
+, class Tag {
+  confidence: 7.4337387
+  tag: outside
+}
+, class Tag {
+  confidence: 7.403573
+  tag: youth
+}
+, class Tag {
+  confidence: 7.2801027
+  tag: sports
+}
+, class Tag {
+  confidence: 7.262798
+  tag: action
+}
+, class Tag {
+  confidence: 7.223876
+  tag: exercise
+}
+, class Tag {
+  confidence: 7.1502223
+  tag: one
+}
+, class Tag {
+  confidence: 7.0649056
+  tag: businessman
+}
+]
+}
+]
+  unsuccessful: null
+}

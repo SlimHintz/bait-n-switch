@@ -1,0 +1,232 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHEOJwUWoAEo74R.png
+  tags: [class Tag {
+  confidence: 27.986423
+  tag: window
+}
+, class Tag {
+  confidence: 27.511528
+  tag: design
+}
+, class Tag {
+  confidence: 26.352354
+  tag: business
+}
+, class Tag {
+  confidence: 25.391474
+  tag: web
+}
+, class Tag {
+  confidence: 24.473356
+  tag: icon
+}
+, class Tag {
+  confidence: 21.604284
+  tag: internet
+}
+, class Tag {
+  confidence: 20.952675
+  tag: set
+}
+, class Tag {
+  confidence: 17.888037
+  tag: graphic
+}
+, class Tag {
+  confidence: 17.666584
+  tag: website
+}
+, class Tag {
+  confidence: 17.509737
+  tag: sign
+}
+, class Tag {
+  confidence: 17.466404
+  tag: symbol
+}
+, class Tag {
+  confidence: 15.14
+  tag: workweek
+}
+, class Tag {
+  confidence: 14.736348
+  tag: calendar
+}
+, class Tag {
+  confidence: 13.586426
+  tag: information
+}
+, class Tag {
+  confidence: 12.890677
+  tag: paper
+}
+, class Tag {
+  confidence: 12.842895
+  tag: communication
+}
+, class Tag {
+  confidence: 12.2903595
+  tag: computer
+}
+, class Tag {
+  confidence: 11.9369135
+  tag: modern
+}
+, class Tag {
+  confidence: 11.892988
+  tag: page
+}
+, class Tag {
+  confidence: 11.269902
+  tag: element
+}
+, class Tag {
+  confidence: 11.022764
+  tag: office
+}
+, class Tag {
+  confidence: 10.934904
+  tag: template
+}
+, class Tag {
+  confidence: 10.756125
+  tag: global
+}
+, class Tag {
+  confidence: 10.488053
+  tag: web site
+}
+, class Tag {
+  confidence: 10.458049
+  tag: button
+}
+, class Tag {
+  confidence: 10.367556
+  tag: site
+}
+, class Tag {
+  confidence: 10.353076
+  tag: art
+}
+, class Tag {
+  confidence: 9.990371
+  tag: color
+}
+, class Tag {
+  confidence: 9.882047
+  tag: month
+}
+, class Tag {
+  confidence: 9.522575
+  tag: icons
+}
+, class Tag {
+  confidence: 9.519238
+  tag: black
+}
+, class Tag {
+  confidence: 9.391287
+  tag: card
+}
+, class Tag {
+  confidence: 9.157238
+  tag: day
+}
+, class Tag {
+  confidence: 8.868986
+  tag: technology
+}
+, class Tag {
+  confidence: 8.714199
+  tag: letter
+}
+, class Tag {
+  confidence: 8.654754
+  tag: clipart
+}
+, class Tag {
+  confidence: 8.433377
+  tag: year
+}
+, class Tag {
+  confidence: 8.287844
+  tag: house
+}
+, class Tag {
+  confidence: 8.145587
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.141525
+  tag: monitor
+}
+, class Tag {
+  confidence: 8.095413
+  tag: date
+}
+, class Tag {
+  confidence: 8.087375
+  tag: mouse
+}
+, class Tag {
+  confidence: 8.067884
+  tag: home
+}
+, class Tag {
+  confidence: 7.8850617
+  tag: company
+}
+, class Tag {
+  confidence: 7.5468874
+  tag: text
+}
+, class Tag {
+  confidence: 7.4742026
+  tag: new
+}
+, class Tag {
+  confidence: 7.454035
+  tag: week
+}
+, class Tag {
+  confidence: 7.435534
+  tag: blank
+}
+, class Tag {
+  confidence: 7.388727
+  tag: mail
+}
+, class Tag {
+  confidence: 7.325587
+  tag: www
+}
+, class Tag {
+  confidence: 7.32336
+  tag: tag
+}
+, class Tag {
+  confidence: 7.2958198
+  tag: finance
+}
+, class Tag {
+  confidence: 7.2069707
+  tag: frame
+}
+, class Tag {
+  confidence: 7.19261
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 7.1810822
+  tag: line
+}
+, class Tag {
+  confidence: 7.02066
+  tag: phone
+}
+]
+}
+]
+  unsuccessful: null
+}

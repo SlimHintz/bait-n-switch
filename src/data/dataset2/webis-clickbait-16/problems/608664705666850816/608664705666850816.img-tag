@@ -1,0 +1,128 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJpUv7UUAA5pBG.png
+  tags: [class Tag {
+  confidence: 74.61169
+  tag: bus
+}
+, class Tag {
+  confidence: 54.179863
+  tag: public transport
+}
+, class Tag {
+  confidence: 38.65959
+  tag: conveyance
+}
+, class Tag {
+  confidence: 37.10338
+  tag: school bus
+}
+, class Tag {
+  confidence: 30.775831
+  tag: motor vehicle
+}
+, class Tag {
+  confidence: 29.359297
+  tag: car
+}
+, class Tag {
+  confidence: 26.72
+  tag: trolleybus
+}
+, class Tag {
+  confidence: 23.88879
+  tag: ambulance
+}
+, class Tag {
+  confidence: 16.39336
+  tag: vehicle
+}
+, class Tag {
+  confidence: 15.807203
+  tag: transportation
+}
+, class Tag {
+  confidence: 15.536
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 15.442885
+  tag: truck
+}
+, class Tag {
+  confidence: 14.309803
+  tag: fire engine
+}
+, class Tag {
+  confidence: 13.553347
+  tag: travel
+}
+, class Tag {
+  confidence: 12.2958555
+  tag: transport
+}
+, class Tag {
+  confidence: 11.360627
+  tag: amphibian
+}
+, class Tag {
+  confidence: 11.260509
+  tag: sky
+}
+, class Tag {
+  confidence: 10.268597
+  tag: road
+}
+, class Tag {
+  confidence: 10.137664
+  tag: sun
+}
+, class Tag {
+  confidence: 9.838032
+  tag: landscape
+}
+, class Tag {
+  confidence: 9.522907
+  tag: automobile
+}
+, class Tag {
+  confidence: 8.407568
+  tag: speed
+}
+, class Tag {
+  confidence: 8.27211
+  tag: driving
+}
+, class Tag {
+  confidence: 8.134525
+  tag: auto
+}
+, class Tag {
+  confidence: 8.075527
+  tag: color
+}
+, class Tag {
+  confidence: 8.02264
+  tag: drive
+}
+, class Tag {
+  confidence: 7.9950576
+  tag: summer
+}
+, class Tag {
+  confidence: 7.3167753
+  tag: yellow
+}
+, class Tag {
+  confidence: 7.3053927
+  tag: trailer
+}
+, class Tag {
+  confidence: 7.0698876
+  tag: sunset
+}
+]
+}
+]
+  unsuccessful: null
+}

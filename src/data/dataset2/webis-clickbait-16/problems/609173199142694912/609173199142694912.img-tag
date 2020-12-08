@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQB5dsW4AAHn8W.png
+  tags: [class Tag {
+  confidence: 14.793974
+  tag: person
+}
+, class Tag {
+  confidence: 14.373533
+  tag: attractive
+}
+, class Tag {
+  confidence: 13.529968
+  tag: happy
+}
+, class Tag {
+  confidence: 13.365553
+  tag: adult
+}
+, class Tag {
+  confidence: 13.110054
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.297499
+  tag: hand
+}
+, class Tag {
+  confidence: 11.858399
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.322282
+  tag: paper
+}
+, class Tag {
+  confidence: 10.518679
+  tag: home
+}
+, class Tag {
+  confidence: 10.015367
+  tag: body
+}
+, class Tag {
+  confidence: 9.838576
+  tag: model
+}
+, class Tag {
+  confidence: 9.768262
+  tag: expression
+}
+, class Tag {
+  confidence: 9.632178
+  tag: smile
+}
+, class Tag {
+  confidence: 9.562613
+  tag: design
+}
+, class Tag {
+  confidence: 9.502357
+  tag: holding
+}
+, class Tag {
+  confidence: 9.477665
+  tag: human
+}
+, class Tag {
+  confidence: 9.423764
+  tag: holiday
+}
+, class Tag {
+  confidence: 9.171898
+  tag: color
+}
+, class Tag {
+  confidence: 9.1406145
+  tag: smiling
+}
+, class Tag {
+  confidence: 9.097567
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.921243
+  tag: face
+}
+, class Tag {
+  confidence: 8.860138
+  tag: people
+}
+, class Tag {
+  confidence: 8.836486
+  tag: christmas
+}
+, class Tag {
+  confidence: 8.356142
+  tag: male
+}
+, class Tag {
+  confidence: 7.9026885
+  tag: one
+}
+, class Tag {
+  confidence: 7.833971
+  tag: hat
+}
+, class Tag {
+  confidence: 7.7389193
+  tag: fun
+}
+, class Tag {
+  confidence: 7.5693045
+  tag: cute
+}
+, class Tag {
+  confidence: 7.454985
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.355822
+  tag: gift
+}
+, class Tag {
+  confidence: 7.354567
+  tag: casual
+}
+, class Tag {
+  confidence: 7.3215656
+  tag: youth
+}
+, class Tag {
+  confidence: 7.3044086
+  tag: studio
+}
+, class Tag {
+  confidence: 7.2055593
+  tag: health
+}
+, class Tag {
+  confidence: 7.1055765
+  tag: relaxation
+}
+, class Tag {
+  confidence: 7.036832
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.019018
+  tag: portrait
+}
+, class Tag {
+  confidence: 7.007112
+  tag: sexy
+}
+]
+}
+]
+  unsuccessful: null
+}

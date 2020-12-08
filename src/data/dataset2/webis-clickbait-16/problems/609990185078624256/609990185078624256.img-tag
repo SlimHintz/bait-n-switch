@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHce10KVEAAOeAd.jpg
+  tags: [class Tag {
+  confidence: 18.48971
+  tag: computer
+}
+, class Tag {
+  confidence: 18.31318
+  tag: business
+}
+, class Tag {
+  confidence: 15.567311
+  tag: people
+}
+, class Tag {
+  confidence: 15.183286
+  tag: laptop
+}
+, class Tag {
+  confidence: 14.02516
+  tag: hand
+}
+, class Tag {
+  confidence: 13.7515335
+  tag: person
+}
+, class Tag {
+  confidence: 13.72721
+  tag: technology
+}
+, class Tag {
+  confidence: 12.144263
+  tag: man
+}
+, class Tag {
+  confidence: 11.724563
+  tag: internet
+}
+, class Tag {
+  confidence: 11.458439
+  tag: male
+}
+, class Tag {
+  confidence: 11.442167
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.101492
+  tag: adult
+}
+, class Tag {
+  confidence: 10.813179
+  tag: communication
+}
+, class Tag {
+  confidence: 9.997904
+  tag: smile
+}
+, class Tag {
+  confidence: 9.662288
+  tag: office
+}
+, class Tag {
+  confidence: 9.5340395
+  tag: happy
+}
+, class Tag {
+  confidence: 9.26602
+  tag: black
+}
+, class Tag {
+  confidence: 9.079889
+  tag: success
+}
+, class Tag {
+  confidence: 8.892086
+  tag: device
+}
+, class Tag {
+  confidence: 8.88868
+  tag: education
+}
+, class Tag {
+  confidence: 8.819218
+  tag: mouse
+}
+, class Tag {
+  confidence: 8.734998
+  tag: home
+}
+, class Tag {
+  confidence: 8.677703
+  tag: youth
+}
+, class Tag {
+  confidence: 8.676521
+  tag: work
+}
+, class Tag {
+  confidence: 8.436218
+  tag: child
+}
+, class Tag {
+  confidence: 8.134076
+  tag: indoors
+}
+, class Tag {
+  confidence: 8.029572
+  tag: 3d
+}
+, class Tag {
+  confidence: 7.9832053
+  tag: face
+}
+, class Tag {
+  confidence: 7.9556823
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.9350514
+  tag: sitting
+}
+, class Tag {
+  confidence: 7.667533
+  tag: holding
+}
+, class Tag {
+  confidence: 7.471247
+  tag: businessman
+}
+, class Tag {
+  confidence: 7.330024
+  tag: model
+}
+, class Tag {
+  confidence: 7.254725
+  tag: boy
+}
+, class Tag {
+  confidence: 7.1633863
+  tag: space
+}
+, class Tag {
+  confidence: 7.1379685
+  tag: hands
+}
+, class Tag {
+  confidence: 7.0890965
+  tag: expression
+}
+]
+}
+]
+  unsuccessful: null
+}

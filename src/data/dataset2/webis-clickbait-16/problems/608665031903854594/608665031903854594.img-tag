@@ -1,0 +1,284 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJh0sxWsAAVVJN.jpg
+  tags: [class Tag {
+  confidence: 39.001274
+  tag: man
+}
+, class Tag {
+  confidence: 34.3662
+  tag: male
+}
+, class Tag {
+  confidence: 32.40782
+  tag: caucasian
+}
+, class Tag {
+  confidence: 28.980444
+  tag: people
+}
+, class Tag {
+  confidence: 28.394253
+  tag: adult
+}
+, class Tag {
+  confidence: 27.819675
+  tag: portrait
+}
+, class Tag {
+  confidence: 25.806074
+  tag: person
+}
+, class Tag {
+  confidence: 25.596378
+  tag: happy
+}
+, class Tag {
+  confidence: 21.79839
+  tag: smiling
+}
+, class Tag {
+  confidence: 19.241089
+  tag: attractive
+}
+, class Tag {
+  confidence: 18.653528
+  tag: smile
+}
+, class Tag {
+  confidence: 15.650989
+  tag: looking
+}
+, class Tag {
+  confidence: 15.31208
+  tag: face
+}
+, class Tag {
+  confidence: 15.0543165
+  tag: professional
+}
+, class Tag {
+  confidence: 14.592087
+  tag: couple
+}
+, class Tag {
+  confidence: 14.3245125
+  tag: business
+}
+, class Tag {
+  confidence: 13.546787
+  tag: men
+}
+, class Tag {
+  confidence: 13.3790245
+  tag: handsome
+}
+, class Tag {
+  confidence: 13.110962
+  tag: love
+}
+, class Tag {
+  confidence: 12.919685
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.89568
+  tag: boy
+}
+, class Tag {
+  confidence: 12.624026
+  tag: expression
+}
+, class Tag {
+  confidence: 12.206479
+  tag: standing
+}
+, class Tag {
+  confidence: 11.625813
+  tag: businessman
+}
+, class Tag {
+  confidence: 11.500069
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.4039955
+  tag: together
+}
+, class Tag {
+  confidence: 11.142168
+  tag: mature
+}
+, class Tag {
+  confidence: 11.0964155
+  tag: casual
+}
+, class Tag {
+  confidence: 10.348919
+  tag: sitting
+}
+, class Tag {
+  confidence: 10.305155
+  tag: women
+}
+, class Tag {
+  confidence: 10.294288
+  tag: guy
+}
+, class Tag {
+  confidence: 10.251571
+  tag: youth
+}
+, class Tag {
+  confidence: 10.238691
+  tag: hair
+}
+, class Tag {
+  confidence: 10.0868435
+  tag: two
+}
+, class Tag {
+  confidence: 10.034281
+  tag: suit
+}
+, class Tag {
+  confidence: 9.646036
+  tag: tie
+}
+, class Tag {
+  confidence: 9.573915
+  tag: adults
+}
+, class Tag {
+  confidence: 9.485715
+  tag: home
+}
+, class Tag {
+  confidence: 9.187912
+  tag: studio
+}
+, class Tag {
+  confidence: 9.082281
+  tag: success
+}
+, class Tag {
+  confidence: 8.791175
+  tag: model
+}
+, class Tag {
+  confidence: 8.749382
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.534859
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.45317
+  tag: holding
+}
+, class Tag {
+  confidence: 8.400888
+  tag: lady
+}
+, class Tag {
+  confidence: 8.336985
+  tag: one
+}
+, class Tag {
+  confidence: 8.330517
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.220758
+  tag: close
+}
+, class Tag {
+  confidence: 8.179478
+  tag: black
+}
+, class Tag {
+  confidence: 8.131298
+  tag: double
+}
+, class Tag {
+  confidence: 8.113314
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.962262
+  tag: work
+}
+, class Tag {
+  confidence: 7.9601603
+  tag: eyes
+}
+, class Tag {
+  confidence: 7.8968315
+  tag: outside
+}
+, class Tag {
+  confidence: 7.7748547
+  tag: senior
+}
+, class Tag {
+  confidence: 7.668245
+  tag: emotion
+}
+, class Tag {
+  confidence: 7.529272
+  tag: team
+}
+, class Tag {
+  confidence: 7.516753
+  tag: group
+}
+, class Tag {
+  confidence: 7.4958735
+  tag: fun
+}
+, class Tag {
+  confidence: 7.4535155
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.4323153
+  tag: family
+}
+, class Tag {
+  confidence: 7.3928337
+  tag: job
+}
+, class Tag {
+  confidence: 7.334053
+  tag: cute
+}
+, class Tag {
+  confidence: 7.3066792
+  tag: brunette
+}
+, class Tag {
+  confidence: 7.289147
+  tag: look
+}
+, class Tag {
+  confidence: 7.0625815
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.058773
+  tag: human
+}
+, class Tag {
+  confidence: 7.0509186
+  tag: elderly
+}
+, class Tag {
+  confidence: 7.0062065
+  tag: uniform
+}
+]
+}
+]
+  unsuccessful: null
+}

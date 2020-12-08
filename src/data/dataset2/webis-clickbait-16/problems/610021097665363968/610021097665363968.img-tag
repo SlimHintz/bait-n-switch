@@ -1,0 +1,316 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHc66neWsAAGc-I.jpg
+  tags: [class Tag {
+  confidence: 39.468365
+  tag: pretty
+}
+, class Tag {
+  confidence: 39.208424
+  tag: attractive
+}
+, class Tag {
+  confidence: 33.996
+  tag: adult
+}
+, class Tag {
+  confidence: 30.798779
+  tag: hair
+}
+, class Tag {
+  confidence: 29.41392
+  tag: model
+}
+, class Tag {
+  confidence: 29.138853
+  tag: portrait
+}
+, class Tag {
+  confidence: 28.756943
+  tag: sexy
+}
+, class Tag {
+  confidence: 28.065163
+  tag: person
+}
+, class Tag {
+  confidence: 27.376585
+  tag: caucasian
+}
+, class Tag {
+  confidence: 26.661976
+  tag: face
+}
+, class Tag {
+  confidence: 24.213013
+  tag: people
+}
+, class Tag {
+  confidence: 23.277456
+  tag: happy
+}
+, class Tag {
+  confidence: 22.686369
+  tag: fashion
+}
+, class Tag {
+  confidence: 22.161308
+  tag: lady
+}
+, class Tag {
+  confidence: 21.818705
+  tag: smiling
+}
+, class Tag {
+  confidence: 20.630548
+  tag: women
+}
+, class Tag {
+  confidence: 20.037151
+  tag: cute
+}
+, class Tag {
+  confidence: 19.758467
+  tag: youth
+}
+, class Tag {
+  confidence: 19.72007
+  tag: glamour
+}
+, class Tag {
+  confidence: 19.387869
+  tag: gorgeous
+}
+, class Tag {
+  confidence: 19.111355
+  tag: eyes
+}
+, class Tag {
+  confidence: 18.704535
+  tag: smile
+}
+, class Tag {
+  confidence: 17.236
+  tag: female
+}
+, class Tag {
+  confidence: 16.743149
+  tag: one
+}
+, class Tag {
+  confidence: 16.55628
+  tag: expression
+}
+, class Tag {
+  confidence: 16.245047
+  tag: brunette
+}
+, class Tag {
+  confidence: 14.606563
+  tag: lips
+}
+, class Tag {
+  confidence: 14.312236
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.154381
+  tag: blond
+}
+, class Tag {
+  confidence: 14.063934
+  tag: skin
+}
+, class Tag {
+  confidence: 13.677957
+  tag: happiness
+}
+, class Tag {
+  confidence: 13.650462
+  tag: cheerful
+}
+, class Tag {
+  confidence: 13.195278
+  tag: posing
+}
+, class Tag {
+  confidence: 12.976187
+  tag: fun
+}
+, class Tag {
+  confidence: 12.713094
+  tag: sensual
+}
+, class Tag {
+  confidence: 12.643398
+  tag: dress
+}
+, class Tag {
+  confidence: 12.406285
+  tag: lovely
+}
+, class Tag {
+  confidence: 12.377835
+  tag: style
+}
+, class Tag {
+  confidence: 12.00907
+  tag: black
+}
+, class Tag {
+  confidence: 11.973838
+  tag: makeup
+}
+, class Tag {
+  confidence: 11.322495
+  tag: human
+}
+, class Tag {
+  confidence: 11.112746
+  tag: blonde
+}
+, class Tag {
+  confidence: 11.008768
+  tag: sensuality
+}
+, class Tag {
+  confidence: 10.848061
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.840196
+  tag: girls
+}
+, class Tag {
+  confidence: 10.647611
+  tag: glamor
+}
+, class Tag {
+  confidence: 10.477036
+  tag: body
+}
+, class Tag {
+  confidence: 10.340967
+  tag: feminine
+}
+, class Tag {
+  confidence: 10.166259
+  tag: make
+}
+, class Tag {
+  confidence: 9.930467
+  tag: hot
+}
+, class Tag {
+  confidence: 9.712138
+  tag: looking
+}
+, class Tag {
+  confidence: 9.2303915
+  tag: relaxation
+}
+, class Tag {
+  confidence: 9.196338
+  tag: studio
+}
+, class Tag {
+  confidence: 8.737352
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.73675
+  tag: casual
+}
+, class Tag {
+  confidence: 8.712753
+  tag: clothes
+}
+, class Tag {
+  confidence: 8.53146
+  tag: 20s
+}
+, class Tag {
+  confidence: 8.470951
+  tag: joy
+}
+, class Tag {
+  confidence: 8.44637
+  tag: dark
+}
+, class Tag {
+  confidence: 8.427958
+  tag: teenager
+}
+, class Tag {
+  confidence: 8.427858
+  tag: nice
+}
+, class Tag {
+  confidence: 8.14219
+  tag: outfit
+}
+, class Tag {
+  confidence: 7.9277005
+  tag: natural
+}
+, class Tag {
+  confidence: 7.786228
+  tag: elegance
+}
+, class Tag {
+  confidence: 7.7508535
+  tag: fresh
+}
+, class Tag {
+  confidence: 7.6947646
+  tag: holding
+}
+, class Tag {
+  confidence: 7.6284747
+  tag: friendly
+}
+, class Tag {
+  confidence: 7.6050034
+  tag: long
+}
+, class Tag {
+  confidence: 7.548713
+  tag: director
+}
+, class Tag {
+  confidence: 7.523505
+  tag: pose
+}
+, class Tag {
+  confidence: 7.475418
+  tag: summer
+}
+, class Tag {
+  confidence: 7.324066
+  tag: standing
+}
+, class Tag {
+  confidence: 7.3179603
+  tag: indoors
+}
+, class Tag {
+  confidence: 7.2824273
+  tag: love
+}
+, class Tag {
+  confidence: 7.147535
+  tag: modern
+}
+, class Tag {
+  confidence: 7.0306444
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.0229545
+  tag: health
+}
+]
+}
+]
+  unsuccessful: null
+}

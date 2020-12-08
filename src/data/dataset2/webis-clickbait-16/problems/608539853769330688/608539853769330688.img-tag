@@ -1,0 +1,228 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHH3vmZVIAAqmY1.jpg
+  tags: [class Tag {
+  confidence: 31.802912
+  tag: magazine
+}
+, class Tag {
+  confidence: 21.994263
+  tag: press
+}
+, class Tag {
+  confidence: 21.343489
+  tag: money
+}
+, class Tag {
+  confidence: 19.804922
+  tag: business
+}
+, class Tag {
+  confidence: 17.575428
+  tag: newspaper
+}
+, class Tag {
+  confidence: 16.089994
+  tag: print media
+}
+, class Tag {
+  confidence: 15.860095
+  tag: currency
+}
+, class Tag {
+  confidence: 15.48
+  tag: book jacket
+}
+, class Tag {
+  confidence: 15.398797
+  tag: cash
+}
+, class Tag {
+  confidence: 15.201249
+  tag: paper
+}
+, class Tag {
+  confidence: 14.841164
+  tag: slick
+}
+, class Tag {
+  confidence: 14.758365
+  tag: dollar
+}
+, class Tag {
+  confidence: 14.390165
+  tag: publication
+}
+, class Tag {
+  confidence: 14.386485
+  tag: finance
+}
+, class Tag {
+  confidence: 14.362358
+  tag: bank
+}
+, class Tag {
+  confidence: 13.6509695
+  tag: financial
+}
+, class Tag {
+  confidence: 13.602172
+  tag: bill
+}
+, class Tag {
+  confidence: 12.630827
+  tag: stamp
+}
+, class Tag {
+  confidence: 12.556713
+  tag: banking
+}
+, class Tag {
+  confidence: 12.066877
+  tag: jacket
+}
+, class Tag {
+  confidence: 11.915429
+  tag: medium
+}
+, class Tag {
+  confidence: 11.61348
+  tag: mail
+}
+, class Tag {
+  confidence: 11.423926
+  tag: vintage
+}
+, class Tag {
+  confidence: 11.18548
+  tag: letter
+}
+, class Tag {
+  confidence: 11.174667
+  tag: design
+}
+, class Tag {
+  confidence: 10.644238
+  tag: daily
+}
+, class Tag {
+  confidence: 10.079552
+  tag: wealth
+}
+, class Tag {
+  confidence: 9.901545
+  tag: wrapping
+}
+, class Tag {
+  confidence: 9.816606
+  tag: word
+}
+, class Tag {
+  confidence: 9.557129
+  tag: note
+}
+, class Tag {
+  confidence: 9.382345
+  tag: old
+}
+, class Tag {
+  confidence: 9.323983
+  tag: smile
+}
+, class Tag {
+  confidence: 9.271568
+  tag: banknote
+}
+, class Tag {
+  confidence: 9.16347
+  tag: art
+}
+, class Tag {
+  confidence: 9.017144
+  tag: savings
+}
+, class Tag {
+  confidence: 8.757821
+  tag: postmark
+}
+, class Tag {
+  confidence: 8.673707
+  tag: retro
+}
+, class Tag {
+  confidence: 8.660338
+  tag: usa
+}
+, class Tag {
+  confidence: 8.521296
+  tag: close
+}
+, class Tag {
+  confidence: 8.447665
+  tag: text
+}
+, class Tag {
+  confidence: 8.42448
+  tag: hundred
+}
+, class Tag {
+  confidence: 8.34952
+  tag: exchange
+}
+, class Tag {
+  confidence: 8.185395
+  tag: card
+}
+, class Tag {
+  confidence: 8.12055
+  tag: investment
+}
+, class Tag {
+  confidence: 7.880993
+  tag: success
+}
+, class Tag {
+  confidence: 7.7738585
+  tag: market
+}
+, class Tag {
+  confidence: 7.6901183
+  tag: style
+}
+, class Tag {
+  confidence: 7.569122
+  tag: face
+}
+, class Tag {
+  confidence: 7.502379
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.399966
+  tag: rich
+}
+, class Tag {
+  confidence: 7.2301836
+  tag: happy
+}
+, class Tag {
+  confidence: 7.212009
+  tag: america
+}
+, class Tag {
+  confidence: 7.172878
+  tag: philately
+}
+, class Tag {
+  confidence: 7.172236
+  tag: postage
+}
+, class Tag {
+  confidence: 7.100712
+  tag: postal
+}
+]
+}
+]
+  unsuccessful: null
+}

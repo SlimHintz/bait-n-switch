@@ -1,0 +1,144 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_zRIrUAAA6Zoc.jpg
+  tags: [class Tag {
+  confidence: 26.3064
+  tag: mammal
+}
+, class Tag {
+  confidence: 20.929062
+  tag: wallaby
+}
+, class Tag {
+  confidence: 18.458622
+  tag: kit fox
+}
+, class Tag {
+  confidence: 18.328102
+  tag: canine
+}
+, class Tag {
+  confidence: 16.72079
+  tag: kangaroo
+}
+, class Tag {
+  confidence: 15.750592
+  tag: mongoose
+}
+, class Tag {
+  confidence: 15.396394
+  tag: animal
+}
+, class Tag {
+  confidence: 14.797733
+  tag: deer
+}
+, class Tag {
+  confidence: 14.72622
+  tag: fox
+}
+, class Tag {
+  confidence: 12.608
+  tag: viverrine
+}
+, class Tag {
+  confidence: 12.401108
+  tag: grass
+}
+, class Tag {
+  confidence: 12.176419
+  tag: cute
+}
+, class Tag {
+  confidence: 10.606502
+  tag: field
+}
+, class Tag {
+  confidence: 10.454506
+  tag: summer
+}
+, class Tag {
+  confidence: 10.424005
+  tag: black
+}
+, class Tag {
+  confidence: 10.32
+  tag: dhole
+}
+, class Tag {
+  confidence: 10.055582
+  tag: baby
+}
+, class Tag {
+  confidence: 9.350968
+  tag: domestic
+}
+, class Tag {
+  confidence: 9.227307
+  tag: spring
+}
+, class Tag {
+  confidence: 8.836094
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.268896
+  tag: happy
+}
+, class Tag {
+  confidence: 8.2553835
+  tag: wild dog
+}
+, class Tag {
+  confidence: 8.22718
+  tag: wild
+}
+, class Tag {
+  confidence: 8.026447
+  tag: pet
+}
+, class Tag {
+  confidence: 7.962152
+  tag: person
+}
+, class Tag {
+  confidence: 7.953376
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.7127247
+  tag: fun
+}
+, class Tag {
+  confidence: 7.4403954
+  tag: day
+}
+, class Tag {
+  confidence: 7.4299493
+  tag: fur
+}
+, class Tag {
+  confidence: 7.4
+  tag: natural
+}
+, class Tag {
+  confidence: 7.330236
+  tag: joy
+}
+, class Tag {
+  confidence: 7.298177
+  tag: color
+}
+, class Tag {
+  confidence: 7.1579285
+  tag: park
+}
+, class Tag {
+  confidence: 7.119987
+  tag: meadow
+}
+]
+}
+]
+  unsuccessful: null
+}

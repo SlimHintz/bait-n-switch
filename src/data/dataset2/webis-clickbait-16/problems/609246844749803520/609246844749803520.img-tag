@@ -1,0 +1,300 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHR6nbkW8AELBcq.jpg
+  tags: [class Tag {
+  confidence: 33.928257
+  tag: hand
+}
+, class Tag {
+  confidence: 29.539867
+  tag: person
+}
+, class Tag {
+  confidence: 28.171467
+  tag: people
+}
+, class Tag {
+  confidence: 27.418976
+  tag: spa
+}
+, class Tag {
+  confidence: 27.166279
+  tag: care
+}
+, class Tag {
+  confidence: 24.892172
+  tag: body
+}
+, class Tag {
+  confidence: 23.875504
+  tag: treatment
+}
+, class Tag {
+  confidence: 23.251537
+  tag: hands
+}
+, class Tag {
+  confidence: 23.025963
+  tag: wellness
+}
+, class Tag {
+  confidence: 21.46346
+  tag: massage
+}
+, class Tag {
+  confidence: 21.391506
+  tag: human
+}
+, class Tag {
+  confidence: 21.222267
+  tag: skin
+}
+, class Tag {
+  confidence: 20.12211
+  tag: relaxation
+}
+, class Tag {
+  confidence: 20.122047
+  tag: lying
+}
+, class Tag {
+  confidence: 19.286554
+  tag: therapy
+}
+, class Tag {
+  confidence: 19.265263
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.943932
+  tag: healthcare
+}
+, class Tag {
+  confidence: 18.625435
+  tag: health
+}
+, class Tag {
+  confidence: 17.838041
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 17.655901
+  tag: beautician
+}
+, class Tag {
+  confidence: 17.49258
+  tag: face
+}
+, class Tag {
+  confidence: 17.447453
+  tag: adult
+}
+, class Tag {
+  confidence: 16.989864
+  tag: lady
+}
+, class Tag {
+  confidence: 16.932383
+  tag: relaxing
+}
+, class Tag {
+  confidence: 16.265327
+  tag: finger
+}
+, class Tag {
+  confidence: 15.90324
+  tag: bed
+}
+, class Tag {
+  confidence: 15.627815
+  tag: portrait
+}
+, class Tag {
+  confidence: 15.602189
+  tag: women
+}
+, class Tag {
+  confidence: 15.424957
+  tag: attractive
+}
+, class Tag {
+  confidence: 13.806179
+  tag: happy
+}
+, class Tag {
+  confidence: 13.5401945
+  tag: luxury
+}
+, class Tag {
+  confidence: 13.256068
+  tag: relax
+}
+, class Tag {
+  confidence: 13.133051
+  tag: holding
+}
+, class Tag {
+  confidence: 12.748508
+  tag: back
+}
+, class Tag {
+  confidence: 11.950196
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.841153
+  tag: pampering
+}
+, class Tag {
+  confidence: 11.662581
+  tag: natural
+}
+, class Tag {
+  confidence: 11.617877
+  tag: medical
+}
+, class Tag {
+  confidence: 11.556442
+  tag: healthy
+}
+, class Tag {
+  confidence: 11.486007
+  tag: medicine
+}
+, class Tag {
+  confidence: 11.304232
+  tag: wellbeing
+}
+, class Tag {
+  confidence: 11.138565
+  tag: model
+}
+, class Tag {
+  confidence: 10.797483
+  tag: salon
+}
+, class Tag {
+  confidence: 10.679036
+  tag: towel
+}
+, class Tag {
+  confidence: 10.659191
+  tag: indoors
+}
+, class Tag {
+  confidence: 10.530138
+  tag: one
+}
+, class Tag {
+  confidence: 10.194069
+  tag: fresh
+}
+, class Tag {
+  confidence: 10.0696745
+  tag: girls
+}
+, class Tag {
+  confidence: 9.952494
+  tag: closeup
+}
+, class Tag {
+  confidence: 9.839209
+  tag: close
+}
+, class Tag {
+  confidence: 9.778095
+  tag: skincare
+}
+, class Tag {
+  confidence: 9.430305
+  tag: cute
+}
+, class Tag {
+  confidence: 9.403403
+  tag: hold
+}
+, class Tag {
+  confidence: 9.329555
+  tag: child
+}
+, class Tag {
+  confidence: 9.108136
+  tag: pamper
+}
+, class Tag {
+  confidence: 8.981777
+  tag: clinic
+}
+, class Tag {
+  confidence: 8.928995
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.858402
+  tag: male
+}
+, class Tag {
+  confidence: 8.854035
+  tag: comfortable
+}
+, class Tag {
+  confidence: 8.807378
+  tag: home
+}
+, class Tag {
+  confidence: 8.769425
+  tag: relaxed
+}
+, class Tag {
+  confidence: 8.739345
+  tag: smile
+}
+, class Tag {
+  confidence: 8.398085
+  tag: man
+}
+, class Tag {
+  confidence: 8.380519
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.156412
+  tag: hair
+}
+, class Tag {
+  confidence: 8.091583
+  tag: feet
+}
+, class Tag {
+  confidence: 8.072477
+  tag: nail
+}
+, class Tag {
+  confidence: 7.627191
+  tag: copyspace
+}
+, class Tag {
+  confidence: 7.2022767
+  tag: bedroom
+}
+, class Tag {
+  confidence: 7.0806155
+  tag: resting
+}
+, class Tag {
+  confidence: 7.0791526
+  tag: fingers
+}
+, class Tag {
+  confidence: 7.044977
+  tag: doctor
+}
+, class Tag {
+  confidence: 7.0304384
+  tag: head
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,20 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHbCM-0VAAA2M3P.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: puck
+}
+, class Tag {
+  confidence: 100.0
+  tag: disk
+}
+, class Tag {
+  confidence: 97.72517
+  tag: circle
+}
+]
+}
+]
+  unsuccessful: null
+}

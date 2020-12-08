@@ -1,0 +1,252 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdgnrnWcAAPfN1.jpg
+  tags: [class Tag {
+  confidence: 31.28685
+  tag: singer
+}
+, class Tag {
+  confidence: 29.149845
+  tag: musician
+}
+, class Tag {
+  confidence: 25.607126
+  tag: person
+}
+, class Tag {
+  confidence: 25.447563
+  tag: hair
+}
+, class Tag {
+  confidence: 25.443426
+  tag: performer
+}
+, class Tag {
+  confidence: 24.69042
+  tag: performance
+}
+, class Tag {
+  confidence: 21.488836
+  tag: portrait
+}
+, class Tag {
+  confidence: 21.149456
+  tag: attractive
+}
+, class Tag {
+  confidence: 19.726683
+  tag: pretty
+}
+, class Tag {
+  confidence: 19.373447
+  tag: black
+}
+, class Tag {
+  confidence: 19.0884
+  tag: adult
+}
+, class Tag {
+  confidence: 17.814066
+  tag: sexy
+}
+, class Tag {
+  confidence: 17.613464
+  tag: people
+}
+, class Tag {
+  confidence: 16.82725
+  tag: concert
+}
+, class Tag {
+  confidence: 16.12246
+  tag: caucasian
+}
+, class Tag {
+  confidence: 15.740327
+  tag: man
+}
+, class Tag {
+  confidence: 14.912204
+  tag: entertainer
+}
+, class Tag {
+  confidence: 14.441377
+  tag: music
+}
+, class Tag {
+  confidence: 14.300993
+  tag: expression
+}
+, class Tag {
+  confidence: 14.228971
+  tag: fashion
+}
+, class Tag {
+  confidence: 14.126881
+  tag: dark
+}
+, class Tag {
+  confidence: 14.10959
+  tag: guitar
+}
+, class Tag {
+  confidence: 14.011712
+  tag: model
+}
+, class Tag {
+  confidence: 13.565603
+  tag: male
+}
+, class Tag {
+  confidence: 13.300161
+  tag: face
+}
+, class Tag {
+  confidence: 12.916706
+  tag: star
+}
+, class Tag {
+  confidence: 12.672064
+  tag: stage
+}
+, class Tag {
+  confidence: 11.921142
+  tag: style
+}
+, class Tag {
+  confidence: 11.101061
+  tag: glamour
+}
+, class Tag {
+  confidence: 10.798154
+  tag: youth
+}
+, class Tag {
+  confidence: 10.739115
+  tag: make
+}
+, class Tag {
+  confidence: 10.369001
+  tag: microphone
+}
+, class Tag {
+  confidence: 10.361482
+  tag: lady
+}
+, class Tag {
+  confidence: 10.266268
+  tag: instrument
+}
+, class Tag {
+  confidence: 9.953112
+  tag: playing
+}
+, class Tag {
+  confidence: 9.743419
+  tag: cute
+}
+, class Tag {
+  confidence: 9.642565
+  tag: flute
+}
+, class Tag {
+  confidence: 9.598433
+  tag: human
+}
+, class Tag {
+  confidence: 9.4611435
+  tag: rock
+}
+, class Tag {
+  confidence: 9.441132
+  tag: light
+}
+, class Tag {
+  confidence: 9.166486
+  tag: skin
+}
+, class Tag {
+  confidence: 9.155739
+  tag: sensual
+}
+, class Tag {
+  confidence: 9.073459
+  tag: pose
+}
+, class Tag {
+  confidence: 9.030768
+  tag: studio
+}
+, class Tag {
+  confidence: 8.788805
+  tag: body
+}
+, class Tag {
+  confidence: 8.611214
+  tag: blonde
+}
+, class Tag {
+  confidence: 8.177776
+  tag: brunette
+}
+, class Tag {
+  confidence: 8.096888
+  tag: musical
+}
+, class Tag {
+  confidence: 8.02794
+  tag: men
+}
+, class Tag {
+  confidence: 7.7428436
+  tag: woodwind
+}
+, class Tag {
+  confidence: 7.605992
+  tag: hand
+}
+, class Tag {
+  confidence: 7.5752883
+  tag: posing
+}
+, class Tag {
+  confidence: 7.5174704
+  tag: night
+}
+, class Tag {
+  confidence: 7.5113173
+  tag: looking
+}
+, class Tag {
+  confidence: 7.493258
+  tag: platform
+}
+, class Tag {
+  confidence: 7.4661098
+  tag: fun
+}
+, class Tag {
+  confidence: 7.462233
+  tag: cool
+}
+, class Tag {
+  confidence: 7.1805186
+  tag: party
+}
+, class Tag {
+  confidence: 7.1426797
+  tag: consumer
+}
+, class Tag {
+  confidence: 7.0316005
+  tag: happy
+}
+, class Tag {
+  confidence: 7.0038757
+  tag: smoke
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,280 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHF7qj2WwAEJVex.jpg
+  tags: [class Tag {
+  confidence: 29.689608
+  tag: people
+}
+, class Tag {
+  confidence: 29.209026
+  tag: sport
+}
+, class Tag {
+  confidence: 22.758057
+  tag: man
+}
+, class Tag {
+  confidence: 20.673172
+  tag: male
+}
+, class Tag {
+  confidence: 20.390245
+  tag: person
+}
+, class Tag {
+  confidence: 20.385544
+  tag: silhouette
+}
+, class Tag {
+  confidence: 19.63304
+  tag: player
+}
+, class Tag {
+  confidence: 18.290798
+  tag: adult
+}
+, class Tag {
+  confidence: 18.215206
+  tag: athlete
+}
+, class Tag {
+  confidence: 17.584196
+  tag: competition
+}
+, class Tag {
+  confidence: 17.495798
+  tag: muscular
+}
+, class Tag {
+  confidence: 17.083014
+  tag: training
+}
+, class Tag {
+  confidence: 16.964563
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.704979
+  tag: crowd
+}
+, class Tag {
+  confidence: 16.582275
+  tag: field
+}
+, class Tag {
+  confidence: 15.997101
+  tag: championship
+}
+, class Tag {
+  confidence: 15.836279
+  tag: match
+}
+, class Tag {
+  confidence: 15.696327
+  tag: team
+}
+, class Tag {
+  confidence: 15.121355
+  tag: event
+}
+, class Tag {
+  confidence: 15.073889
+  tag: stadium
+}
+, class Tag {
+  confidence: 14.972006
+  tag: patriotic
+}
+, class Tag {
+  confidence: 14.888853
+  tag: skill
+}
+, class Tag {
+  confidence: 14.806236
+  tag: nation
+}
+, class Tag {
+  confidence: 14.371416
+  tag: flag
+}
+, class Tag {
+  confidence: 14.261562
+  tag: audience
+}
+, class Tag {
+  confidence: 13.539721
+  tag: happy
+}
+, class Tag {
+  confidence: 12.701923
+  tag: ball
+}
+, class Tag {
+  confidence: 12.611346
+  tag: lights
+}
+, class Tag {
+  confidence: 12.54177
+  tag: human
+}
+, class Tag {
+  confidence: 12.391401
+  tag: pass
+}
+, class Tag {
+  confidence: 12.334439
+  tag: shoot
+}
+, class Tag {
+  confidence: 12.280942
+  tag: soccer
+}
+, class Tag {
+  confidence: 12.233571
+  tag: goal
+}
+, class Tag {
+  confidence: 11.850309
+  tag: smile
+}
+, class Tag {
+  confidence: 11.431808
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.414291
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.155054
+  tag: vibrant
+}
+, class Tag {
+  confidence: 11.07358
+  tag: park
+}
+, class Tag {
+  confidence: 10.941684
+  tag: casual
+}
+, class Tag {
+  confidence: 10.798272
+  tag: fun
+}
+, class Tag {
+  confidence: 10.746538
+  tag: cheering
+}
+, class Tag {
+  confidence: 10.670503
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.648976
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.647192
+  tag: kick
+}
+, class Tag {
+  confidence: 10.409148
+  tag: outdoor
+}
+, class Tag {
+  confidence: 10.380262
+  tag: group
+}
+, class Tag {
+  confidence: 10.3581
+  tag: boy
+}
+, class Tag {
+  confidence: 10.227164
+  tag: icon
+}
+, class Tag {
+  confidence: 10.192436
+  tag: glowing
+}
+, class Tag {
+  confidence: 10.098928
+  tag: shiny
+}
+, class Tag {
+  confidence: 9.829644
+  tag: roriginal
+}
+, class Tag {
+  confidence: 9.70093
+  tag: black
+}
+, class Tag {
+  confidence: 9.660532
+  tag: bright
+}
+, class Tag {
+  confidence: 9.169388
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.049032
+  tag: summer
+}
+, class Tag {
+  confidence: 8.9358
+  tag: nighttime
+}
+, class Tag {
+  confidence: 8.848536
+  tag: sky
+}
+, class Tag {
+  confidence: 8.755204
+  tag: football
+}
+, class Tag {
+  confidence: 8.521787
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.433262
+  tag: two
+}
+, class Tag {
+  confidence: 8.354261
+  tag: joy
+}
+, class Tag {
+  confidence: 8.147466
+  tag: design
+}
+, class Tag {
+  confidence: 8.110022
+  tag: world
+}
+, class Tag {
+  confidence: 8.070199
+  tag: versus
+}
+, class Tag {
+  confidence: 8.020233
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.002309
+  tag: women
+}
+, class Tag {
+  confidence: 7.7645535
+  tag: grass
+}
+, class Tag {
+  confidence: 7.30188
+  tag: family
+}
+]
+}
+]
+  unsuccessful: null
+}

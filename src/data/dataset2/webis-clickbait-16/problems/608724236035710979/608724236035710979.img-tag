@@ -1,0 +1,188 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKfdfAUAAIp7gu.jpg
+  tags: [class Tag {
+  confidence: 36.26165
+  tag: sign
+}
+, class Tag {
+  confidence: 35.19577
+  tag: symbol
+}
+, class Tag {
+  confidence: 30.503738
+  tag: icon
+}
+, class Tag {
+  confidence: 26.994421
+  tag: design
+}
+, class Tag {
+  confidence: 26.84715
+  tag: set
+}
+, class Tag {
+  confidence: 18.778732
+  tag: button
+}
+, class Tag {
+  confidence: 18.17245
+  tag: graphic
+}
+, class Tag {
+  confidence: 17.248768
+  tag: text
+}
+, class Tag {
+  confidence: 14.83477
+  tag: icons
+}
+, class Tag {
+  confidence: 14.3558035
+  tag: alphabet
+}
+, class Tag {
+  confidence: 14.209408
+  tag: web
+}
+, class Tag {
+  confidence: 13.043637
+  tag: modern
+}
+, class Tag {
+  confidence: 12.658271
+  tag: font
+}
+, class Tag {
+  confidence: 12.643709
+  tag: letters
+}
+, class Tag {
+  confidence: 12.596897
+  tag: internet
+}
+, class Tag {
+  confidence: 12.576325
+  tag: collection
+}
+, class Tag {
+  confidence: 12.299781
+  tag: capital
+}
+, class Tag {
+  confidence: 12.115479
+  tag: black
+}
+, class Tag {
+  confidence: 11.963405
+  tag: letter
+}
+, class Tag {
+  confidence: 11.540613
+  tag: business
+}
+, class Tag {
+  confidence: 11.082706
+  tag: circle
+}
+, class Tag {
+  confidence: 11.059443
+  tag: 3d
+}
+, class Tag {
+  confidence: 10.6638975
+  tag: symbols
+}
+, class Tag {
+  confidence: 10.401926
+  tag: computer
+}
+, class Tag {
+  confidence: 10.3223915
+  tag: reflection
+}
+, class Tag {
+  confidence: 10.28197
+  tag: shiny
+}
+, class Tag {
+  confidence: 9.893617
+  tag: bright
+}
+, class Tag {
+  confidence: 9.549842
+  tag: metal
+}
+, class Tag {
+  confidence: 9.523814
+  tag: simple
+}
+, class Tag {
+  confidence: 9.376403
+  tag: metallic
+}
+, class Tag {
+  confidence: 9.166031
+  tag: element
+}
+, class Tag {
+  confidence: 9.11133
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.802756
+  tag: website
+}
+, class Tag {
+  confidence: 8.308435
+  tag: art
+}
+, class Tag {
+  confidence: 8.231449
+  tag: inscription
+}
+, class Tag {
+  confidence: 8.040263
+  tag: pattern
+}
+, class Tag {
+  confidence: 8.034812
+  tag: finance
+}
+, class Tag {
+  confidence: 7.945435
+  tag: word
+}
+, class Tag {
+  confidence: 7.729653
+  tag: sale
+}
+, class Tag {
+  confidence: 7.657642
+  tag: message
+}
+, class Tag {
+  confidence: 7.437666
+  tag: information
+}
+, class Tag {
+  confidence: 7.2217836
+  tag: money
+}
+, class Tag {
+  confidence: 7.118698
+  tag: warning
+}
+, class Tag {
+  confidence: 7.1158805
+  tag: type
+}
+, class Tag {
+  confidence: 7.114523
+  tag: round
+}
+]
+}
+]
+  unsuccessful: null
+}

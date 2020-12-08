@@ -1,0 +1,268 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_4Z1QUAAEFZ5h.png
+  tags: [class Tag {
+  confidence: 57.066814
+  tag: heart
+}
+, class Tag {
+  confidence: 46.705654
+  tag: love
+}
+, class Tag {
+  confidence: 41.10482
+  tag: valentine
+}
+, class Tag {
+  confidence: 37.84737
+  tag: hearts
+}
+, class Tag {
+  confidence: 34.79765
+  tag: affair
+}
+, class Tag {
+  confidence: 31.769304
+  tag: day
+}
+, class Tag {
+  confidence: 29.013098
+  tag: romance
+}
+, class Tag {
+  confidence: 27.613594
+  tag: symbol
+}
+, class Tag {
+  confidence: 27.263903
+  tag: card
+}
+, class Tag {
+  confidence: 26.40596
+  tag: decoration
+}
+, class Tag {
+  confidence: 26.251621
+  tag: celebration
+}
+, class Tag {
+  confidence: 24.261951
+  tag: pink
+}
+, class Tag {
+  confidence: 24.257286
+  tag: shape
+}
+, class Tag {
+  confidence: 23.974106
+  tag: holiday
+}
+, class Tag {
+  confidence: 23.6635
+  tag: valentines
+}
+, class Tag {
+  confidence: 21.62567
+  tag: art
+}
+, class Tag {
+  confidence: 21.363638
+  tag: design
+}
+, class Tag {
+  confidence: 20.82145
+  tag: february
+}
+, class Tag {
+  confidence: 20.618832
+  tag: wedding
+}
+, class Tag {
+  confidence: 20.05491
+  tag: pattern
+}
+, class Tag {
+  confidence: 18.889149
+  tag: graphic
+}
+, class Tag {
+  confidence: 18.817896
+  tag: romantic
+}
+, class Tag {
+  confidence: 18.804655
+  tag: passion
+}
+, class Tag {
+  confidence: 18.067802
+  tag: decorative
+}
+, class Tag {
+  confidence: 16.112415
+  tag: greeting
+}
+, class Tag {
+  confidence: 14.888742
+  tag: color
+}
+, class Tag {
+  confidence: 14.731466
+  tag: icon
+}
+, class Tag {
+  confidence: 14.469363
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 14.354099
+  tag: frame
+}
+, class Tag {
+  confidence: 14.031573
+  tag: ornament
+}
+, class Tag {
+  confidence: 13.41667
+  tag: celebrate
+}
+, class Tag {
+  confidence: 13.383696
+  tag: ornate
+}
+, class Tag {
+  confidence: 12.841826
+  tag: lover
+}
+, class Tag {
+  confidence: 12.698222
+  tag: valentine s
+}
+, class Tag {
+  confidence: 12.42729
+  tag: flower
+}
+, class Tag {
+  confidence: 12.424403
+  tag: floral
+}
+, class Tag {
+  confidence: 11.9258
+  tag: bow
+}
+, class Tag {
+  confidence: 11.921581
+  tag: curve
+}
+, class Tag {
+  confidence: 11.905374
+  tag: gift
+}
+, class Tag {
+  confidence: 11.772639
+  tag: swirl
+}
+, class Tag {
+  confidence: 11.330451
+  tag: sign
+}
+, class Tag {
+  confidence: 10.717249
+  tag: retro
+}
+, class Tag {
+  confidence: 10.654615
+  tag: element
+}
+, class Tag {
+  confidence: 10.03804
+  tag: loving
+}
+, class Tag {
+  confidence: 9.990841
+  tag: engagement
+}
+, class Tag {
+  confidence: 9.77207
+  tag: emotion
+}
+, class Tag {
+  confidence: 9.362456
+  tag: silk
+}
+, class Tag {
+  confidence: 9.1060915
+  tag: marriage
+}
+, class Tag {
+  confidence: 9.008815
+  tag: postcard
+}
+, class Tag {
+  confidence: 8.9699135
+  tag: anniversary
+}
+, class Tag {
+  confidence: 8.917278
+  tag: drawing
+}
+, class Tag {
+  confidence: 8.841813
+  tag: sweet
+}
+, class Tag {
+  confidence: 8.677193
+  tag: elegance
+}
+, class Tag {
+  confidence: 8.542566
+  tag: painting
+}
+, class Tag {
+  confidence: 8.530377
+  tag: affection
+}
+, class Tag {
+  confidence: 8.454361
+  tag: lovers
+}
+, class Tag {
+  confidence: 8.423178
+  tag: style
+}
+, class Tag {
+  confidence: 8.371682
+  tag: texture
+}
+, class Tag {
+  confidence: 8.310045
+  tag: shiny
+}
+, class Tag {
+  confidence: 8.174386
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 8.005644
+  tag: ribbon
+}
+, class Tag {
+  confidence: 7.5408955
+  tag: dating
+}
+, class Tag {
+  confidence: 7.441498
+  tag: scroll
+}
+, class Tag {
+  confidence: 7.360486
+  tag: spring
+}
+, class Tag {
+  confidence: 7.1502705
+  tag: birthday
+}
+]
+}
+]
+  unsuccessful: null
+}

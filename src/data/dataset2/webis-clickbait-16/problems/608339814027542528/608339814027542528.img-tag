@@ -1,0 +1,100 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHFB1k_WgAEOVtj.jpg
+  tags: [class Tag {
+  confidence: 44.1967
+  tag: wombat
+}
+, class Tag {
+  confidence: 36.496338
+  tag: rabbit
+}
+, class Tag {
+  confidence: 31.664537
+  tag: mammal
+}
+, class Tag {
+  confidence: 25.972504
+  tag: bunny
+}
+, class Tag {
+  confidence: 20.394558
+  tag: animal
+}
+, class Tag {
+  confidence: 19.23911
+  tag: cute
+}
+, class Tag {
+  confidence: 12.065163
+  tag: pet
+}
+, class Tag {
+  confidence: 11.956899
+  tag: domestic
+}
+, class Tag {
+  confidence: 11.902734
+  tag: cartoon
+}
+, class Tag {
+  confidence: 11.37062
+  tag: happy
+}
+, class Tag {
+  confidence: 10.274479
+  tag: fur
+}
+, class Tag {
+  confidence: 9.770285
+  tag: fun
+}
+, class Tag {
+  confidence: 8.959417
+  tag: cat
+}
+, class Tag {
+  confidence: 8.8504505
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.51524
+  tag: brown
+}
+, class Tag {
+  confidence: 8.443907
+  tag: pets
+}
+, class Tag {
+  confidence: 8.199539
+  tag: summer
+}
+, class Tag {
+  confidence: 8.14759
+  tag: funny
+}
+, class Tag {
+  confidence: 7.9957733
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.824057
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.4846773
+  tag: color
+}
+, class Tag {
+  confidence: 7.4292665
+  tag: portrait
+}
+, class Tag {
+  confidence: 7.01301
+  tag: art
+}
+]
+}
+]
+  unsuccessful: null
+}

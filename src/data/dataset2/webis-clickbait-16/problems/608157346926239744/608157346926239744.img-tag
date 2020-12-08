@@ -1,0 +1,232 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHBy3koU8AALbPr.png
+  tags: [class Tag {
+  confidence: 31.218575
+  tag: blackboard
+}
+, class Tag {
+  confidence: 16.996542
+  tag: design
+}
+, class Tag {
+  confidence: 14.896549
+  tag: chalk
+}
+, class Tag {
+  confidence: 14.852404
+  tag: black
+}
+, class Tag {
+  confidence: 13.515688
+  tag: paper
+}
+, class Tag {
+  confidence: 13.310544
+  tag: business
+}
+, class Tag {
+  confidence: 13.039982
+  tag: board
+}
+, class Tag {
+  confidence: 12.992936
+  tag: graphic
+}
+, class Tag {
+  confidence: 12.943443
+  tag: card
+}
+, class Tag {
+  confidence: 12.92
+  tag: book jacket
+}
+, class Tag {
+  confidence: 12.7936325
+  tag: vintage
+}
+, class Tag {
+  confidence: 12.641438
+  tag: frame
+}
+, class Tag {
+  confidence: 12.611071
+  tag: education
+}
+, class Tag {
+  confidence: 12.371195
+  tag: chalkboard
+}
+, class Tag {
+  confidence: 12.304428
+  tag: texture
+}
+, class Tag {
+  confidence: 12.2884245
+  tag: grunge
+}
+, class Tag {
+  confidence: 12.153689
+  tag: school
+}
+, class Tag {
+  confidence: 11.8761215
+  tag: space
+}
+, class Tag {
+  confidence: 11.445323
+  tag: art
+}
+, class Tag {
+  confidence: 11.143427
+  tag: sheet
+}
+, class Tag {
+  confidence: 11.12548
+  tag: conceptual
+}
+, class Tag {
+  confidence: 10.932815
+  tag: jacket
+}
+, class Tag {
+  confidence: 10.412351
+  tag: class
+}
+, class Tag {
+  confidence: 9.918168
+  tag: old
+}
+, class Tag {
+  confidence: 9.911888
+  tag: cloud
+}
+, class Tag {
+  confidence: 9.542655
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.506715
+  tag: copy
+}
+, class Tag {
+  confidence: 9.360437
+  tag: wrapping
+}
+, class Tag {
+  confidence: 9.310728
+  tag: writing
+}
+, class Tag {
+  confidence: 9.051235
+  tag: message
+}
+, class Tag {
+  confidence: 8.989521
+  tag: data
+}
+, class Tag {
+  confidence: 8.841073
+  tag: decorative
+}
+, class Tag {
+  confidence: 8.822358
+  tag: element
+}
+, class Tag {
+  confidence: 8.761798
+  tag: teach
+}
+, class Tag {
+  confidence: 8.724588
+  tag: classroom
+}
+, class Tag {
+  confidence: 8.708236
+  tag: text
+}
+, class Tag {
+  confidence: 8.707585
+  tag: teacher
+}
+, class Tag {
+  confidence: 8.705114
+  tag: digital
+}
+, class Tag {
+  confidence: 8.542274
+  tag: word
+}
+, class Tag {
+  confidence: 8.507124
+  tag: learn
+}
+, class Tag {
+  confidence: 8.47864
+  tag: write
+}
+, class Tag {
+  confidence: 8.469652
+  tag: finance
+}
+, class Tag {
+  confidence: 8.349214
+  tag: pattern
+}
+, class Tag {
+  confidence: 8.279577
+  tag: cover
+}
+, class Tag {
+  confidence: 8.164724
+  tag: retro
+}
+, class Tag {
+  confidence: 8.013167
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.8849525
+  tag: creative
+}
+, class Tag {
+  confidence: 7.8834796
+  tag: elementary
+}
+, class Tag {
+  confidence: 7.8284206
+  tag: advertise
+}
+, class Tag {
+  confidence: 7.7584715
+  tag: advertisement
+}
+, class Tag {
+  confidence: 7.7491174
+  tag: advertising
+}
+, class Tag {
+  confidence: 7.745941
+  tag: collage
+}
+, class Tag {
+  confidence: 7.737689
+  tag: money
+}
+, class Tag {
+  confidence: 7.686907
+  tag: college
+}
+, class Tag {
+  confidence: 7.1805277
+  tag: information
+}
+, class Tag {
+  confidence: 7.0236077
+  tag: lesson
+}
+]
+}
+]
+  unsuccessful: null
+}

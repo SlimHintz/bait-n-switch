@@ -1,0 +1,220 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHLC9hlUgAEQDMc.jpg
+  tags: [class Tag {
+  confidence: 29.053493
+  tag: web site
+}
+, class Tag {
+  confidence: 25.829098
+  tag: business
+}
+, class Tag {
+  confidence: 19.360193
+  tag: computer
+}
+, class Tag {
+  confidence: 19.17105
+  tag: design
+}
+, class Tag {
+  confidence: 18.377493
+  tag: text
+}
+, class Tag {
+  confidence: 16.97107
+  tag: internet
+}
+, class Tag {
+  confidence: 16.43726
+  tag: paper
+}
+, class Tag {
+  confidence: 15.823167
+  tag: corporate
+}
+, class Tag {
+  confidence: 15.00186
+  tag: web
+}
+, class Tag {
+  confidence: 14.63837
+  tag: template
+}
+, class Tag {
+  confidence: 14.473764
+  tag: graphic
+}
+, class Tag {
+  confidence: 13.436838
+  tag: window
+}
+, class Tag {
+  confidence: 13.252181
+  tag: page
+}
+, class Tag {
+  confidence: 12.889254
+  tag: money
+}
+, class Tag {
+  confidence: 12.785805
+  tag: finance
+}
+, class Tag {
+  confidence: 12.3612995
+  tag: company
+}
+, class Tag {
+  confidence: 12.350501
+  tag: letter
+}
+, class Tag {
+  confidence: 12.231524
+  tag: modern
+}
+, class Tag {
+  confidence: 12.194369
+  tag: blank
+}
+, class Tag {
+  confidence: 11.972941
+  tag: card
+}
+, class Tag {
+  confidence: 11.655818
+  tag: element
+}
+, class Tag {
+  confidence: 11.20614
+  tag: currency
+}
+, class Tag {
+  confidence: 11.163541
+  tag: communication
+}
+, class Tag {
+  confidence: 11.112566
+  tag: menu
+}
+, class Tag {
+  confidence: 11.002305
+  tag: creative
+}
+, class Tag {
+  confidence: 10.714858
+  tag: office
+}
+, class Tag {
+  confidence: 10.666486
+  tag: icon
+}
+, class Tag {
+  confidence: 10.277868
+  tag: sign
+}
+, class Tag {
+  confidence: 10.225163
+  tag: website
+}
+, class Tag {
+  confidence: 9.874326
+  tag: technology
+}
+, class Tag {
+  confidence: 9.71507
+  tag: bank
+}
+, class Tag {
+  confidence: 9.668848
+  tag: information
+}
+, class Tag {
+  confidence: 9.555601
+  tag: art
+}
+, class Tag {
+  confidence: 9.338072
+  tag: set
+}
+, class Tag {
+  confidence: 9.23607
+  tag: banner
+}
+, class Tag {
+  confidence: 9.117961
+  tag: cash
+}
+, class Tag {
+  confidence: 8.952071
+  tag: frame
+}
+, class Tag {
+  confidence: 8.929039
+  tag: layout
+}
+, class Tag {
+  confidence: 8.88089
+  tag: identity
+}
+, class Tag {
+  confidence: 8.778748
+  tag: black
+}
+, class Tag {
+  confidence: 8.748644
+  tag: digital
+}
+, class Tag {
+  confidence: 8.641714
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.271401
+  tag: data
+}
+, class Tag {
+  confidence: 7.7501807
+  tag: dollar
+}
+, class Tag {
+  confidence: 7.6687546
+  tag: banking
+}
+, class Tag {
+  confidence: 7.6576633
+  tag: economy
+}
+, class Tag {
+  confidence: 7.547581
+  tag: collection
+}
+, class Tag {
+  confidence: 7.5003266
+  tag: style
+}
+, class Tag {
+  confidence: 7.371744
+  tag: world wide web
+}
+, class Tag {
+  confidence: 7.2196136
+  tag: collage
+}
+, class Tag {
+  confidence: 7.08425
+  tag: site
+}
+, class Tag {
+  confidence: 7.049471
+  tag: document
+}
+, class Tag {
+  confidence: 7.0002213
+  tag: pen
+}
+]
+}
+]
+  unsuccessful: null
+}

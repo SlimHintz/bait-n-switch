@@ -1,0 +1,328 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPBknXUIAAuWHL.jpg
+  tags: [class Tag {
+  confidence: 36.77063
+  tag: attractive
+}
+, class Tag {
+  confidence: 36.678
+  tag: model
+}
+, class Tag {
+  confidence: 36.224945
+  tag: sexy
+}
+, class Tag {
+  confidence: 34.238018
+  tag: swimsuit
+}
+, class Tag {
+  confidence: 31.534184
+  tag: pretty
+}
+, class Tag {
+  confidence: 30.179008
+  tag: adult
+}
+, class Tag {
+  confidence: 28.304825
+  tag: person
+}
+, class Tag {
+  confidence: 25.221
+  tag: caucasian
+}
+, class Tag {
+  confidence: 24.748846
+  tag: body
+}
+, class Tag {
+  confidence: 24.289274
+  tag: hair
+}
+, class Tag {
+  confidence: 24.142508
+  tag: fashion
+}
+, class Tag {
+  confidence: 23.989523
+  tag: lady
+}
+, class Tag {
+  confidence: 23.675535
+  tag: skirt
+}
+, class Tag {
+  confidence: 22.564838
+  tag: miniskirt
+}
+, class Tag {
+  confidence: 21.33454
+  tag: slim
+}
+, class Tag {
+  confidence: 20.269514
+  tag: cute
+}
+, class Tag {
+  confidence: 19.884516
+  tag: portrait
+}
+, class Tag {
+  confidence: 19.660301
+  tag: women
+}
+, class Tag {
+  confidence: 19.37296
+  tag: clothing
+}
+, class Tag {
+  confidence: 19.307173
+  tag: people
+}
+, class Tag {
+  confidence: 19.260202
+  tag: garment
+}
+, class Tag {
+  confidence: 18.96951
+  tag: posing
+}
+, class Tag {
+  confidence: 18.723022
+  tag: brunette
+}
+, class Tag {
+  confidence: 18.01486
+  tag: one
+}
+, class Tag {
+  confidence: 16.927637
+  tag: bikini
+}
+, class Tag {
+  confidence: 16.33633
+  tag: smiling
+}
+, class Tag {
+  confidence: 16.323679
+  tag: dress
+}
+, class Tag {
+  confidence: 15.923893
+  tag: smile
+}
+, class Tag {
+  confidence: 15.729222
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.996064
+  tag: studio
+}
+, class Tag {
+  confidence: 14.548
+  tag: female
+}
+, class Tag {
+  confidence: 14.246615
+  tag: happy
+}
+, class Tag {
+  confidence: 14.16
+  tag: cover girl
+}
+, class Tag {
+  confidence: 14.01128
+  tag: gorgeous
+}
+, class Tag {
+  confidence: 13.682857
+  tag: human
+}
+, class Tag {
+  confidence: 13.14259
+  tag: athlete
+}
+, class Tag {
+  confidence: 13.08922
+  tag: looking
+}
+, class Tag {
+  confidence: 12.977074
+  tag: blond
+}
+, class Tag {
+  confidence: 12.425639
+  tag: sensual
+}
+, class Tag {
+  confidence: 12.04944
+  tag: glamour
+}
+, class Tag {
+  confidence: 11.791832
+  tag: fit
+}
+, class Tag {
+  confidence: 11.610557
+  tag: healthy
+}
+, class Tag {
+  confidence: 11.582257
+  tag: pose
+}
+, class Tag {
+  confidence: 11.556667
+  tag: black
+}
+, class Tag {
+  confidence: 11.460104
+  tag: skin
+}
+, class Tag {
+  confidence: 11.296721
+  tag: runner
+}
+, class Tag {
+  confidence: 11.230479
+  tag: erotic
+}
+, class Tag {
+  confidence: 11.2190895
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.885015
+  tag: sensuality
+}
+, class Tag {
+  confidence: 10.748103
+  tag: lovely
+}
+, class Tag {
+  confidence: 10.494308
+  tag: standing
+}
+, class Tag {
+  confidence: 10.086537
+  tag: long
+}
+, class Tag {
+  confidence: 10.076643
+  tag: fitness
+}
+, class Tag {
+  confidence: 10.017606
+  tag: summer
+}
+, class Tag {
+  confidence: 9.877533
+  tag: sport
+}
+, class Tag {
+  confidence: 9.379954
+  tag: health
+}
+, class Tag {
+  confidence: 9.360271
+  tag: exercise
+}
+, class Tag {
+  confidence: 9.265891
+  tag: leisure
+}
+, class Tag {
+  confidence: 9.23299
+  tag: active
+}
+, class Tag {
+  confidence: 9.211007
+  tag: girls
+}
+, class Tag {
+  confidence: 9.128573
+  tag: heels
+}
+, class Tag {
+  confidence: 8.967872
+  tag: athletic
+}
+, class Tag {
+  confidence: 8.925336
+  tag: seductive
+}
+, class Tag {
+  confidence: 8.895557
+  tag: style
+}
+, class Tag {
+  confidence: 8.755916
+  tag: legs
+}
+, class Tag {
+  confidence: 8.695716
+  tag: 20s
+}
+, class Tag {
+  confidence: 8.404894
+  tag: hand
+}
+, class Tag {
+  confidence: 8.04557
+  tag: covering
+}
+, class Tag {
+  confidence: 8.006802
+  tag: youth
+}
+, class Tag {
+  confidence: 7.929372
+  tag: face
+}
+, class Tag {
+  confidence: 7.8748775
+  tag: blonde
+}
+, class Tag {
+  confidence: 7.8738055
+  tag: elegance
+}
+, class Tag {
+  confidence: 7.766211
+  tag: beach
+}
+, class Tag {
+  confidence: 7.746237
+  tag: hot
+}
+, class Tag {
+  confidence: 7.662271
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.6377535
+  tag: recreation
+}
+, class Tag {
+  confidence: 7.5785265
+  tag: water
+}
+, class Tag {
+  confidence: 7.5439568
+  tag: fun
+}
+, class Tag {
+  confidence: 7.381536
+  tag: lingerie
+}
+, class Tag {
+  confidence: 7.3609276
+  tag: workout
+}
+]
+}
+]
+  unsuccessful: null
+}

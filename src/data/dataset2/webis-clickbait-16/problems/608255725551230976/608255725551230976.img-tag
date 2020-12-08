@@ -1,0 +1,124 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAc0aBU8AAe1jx.jpg
+  tags: [class Tag {
+  confidence: 45.16685
+  tag: shop
+}
+, class Tag {
+  confidence: 39.34
+  tag: mercantile establishment
+}
+, class Tag {
+  confidence: 26.084
+  tag: place of business
+}
+, class Tag {
+  confidence: 22.52
+  tag: tobacco shop
+}
+, class Tag {
+  confidence: 20.930569
+  tag: building
+}
+, class Tag {
+  confidence: 18.948786
+  tag: bakery
+}
+, class Tag {
+  confidence: 14.328908
+  tag: architecture
+}
+, class Tag {
+  confidence: 13.38146
+  tag: city
+}
+, class Tag {
+  confidence: 13.331877
+  tag: supermarket
+}
+, class Tag {
+  confidence: 12.815561
+  tag: establishment
+}
+, class Tag {
+  confidence: 12.726532
+  tag: business
+}
+, class Tag {
+  confidence: 11.38867
+  tag: structure
+}
+, class Tag {
+  confidence: 11.323082
+  tag: house
+}
+, class Tag {
+  confidence: 11.287791
+  tag: old
+}
+, class Tag {
+  confidence: 11.046955
+  tag: cafe
+}
+, class Tag {
+  confidence: 10.961915
+  tag: home
+}
+, class Tag {
+  confidence: 10.809544
+  tag: grocery store
+}
+, class Tag {
+  confidence: 10.645742
+  tag: urban
+}
+, class Tag {
+  confidence: 10.518938
+  tag: design
+}
+, class Tag {
+  confidence: 8.706197
+  tag: workplace
+}
+, class Tag {
+  confidence: 8.227345
+  tag: restaurant
+}
+, class Tag {
+  confidence: 8.092666
+  tag: marketplace
+}
+, class Tag {
+  confidence: 8.001354
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.962243
+  tag: sky
+}
+, class Tag {
+  confidence: 7.794221
+  tag: travel
+}
+, class Tag {
+  confidence: 7.7109003
+  tag: wall
+}
+, class Tag {
+  confidence: 7.623797
+  tag: light
+}
+, class Tag {
+  confidence: 7.4516807
+  tag: color
+}
+, class Tag {
+  confidence: 7.387061
+  tag: wood
+}
+]
+}
+]
+  unsuccessful: null
+}

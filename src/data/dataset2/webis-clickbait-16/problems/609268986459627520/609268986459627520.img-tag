@@ -1,0 +1,68 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHSO6dgW8AA9PFO.jpg
+  tags: [class Tag {
+  confidence: 54.187862
+  tag: plastic bag
+}
+, class Tag {
+  confidence: 43.522903
+  tag: bag
+}
+, class Tag {
+  confidence: 31.76936
+  tag: container
+}
+, class Tag {
+  confidence: 12.758089
+  tag: burlap
+}
+, class Tag {
+  confidence: 12.309127
+  tag: flag
+}
+, class Tag {
+  confidence: 11.808519
+  tag: decoration
+}
+, class Tag {
+  confidence: 11.14
+  tag: graffito
+}
+, class Tag {
+  confidence: 10.159505
+  tag: celebration
+}
+, class Tag {
+  confidence: 9.903143
+  tag: emblem
+}
+, class Tag {
+  confidence: 9.770586
+  tag: water
+}
+, class Tag {
+  confidence: 9.111059
+  tag: black
+}
+, class Tag {
+  confidence: 7.9896374
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.8265285
+  tag: gift
+}
+, class Tag {
+  confidence: 7.7271605
+  tag: ice
+}
+, class Tag {
+  confidence: 7.1446366
+  tag: smooth
+}
+]
+}
+]
+  unsuccessful: null
+}

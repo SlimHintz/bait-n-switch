@@ -1,0 +1,212 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHVCjcSUcAAOqlO.png
+  tags: [class Tag {
+  confidence: 26.035313
+  tag: adult
+}
+, class Tag {
+  confidence: 24.487041
+  tag: man
+}
+, class Tag {
+  confidence: 22.137125
+  tag: people
+}
+, class Tag {
+  confidence: 21.9601
+  tag: person
+}
+, class Tag {
+  confidence: 21.824537
+  tag: male
+}
+, class Tag {
+  confidence: 18.105043
+  tag: happy
+}
+, class Tag {
+  confidence: 16.825216
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.0918
+  tag: gas
+}
+, class Tag {
+  confidence: 14.32762
+  tag: attractive
+}
+, class Tag {
+  confidence: 13.179102
+  tag: fashion
+}
+, class Tag {
+  confidence: 12.880783
+  tag: pretty
+}
+, class Tag {
+  confidence: 12.764525
+  tag: silhouette
+}
+, class Tag {
+  confidence: 12.661764
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.399642
+  tag: smile
+}
+, class Tag {
+  confidence: 12.133553
+  tag: portrait
+}
+, class Tag {
+  confidence: 12.04687
+  tag: fun
+}
+, class Tag {
+  confidence: 11.961876
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.758417
+  tag: cute
+}
+, class Tag {
+  confidence: 11.72304
+  tag: outdoor
+}
+, class Tag {
+  confidence: 11.625343
+  tag: casual
+}
+, class Tag {
+  confidence: 11.008528
+  tag: looking
+}
+, class Tag {
+  confidence: 10.828227
+  tag: youth
+}
+, class Tag {
+  confidence: 10.678966
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.64534
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.273671
+  tag: boy
+}
+, class Tag {
+  confidence: 10.124295
+  tag: healthy
+}
+, class Tag {
+  confidence: 9.8103695
+  tag: active
+}
+, class Tag {
+  confidence: 9.708995
+  tag: posing
+}
+, class Tag {
+  confidence: 9.549248
+  tag: business
+}
+, class Tag {
+  confidence: 9.335588
+  tag: hair
+}
+, class Tag {
+  confidence: 9.010924
+  tag: human
+}
+, class Tag {
+  confidence: 8.890954
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.645539
+  tag: model
+}
+, class Tag {
+  confidence: 8.568378
+  tag: black
+}
+, class Tag {
+  confidence: 8.56757
+  tag: love
+}
+, class Tag {
+  confidence: 8.453549
+  tag: summer
+}
+, class Tag {
+  confidence: 8.287847
+  tag: joy
+}
+, class Tag {
+  confidence: 8.2658825
+  tag: child
+}
+, class Tag {
+  confidence: 8.256535
+  tag: sky
+}
+, class Tag {
+  confidence: 8.218075
+  tag: one
+}
+, class Tag {
+  confidence: 8.139729
+  tag: businessman
+}
+, class Tag {
+  confidence: 7.989246
+  tag: standing
+}
+, class Tag {
+  confidence: 7.9654756
+  tag: women
+}
+, class Tag {
+  confidence: 7.837155
+  tag: men
+}
+, class Tag {
+  confidence: 7.8371
+  tag: face
+}
+, class Tag {
+  confidence: 7.727459
+  tag: rock
+}
+, class Tag {
+  confidence: 7.513881
+  tag: holding
+}
+, class Tag {
+  confidence: 7.5038223
+  tag: confident
+}
+, class Tag {
+  confidence: 7.433491
+  tag: gorgeous
+}
+, class Tag {
+  confidence: 7.4319644
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.1659546
+  tag: couple
+}
+]
+}
+]
+  unsuccessful: null
+}

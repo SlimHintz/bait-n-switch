@@ -1,0 +1,180 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAH9RFWgAA5itS.jpg
+  tags: [class Tag {
+  confidence: 23.590162
+  tag: person
+}
+, class Tag {
+  confidence: 20.989372
+  tag: people
+}
+, class Tag {
+  confidence: 20.440296
+  tag: adult
+}
+, class Tag {
+  confidence: 19.879051
+  tag: man
+}
+, class Tag {
+  confidence: 19.73993
+  tag: happy
+}
+, class Tag {
+  confidence: 18.491589
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.265396
+  tag: male
+}
+, class Tag {
+  confidence: 17.085232
+  tag: smiling
+}
+, class Tag {
+  confidence: 16.777365
+  tag: portrait
+}
+, class Tag {
+  confidence: 15.990259
+  tag: attractive
+}
+, class Tag {
+  confidence: 15.676078
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 15.03096
+  tag: expression
+}
+, class Tag {
+  confidence: 14.704606
+  tag: smile
+}
+, class Tag {
+  confidence: 12.255763
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.910785
+  tag: casual
+}
+, class Tag {
+  confidence: 11.783347
+  tag: model
+}
+, class Tag {
+  confidence: 11.393909
+  tag: cute
+}
+, class Tag {
+  confidence: 11.363742
+  tag: face
+}
+, class Tag {
+  confidence: 10.80763
+  tag: joy
+}
+, class Tag {
+  confidence: 10.274692
+  tag: fun
+}
+, class Tag {
+  confidence: 10.18162
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.929593
+  tag: human
+}
+, class Tag {
+  confidence: 9.891278
+  tag: cheerful
+}
+, class Tag {
+  confidence: 9.88815
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.780518
+  tag: one
+}
+, class Tag {
+  confidence: 9.7466345
+  tag: looking
+}
+, class Tag {
+  confidence: 9.709626
+  tag: boy
+}
+, class Tag {
+  confidence: 9.554453
+  tag: hair
+}
+, class Tag {
+  confidence: 8.714728
+  tag: youth
+}
+, class Tag {
+  confidence: 8.616888
+  tag: business
+}
+, class Tag {
+  confidence: 8.542755
+  tag: head
+}
+, class Tag {
+  confidence: 8.538783
+  tag: teen
+}
+, class Tag {
+  confidence: 8.531719
+  tag: studio
+}
+, class Tag {
+  confidence: 8.522218
+  tag: relax
+}
+, class Tag {
+  confidence: 8.455988
+  tag: teenager
+}
+, class Tag {
+  confidence: 8.216456
+  tag: companion
+}
+, class Tag {
+  confidence: 8.041763
+  tag: home
+}
+, class Tag {
+  confidence: 7.8579807
+  tag: life
+}
+, class Tag {
+  confidence: 7.553154
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.497744
+  tag: domestic
+}
+, class Tag {
+  confidence: 7.3531356
+  tag: standing
+}
+, class Tag {
+  confidence: 7.119541
+  tag: black
+}
+, class Tag {
+  confidence: 7.039862
+  tag: hand
+}
+]
+}
+]
+  unsuccessful: null
+}

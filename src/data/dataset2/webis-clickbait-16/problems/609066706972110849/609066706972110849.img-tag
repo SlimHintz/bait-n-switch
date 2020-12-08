@@ -1,0 +1,164 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPW8WOWkAA9Bkl.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: blackboard
+}
+, class Tag {
+  confidence: 37.409355
+  tag: sheet
+}
+, class Tag {
+  confidence: 26.296436
+  tag: chalk
+}
+, class Tag {
+  confidence: 21.425333
+  tag: chalkboard
+}
+, class Tag {
+  confidence: 19.567017
+  tag: education
+}
+, class Tag {
+  confidence: 19.304674
+  tag: board
+}
+, class Tag {
+  confidence: 17.29002
+  tag: school
+}
+, class Tag {
+  confidence: 14.934065
+  tag: classroom
+}
+, class Tag {
+  confidence: 14.703582
+  tag: black
+}
+, class Tag {
+  confidence: 12.309303
+  tag: texture
+}
+, class Tag {
+  confidence: 12.17986
+  tag: class
+}
+, class Tag {
+  confidence: 11.135541
+  tag: message
+}
+, class Tag {
+  confidence: 11.109948
+  tag: frame
+}
+, class Tag {
+  confidence: 10.72479
+  tag: pattern
+}
+, class Tag {
+  confidence: 10.678066
+  tag: grunge
+}
+, class Tag {
+  confidence: 10.60616
+  tag: college
+}
+, class Tag {
+  confidence: 10.403498
+  tag: space
+}
+, class Tag {
+  confidence: 10.319478
+  tag: teacher
+}
+, class Tag {
+  confidence: 10.2002945
+  tag: write
+}
+, class Tag {
+  confidence: 9.8531885
+  tag: lesson
+}
+, class Tag {
+  confidence: 9.810713
+  tag: horizontal
+}
+, class Tag {
+  confidence: 9.7331
+  tag: old
+}
+, class Tag {
+  confidence: 9.689492
+  tag: elementary
+}
+, class Tag {
+  confidence: 9.654007
+  tag: student
+}
+, class Tag {
+  confidence: 9.169447
+  tag: design
+}
+, class Tag {
+  confidence: 8.777421
+  tag: blank
+}
+, class Tag {
+  confidence: 8.630352
+  tag: art
+}
+, class Tag {
+  confidence: 8.552597
+  tag: teach
+}
+, class Tag {
+  confidence: 8.275487
+  tag: university
+}
+, class Tag {
+  confidence: 7.953119
+  tag: vintage
+}
+, class Tag {
+  confidence: 7.888417
+  tag: science
+}
+, class Tag {
+  confidence: 7.7966833
+  tag: writing
+}
+, class Tag {
+  confidence: 7.7619815
+  tag: drawing
+}
+, class Tag {
+  confidence: 7.7344894
+  tag: eraser
+}
+, class Tag {
+  confidence: 7.7254686
+  tag: paper
+}
+, class Tag {
+  confidence: 7.6857967
+  tag: communication
+}
+, class Tag {
+  confidence: 7.624192
+  tag: learn
+}
+, class Tag {
+  confidence: 7.5984454
+  tag: dirty
+}
+, class Tag {
+  confidence: 7.3816347
+  tag: back
+}
+]
+}
+]
+  unsuccessful: null
+}

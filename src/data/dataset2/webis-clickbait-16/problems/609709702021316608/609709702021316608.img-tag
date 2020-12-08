@@ -1,0 +1,252 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG47KJYVAAAgsRw.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: map
+}
+, class Tag {
+  confidence: 45.52407
+  tag: representation
+}
+, class Tag {
+  confidence: 30.50361
+  tag: geography
+}
+, class Tag {
+  confidence: 30.043003
+  tag: atlas
+}
+, class Tag {
+  confidence: 26.53932
+  tag: country
+}
+, class Tag {
+  confidence: 23.59921
+  tag: world
+}
+, class Tag {
+  confidence: 19.9597
+  tag: continent
+}
+, class Tag {
+  confidence: 18.178
+  tag: australia
+}
+, class Tag {
+  confidence: 17.569729
+  tag: nation
+}
+, class Tag {
+  confidence: 17.49597
+  tag: earth
+}
+, class Tag {
+  confidence: 17.475697
+  tag: symbol
+}
+, class Tag {
+  confidence: 16.834988
+  tag: design
+}
+, class Tag {
+  confidence: 15.896423
+  tag: global
+}
+, class Tag {
+  confidence: 14.991558
+  tag: europe
+}
+, class Tag {
+  confidence: 14.922571
+  tag: america
+}
+, class Tag {
+  confidence: 14.682616
+  tag: flag
+}
+, class Tag {
+  confidence: 14.530724
+  tag: graphic
+}
+, class Tag {
+  confidence: 14.248597
+  tag: state
+}
+, class Tag {
+  confidence: 14.24464
+  tag: travel
+}
+, class Tag {
+  confidence: 14.128792
+  tag: shape
+}
+, class Tag {
+  confidence: 13.854958
+  tag: land
+}
+, class Tag {
+  confidence: 13.811898
+  tag: globe
+}
+, class Tag {
+  confidence: 13.644506
+  tag: boundary
+}
+, class Tag {
+  confidence: 13.446501
+  tag: topography
+}
+, class Tag {
+  confidence: 13.303946
+  tag: planet
+}
+, class Tag {
+  confidence: 13.124467
+  tag: national
+}
+, class Tag {
+  confidence: 12.775258
+  tag: silhouette
+}
+, class Tag {
+  confidence: 12.663568
+  tag: cartography
+}
+, class Tag {
+  confidence: 12.422468
+  tag: business
+}
+, class Tag {
+  confidence: 12.31787
+  tag: south
+}
+, class Tag {
+  confidence: 12.029917
+  tag: africa
+}
+, class Tag {
+  confidence: 11.7419615
+  tag: usa
+}
+, class Tag {
+  confidence: 11.643863
+  tag: color
+}
+, class Tag {
+  confidence: 11.187948
+  tag: north
+}
+, class Tag {
+  confidence: 10.999162
+  tag: icon
+}
+, class Tag {
+  confidence: 10.87512
+  tag: ocean
+}
+, class Tag {
+  confidence: 10.721077
+  tag: texture
+}
+, class Tag {
+  confidence: 10.514751
+  tag: countries
+}
+, class Tag {
+  confidence: 10.488916
+  tag: 3d
+}
+, class Tag {
+  confidence: 10.437518
+  tag: sign
+}
+, class Tag {
+  confidence: 10.1929655
+  tag: asia
+}
+, class Tag {
+  confidence: 10.133719
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 10.054614
+  tag: border
+}
+, class Tag {
+  confidence: 9.921766
+  tag: pattern
+}
+, class Tag {
+  confidence: 9.773794
+  tag: official
+}
+, class Tag {
+  confidence: 9.262978
+  tag: outline
+}
+, class Tag {
+  confidence: 9.195406
+  tag: paper
+}
+, class Tag {
+  confidence: 9.09599
+  tag: art
+}
+, class Tag {
+  confidence: 8.985376
+  tag: atlantic
+}
+, class Tag {
+  confidence: 8.767667
+  tag: chart
+}
+, class Tag {
+  confidence: 8.653708
+  tag: digital
+}
+, class Tag {
+  confidence: 8.466833
+  tag: east
+}
+, class Tag {
+  confidence: 7.7648387
+  tag: grunge
+}
+, class Tag {
+  confidence: 7.7286243
+  tag: regions
+}
+, class Tag {
+  confidence: 7.403736
+  tag: borders
+}
+, class Tag {
+  confidence: 7.2616215
+  tag: nobody
+}
+, class Tag {
+  confidence: 7.2549143
+  tag: contour
+}
+, class Tag {
+  confidence: 7.23704
+  tag: surface
+}
+, class Tag {
+  confidence: 7.1577134
+  tag: money
+}
+, class Tag {
+  confidence: 7.057297
+  tag: plan
+}
+, class Tag {
+  confidence: 7.0241823
+  tag: diagram
+}
+]
+}
+]
+  unsuccessful: null
+}

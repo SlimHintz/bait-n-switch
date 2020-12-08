@@ -1,0 +1,300 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHC8HGmUYAEgc-n.jpg
+  tags: [class Tag {
+  confidence: 44.795322
+  tag: man
+}
+, class Tag {
+  confidence: 43.18776
+  tag: male
+}
+, class Tag {
+  confidence: 32.20764
+  tag: people
+}
+, class Tag {
+  confidence: 32.14367
+  tag: adult
+}
+, class Tag {
+  confidence: 30.521917
+  tag: caucasian
+}
+, class Tag {
+  confidence: 27.256403
+  tag: portrait
+}
+, class Tag {
+  confidence: 27.123886
+  tag: person
+}
+, class Tag {
+  confidence: 24.062216
+  tag: business
+}
+, class Tag {
+  confidence: 22.684278
+  tag: happy
+}
+, class Tag {
+  confidence: 21.938969
+  tag: attractive
+}
+, class Tag {
+  confidence: 21.846416
+  tag: smiling
+}
+, class Tag {
+  confidence: 21.583654
+  tag: businessman
+}
+, class Tag {
+  confidence: 20.664354
+  tag: smile
+}
+, class Tag {
+  confidence: 20.647324
+  tag: face
+}
+, class Tag {
+  confidence: 20.153187
+  tag: looking
+}
+, class Tag {
+  confidence: 18.9256
+  tag: expression
+}
+, class Tag {
+  confidence: 18.67809
+  tag: couple
+}
+, class Tag {
+  confidence: 18.231667
+  tag: professional
+}
+, class Tag {
+  confidence: 17.906492
+  tag: office
+}
+, class Tag {
+  confidence: 17.582453
+  tag: handsome
+}
+, class Tag {
+  confidence: 17.541826
+  tag: corporate
+}
+, class Tag {
+  confidence: 17.541052
+  tag: men
+}
+, class Tag {
+  confidence: 16.753819
+  tag: love
+}
+, class Tag {
+  confidence: 16.267859
+  tag: executive
+}
+, class Tag {
+  confidence: 15.9051285
+  tag: suit
+}
+, class Tag {
+  confidence: 14.52386
+  tag: beard
+}
+, class Tag {
+  confidence: 13.509068
+  tag: sitting
+}
+, class Tag {
+  confidence: 13.209986
+  tag: two
+}
+, class Tag {
+  confidence: 13.165937
+  tag: businesspeople
+}
+, class Tag {
+  confidence: 13.0327
+  tag: work
+}
+, class Tag {
+  confidence: 12.9208
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.898226
+  tag: guy
+}
+, class Tag {
+  confidence: 12.683114
+  tag: casual
+}
+, class Tag {
+  confidence: 12.22404
+  tag: together
+}
+, class Tag {
+  confidence: 12.03948
+  tag: fashion
+}
+, class Tag {
+  confidence: 11.493633
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.461515
+  tag: black
+}
+, class Tag {
+  confidence: 11.30377
+  tag: close
+}
+, class Tag {
+  confidence: 11.22993
+  tag: hand
+}
+, class Tag {
+  confidence: 11.042532
+  tag: women
+}
+, class Tag {
+  confidence: 11.009312
+  tag: model
+}
+, class Tag {
+  confidence: 10.756422
+  tag: holding
+}
+, class Tag {
+  confidence: 10.6042795
+  tag: standing
+}
+, class Tag {
+  confidence: 10.5301695
+  tag: serious
+}
+, class Tag {
+  confidence: 10.521756
+  tag: tie
+}
+, class Tag {
+  confidence: 10.201499
+  tag: confident
+}
+, class Tag {
+  confidence: 9.889416
+  tag: job
+}
+, class Tag {
+  confidence: 9.88112
+  tag: success
+}
+, class Tag {
+  confidence: 9.869134
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.621475
+  tag: career
+}
+, class Tag {
+  confidence: 9.210532
+  tag: team
+}
+, class Tag {
+  confidence: 9.117939
+  tag: star
+}
+, class Tag {
+  confidence: 8.791606
+  tag: hair
+}
+, class Tag {
+  confidence: 8.784386
+  tag: fashionable
+}
+, class Tag {
+  confidence: 8.670871
+  tag: manager
+}
+, class Tag {
+  confidence: 8.521885
+  tag: studio
+}
+, class Tag {
+  confidence: 8.456842
+  tag: human
+}
+, class Tag {
+  confidence: 8.342384
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.226973
+  tag: romance
+}
+, class Tag {
+  confidence: 8.086137
+  tag: boy
+}
+, class Tag {
+  confidence: 8.068291
+  tag: actor
+}
+, class Tag {
+  confidence: 8.038096
+  tag: american
+}
+, class Tag {
+  confidence: 7.749569
+  tag: friendship
+}
+, class Tag {
+  confidence: 7.679137
+  tag: 20s
+}
+, class Tag {
+  confidence: 7.6722207
+  tag: glasses
+}
+, class Tag {
+  confidence: 7.671912
+  tag: occupation
+}
+, class Tag {
+  confidence: 7.659993
+  tag: successful
+}
+, class Tag {
+  confidence: 7.619012
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 7.357647
+  tag: cute
+}
+, class Tag {
+  confidence: 7.186256
+  tag: double
+}
+, class Tag {
+  confidence: 7.158993
+  tag: day
+}
+, class Tag {
+  confidence: 7.1284294
+  tag: youth
+}
+, class Tag {
+  confidence: 7.070804
+  tag: boss
+}
+]
+}
+]
+  unsuccessful: null
+}

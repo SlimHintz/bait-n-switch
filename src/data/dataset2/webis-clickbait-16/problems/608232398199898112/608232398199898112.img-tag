@@ -1,0 +1,316 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHDgJJdUkAAXKnH.jpg
+  tags: [class Tag {
+  confidence: 29.412203
+  tag: laptop
+}
+, class Tag {
+  confidence: 27.26435
+  tag: computer
+}
+, class Tag {
+  confidence: 25.389198
+  tag: caucasian
+}
+, class Tag {
+  confidence: 24.616844
+  tag: business
+}
+, class Tag {
+  confidence: 23.643152
+  tag: people
+}
+, class Tag {
+  confidence: 23.48695
+  tag: person
+}
+, class Tag {
+  confidence: 23.190731
+  tag: happy
+}
+, class Tag {
+  confidence: 22.751623
+  tag: adult
+}
+, class Tag {
+  confidence: 20.475697
+  tag: smile
+}
+, class Tag {
+  confidence: 19.537455
+  tag: smiling
+}
+, class Tag {
+  confidence: 18.288439
+  tag: technology
+}
+, class Tag {
+  confidence: 18.133436
+  tag: student
+}
+, class Tag {
+  confidence: 17.783676
+  tag: work
+}
+, class Tag {
+  confidence: 17.614063
+  tag: internet
+}
+, class Tag {
+  confidence: 16.763014
+  tag: office
+}
+, class Tag {
+  confidence: 16.711964
+  tag: working
+}
+, class Tag {
+  confidence: 15.442597
+  tag: happiness
+}
+, class Tag {
+  confidence: 15.30565
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 15.045767
+  tag: man
+}
+, class Tag {
+  confidence: 14.930703
+  tag: child
+}
+, class Tag {
+  confidence: 14.272527
+  tag: attractive
+}
+, class Tag {
+  confidence: 14.079671
+  tag: education
+}
+, class Tag {
+  confidence: 13.792893
+  tag: male
+}
+, class Tag {
+  confidence: 13.768357
+  tag: casual
+}
+, class Tag {
+  confidence: 13.304864
+  tag: portrait
+}
+, class Tag {
+  confidence: 12.986628
+  tag: looking
+}
+, class Tag {
+  confidence: 12.977208
+  tag: professional
+}
+, class Tag {
+  confidence: 12.969957
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 12.426824
+  tag: cheerful
+}
+, class Tag {
+  confidence: 12.349805
+  tag: notebook
+}
+, class Tag {
+  confidence: 11.690769
+  tag: wireless
+}
+, class Tag {
+  confidence: 11.542343
+  tag: boy
+}
+, class Tag {
+  confidence: 11.533027
+  tag: study
+}
+, class Tag {
+  confidence: 11.43347
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.174492
+  tag: home
+}
+, class Tag {
+  confidence: 10.98606
+  tag: holding
+}
+, class Tag {
+  confidence: 10.922027
+  tag: kid
+}
+, class Tag {
+  confidence: 10.699036
+  tag: desk
+}
+, class Tag {
+  confidence: 10.697615
+  tag: sit
+}
+, class Tag {
+  confidence: 10.608369
+  tag: corporate
+}
+, class Tag {
+  confidence: 10.573076
+  tag: sitting
+}
+, class Tag {
+  confidence: 10.245692
+  tag: cute
+}
+, class Tag {
+  confidence: 10.192103
+  tag: businessman
+}
+, class Tag {
+  confidence: 10.158976
+  tag: studio
+}
+, class Tag {
+  confidence: 10.1532755
+  tag: worker
+}
+, class Tag {
+  confidence: 10.088424
+  tag: success
+}
+, class Tag {
+  confidence: 9.798405
+  tag: women
+}
+, class Tag {
+  confidence: 9.778178
+  tag: learning
+}
+, class Tag {
+  confidence: 9.772187
+  tag: manager
+}
+, class Tag {
+  confidence: 9.650833
+  tag: executive
+}
+, class Tag {
+  confidence: 9.510328
+  tag: communication
+}
+, class Tag {
+  confidence: 9.503931
+  tag: teenager
+}
+, class Tag {
+  confidence: 9.285216
+  tag: job
+}
+, class Tag {
+  confidence: 9.276551
+  tag: one
+}
+, class Tag {
+  confidence: 9.157868
+  tag: indoors
+}
+, class Tag {
+  confidence: 9.056062
+  tag: employee
+}
+, class Tag {
+  confidence: 9.019081
+  tag: model
+}
+, class Tag {
+  confidence: 8.890146
+  tag: youth
+}
+, class Tag {
+  confidence: 8.717509
+  tag: teen
+}
+, class Tag {
+  confidence: 8.649574
+  tag: phone
+}
+, class Tag {
+  confidence: 8.604331
+  tag: hand
+}
+, class Tag {
+  confidence: 8.504707
+  tag: school
+}
+, class Tag {
+  confidence: 8.216908
+  tag: american
+}
+, class Tag {
+  confidence: 8.187216
+  tag: studying
+}
+, class Tag {
+  confidence: 8.155804
+  tag: finance
+}
+, class Tag {
+  confidence: 8.033324
+  tag: play
+}
+, class Tag {
+  confidence: 8.0143795
+  tag: life
+}
+, class Tag {
+  confidence: 7.9529114
+  tag: keyboard
+}
+, class Tag {
+  confidence: 7.901668
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.7963085
+  tag: hold
+}
+, class Tag {
+  confidence: 7.7026534
+  tag: suit
+}
+, class Tag {
+  confidence: 7.575802
+  tag: family
+}
+, class Tag {
+  confidence: 7.5653124
+  tag: childhood
+}
+, class Tag {
+  confidence: 7.251312
+  tag: mid adult
+}
+, class Tag {
+  confidence: 7.1904755
+  tag: college
+}
+, class Tag {
+  confidence: 7.1224775
+  tag: smart
+}
+, class Tag {
+  confidence: 7.033133
+  tag: mother
+}
+]
+}
+]
+  unsuccessful: null
+}

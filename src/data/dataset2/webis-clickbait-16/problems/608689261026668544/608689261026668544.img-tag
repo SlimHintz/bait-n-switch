@@ -1,0 +1,212 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJ_jebW4AAZxrk.jpg
+  tags: [class Tag {
+  confidence: 17.274794
+  tag: people
+}
+, class Tag {
+  confidence: 16.783339
+  tag: person
+}
+, class Tag {
+  confidence: 15.974531
+  tag: television
+}
+, class Tag {
+  confidence: 15.65871
+  tag: adult
+}
+, class Tag {
+  confidence: 15.15124
+  tag: computer
+}
+, class Tag {
+  confidence: 15.111892
+  tag: happy
+}
+, class Tag {
+  confidence: 14.307282
+  tag: smile
+}
+, class Tag {
+  confidence: 14.0727215
+  tag: technology
+}
+, class Tag {
+  confidence: 13.953496
+  tag: business
+}
+, class Tag {
+  confidence: 13.7337055
+  tag: man
+}
+, class Tag {
+  confidence: 13.635481
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.496082
+  tag: male
+}
+, class Tag {
+  confidence: 12.344623
+  tag: laptop
+}
+, class Tag {
+  confidence: 12.296193
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.864
+  tag: telecommunication system
+}
+, class Tag {
+  confidence: 10.676977
+  tag: internet
+}
+, class Tag {
+  confidence: 10.061703
+  tag: women
+}
+, class Tag {
+  confidence: 9.73775
+  tag: face
+}
+, class Tag {
+  confidence: 9.574924
+  tag: hand
+}
+, class Tag {
+  confidence: 9.425008
+  tag: boy
+}
+, class Tag {
+  confidence: 9.30017
+  tag: screen
+}
+, class Tag {
+  confidence: 9.245685
+  tag: home
+}
+, class Tag {
+  confidence: 9.237055
+  tag: notebook
+}
+, class Tag {
+  confidence: 9.21485
+  tag: expression
+}
+, class Tag {
+  confidence: 9.177985
+  tag: work
+}
+, class Tag {
+  confidence: 9.10504
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.067967
+  tag: black
+}
+, class Tag {
+  confidence: 9.045894
+  tag: portrait
+}
+, class Tag {
+  confidence: 8.979174
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.725464
+  tag: indoors
+}
+, class Tag {
+  confidence: 8.652662
+  tag: fun
+}
+, class Tag {
+  confidence: 8.639889
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.611299
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.574538
+  tag: broadcasting
+}
+, class Tag {
+  confidence: 8.477391
+  tag: casual
+}
+, class Tag {
+  confidence: 8.462809
+  tag: youth
+}
+, class Tag {
+  confidence: 8.344358
+  tag: display
+}
+, class Tag {
+  confidence: 7.986535
+  tag: office
+}
+, class Tag {
+  confidence: 7.773026
+  tag: blank
+}
+, class Tag {
+  confidence: 7.7704744
+  tag: men
+}
+, class Tag {
+  confidence: 7.7670646
+  tag: monitor
+}
+, class Tag {
+  confidence: 7.7238994
+  tag: luxury
+}
+, class Tag {
+  confidence: 7.6293726
+  tag: mobile
+}
+, class Tag {
+  confidence: 7.598597
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.487536
+  tag: 20s
+}
+, class Tag {
+  confidence: 7.441405
+  tag: lady
+}
+, class Tag {
+  confidence: 7.4032454
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 7.376735
+  tag: success
+}
+, class Tag {
+  confidence: 7.165104
+  tag: cute
+}
+, class Tag {
+  confidence: 7.1528387
+  tag: working
+}
+, class Tag {
+  confidence: 7.1502066
+  tag: model
+}
+]
+}
+]
+  unsuccessful: null
+}

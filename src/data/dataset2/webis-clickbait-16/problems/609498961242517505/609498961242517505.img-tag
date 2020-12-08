@@ -1,0 +1,148 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUpmAaUkAAXshN.jpg
+  tags: [class Tag {
+  confidence: 51.39248
+  tag: signboard
+}
+, class Tag {
+  confidence: 38.92
+  tag: book jacket
+}
+, class Tag {
+  confidence: 30.338686
+  tag: jacket
+}
+, class Tag {
+  confidence: 26.48434
+  tag: blackboard
+}
+, class Tag {
+  confidence: 24.348602
+  tag: wrapping
+}
+, class Tag {
+  confidence: 16.685621
+  tag: vintage
+}
+, class Tag {
+  confidence: 15.392175
+  tag: covering
+}
+, class Tag {
+  confidence: 14.541341
+  tag: billboard
+}
+, class Tag {
+  confidence: 14.466399
+  tag: stamp
+}
+, class Tag {
+  confidence: 13.582592
+  tag: mail
+}
+, class Tag {
+  confidence: 13.267966
+  tag: old
+}
+, class Tag {
+  confidence: 12.239403
+  tag: retro
+}
+, class Tag {
+  confidence: 11.793431
+  tag: postmark
+}
+, class Tag {
+  confidence: 11.219951
+  tag: structure
+}
+, class Tag {
+  confidence: 11.213998
+  tag: communication
+}
+, class Tag {
+  confidence: 11.194732
+  tag: sign
+}
+, class Tag {
+  confidence: 11.0939665
+  tag: postal
+}
+, class Tag {
+  confidence: 11.066215
+  tag: postage
+}
+, class Tag {
+  confidence: 11.043374
+  tag: letter
+}
+, class Tag {
+  confidence: 10.818591
+  tag: message
+}
+, class Tag {
+  confidence: 10.625214
+  tag: card
+}
+, class Tag {
+  confidence: 10.073678
+  tag: grunge
+}
+, class Tag {
+  confidence: 9.662616
+  tag: frame
+}
+, class Tag {
+  confidence: 9.597676
+  tag: philately
+}
+, class Tag {
+  confidence: 9.494003
+  tag: business
+}
+, class Tag {
+  confidence: 8.709452
+  tag: paper
+}
+, class Tag {
+  confidence: 8.29671
+  tag: black
+}
+, class Tag {
+  confidence: 7.645006
+  tag: ancient
+}
+, class Tag {
+  confidence: 7.521835
+  tag: travel
+}
+, class Tag {
+  confidence: 7.508496
+  tag: space
+}
+, class Tag {
+  confidence: 7.411762
+  tag: aged
+}
+, class Tag {
+  confidence: 7.350625
+  tag: circa
+}
+, class Tag {
+  confidence: 7.2843328
+  tag: envelope
+}
+, class Tag {
+  confidence: 7.020349
+  tag: blank
+}
+, class Tag {
+  confidence: 7.0043726
+  tag: texture
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,188 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKuqXVUIAIQuw4.jpg
+  tags: [class Tag {
+  confidence: 26.70086
+  tag: person
+}
+, class Tag {
+  confidence: 21.872896
+  tag: adult
+}
+, class Tag {
+  confidence: 21.727257
+  tag: people
+}
+, class Tag {
+  confidence: 20.486477
+  tag: male
+}
+, class Tag {
+  confidence: 19.41961
+  tag: man
+}
+, class Tag {
+  confidence: 19.303173
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.879642
+  tag: face
+}
+, class Tag {
+  confidence: 17.549225
+  tag: portrait
+}
+, class Tag {
+  confidence: 17.14431
+  tag: black
+}
+, class Tag {
+  confidence: 16.176325
+  tag: smile
+}
+, class Tag {
+  confidence: 15.599706
+  tag: model
+}
+, class Tag {
+  confidence: 15.067053
+  tag: happy
+}
+, class Tag {
+  confidence: 14.736587
+  tag: silhouette
+}
+, class Tag {
+  confidence: 14.374358
+  tag: expression
+}
+, class Tag {
+  confidence: 14.310689
+  tag: human
+}
+, class Tag {
+  confidence: 13.347613
+  tag: head
+}
+, class Tag {
+  confidence: 12.898945
+  tag: studio
+}
+, class Tag {
+  confidence: 12.776175
+  tag: youth
+}
+, class Tag {
+  confidence: 12.761967
+  tag: attractive
+}
+, class Tag {
+  confidence: 11.710291
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.689203
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.293987
+  tag: one
+}
+, class Tag {
+  confidence: 11.097039
+  tag: teenager
+}
+, class Tag {
+  confidence: 10.408425
+  tag: casual
+}
+, class Tag {
+  confidence: 10.392282
+  tag: hair
+}
+, class Tag {
+  confidence: 10.166732
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.015241
+  tag: fashion
+}
+, class Tag {
+  confidence: 9.97576
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.946827
+  tag: hand
+}
+, class Tag {
+  confidence: 9.826167
+  tag: body
+}
+, class Tag {
+  confidence: 9.792942
+  tag: boy
+}
+, class Tag {
+  confidence: 9.681143
+  tag: women
+}
+, class Tag {
+  confidence: 9.65274
+  tag: hands
+}
+, class Tag {
+  confidence: 9.34494
+  tag: alone
+}
+, class Tag {
+  confidence: 9.302862
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.257212
+  tag: business
+}
+, class Tag {
+  confidence: 8.974989
+  tag: fun
+}
+, class Tag {
+  confidence: 7.7741776
+  tag: teen
+}
+, class Tag {
+  confidence: 7.6469955
+  tag: technology
+}
+, class Tag {
+  confidence: 7.6184683
+  tag: pose
+}
+, class Tag {
+  confidence: 7.403946
+  tag: indoors
+}
+, class Tag {
+  confidence: 7.362554
+  tag: to
+}
+, class Tag {
+  confidence: 7.36
+  tag: ski mask
+}
+, class Tag {
+  confidence: 7.2171664
+  tag: modern
+}
+, class Tag {
+  confidence: 7.0745482
+  tag: health
+}
+]
+}
+]
+  unsuccessful: null
+}

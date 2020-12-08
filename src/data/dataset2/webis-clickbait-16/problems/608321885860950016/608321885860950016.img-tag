@@ -1,0 +1,152 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHExiAqWoAA_sZ3.png
+  tags: [class Tag {
+  confidence: 100.0
+  tag: chocolate sauce
+}
+, class Tag {
+  confidence: 91.61639
+  tag: sauce
+}
+, class Tag {
+  confidence: 68.805244
+  tag: condiment
+}
+, class Tag {
+  confidence: 46.264
+  tag: flavorer
+}
+, class Tag {
+  confidence: 26.082237
+  tag: dessert
+}
+, class Tag {
+  confidence: 25.88252
+  tag: chocolate
+}
+, class Tag {
+  confidence: 24.316002
+  tag: ingredient
+}
+, class Tag {
+  confidence: 20.361507
+  tag: food
+}
+, class Tag {
+  confidence: 17.904783
+  tag: sweet
+}
+, class Tag {
+  confidence: 16.342882
+  tag: delicious
+}
+, class Tag {
+  confidence: 15.554574
+  tag: plate
+}
+, class Tag {
+  confidence: 14.24098
+  tag: tasty
+}
+, class Tag {
+  confidence: 13.654877
+  tag: cake
+}
+, class Tag {
+  confidence: 13.472599
+  tag: sugar
+}
+, class Tag {
+  confidence: 12.347647
+  tag: ice cream
+}
+, class Tag {
+  confidence: 12.276236
+  tag: snack
+}
+, class Tag {
+  confidence: 11.582687
+  tag: fruit
+}
+, class Tag {
+  confidence: 11.321063
+  tag: gourmet
+}
+, class Tag {
+  confidence: 11.013739
+  tag: slice
+}
+, class Tag {
+  confidence: 10.712016
+  tag: eat
+}
+, class Tag {
+  confidence: 10.487633
+  tag: fresh
+}
+, class Tag {
+  confidence: 10.258515
+  tag: meal
+}
+, class Tag {
+  confidence: 10.130544
+  tag: brown
+}
+, class Tag {
+  confidence: 10.109712
+  tag: restaurant
+}
+, class Tag {
+  confidence: 9.224192
+  tag: eating
+}
+, class Tag {
+  confidence: 9.215323
+  tag: dish
+}
+, class Tag {
+  confidence: 8.543363
+  tag: frozen dessert
+}
+, class Tag {
+  confidence: 8.268252
+  tag: calories
+}
+, class Tag {
+  confidence: 8.22644
+  tag: cooking
+}
+, class Tag {
+  confidence: 8.126192
+  tag: pastry
+}
+, class Tag {
+  confidence: 7.804797
+  tag: diet
+}
+, class Tag {
+  confidence: 7.7729697
+  tag: cream
+}
+, class Tag {
+  confidence: 7.588793
+  tag: dinner
+}
+, class Tag {
+  confidence: 7.4576592
+  tag: closeup
+}
+, class Tag {
+  confidence: 7.363085
+  tag: treat
+}
+, class Tag {
+  confidence: 7.2083335
+  tag: cook
+}
+]
+}
+]
+  unsuccessful: null
+}

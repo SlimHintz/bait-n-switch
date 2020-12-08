@@ -1,0 +1,304 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHG_Q-QXIAEEYN2.jpg
+  tags: [class Tag {
+  confidence: 22.018415
+  tag: people
+}
+, class Tag {
+  confidence: 20.594505
+  tag: man
+}
+, class Tag {
+  confidence: 19.751972
+  tag: male
+}
+, class Tag {
+  confidence: 19.430504
+  tag: vehicle
+}
+, class Tag {
+  confidence: 16.803877
+  tag: person
+}
+, class Tag {
+  confidence: 15.536431
+  tag: caucasian
+}
+, class Tag {
+  confidence: 15.123964
+  tag: happy
+}
+, class Tag {
+  confidence: 14.405885
+  tag: sled
+}
+, class Tag {
+  confidence: 14.1132145
+  tag: sport
+}
+, class Tag {
+  confidence: 13.91614
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 13.701972
+  tag: athlete
+}
+, class Tag {
+  confidence: 13.264735
+  tag: adult
+}
+, class Tag {
+  confidence: 13.010698
+  tag: smile
+}
+, class Tag {
+  confidence: 12.676035
+  tag: silhouette
+}
+, class Tag {
+  confidence: 12.641295
+  tag: smiling
+}
+, class Tag {
+  confidence: 12.631329
+  tag: player
+}
+, class Tag {
+  confidence: 12.392359
+  tag: competition
+}
+, class Tag {
+  confidence: 12.093384
+  tag: muscular
+}
+, class Tag {
+  confidence: 11.9163
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.334705
+  tag: fun
+}
+, class Tag {
+  confidence: 11.298116
+  tag: crowd
+}
+, class Tag {
+  confidence: 11.232403
+  tag: skill
+}
+, class Tag {
+  confidence: 11.027484
+  tag: boy
+}
+, class Tag {
+  confidence: 10.962784
+  tag: training
+}
+, class Tag {
+  confidence: 10.810745
+  tag: casual
+}
+, class Tag {
+  confidence: 10.77109
+  tag: event
+}
+, class Tag {
+  confidence: 10.586787
+  tag: team
+}
+, class Tag {
+  confidence: 10.431868
+  tag: patriotic
+}
+, class Tag {
+  confidence: 10.4128685
+  tag: match
+}
+, class Tag {
+  confidence: 10.383884
+  tag: soccer
+}
+, class Tag {
+  confidence: 10.217711
+  tag: bobsled
+}
+, class Tag {
+  confidence: 10.015895
+  tag: flag
+}
+, class Tag {
+  confidence: 9.917153
+  tag: internet
+}
+, class Tag {
+  confidence: 9.680754
+  tag: audience
+}
+, class Tag {
+  confidence: 9.678731
+  tag: field
+}
+, class Tag {
+  confidence: 9.643894
+  tag: championship
+}
+, class Tag {
+  confidence: 9.631391
+  tag: stadium
+}
+, class Tag {
+  confidence: 9.621196
+  tag: kick
+}
+, class Tag {
+  confidence: 9.6028595
+  tag: pass
+}
+, class Tag {
+  confidence: 9.558716
+  tag: shoot
+}
+, class Tag {
+  confidence: 9.462059
+  tag: nation
+}
+, class Tag {
+  confidence: 9.388477
+  tag: ball
+}
+, class Tag {
+  confidence: 9.353404
+  tag: men
+}
+, class Tag {
+  confidence: 9.302061
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.650095
+  tag: vibrant
+}
+, class Tag {
+  confidence: 8.620324
+  tag: goal
+}
+, class Tag {
+  confidence: 8.415626
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.335064
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.300568
+  tag: lights
+}
+, class Tag {
+  confidence: 8.266297
+  tag: bright
+}
+, class Tag {
+  confidence: 8.192104
+  tag: sky
+}
+, class Tag {
+  confidence: 8.094421
+  tag: blond
+}
+, class Tag {
+  confidence: 8.072208
+  tag: group
+}
+, class Tag {
+  confidence: 8.054716
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.047286
+  tag: design
+}
+, class Tag {
+  confidence: 7.8313966
+  tag: shiny
+}
+, class Tag {
+  confidence: 7.8105416
+  tag: home
+}
+, class Tag {
+  confidence: 7.7643485
+  tag: football
+}
+, class Tag {
+  confidence: 7.705425
+  tag: youth
+}
+, class Tag {
+  confidence: 7.6786113
+  tag: day
+}
+, class Tag {
+  confidence: 7.5899477
+  tag: human
+}
+, class Tag {
+  confidence: 7.5413485
+  tag: glowing
+}
+, class Tag {
+  confidence: 7.5345306
+  tag: relax
+}
+, class Tag {
+  confidence: 7.5243936
+  tag: hand
+}
+, class Tag {
+  confidence: 7.3714843
+  tag: technology
+}
+, class Tag {
+  confidence: 7.280184
+  tag: looking
+}
+, class Tag {
+  confidence: 7.2686462
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.246739
+  tag: portrait
+}
+, class Tag {
+  confidence: 7.217361
+  tag: computer
+}
+, class Tag {
+  confidence: 7.207254
+  tag: icon
+}
+, class Tag {
+  confidence: 7.1976247
+  tag: women
+}
+, class Tag {
+  confidence: 7.1903906
+  tag: world
+}
+, class Tag {
+  confidence: 7.161077
+  tag: working
+}
+, class Tag {
+  confidence: 7.135873
+  tag: indoors
+}
+]
+}
+]
+  unsuccessful: null
+}

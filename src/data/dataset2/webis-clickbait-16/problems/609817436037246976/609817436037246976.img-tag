@@ -1,0 +1,240 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHaBtMCUcAIMAn1.jpg
+  tags: [class Tag {
+  confidence: 40.926357
+  tag: receiver
+}
+, class Tag {
+  confidence: 31.259596
+  tag: screen
+}
+, class Tag {
+  confidence: 29.679405
+  tag: computer
+}
+, class Tag {
+  confidence: 28.261974
+  tag: technology
+}
+, class Tag {
+  confidence: 24.288769
+  tag: display
+}
+, class Tag {
+  confidence: 23.122429
+  tag: internet
+}
+, class Tag {
+  confidence: 22.621841
+  tag: keyboard
+}
+, class Tag {
+  confidence: 22.132225
+  tag: laptop
+}
+, class Tag {
+  confidence: 21.722494
+  tag: monitor
+}
+, class Tag {
+  confidence: 20.9853
+  tag: business
+}
+, class Tag {
+  confidence: 16.201757
+  tag: office
+}
+, class Tag {
+  confidence: 16.148611
+  tag: equipment
+}
+, class Tag {
+  confidence: 16.014227
+  tag: pc
+}
+, class Tag {
+  confidence: 15.867648
+  tag: modern
+}
+, class Tag {
+  confidence: 15.751102
+  tag: digital
+}
+, class Tag {
+  confidence: 15.73313
+  tag: black
+}
+, class Tag {
+  confidence: 15.136324
+  tag: electronic
+}
+, class Tag {
+  confidence: 14.668268
+  tag: control
+}
+, class Tag {
+  confidence: 14.388884
+  tag: web
+}
+, class Tag {
+  confidence: 14.2925825
+  tag: lcd
+}
+, class Tag {
+  confidence: 14.073985
+  tag: television
+}
+, class Tag {
+  confidence: 13.893017
+  tag: desktop
+}
+, class Tag {
+  confidence: 13.574766
+  tag: notebook
+}
+, class Tag {
+  confidence: 13.25873
+  tag: symbol
+}
+, class Tag {
+  confidence: 12.730983
+  tag: button
+}
+, class Tag {
+  confidence: 12.219731
+  tag: icon
+}
+, class Tag {
+  confidence: 12.138849
+  tag: communication
+}
+, class Tag {
+  confidence: 11.685925
+  tag: design
+}
+, class Tag {
+  confidence: 11.499466
+  tag: information
+}
+, class Tag {
+  confidence: 11.414799
+  tag: silver
+}
+, class Tag {
+  confidence: 11.18
+  tag: background
+}
+, class Tag {
+  confidence: 10.865287
+  tag: panel
+}
+, class Tag {
+  confidence: 10.189854
+  tag: industry
+}
+, class Tag {
+  confidence: 9.873354
+  tag: mobile
+}
+, class Tag {
+  confidence: 9.860386
+  tag: hand
+}
+, class Tag {
+  confidence: 9.815591
+  tag: blank
+}
+, class Tag {
+  confidence: 9.74472
+  tag: key
+}
+, class Tag {
+  confidence: 9.58009
+  tag: data
+}
+, class Tag {
+  confidence: 9.557344
+  tag: 3d
+}
+, class Tag {
+  confidence: 9.541484
+  tag: connection
+}
+, class Tag {
+  confidence: 9.461688
+  tag: device
+}
+, class Tag {
+  confidence: 9.428288
+  tag: object
+}
+, class Tag {
+  confidence: 9.254162
+  tag: sign
+}
+, class Tag {
+  confidence: 9.245608
+  tag: hardware
+}
+, class Tag {
+  confidence: 9.032847
+  tag: network
+}
+, class Tag {
+  confidence: 8.834263
+  tag: work
+}
+, class Tag {
+  confidence: 8.663904
+  tag: joystick
+}
+, class Tag {
+  confidence: 8.520862
+  tag: flat
+}
+, class Tag {
+  confidence: 8.349154
+  tag: electronics
+}
+, class Tag {
+  confidence: 8.254756
+  tag: metal
+}
+, class Tag {
+  confidence: 8.128844
+  tag: entertainment
+}
+, class Tag {
+  confidence: 8.000092
+  tag: broadcasting
+}
+, class Tag {
+  confidence: 7.765303
+  tag: electrical
+}
+, class Tag {
+  confidence: 7.612969
+  tag: push
+}
+, class Tag {
+  confidence: 7.5306735
+  tag: person
+}
+, class Tag {
+  confidence: 7.2998433
+  tag: man
+}
+, class Tag {
+  confidence: 7.1861033
+  tag: tv
+}
+, class Tag {
+  confidence: 7.080661
+  tag: portable
+}
+]
+}
+]
+  unsuccessful: null
+}

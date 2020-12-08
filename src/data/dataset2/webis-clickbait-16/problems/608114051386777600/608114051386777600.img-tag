@@ -1,0 +1,316 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_m0SCUAAAIV5D.png
+  tags: [class Tag {
+  confidence: 53.96034
+  tag: city
+}
+, class Tag {
+  confidence: 44.653248
+  tag: architecture
+}
+, class Tag {
+  confidence: 36.756123
+  tag: cityscape
+}
+, class Tag {
+  confidence: 36.74155
+  tag: building
+}
+, class Tag {
+  confidence: 36.241295
+  tag: urban
+}
+, class Tag {
+  confidence: 29.937899
+  tag: sky
+}
+, class Tag {
+  confidence: 29.049673
+  tag: travel
+}
+, class Tag {
+  confidence: 25.532328
+  tag: skyline
+}
+, class Tag {
+  confidence: 23.67998
+  tag: buildings
+}
+, class Tag {
+  confidence: 23.04675
+  tag: tourism
+}
+, class Tag {
+  confidence: 23.033089
+  tag: europe
+}
+, class Tag {
+  confidence: 22.339882
+  tag: town
+}
+, class Tag {
+  confidence: 22.030619
+  tag: panorama
+}
+, class Tag {
+  confidence: 21.606773
+  tag: landmark
+}
+, class Tag {
+  confidence: 21.380854
+  tag: tower
+}
+, class Tag {
+  confidence: 19.208363
+  tag: old
+}
+, class Tag {
+  confidence: 18.285812
+  tag: landscape
+}
+, class Tag {
+  confidence: 18.014961
+  tag: aerial
+}
+, class Tag {
+  confidence: 17.02672
+  tag: river
+}
+, class Tag {
+  confidence: 16.814716
+  tag: skyscraper
+}
+, class Tag {
+  confidence: 16.162823
+  tag: exterior
+}
+, class Tag {
+  confidence: 16.07941
+  tag: downtown
+}
+, class Tag {
+  confidence: 15.587286
+  tag: street
+}
+, class Tag {
+  confidence: 15.2064705
+  tag: ancient
+}
+, class Tag {
+  confidence: 15.17098
+  tag: house
+}
+, class Tag {
+  confidence: 14.903582
+  tag: water
+}
+, class Tag {
+  confidence: 14.440023
+  tag: structure
+}
+, class Tag {
+  confidence: 14.130828
+  tag: manhattan
+}
+, class Tag {
+  confidence: 14.020899
+  tag: history
+}
+, class Tag {
+  confidence: 13.556358
+  tag: historic
+}
+, class Tag {
+  confidence: 13.469035
+  tag: metropolitan
+}
+, class Tag {
+  confidence: 13.096512
+  tag: bridge
+}
+, class Tag {
+  confidence: 12.976334
+  tag: hill
+}
+, class Tag {
+  confidence: 12.801501
+  tag: church
+}
+, class Tag {
+  confidence: 12.492146
+  tag: panoramic
+}
+, class Tag {
+  confidence: 12.333259
+  tag: capital
+}
+, class Tag {
+  confidence: 11.556107
+  tag: tourist
+}
+, class Tag {
+  confidence: 11.454774
+  tag: roof
+}
+, class Tag {
+  confidence: 11.306961
+  tag: waterfront
+}
+, class Tag {
+  confidence: 11.220231
+  tag: monument
+}
+, class Tag {
+  confidence: 11.102276
+  tag: modern
+}
+, class Tag {
+  confidence: 10.991041
+  tag: construction
+}
+, class Tag {
+  confidence: 10.9748745
+  tag: sun
+}
+, class Tag {
+  confidence: 10.693744
+  tag: sea
+}
+, class Tag {
+  confidence: 10.413303
+  tag: summer
+}
+, class Tag {
+  confidence: 10.113343
+  tag: roofs
+}
+, class Tag {
+  confidence: 9.931222
+  tag: district
+}
+, class Tag {
+  confidence: 9.869571
+  tag: business
+}
+, class Tag {
+  confidence: 9.790402
+  tag: cathedral
+}
+, class Tag {
+  confidence: 9.680645
+  tag: scenic
+}
+, class Tag {
+  confidence: 9.635463
+  tag: bay
+}
+, class Tag {
+  confidence: 9.622517
+  tag: ship
+}
+, class Tag {
+  confidence: 9.609212
+  tag: france
+}
+, class Tag {
+  confidence: 9.600058
+  tag: historical
+}
+, class Tag {
+  confidence: 9.583179
+  tag: scene
+}
+, class Tag {
+  confidence: 9.416443
+  tag: culture
+}
+, class Tag {
+  confidence: 9.408753
+  tag: famous
+}
+, class Tag {
+  confidence: 9.171614
+  tag: european
+}
+, class Tag {
+  confidence: 9.161394
+  tag: sunset
+}
+, class Tag {
+  confidence: 9.101355
+  tag: skyscrapers
+}
+, class Tag {
+  confidence: 9.028575
+  tag: houses
+}
+, class Tag {
+  confidence: 9.019216
+  tag: night
+}
+, class Tag {
+  confidence: 8.740851
+  tag: high
+}
+, class Tag {
+  confidence: 8.569181
+  tag: boat
+}
+, class Tag {
+  confidence: 8.532745
+  tag: outdoor
+}
+, class Tag {
+  confidence: 8.479935
+  tag: clouds
+}
+, class Tag {
+  confidence: 8.3028755
+  tag: scenery
+}
+, class Tag {
+  confidence: 8.231033
+  tag: religion
+}
+, class Tag {
+  confidence: 8.230432
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.9497914
+  tag: day
+}
+, class Tag {
+  confidence: 7.7983956
+  tag: tall
+}
+, class Tag {
+  confidence: 7.5854387
+  tag: usa
+}
+, class Tag {
+  confidence: 7.5346904
+  tag: office
+}
+, class Tag {
+  confidence: 7.184905
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.105115
+  tag: harbor
+}
+, class Tag {
+  confidence: 7.098336
+  tag: residential
+}
+, class Tag {
+  confidence: 7.002528
+  tag: tree
+}
+]
+}
+]
+  unsuccessful: null
+}

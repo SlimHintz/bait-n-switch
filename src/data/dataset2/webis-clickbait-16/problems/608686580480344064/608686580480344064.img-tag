@@ -1,0 +1,200 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJ8JpCW0AAGm_Y.jpg
+  tags: [class Tag {
+  confidence: 27.643652
+  tag: basketball
+}
+, class Tag {
+  confidence: 25.203974
+  tag: ball
+}
+, class Tag {
+  confidence: 23.987864
+  tag: man
+}
+, class Tag {
+  confidence: 23.55818
+  tag: sport
+}
+, class Tag {
+  confidence: 22.349257
+  tag: male
+}
+, class Tag {
+  confidence: 22.317732
+  tag: king
+}
+, class Tag {
+  confidence: 22.106134
+  tag: adult
+}
+, class Tag {
+  confidence: 21.589117
+  tag: athlete
+}
+, class Tag {
+  confidence: 20.601332
+  tag: people
+}
+, class Tag {
+  confidence: 19.401693
+  tag: caucasian
+}
+, class Tag {
+  confidence: 19.072
+  tag: basketball equipment
+}
+, class Tag {
+  confidence: 17.678858
+  tag: person
+}
+, class Tag {
+  confidence: 16.9261
+  tag: rival
+}
+, class Tag {
+  confidence: 14.304
+  tag: game equipment
+}
+, class Tag {
+  confidence: 14.286933
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 13.055346
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.934406
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.962232
+  tag: happy
+}
+, class Tag {
+  confidence: 11.323023
+  tag: fun
+}
+, class Tag {
+  confidence: 10.268798
+  tag: back
+}
+, class Tag {
+  confidence: 10.242085
+  tag: handsome
+}
+, class Tag {
+  confidence: 10.007373
+  tag: healthy
+}
+, class Tag {
+  confidence: 9.875646
+  tag: smile
+}
+, class Tag {
+  confidence: 9.844532
+  tag: attractive
+}
+, class Tag {
+  confidence: 9.792337
+  tag: player
+}
+, class Tag {
+  confidence: 9.750399
+  tag: equipment
+}
+, class Tag {
+  confidence: 9.547473
+  tag: hat
+}
+, class Tag {
+  confidence: 9.216465
+  tag: standing
+}
+, class Tag {
+  confidence: 8.906943
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.783642
+  tag: playing
+}
+, class Tag {
+  confidence: 8.768284
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.698232
+  tag: child
+}
+, class Tag {
+  confidence: 8.592107
+  tag: family
+}
+, class Tag {
+  confidence: 8.464752
+  tag: boy
+}
+, class Tag {
+  confidence: 8.192701
+  tag: work
+}
+, class Tag {
+  confidence: 8.132191
+  tag: competition
+}
+, class Tag {
+  confidence: 7.956013
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.9277773
+  tag: activity
+}
+, class Tag {
+  confidence: 7.8629394
+  tag: game
+}
+, class Tag {
+  confidence: 7.6550384
+  tag: men
+}
+, class Tag {
+  confidence: 7.581378
+  tag: casual
+}
+, class Tag {
+  confidence: 7.5528326
+  tag: cute
+}
+, class Tag {
+  confidence: 7.390375
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.341718
+  tag: fitness
+}
+, class Tag {
+  confidence: 7.33577
+  tag: runner
+}
+, class Tag {
+  confidence: 7.2813144
+  tag: team
+}
+, class Tag {
+  confidence: 7.273628
+  tag: active
+}
+, class Tag {
+  confidence: 7.1614103
+  tag: looking
+}
+]
+}
+]
+  unsuccessful: null
+}

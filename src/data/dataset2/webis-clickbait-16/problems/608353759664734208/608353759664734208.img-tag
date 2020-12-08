@@ -1,0 +1,184 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHFN0sOXIAABLAf.jpg
+  tags: [class Tag {
+  confidence: 21.26464
+  tag: happy
+}
+, class Tag {
+  confidence: 18.765932
+  tag: person
+}
+, class Tag {
+  confidence: 16.26769
+  tag: fun
+}
+, class Tag {
+  confidence: 15.889465
+  tag: cute
+}
+, class Tag {
+  confidence: 15.302559
+  tag: adult
+}
+, class Tag {
+  confidence: 15.187879
+  tag: smile
+}
+, class Tag {
+  confidence: 14.890061
+  tag: people
+}
+, class Tag {
+  confidence: 14.570127
+  tag: man
+}
+, class Tag {
+  confidence: 14.0337
+  tag: male
+}
+, class Tag {
+  confidence: 13.533035
+  tag: happiness
+}
+, class Tag {
+  confidence: 13.207524
+  tag: face
+}
+, class Tag {
+  confidence: 12.96339
+  tag: joy
+}
+, class Tag {
+  confidence: 12.894616
+  tag: portrait
+}
+, class Tag {
+  confidence: 12.03172
+  tag: cheerful
+}
+, class Tag {
+  confidence: 11.992627
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.84583
+  tag: attractive
+}
+, class Tag {
+  confidence: 11.444308
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.668606
+  tag: child
+}
+, class Tag {
+  confidence: 10.206039
+  tag: casual
+}
+, class Tag {
+  confidence: 10.184782
+  tag: model
+}
+, class Tag {
+  confidence: 10.15776
+  tag: expression
+}
+, class Tag {
+  confidence: 9.968384
+  tag: relax
+}
+, class Tag {
+  confidence: 9.816591
+  tag: animal
+}
+, class Tag {
+  confidence: 9.808952
+  tag: human
+}
+, class Tag {
+  confidence: 9.202253
+  tag: grass
+}
+, class Tag {
+  confidence: 9.127041
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.087787
+  tag: piglet
+}
+, class Tag {
+  confidence: 9.083664
+  tag: summer
+}
+, class Tag {
+  confidence: 8.799554
+  tag: boy
+}
+, class Tag {
+  confidence: 8.662088
+  tag: home
+}
+, class Tag {
+  confidence: 8.49377
+  tag: day
+}
+, class Tag {
+  confidence: 8.320332
+  tag: color
+}
+, class Tag {
+  confidence: 8.0132675
+  tag: hair
+}
+, class Tag {
+  confidence: 7.937183
+  tag: love
+}
+, class Tag {
+  confidence: 7.8335676
+  tag: youth
+}
+, class Tag {
+  confidence: 7.599478
+  tag: teen
+}
+, class Tag {
+  confidence: 7.5833626
+  tag: dog
+}
+, class Tag {
+  confidence: 7.5697775
+  tag: health
+}
+, class Tag {
+  confidence: 7.560688
+  tag: emotion
+}
+, class Tag {
+  confidence: 7.4996614
+  tag: pet
+}
+, class Tag {
+  confidence: 7.4368677
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.393266
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.2801833
+  tag: little
+}
+, class Tag {
+  confidence: 7.0073934
+  tag: fashion
+}
+]
+}
+]
+  unsuccessful: null
+}

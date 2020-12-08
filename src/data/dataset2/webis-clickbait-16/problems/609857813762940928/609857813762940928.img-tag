@@ -1,0 +1,336 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHamc0TWcAA2D8x.jpg
+  tags: [class Tag {
+  confidence: 49.472523
+  tag: portrait
+}
+, class Tag {
+  confidence: 44.751526
+  tag: face
+}
+, class Tag {
+  confidence: 40.68542
+  tag: hair
+}
+, class Tag {
+  confidence: 36.481277
+  tag: model
+}
+, class Tag {
+  confidence: 33.984535
+  tag: pretty
+}
+, class Tag {
+  confidence: 32.448284
+  tag: attractive
+}
+, class Tag {
+  confidence: 29.326534
+  tag: cute
+}
+, class Tag {
+  confidence: 28.58656
+  tag: brunette
+}
+, class Tag {
+  confidence: 27.968605
+  tag: caucasian
+}
+, class Tag {
+  confidence: 27.407845
+  tag: person
+}
+, class Tag {
+  confidence: 27.273144
+  tag: people
+}
+, class Tag {
+  confidence: 26.432585
+  tag: eyes
+}
+, class Tag {
+  confidence: 25.98341
+  tag: smile
+}
+, class Tag {
+  confidence: 25.864027
+  tag: adult
+}
+, class Tag {
+  confidence: 23.65823
+  tag: hairdo
+}
+, class Tag {
+  confidence: 23.229681
+  tag: smiling
+}
+, class Tag {
+  confidence: 22.819265
+  tag: skin
+}
+, class Tag {
+  confidence: 22.812523
+  tag: fashion
+}
+, class Tag {
+  confidence: 21.503845
+  tag: happy
+}
+, class Tag {
+  confidence: 20.574375
+  tag: make
+}
+, class Tag {
+  confidence: 20.031591
+  tag: expression
+}
+, class Tag {
+  confidence: 19.970499
+  tag: makeup
+}
+, class Tag {
+  confidence: 19.213638
+  tag: cheerful
+}
+, class Tag {
+  confidence: 19.171026
+  tag: sexy
+}
+, class Tag {
+  confidence: 18.593304
+  tag: lady
+}
+, class Tag {
+  confidence: 18.100615
+  tag: head
+}
+, class Tag {
+  confidence: 18.088537
+  tag: gorgeous
+}
+, class Tag {
+  confidence: 17.881353
+  tag: human
+}
+, class Tag {
+  confidence: 17.583488
+  tag: lips
+}
+, class Tag {
+  confidence: 17.476751
+  tag: blond
+}
+, class Tag {
+  confidence: 16.558561
+  tag: women
+}
+, class Tag {
+  confidence: 16.086863
+  tag: close
+}
+, class Tag {
+  confidence: 15.404612
+  tag: happiness
+}
+, class Tag {
+  confidence: 15.03405
+  tag: complexion
+}
+, class Tag {
+  confidence: 14.902309
+  tag: one
+}
+, class Tag {
+  confidence: 14.78034
+  tag: teenager
+}
+, class Tag {
+  confidence: 14.559029
+  tag: looking
+}
+, class Tag {
+  confidence: 14.430513
+  tag: glamour
+}
+, class Tag {
+  confidence: 12.890514
+  tag: posing
+}
+, class Tag {
+  confidence: 12.868748
+  tag: lovely
+}
+, class Tag {
+  confidence: 12.687301
+  tag: look
+}
+, class Tag {
+  confidence: 12.647701
+  tag: closeup
+}
+, class Tag {
+  confidence: 12.37505
+  tag: lock
+}
+, class Tag {
+  confidence: 12.276392
+  tag: healthy
+}
+, class Tag {
+  confidence: 11.776059
+  tag: black
+}
+, class Tag {
+  confidence: 11.763281
+  tag: cosmetics
+}
+, class Tag {
+  confidence: 11.756458
+  tag: studio
+}
+, class Tag {
+  confidence: 11.644748
+  tag: casual
+}
+, class Tag {
+  confidence: 11.518744
+  tag: youth
+}
+, class Tag {
+  confidence: 11.509831
+  tag: sensual
+}
+, class Tag {
+  confidence: 11.409855
+  tag: style
+}
+, class Tag {
+  confidence: 11.326996
+  tag: eye
+}
+, class Tag {
+  confidence: 11.274323
+  tag: hairstyle
+}
+, class Tag {
+  confidence: 11.067251
+  tag: brown
+}
+, class Tag {
+  confidence: 10.763081
+  tag: sensuality
+}
+, class Tag {
+  confidence: 10.622346
+  tag: girls
+}
+, class Tag {
+  confidence: 10.377371
+  tag: fresh
+}
+, class Tag {
+  confidence: 10.034688
+  tag: natural
+}
+, class Tag {
+  confidence: 9.940703
+  tag: wig
+}
+, class Tag {
+  confidence: 9.894475
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.23702
+  tag: blonde
+}
+, class Tag {
+  confidence: 9.093727
+  tag: teen
+}
+, class Tag {
+  confidence: 8.982211
+  tag: care
+}
+, class Tag {
+  confidence: 8.928029
+  tag: joy
+}
+, class Tag {
+  confidence: 8.615361
+  tag: thinking
+}
+, class Tag {
+  confidence: 8.488887
+  tag: clothing
+}
+, class Tag {
+  confidence: 8.430224
+  tag: feminine
+}
+, class Tag {
+  confidence: 8.320164
+  tag: elegance
+}
+, class Tag {
+  confidence: 8.261823
+  tag: child
+}
+, class Tag {
+  confidence: 8.225586
+  tag: long
+}
+, class Tag {
+  confidence: 7.968
+  tag: hairpiece
+}
+, class Tag {
+  confidence: 7.9549923
+  tag: fun
+}
+, class Tag {
+  confidence: 7.806205
+  tag: business
+}
+, class Tag {
+  confidence: 7.802685
+  tag: glamor
+}
+, class Tag {
+  confidence: 7.66
+  tag: female
+}
+, class Tag {
+  confidence: 7.614796
+  tag: laughing
+}
+, class Tag {
+  confidence: 7.4362392
+  tag: emotion
+}
+, class Tag {
+  confidence: 7.396993
+  tag: friendly
+}
+, class Tag {
+  confidence: 7.386732
+  tag: purity
+}
+, class Tag {
+  confidence: 7.3516474
+  tag: pose
+}
+, class Tag {
+  confidence: 7.255995
+  tag: body
+}
+, class Tag {
+  confidence: 7.112546
+  tag: headshot
+}
+]
+}
+]
+  unsuccessful: null
+}

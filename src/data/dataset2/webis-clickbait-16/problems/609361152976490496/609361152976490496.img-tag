@@ -1,0 +1,316 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTivWXWcAEFsBD.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: keyboard
+}
+, class Tag {
+  confidence: 87.52392
+  tag: key
+}
+, class Tag {
+  confidence: 63.042484
+  tag: device
+}
+, class Tag {
+  confidence: 53.745056
+  tag: computer
+}
+, class Tag {
+  confidence: 45.763958
+  tag: technology
+}
+, class Tag {
+  confidence: 43.55833
+  tag: computer keyboard
+}
+, class Tag {
+  confidence: 37.654522
+  tag: button
+}
+, class Tag {
+  confidence: 35.96534
+  tag: laptop
+}
+, class Tag {
+  confidence: 35.916584
+  tag: business
+}
+, class Tag {
+  confidence: 35.388416
+  tag: internet
+}
+, class Tag {
+  confidence: 35.00045
+  tag: office
+}
+, class Tag {
+  confidence: 32.352
+  tag: data input device
+}
+, class Tag {
+  confidence: 30.784851
+  tag: equipment
+}
+, class Tag {
+  confidence: 28.927034
+  tag: pc
+}
+, class Tag {
+  confidence: 27.348465
+  tag: communication
+}
+, class Tag {
+  confidence: 26.616173
+  tag: peripheral
+}
+, class Tag {
+  confidence: 25.656
+  tag: instrumentality
+}
+, class Tag {
+  confidence: 24.401087
+  tag: work
+}
+, class Tag {
+  confidence: 23.842646
+  tag: keypad
+}
+, class Tag {
+  confidence: 23.726252
+  tag: type
+}
+, class Tag {
+  confidence: 21.391697
+  tag: notebook
+}
+, class Tag {
+  confidence: 21.21681
+  tag: close
+}
+, class Tag {
+  confidence: 20.63725
+  tag: typing
+}
+, class Tag {
+  confidence: 19.294107
+  tag: desktop
+}
+, class Tag {
+  confidence: 18.920116
+  tag: keys
+}
+, class Tag {
+  confidence: 18.659029
+  tag: electronic
+}
+, class Tag {
+  confidence: 18.414589
+  tag: enter
+}
+, class Tag {
+  confidence: 18.2958
+  tag: letter
+}
+, class Tag {
+  confidence: 17.04954
+  tag: data
+}
+, class Tag {
+  confidence: 16.879417
+  tag: electronics
+}
+, class Tag {
+  confidence: 16.23458
+  tag: modern
+}
+, class Tag {
+  confidence: 16.174793
+  tag: electronic equipment
+}
+, class Tag {
+  confidence: 15.919616
+  tag: buttons
+}
+, class Tag {
+  confidence: 15.890432
+  tag: information
+}
+, class Tag {
+  confidence: 15.789306
+  tag: web
+}
+, class Tag {
+  confidence: 14.888333
+  tag: numbers
+}
+, class Tag {
+  confidence: 14.135623
+  tag: hand
+}
+, class Tag {
+  confidence: 14.0829525
+  tag: alphabet
+}
+, class Tag {
+  confidence: 14.074109
+  tag: symbol
+}
+, class Tag {
+  confidence: 13.917496
+  tag: black
+}
+, class Tag {
+  confidence: 13.900684
+  tag: digital
+}
+, class Tag {
+  confidence: 13.378064
+  tag: mobile
+}
+, class Tag {
+  confidence: 12.92079
+  tag: hardware
+}
+, class Tag {
+  confidence: 11.748055
+  tag: sign
+}
+, class Tag {
+  confidence: 11.584191
+  tag: connection
+}
+, class Tag {
+  confidence: 11.413694
+  tag: closeup
+}
+, class Tag {
+  confidence: 11.227165
+  tag: finger
+}
+, class Tag {
+  confidence: 11.192261
+  tag: input
+}
+, class Tag {
+  confidence: 11.062354
+  tag: computing
+}
+, class Tag {
+  confidence: 10.727889
+  tag: wireless
+}
+, class Tag {
+  confidence: 10.722428
+  tag: tool
+}
+, class Tag {
+  confidence: 10.243196
+  tag: text
+}
+, class Tag {
+  confidence: 10.0155325
+  tag: push
+}
+, class Tag {
+  confidence: 9.64
+  tag: space bar
+}
+, class Tag {
+  confidence: 8.921574
+  tag: detail
+}
+, class Tag {
+  confidence: 8.499515
+  tag: working
+}
+, class Tag {
+  confidence: 8.481617
+  tag: www
+}
+, class Tag {
+  confidence: 8.200663
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.196622
+  tag: object
+}
+, class Tag {
+  confidence: 8.157615
+  tag: network
+}
+, class Tag {
+  confidence: 7.957301
+  tag: design
+}
+, class Tag {
+  confidence: 7.8768597
+  tag: job
+}
+, class Tag {
+  confidence: 7.8652215
+  tag: letters
+}
+, class Tag {
+  confidence: 7.8131876
+  tag: word
+}
+, class Tag {
+  confidence: 7.8120646
+  tag: technician
+}
+, class Tag {
+  confidence: 7.7996206
+  tag: press
+}
+, class Tag {
+  confidence: 7.7460523
+  tag: connect
+}
+, class Tag {
+  confidence: 7.5901628
+  tag: computers
+}
+, class Tag {
+  confidence: 7.516062
+  tag: plastic
+}
+, class Tag {
+  confidence: 7.465112
+  tag: industry
+}
+, class Tag {
+  confidence: 7.4302826
+  tag: number
+}
+, class Tag {
+  confidence: 7.393201
+  tag: phone
+}
+, class Tag {
+  confidence: 7.14027
+  tag: portable
+}
+, class Tag {
+  confidence: 7.1170855
+  tag: communicate
+}
+, class Tag {
+  confidence: 7.0853257
+  tag: online
+}
+, class Tag {
+  confidence: 7.0743384
+  tag: icon
+}
+, class Tag {
+  confidence: 7.064665
+  tag: qwerty
+}
+]
+}
+]
+  unsuccessful: null
+}

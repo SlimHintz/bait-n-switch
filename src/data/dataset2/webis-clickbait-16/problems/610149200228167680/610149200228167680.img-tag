@@ -1,0 +1,120 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHevcEqWEAA1jqE.jpg
+  tags: [class Tag {
+  confidence: 27.64373
+  tag: pen
+}
+, class Tag {
+  confidence: 23.064394
+  tag: enclosure
+}
+, class Tag {
+  confidence: 21.359268
+  tag: hippopotamus
+}
+, class Tag {
+  confidence: 17.559252
+  tag: cattle
+}
+, class Tag {
+  confidence: 14.718901
+  tag: oxcart
+}
+, class Tag {
+  confidence: 13.03243
+  tag: cowboy
+}
+, class Tag {
+  confidence: 12.810783
+  tag: ungulate
+}
+, class Tag {
+  confidence: 12.021544
+  tag: outdoors
+}
+, class Tag {
+  confidence: 11.608725
+  tag: cart
+}
+, class Tag {
+  confidence: 11.552157
+  tag: farm
+}
+, class Tag {
+  confidence: 11.495838
+  tag: animal
+}
+, class Tag {
+  confidence: 10.903383
+  tag: grass
+}
+, class Tag {
+  confidence: 10.223789
+  tag: mammal
+}
+, class Tag {
+  confidence: 10.084189
+  tag: ox
+}
+, class Tag {
+  confidence: 10.0661955
+  tag: structure
+}
+, class Tag {
+  confidence: 9.6747055
+  tag: summer
+}
+, class Tag {
+  confidence: 9.502633
+  tag: water
+}
+, class Tag {
+  confidence: 9.065219
+  tag: people
+}
+, class Tag {
+  confidence: 8.801771
+  tag: wagon
+}
+, class Tag {
+  confidence: 8.529675
+  tag: sky
+}
+, class Tag {
+  confidence: 8.398575
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.868
+  tag: bovid
+}
+, class Tag {
+  confidence: 7.751014
+  tag: person
+}
+, class Tag {
+  confidence: 7.588439
+  tag: park
+}
+, class Tag {
+  confidence: 7.39596
+  tag: male
+}
+, class Tag {
+  confidence: 7.3781357
+  tag: landscape
+}
+, class Tag {
+  confidence: 7.363192
+  tag: sun
+}
+, class Tag {
+  confidence: 7.053931
+  tag: man
+}
+]
+}
+]
+  unsuccessful: null
+}

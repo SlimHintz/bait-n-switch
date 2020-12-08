@@ -1,0 +1,216 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKcGMbUgAAy11O.jpg
+  tags: [class Tag {
+  confidence: 50.648716
+  tag: player
+}
+, class Tag {
+  confidence: 43.785374
+  tag: athlete
+}
+, class Tag {
+  confidence: 41.836754
+  tag: baseball
+}
+, class Tag {
+  confidence: 40.956944
+  tag: ballplayer
+}
+, class Tag {
+  confidence: 30.329653
+  tag: person
+}
+, class Tag {
+  confidence: 29.872776
+  tag: contestant
+}
+, class Tag {
+  confidence: 21.683088
+  tag: male
+}
+, class Tag {
+  confidence: 20.070148
+  tag: man
+}
+, class Tag {
+  confidence: 19.269167
+  tag: sport
+}
+, class Tag {
+  confidence: 18.885681
+  tag: people
+}
+, class Tag {
+  confidence: 18.492495
+  tag: back
+}
+, class Tag {
+  confidence: 16.526552
+  tag: happy
+}
+, class Tag {
+  confidence: 16.06285
+  tag: caucasian
+}
+, class Tag {
+  confidence: 15.614348
+  tag: adult
+}
+, class Tag {
+  confidence: 13.965846
+  tag: active
+}
+, class Tag {
+  confidence: 13.715185
+  tag: fun
+}
+, class Tag {
+  confidence: 12.991981
+  tag: base
+}
+, class Tag {
+  confidence: 12.803046
+  tag: outdoor
+}
+, class Tag {
+  confidence: 12.551293
+  tag: grass
+}
+, class Tag {
+  confidence: 12.495722
+  tag: ball
+}
+, class Tag {
+  confidence: 11.743722
+  tag: leisure
+}
+, class Tag {
+  confidence: 11.727008
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.642213
+  tag: smile
+}
+, class Tag {
+  confidence: 10.890241
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.735687
+  tag: game
+}
+, class Tag {
+  confidence: 10.715369
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.701377
+  tag: activity
+}
+, class Tag {
+  confidence: 10.631654
+  tag: summer
+}
+, class Tag {
+  confidence: 10.515394
+  tag: healthy
+}
+, class Tag {
+  confidence: 10.3274975
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.271048
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.084943
+  tag: park
+}
+, class Tag {
+  confidence: 9.721212
+  tag: child
+}
+, class Tag {
+  confidence: 9.62064
+  tag: boy
+}
+, class Tag {
+  confidence: 9.548425
+  tag: team
+}
+, class Tag {
+  confidence: 9.51729
+  tag: play
+}
+, class Tag {
+  confidence: 9.45934
+  tag: outside
+}
+, class Tag {
+  confidence: 9.248
+  tag: baseball equipment
+}
+, class Tag {
+  confidence: 9.031453
+  tag: one
+}
+, class Tag {
+  confidence: 8.878776
+  tag: exercise
+}
+, class Tag {
+  confidence: 8.871825
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.856423
+  tag: sports
+}
+, class Tag {
+  confidence: 8.726086
+  tag: hat
+}
+, class Tag {
+  confidence: 8.711954
+  tag: recreation
+}
+, class Tag {
+  confidence: 8.562049
+  tag: field
+}
+, class Tag {
+  confidence: 8.111927
+  tag: playing
+}
+, class Tag {
+  confidence: 7.856871
+  tag: men
+}
+, class Tag {
+  confidence: 7.6925554
+  tag: couple
+}
+, class Tag {
+  confidence: 7.527134
+  tag: shirt
+}
+, class Tag {
+  confidence: 7.4297166
+  tag: day
+}
+, class Tag {
+  confidence: 7.404901
+  tag: cute
+}
+, class Tag {
+  confidence: 7.336633
+  tag: attractive
+}
+]
+}
+]
+  unsuccessful: null
+}

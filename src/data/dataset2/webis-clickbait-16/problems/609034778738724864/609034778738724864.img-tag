@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHO47xnUgAAGCZk.jpg
+  tags: [class Tag {
+  confidence: 16.69753
+  tag: grass
+}
+, class Tag {
+  confidence: 14.573545
+  tag: summer
+}
+, class Tag {
+  confidence: 14.213463
+  tag: sky
+}
+, class Tag {
+  confidence: 12.9731245
+  tag: spring
+}
+, class Tag {
+  confidence: 12.36204
+  tag: natural
+}
+, class Tag {
+  confidence: 12.04323
+  tag: design
+}
+, class Tag {
+  confidence: 11.702796
+  tag: outdoors
+}
+, class Tag {
+  confidence: 11.549232
+  tag: landscape
+}
+, class Tag {
+  confidence: 11.533563
+  tag: plant
+}
+, class Tag {
+  confidence: 11.427018
+  tag: environment
+}
+, class Tag {
+  confidence: 11.08846
+  tag: black
+}
+, class Tag {
+  confidence: 10.862246
+  tag: meadow
+}
+, class Tag {
+  confidence: 10.856151
+  tag: field
+}
+, class Tag {
+  confidence: 10.511052
+  tag: light
+}
+, class Tag {
+  confidence: 10.198897
+  tag: space
+}
+, class Tag {
+  confidence: 9.601507
+  tag: forest
+}
+, class Tag {
+  confidence: 9.597937
+  tag: water
+}
+, class Tag {
+  confidence: 9.472678
+  tag: day
+}
+, class Tag {
+  confidence: 9.304347
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.150403
+  tag: tree
+}
+, class Tag {
+  confidence: 9.049832
+  tag: color
+}
+, class Tag {
+  confidence: 9.043492
+  tag: trees
+}
+, class Tag {
+  confidence: 8.977842
+  tag: art
+}
+, class Tag {
+  confidence: 8.86831
+  tag: sun
+}
+, class Tag {
+  confidence: 8.568713
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 8.498281
+  tag: flower
+}
+, class Tag {
+  confidence: 8.497646
+  tag: decorative
+}
+, class Tag {
+  confidence: 8.2689495
+  tag: shape
+}
+, class Tag {
+  confidence: 8.071547
+  tag: flowers
+}
+, class Tag {
+  confidence: 8.046506
+  tag: outside
+}
+, class Tag {
+  confidence: 7.90531
+  tag: season
+}
+, class Tag {
+  confidence: 7.8508964
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.611279
+  tag: park
+}
+, class Tag {
+  confidence: 7.4849043
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.3178296
+  tag: close
+}
+, class Tag {
+  confidence: 7.2875834
+  tag: bright
+}
+, class Tag {
+  confidence: 7.198928
+  tag: yellow
+}
+, class Tag {
+  confidence: 7.04812
+  tag: texture
+}
+]
+}
+]
+  unsuccessful: null
+}

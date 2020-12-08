@@ -1,0 +1,104 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHK-8pRUAAAOaBx.png
+  tags: [class Tag {
+  confidence: 30.615204
+  tag: sign
+}
+, class Tag {
+  confidence: 18.69823
+  tag: sky
+}
+, class Tag {
+  confidence: 13.114481
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.949481
+  tag: communication
+}
+, class Tag {
+  confidence: 11.285964
+  tag: clouds
+}
+, class Tag {
+  confidence: 10.132603
+  tag: light
+}
+, class Tag {
+  confidence: 10.059426
+  tag: cloud
+}
+, class Tag {
+  confidence: 9.8300495
+  tag: landscape
+}
+, class Tag {
+  confidence: 9.783606
+  tag: road
+}
+, class Tag {
+  confidence: 8.437911
+  tag: summer
+}
+, class Tag {
+  confidence: 8.427929
+  tag: business
+}
+, class Tag {
+  confidence: 8.396347
+  tag: emblem
+}
+, class Tag {
+  confidence: 8.328302
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.212882
+  tag: danger
+}
+, class Tag {
+  confidence: 8.109581
+  tag: water
+}
+, class Tag {
+  confidence: 8.006691
+  tag: text
+}
+, class Tag {
+  confidence: 7.812398
+  tag: post
+}
+, class Tag {
+  confidence: 7.710694
+  tag: building
+}
+, class Tag {
+  confidence: 7.470317
+  tag: tree
+}
+, class Tag {
+  confidence: 7.3754525
+  tag: house
+}
+, class Tag {
+  confidence: 7.1968737
+  tag: reflection
+}
+, class Tag {
+  confidence: 7.1383677
+  tag: country
+}
+, class Tag {
+  confidence: 7.137437
+  tag: sun
+}
+, class Tag {
+  confidence: 7.058024
+  tag: space
+}
+]
+}
+]
+  unsuccessful: null
+}

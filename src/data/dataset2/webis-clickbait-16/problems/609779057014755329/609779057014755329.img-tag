@@ -1,0 +1,184 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHZczFFUYAAjg3a.png
+  tags: [class Tag {
+  confidence: 84.12352
+  tag: blackboard
+}
+, class Tag {
+  confidence: 46.962166
+  tag: odometer
+}
+, class Tag {
+  confidence: 38.262913
+  tag: meter
+}
+, class Tag {
+  confidence: 29.791014
+  tag: board
+}
+, class Tag {
+  confidence: 27.615795
+  tag: sheet
+}
+, class Tag {
+  confidence: 27.031963
+  tag: measuring instrument
+}
+, class Tag {
+  confidence: 23.534145
+  tag: chalk
+}
+, class Tag {
+  confidence: 20.393461
+  tag: chalkboard
+}
+, class Tag {
+  confidence: 18.171703
+  tag: instrument
+}
+, class Tag {
+  confidence: 18.070377
+  tag: education
+}
+, class Tag {
+  confidence: 16.445871
+  tag: black
+}
+, class Tag {
+  confidence: 16.133978
+  tag: scoreboard
+}
+, class Tag {
+  confidence: 16.06482
+  tag: school
+}
+, class Tag {
+  confidence: 12.862065
+  tag: signboard
+}
+, class Tag {
+  confidence: 12.650631
+  tag: classroom
+}
+, class Tag {
+  confidence: 12.329669
+  tag: texture
+}
+, class Tag {
+  confidence: 11.780646
+  tag: class
+}
+, class Tag {
+  confidence: 11.405462
+  tag: pattern
+}
+, class Tag {
+  confidence: 11.304128
+  tag: grunge
+}
+, class Tag {
+  confidence: 11.263766
+  tag: device
+}
+, class Tag {
+  confidence: 10.410837
+  tag: college
+}
+, class Tag {
+  confidence: 10.052776
+  tag: frame
+}
+, class Tag {
+  confidence: 10.01963
+  tag: message
+}
+, class Tag {
+  confidence: 9.914084
+  tag: space
+}
+, class Tag {
+  confidence: 9.837678
+  tag: design
+}
+, class Tag {
+  confidence: 9.662082
+  tag: art
+}
+, class Tag {
+  confidence: 9.660709
+  tag: old
+}
+, class Tag {
+  confidence: 9.414703
+  tag: lesson
+}
+, class Tag {
+  confidence: 9.392367
+  tag: student
+}
+, class Tag {
+  confidence: 9.358212
+  tag: elementary
+}
+, class Tag {
+  confidence: 9.282118
+  tag: horizontal
+}
+, class Tag {
+  confidence: 9.08967
+  tag: write
+}
+, class Tag {
+  confidence: 8.531415
+  tag: teacher
+}
+, class Tag {
+  confidence: 8.070352
+  tag: blank
+}
+, class Tag {
+  confidence: 7.9451323
+  tag: teach
+}
+, class Tag {
+  confidence: 7.812024
+  tag: vintage
+}
+, class Tag {
+  confidence: 7.551385
+  tag: digital
+}
+, class Tag {
+  confidence: 7.2835646
+  tag: writing
+}
+, class Tag {
+  confidence: 7.252959
+  tag: science
+}
+, class Tag {
+  confidence: 7.2351823
+  tag: dirty
+}
+, class Tag {
+  confidence: 7.2202554
+  tag: drawing
+}
+, class Tag {
+  confidence: 7.1365147
+  tag: learn
+}
+, class Tag {
+  confidence: 7.1303596
+  tag: university
+}
+, class Tag {
+  confidence: 7.12
+  tag: background
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYBp73WIAAp03f.jpg
+  tags: [class Tag {
+  confidence: 60.014397
+  tag: skin
+}
+, class Tag {
+  confidence: 34.0
+  tag: body covering
+}
+, class Tag {
+  confidence: 28.063828
+  tag: makeup
+}
+, class Tag {
+  confidence: 24.549622
+  tag: tattoo
+}
+, class Tag {
+  confidence: 18.58313
+  tag: hand
+}
+, class Tag {
+  confidence: 18.121717
+  tag: body
+}
+, class Tag {
+  confidence: 16.919155
+  tag: tissue
+}
+, class Tag {
+  confidence: 15.713458
+  tag: people
+}
+, class Tag {
+  confidence: 15.232697
+  tag: health
+}
+, class Tag {
+  confidence: 15.140904
+  tag: care
+}
+, class Tag {
+  confidence: 14.535193
+  tag: treatment
+}
+, class Tag {
+  confidence: 13.796782
+  tag: close
+}
+, class Tag {
+  confidence: 13.709701
+  tag: person
+}
+, class Tag {
+  confidence: 12.8982725
+  tag: sexy
+}
+, class Tag {
+  confidence: 12.107614
+  tag: adult
+}
+, class Tag {
+  confidence: 12.071602
+  tag: spa
+}
+, class Tag {
+  confidence: 11.915539
+  tag: face
+}
+, class Tag {
+  confidence: 11.878132
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.8706875
+  tag: cosmetic
+}
+, class Tag {
+  confidence: 11.803439
+  tag: relaxation
+}
+, class Tag {
+  confidence: 11.624026
+  tag: design
+}
+, class Tag {
+  confidence: 11.342942
+  tag: attractive
+}
+, class Tag {
+  confidence: 11.077246
+  tag: fresh
+}
+, class Tag {
+  confidence: 10.999528
+  tag: natural
+}
+, class Tag {
+  confidence: 10.816585
+  tag: hands
+}
+, class Tag {
+  confidence: 10.736619
+  tag: healthy
+}
+, class Tag {
+  confidence: 10.588439
+  tag: closeup
+}
+, class Tag {
+  confidence: 10.499836
+  tag: decoration
+}
+, class Tag {
+  confidence: 10.451436
+  tag: lady
+}
+, class Tag {
+  confidence: 10.355486
+  tag: human
+}
+, class Tag {
+  confidence: 10.059212
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.975398
+  tag: massage
+}
+, class Tag {
+  confidence: 9.526963
+  tag: lips
+}
+, class Tag {
+  confidence: 9.492466
+  tag: finger
+}
+, class Tag {
+  confidence: 9.267988
+  tag: child
+}
+, class Tag {
+  confidence: 9.228778
+  tag: body part
+}
+, class Tag {
+  confidence: 9.128266
+  tag: healthcare
+}
+, class Tag {
+  confidence: 8.981505
+  tag: fingers
+}
+, class Tag {
+  confidence: 8.869784
+  tag: therapy
+}
+, class Tag {
+  confidence: 8.834211
+  tag: cosmetics
+}
+, class Tag {
+  confidence: 8.828525
+  tag: mouth
+}
+, class Tag {
+  confidence: 8.512891
+  tag: cute
+}
+, class Tag {
+  confidence: 8.441879
+  tag: portrait
+}
+, class Tag {
+  confidence: 8.266529
+  tag: foot
+}
+, class Tag {
+  confidence: 8.150346
+  tag: food
+}
+, class Tag {
+  confidence: 8.142465
+  tag: women
+}
+, class Tag {
+  confidence: 7.9012365
+  tag: relax
+}
+, class Tag {
+  confidence: 7.8772135
+  tag: soft
+}
+, class Tag {
+  confidence: 7.6809964
+  tag: salon
+}
+, class Tag {
+  confidence: 7.517171
+  tag: skincare
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,288 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/tweet_video_thumb/CHEHB2EVAAAv9Q6.png
+  tags: [class Tag {
+  confidence: 70.3605
+  tag: ice
+}
+, class Tag {
+  confidence: 62.2932
+  tag: crystal
+}
+, class Tag {
+  confidence: 41.935318
+  tag: snow
+}
+, class Tag {
+  confidence: 35.511803
+  tag: cold
+}
+, class Tag {
+  confidence: 29.90217
+  tag: solid
+}
+, class Tag {
+  confidence: 27.842287
+  tag: frozen
+}
+, class Tag {
+  confidence: 27.334162
+  tag: winter
+}
+, class Tag {
+  confidence: 25.745844
+  tag: frost
+}
+, class Tag {
+  confidence: 22.919071
+  tag: cool
+}
+, class Tag {
+  confidence: 20.710299
+  tag: water
+}
+, class Tag {
+  confidence: 18.606339
+  tag: liquid
+}
+, class Tag {
+  confidence: 17.326616
+  tag: season
+}
+, class Tag {
+  confidence: 17.034277
+  tag: wet
+}
+, class Tag {
+  confidence: 16.516834
+  tag: drop
+}
+, class Tag {
+  confidence: 15.841053
+  tag: clear
+}
+, class Tag {
+  confidence: 14.777158
+  tag: transparent
+}
+, class Tag {
+  confidence: 14.478343
+  tag: foam
+}
+, class Tag {
+  confidence: 14.474935
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 14.421856
+  tag: clean
+}
+, class Tag {
+  confidence: 14.256672
+  tag: weather
+}
+, class Tag {
+  confidence: 14.007981
+  tag: close
+}
+, class Tag {
+  confidence: 13.239458
+  tag: splash
+}
+, class Tag {
+  confidence: 13.088172
+  tag: texture
+}
+, class Tag {
+  confidence: 12.696504
+  tag: pattern
+}
+, class Tag {
+  confidence: 12.666241
+  tag: landscape
+}
+, class Tag {
+  confidence: 12.62021
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 12.57711
+  tag: light
+}
+, class Tag {
+  confidence: 12.525339
+  tag: christmas
+}
+, class Tag {
+  confidence: 11.706711
+  tag: drops
+}
+, class Tag {
+  confidence: 11.695274
+  tag: bubble
+}
+, class Tag {
+  confidence: 11.662047
+  tag: december
+}
+, class Tag {
+  confidence: 11.525148
+  tag: icy
+}
+, class Tag {
+  confidence: 11.365496
+  tag: forest
+}
+, class Tag {
+  confidence: 11.081677
+  tag: aqua
+}
+, class Tag {
+  confidence: 10.743019
+  tag: purity
+}
+, class Tag {
+  confidence: 10.695327
+  tag: color
+}
+, class Tag {
+  confidence: 10.587608
+  tag: droplet
+}
+, class Tag {
+  confidence: 10.392315
+  tag: shape
+}
+, class Tag {
+  confidence: 10.008799
+  tag: tree
+}
+, class Tag {
+  confidence: 9.935081
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.910389
+  tag: shiny
+}
+, class Tag {
+  confidence: 9.714808
+  tag: freeze
+}
+, class Tag {
+  confidence: 9.65436
+  tag: fresh
+}
+, class Tag {
+  confidence: 9.584354
+  tag: sky
+}
+, class Tag {
+  confidence: 9.440337
+  tag: backdrop
+}
+, class Tag {
+  confidence: 9.224867
+  tag: chill
+}
+, class Tag {
+  confidence: 8.929664
+  tag: snowflakes
+}
+, class Tag {
+  confidence: 8.894626
+  tag: snowy
+}
+, class Tag {
+  confidence: 8.8487
+  tag: natural
+}
+, class Tag {
+  confidence: 8.826876
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.769722
+  tag: design
+}
+, class Tag {
+  confidence: 8.721716
+  tag: seasonal
+}
+, class Tag {
+  confidence: 8.721461
+  tag: splashing
+}
+, class Tag {
+  confidence: 8.597194
+  tag: bubbles
+}
+, class Tag {
+  confidence: 8.505207
+  tag: ornament
+}
+, class Tag {
+  confidence: 8.328376
+  tag: drink
+}
+, class Tag {
+  confidence: 8.140906
+  tag: january
+}
+, class Tag {
+  confidence: 7.986162
+  tag: reflection
+}
+, class Tag {
+  confidence: 7.809052
+  tag: scene
+}
+, class Tag {
+  confidence: 7.7465615
+  tag: flowing
+}
+, class Tag {
+  confidence: 7.615538
+  tag: smooth
+}
+, class Tag {
+  confidence: 7.5905333
+  tag: bright
+}
+, class Tag {
+  confidence: 7.576335
+  tag: glass
+}
+, class Tag {
+  confidence: 7.4814944
+  tag: freshness
+}
+, class Tag {
+  confidence: 7.4402647
+  tag: xmas
+}
+, class Tag {
+  confidence: 7.3506794
+  tag: environment
+}
+, class Tag {
+  confidence: 7.280869
+  tag: trees
+}
+, class Tag {
+  confidence: 7.210289
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.1692867
+  tag: day
+}
+, class Tag {
+  confidence: 7.1618314
+  tag: falling
+}
+]
+}
+]
+  unsuccessful: null
+}

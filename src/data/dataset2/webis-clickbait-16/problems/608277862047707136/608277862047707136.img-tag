@@ -1,0 +1,100 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHEJcrZU8AENJZm.jpg
+  tags: [class Tag {
+  confidence: 13.006001
+  tag: design
+}
+, class Tag {
+  confidence: 10.976818
+  tag: business
+}
+, class Tag {
+  confidence: 10.475213
+  tag: color
+}
+, class Tag {
+  confidence: 10.311664
+  tag: 3d
+}
+, class Tag {
+  confidence: 10.287379
+  tag: home
+}
+, class Tag {
+  confidence: 9.6159725
+  tag: flowers
+}
+, class Tag {
+  confidence: 9.46747
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.36091
+  tag: black
+}
+, class Tag {
+  confidence: 9.155146
+  tag: modern
+}
+, class Tag {
+  confidence: 8.692852
+  tag: space
+}
+, class Tag {
+  confidence: 8.327831
+  tag: art
+}
+, class Tag {
+  confidence: 8.219661
+  tag: interior
+}
+, class Tag {
+  confidence: 7.9474673
+  tag: day
+}
+, class Tag {
+  confidence: 7.9330235
+  tag: pot
+}
+, class Tag {
+  confidence: 7.845663
+  tag: glass
+}
+, class Tag {
+  confidence: 7.7884536
+  tag: close
+}
+, class Tag {
+  confidence: 7.7453547
+  tag: flower
+}
+, class Tag {
+  confidence: 7.6975665
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.517555
+  tag: summer
+}
+, class Tag {
+  confidence: 7.460838
+  tag: computer
+}
+, class Tag {
+  confidence: 7.370607
+  tag: shiny
+}
+, class Tag {
+  confidence: 7.250286
+  tag: leaves
+}
+, class Tag {
+  confidence: 7.042465
+  tag: leaf
+}
+]
+}
+]
+  unsuccessful: null
+}

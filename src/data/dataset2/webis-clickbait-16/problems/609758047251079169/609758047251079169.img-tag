@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHZIc-iUAAAZOde.jpg
+  tags: [class Tag {
+  confidence: 15.874798
+  tag: person
+}
+, class Tag {
+  confidence: 14.85397
+  tag: food
+}
+, class Tag {
+  confidence: 13.793312
+  tag: attractive
+}
+, class Tag {
+  confidence: 13.56039
+  tag: happy
+}
+, class Tag {
+  confidence: 12.986439
+  tag: home
+}
+, class Tag {
+  confidence: 12.265449
+  tag: dish
+}
+, class Tag {
+  confidence: 12.203686
+  tag: adult
+}
+, class Tag {
+  confidence: 11.94734
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.293215
+  tag: eating
+}
+, class Tag {
+  confidence: 11.131583
+  tag: people
+}
+, class Tag {
+  confidence: 10.954856
+  tag: casual
+}
+, class Tag {
+  confidence: 10.82303
+  tag: hotdog
+}
+, class Tag {
+  confidence: 10.622058
+  tag: holding
+}
+, class Tag {
+  confidence: 10.546093
+  tag: smile
+}
+, class Tag {
+  confidence: 10.164709
+  tag: model
+}
+, class Tag {
+  confidence: 10.11474
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.0689945
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.753815
+  tag: cheerful
+}
+, class Tag {
+  confidence: 9.746869
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.424764
+  tag: sitting
+}
+, class Tag {
+  confidence: 9.356287
+  tag: expression
+}
+, class Tag {
+  confidence: 9.336524
+  tag: sandwich
+}
+, class Tag {
+  confidence: 9.242583
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.125881
+  tag: joy
+}
+, class Tag {
+  confidence: 8.548193
+  tag: face
+}
+, class Tag {
+  confidence: 8.505162
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.372674
+  tag: human
+}
+, class Tag {
+  confidence: 8.309722
+  tag: color
+}
+, class Tag {
+  confidence: 8.239895
+  tag: man
+}
+, class Tag {
+  confidence: 7.953565
+  tag: portrait
+}
+, class Tag {
+  confidence: 7.923124
+  tag: business
+}
+, class Tag {
+  confidence: 7.9162283
+  tag: cute
+}
+, class Tag {
+  confidence: 7.4172196
+  tag: fun
+}
+, class Tag {
+  confidence: 7.243471
+  tag: hair
+}
+, class Tag {
+  confidence: 7.122923
+  tag: design
+}
+, class Tag {
+  confidence: 7.1224184
+  tag: close
+}
+, class Tag {
+  confidence: 7.065945
+  tag: fresh
+}
+, class Tag {
+  confidence: 7.049449
+  tag: hands
+}
+]
+}
+]
+  unsuccessful: null
+}

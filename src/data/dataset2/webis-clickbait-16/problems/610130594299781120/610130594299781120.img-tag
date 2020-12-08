@@ -1,0 +1,276 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeedtLWUAEnTWJ.jpg
+  tags: [class Tag {
+  confidence: 38.125286
+  tag: man
+}
+, class Tag {
+  confidence: 34.268993
+  tag: male
+}
+, class Tag {
+  confidence: 33.138668
+  tag: national
+}
+, class Tag {
+  confidence: 32.06055
+  tag: business
+}
+, class Tag {
+  confidence: 30.992496
+  tag: businessman
+}
+, class Tag {
+  confidence: 29.581617
+  tag: people
+}
+, class Tag {
+  confidence: 24.151773
+  tag: adult
+}
+, class Tag {
+  confidence: 22.490349
+  tag: office
+}
+, class Tag {
+  confidence: 20.539402
+  tag: executive
+}
+, class Tag {
+  confidence: 19.787163
+  tag: men
+}
+, class Tag {
+  confidence: 19.3663
+  tag: person
+}
+, class Tag {
+  confidence: 19.30012
+  tag: suit
+}
+, class Tag {
+  confidence: 19.225624
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.40606
+  tag: corporate
+}
+, class Tag {
+  confidence: 18.178473
+  tag: portrait
+}
+, class Tag {
+  confidence: 17.860044
+  tag: handsome
+}
+, class Tag {
+  confidence: 16.840803
+  tag: professional
+}
+, class Tag {
+  confidence: 15.459371
+  tag: success
+}
+, class Tag {
+  confidence: 14.813083
+  tag: happy
+}
+, class Tag {
+  confidence: 14.510378
+  tag: smiling
+}
+, class Tag {
+  confidence: 13.000616
+  tag: smile
+}
+, class Tag {
+  confidence: 12.888858
+  tag: work
+}
+, class Tag {
+  confidence: 12.605264
+  tag: team
+}
+, class Tag {
+  confidence: 12.388878
+  tag: meeting
+}
+, class Tag {
+  confidence: 12.246284
+  tag: holding
+}
+, class Tag {
+  confidence: 12.221369
+  tag: guy
+}
+, class Tag {
+  confidence: 12.076642
+  tag: confident
+}
+, class Tag {
+  confidence: 11.999461
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 11.289766
+  tag: looking
+}
+, class Tag {
+  confidence: 10.981266
+  tag: communication
+}
+, class Tag {
+  confidence: 10.977312
+  tag: job
+}
+, class Tag {
+  confidence: 10.940853
+  tag: working
+}
+, class Tag {
+  confidence: 10.9192295
+  tag: tie
+}
+, class Tag {
+  confidence: 10.902105
+  tag: businesspeople
+}
+, class Tag {
+  confidence: 10.882489
+  tag: standing
+}
+, class Tag {
+  confidence: 10.700547
+  tag: american
+}
+, class Tag {
+  confidence: 10.671455
+  tag: group
+}
+, class Tag {
+  confidence: 10.603033
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.586407
+  tag: occupation
+}
+, class Tag {
+  confidence: 10.533651
+  tag: phone
+}
+, class Tag {
+  confidence: 10.233128
+  tag: boss
+}
+, class Tag {
+  confidence: 10.019298
+  tag: manager
+}
+, class Tag {
+  confidence: 9.937098
+  tag: teamwork
+}
+, class Tag {
+  confidence: 9.910069
+  tag: sitting
+}
+, class Tag {
+  confidence: 9.756554
+  tag: women
+}
+, class Tag {
+  confidence: 9.108694
+  tag: casual
+}
+, class Tag {
+  confidence: 9.041071
+  tag: successful
+}
+, class Tag {
+  confidence: 9.024037
+  tag: laptop
+}
+, class Tag {
+  confidence: 8.801692
+  tag: discussion
+}
+, class Tag {
+  confidence: 8.772666
+  tag: colleagues
+}
+, class Tag {
+  confidence: 8.533567
+  tag: career
+}
+, class Tag {
+  confidence: 8.387884
+  tag: african
+}
+, class Tag {
+  confidence: 8.312302
+  tag: 20s
+}
+, class Tag {
+  confidence: 8.099828
+  tag: hand
+}
+, class Tag {
+  confidence: 7.827111
+  tag: serious
+}
+, class Tag {
+  confidence: 7.6133795
+  tag: day
+}
+, class Tag {
+  confidence: 7.6087704
+  tag: building
+}
+, class Tag {
+  confidence: 7.423651
+  tag: color
+}
+, class Tag {
+  confidence: 7.391574
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.268956
+  tag: black
+}
+, class Tag {
+  confidence: 7.254921
+  tag: colleague
+}
+, class Tag {
+  confidence: 7.2489924
+  tag: computer
+}
+, class Tag {
+  confidence: 7.093677
+  tag: employee
+}
+, class Tag {
+  confidence: 7.0888505
+  tag: confidence
+}
+, class Tag {
+  confidence: 7.0657654
+  tag: staff
+}
+, class Tag {
+  confidence: 7.0144796
+  tag: talking
+}
+, class Tag {
+  confidence: 7.0047674
+  tag: happiness
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,164 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHT0YezUsAA9gvD.jpg
+  tags: [class Tag {
+  confidence: 35.362564
+  tag: gas
+}
+, class Tag {
+  confidence: 28.896557
+  tag: network
+}
+, class Tag {
+  confidence: 26.44785
+  tag: road
+}
+, class Tag {
+  confidence: 26.056108
+  tag: steam locomotive
+}
+, class Tag {
+  confidence: 23.463741
+  tag: highway
+}
+, class Tag {
+  confidence: 22.946503
+  tag: locomotive
+}
+, class Tag {
+  confidence: 20.823996
+  tag: system
+}
+, class Tag {
+  confidence: 17.585146
+  tag: traffic
+}
+, class Tag {
+  confidence: 16.686892
+  tag: travel
+}
+, class Tag {
+  confidence: 16.43483
+  tag: transportation
+}
+, class Tag {
+  confidence: 16.158323
+  tag: landscape
+}
+, class Tag {
+  confidence: 14.857781
+  tag: expressway
+}
+, class Tag {
+  confidence: 13.971252
+  tag: sky
+}
+, class Tag {
+  confidence: 12.3954115
+  tag: way
+}
+, class Tag {
+  confidence: 12.055164
+  tag: city
+}
+, class Tag {
+  confidence: 11.434997
+  tag: speed
+}
+, class Tag {
+  confidence: 11.390572
+  tag: transport
+}
+, class Tag {
+  confidence: 10.862162
+  tag: urban
+}
+, class Tag {
+  confidence: 10.424
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 10.419372
+  tag: vehicle
+}
+, class Tag {
+  confidence: 10.306586
+  tag: building
+}
+, class Tag {
+  confidence: 10.0177
+  tag: water
+}
+, class Tag {
+  confidence: 8.949611
+  tag: car
+}
+, class Tag {
+  confidence: 8.856105
+  tag: street
+}
+, class Tag {
+  confidence: 8.671062
+  tag: asphalt
+}
+, class Tag {
+  confidence: 8.377016
+  tag: scenic
+}
+, class Tag {
+  confidence: 8.197561
+  tag: spring
+}
+, class Tag {
+  confidence: 8.188915
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.942631
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.8915515
+  tag: environment
+}
+, class Tag {
+  confidence: 7.677134
+  tag: geyser
+}
+, class Tag {
+  confidence: 7.6408753
+  tag: drive
+}
+, class Tag {
+  confidence: 7.5644383
+  tag: smoke
+}
+, class Tag {
+  confidence: 7.4664254
+  tag: industry
+}
+, class Tag {
+  confidence: 7.3843293
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.303044
+  tag: architecture
+}
+, class Tag {
+  confidence: 7.2306366
+  tag: scenery
+}
+, class Tag {
+  confidence: 7.149473
+  tag: driving
+}
+, class Tag {
+  confidence: 7.051819
+  tag: reflection
+}
+]
+}
+]
+  unsuccessful: null
+}

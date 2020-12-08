@@ -1,0 +1,240 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUTUrtUkAEsIOJ.jpg
+  tags: [class Tag {
+  confidence: 49.756428
+  tag: leaf
+}
+, class Tag {
+  confidence: 47.564728
+  tag: plant
+}
+, class Tag {
+  confidence: 25.739319
+  tag: herb
+}
+, class Tag {
+  confidence: 22.921291
+  tag: tree
+}
+, class Tag {
+  confidence: 21.257156
+  tag: spring
+}
+, class Tag {
+  confidence: 21.05579
+  tag: botany
+}
+, class Tag {
+  confidence: 20.377316
+  tag: branch
+}
+, class Tag {
+  confidence: 18.787685
+  tag: summer
+}
+, class Tag {
+  confidence: 18.011292
+  tag: garden
+}
+, class Tag {
+  confidence: 17.881308
+  tag: flora
+}
+, class Tag {
+  confidence: 17.8462
+  tag: close
+}
+, class Tag {
+  confidence: 17.726345
+  tag: growth
+}
+, class Tag {
+  confidence: 17.682037
+  tag: natural
+}
+, class Tag {
+  confidence: 17.341244
+  tag: grass
+}
+, class Tag {
+  confidence: 16.922503
+  tag: closeup
+}
+, class Tag {
+  confidence: 16.701147
+  tag: leaves
+}
+, class Tag {
+  confidence: 15.71012
+  tag: environment
+}
+, class Tag {
+  confidence: 15.526841
+  tag: plant part
+}
+, class Tag {
+  confidence: 15.369571
+  tag: color
+}
+, class Tag {
+  confidence: 15.267392
+  tag: flower
+}
+, class Tag {
+  confidence: 14.241159
+  tag: season
+}
+, class Tag {
+  confidence: 14.098208
+  tag: fresh
+}
+, class Tag {
+  confidence: 13.957465
+  tag: detail
+}
+, class Tag {
+  confidence: 13.917968
+  tag: cactus
+}
+, class Tag {
+  confidence: 13.826166
+  tag: foliage
+}
+, class Tag {
+  confidence: 12.518228
+  tag: fir
+}
+, class Tag {
+  confidence: 12.507578
+  tag: grow
+}
+, class Tag {
+  confidence: 12.354021
+  tag: pattern
+}
+, class Tag {
+  confidence: 11.6839285
+  tag: organic
+}
+, class Tag {
+  confidence: 11.496618
+  tag: texture
+}
+, class Tag {
+  confidence: 11.076408
+  tag: botanical
+}
+, class Tag {
+  confidence: 11.019979
+  tag: freshness
+}
+, class Tag {
+  confidence: 10.6693325
+  tag: bright
+}
+, class Tag {
+  confidence: 10.303118
+  tag: gardening
+}
+, class Tag {
+  confidence: 10.041566
+  tag: forest
+}
+, class Tag {
+  confidence: 10.032284
+  tag: plants
+}
+, class Tag {
+  confidence: 9.945415
+  tag: new
+}
+, class Tag {
+  confidence: 9.711372
+  tag: life
+}
+, class Tag {
+  confidence: 9.40817
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 8.883057
+  tag: sharp
+}
+, class Tag {
+  confidence: 8.807301
+  tag: vibrant
+}
+, class Tag {
+  confidence: 8.713769
+  tag: environmental
+}
+, class Tag {
+  confidence: 8.41948
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.3529415
+  tag: decorative
+}
+, class Tag {
+  confidence: 8.209274
+  tag: succulent
+}
+, class Tag {
+  confidence: 8.1949215
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.1521225
+  tag: pine
+}
+, class Tag {
+  confidence: 8.098135
+  tag: bud
+}
+, class Tag {
+  confidence: 8.084018
+  tag: yellow
+}
+, class Tag {
+  confidence: 8.033288
+  tag: parsley
+}
+, class Tag {
+  confidence: 7.9745026
+  tag: lush
+}
+, class Tag {
+  confidence: 7.8239093
+  tag: desert
+}
+, class Tag {
+  confidence: 7.7888775
+  tag: decoration
+}
+, class Tag {
+  confidence: 7.321024
+  tag: fern
+}
+, class Tag {
+  confidence: 7.26576
+  tag: light
+}
+, class Tag {
+  confidence: 7.248013
+  tag: agriculture
+}
+, class Tag {
+  confidence: 7.2058954
+  tag: growing
+}
+, class Tag {
+  confidence: 7.13785
+  tag: floral
+}
+]
+}
+]
+  unsuccessful: null
+}

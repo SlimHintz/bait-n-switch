@@ -1,0 +1,140 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHO3Jc-UYAEvx1V.jpg
+  tags: [class Tag {
+  confidence: 20.102243
+  tag: factory
+}
+, class Tag {
+  confidence: 15.585037
+  tag: architecture
+}
+, class Tag {
+  confidence: 13.883722
+  tag: building
+}
+, class Tag {
+  confidence: 13.26
+  tag: freight car
+}
+, class Tag {
+  confidence: 13.16
+  tag: lumbermill
+}
+, class Tag {
+  confidence: 12.725751
+  tag: travel
+}
+, class Tag {
+  confidence: 12.6800995
+  tag: business
+}
+, class Tag {
+  confidence: 11.554877
+  tag: train
+}
+, class Tag {
+  confidence: 11.487107
+  tag: car
+}
+, class Tag {
+  confidence: 10.085649
+  tag: home
+}
+, class Tag {
+  confidence: 9.764684
+  tag: city
+}
+, class Tag {
+  confidence: 9.304232
+  tag: sky
+}
+, class Tag {
+  confidence: 9.2663145
+  tag: conveyance
+}
+, class Tag {
+  confidence: 9.043468
+  tag: house
+}
+, class Tag {
+  confidence: 8.995461
+  tag: person
+}
+, class Tag {
+  confidence: 8.911209
+  tag: structure
+}
+, class Tag {
+  confidence: 8.8525915
+  tag: urban
+}
+, class Tag {
+  confidence: 8.830022
+  tag: public transport
+}
+, class Tag {
+  confidence: 8.824846
+  tag: hog
+}
+, class Tag {
+  confidence: 8.628695
+  tag: counter
+}
+, class Tag {
+  confidence: 8.420089
+  tag: people
+}
+, class Tag {
+  confidence: 7.983707
+  tag: journey
+}
+, class Tag {
+  confidence: 7.956
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 7.6171083
+  tag: design
+}
+, class Tag {
+  confidence: 7.525702
+  tag: interior
+}
+, class Tag {
+  confidence: 7.454529
+  tag: gate
+}
+, class Tag {
+  confidence: 7.2510924
+  tag: door
+}
+, class Tag {
+  confidence: 7.22
+  tag: butcher shop
+}
+, class Tag {
+  confidence: 7.0553107
+  tag: exterior
+}
+, class Tag {
+  confidence: 7.052518
+  tag: swine
+}
+, class Tag {
+  confidence: 7.038741
+  tag: indoor
+}
+, class Tag {
+  confidence: 7.0287976
+  tag: street
+}
+, class Tag {
+  confidence: 7.018218
+  tag: plant
+}
+]
+}
+]
+  unsuccessful: null
+}

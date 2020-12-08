@@ -1,0 +1,240 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHW9X9bWUAAAhFZ.jpg
+  tags: [class Tag {
+  confidence: 88.07434
+  tag: airplane
+}
+, class Tag {
+  confidence: 86.077866
+  tag: aircraft
+}
+, class Tag {
+  confidence: 64.31268
+  tag: airliner
+}
+, class Tag {
+  confidence: 48.97182
+  tag: jet
+}
+, class Tag {
+  confidence: 38.701515
+  tag: airport
+}
+, class Tag {
+  confidence: 35.213062
+  tag: plane
+}
+, class Tag {
+  confidence: 30.532812
+  tag: flight
+}
+, class Tag {
+  confidence: 29.620304
+  tag: sky
+}
+, class Tag {
+  confidence: 27.895979
+  tag: transportation
+}
+, class Tag {
+  confidence: 27.727325
+  tag: flying
+}
+, class Tag {
+  confidence: 26.835325
+  tag: craft
+}
+, class Tag {
+  confidence: 26.224648
+  tag: aviation
+}
+, class Tag {
+  confidence: 25.841228
+  tag: travel
+}
+, class Tag {
+  confidence: 25.649605
+  tag: transport
+}
+, class Tag {
+  confidence: 24.11663
+  tag: fly
+}
+, class Tag {
+  confidence: 22.103745
+  tag: vehicle
+}
+, class Tag {
+  confidence: 18.3
+  tag: space shuttle
+}
+, class Tag {
+  confidence: 17.64962
+  tag: air
+}
+, class Tag {
+  confidence: 16.989267
+  tag: landing
+}
+, class Tag {
+  confidence: 15.340208
+  tag: aeroplane
+}
+, class Tag {
+  confidence: 14.845291
+  tag: airfield
+}
+, class Tag {
+  confidence: 14.777309
+  tag: wing
+}
+, class Tag {
+  confidence: 14.67254
+  tag: clouds
+}
+, class Tag {
+  confidence: 14.623623
+  tag: spacecraft
+}
+, class Tag {
+  confidence: 13.8791065
+  tag: vacation
+}
+, class Tag {
+  confidence: 13.758622
+  tag: sunset
+}
+, class Tag {
+  confidence: 13.604124
+  tag: engine
+}
+, class Tag {
+  confidence: 12.688087
+  tag: trip
+}
+, class Tag {
+  confidence: 12.626204
+  tag: departure
+}
+, class Tag {
+  confidence: 12.201053
+  tag: land
+}
+, class Tag {
+  confidence: 11.968106
+  tag: commercial
+}
+, class Tag {
+  confidence: 11.396735
+  tag: cloud
+}
+, class Tag {
+  confidence: 11.313585
+  tag: sea
+}
+, class Tag {
+  confidence: 10.9067135
+  tag: satellite
+}
+, class Tag {
+  confidence: 10.863776
+  tag: tourism
+}
+, class Tag {
+  confidence: 10.053946
+  tag: wings
+}
+, class Tag {
+  confidence: 10.022856
+  tag: cargo
+}
+, class Tag {
+  confidence: 9.948883
+  tag: water
+}
+, class Tag {
+  confidence: 9.618404
+  tag: takeoff
+}
+, class Tag {
+  confidence: 9.606027
+  tag: facility
+}
+, class Tag {
+  confidence: 9.502015
+  tag: gear
+}
+, class Tag {
+  confidence: 9.3751
+  tag: bobbin
+}
+, class Tag {
+  confidence: 9.322795
+  tag: business
+}
+, class Tag {
+  confidence: 8.917496
+  tag: cockpit
+}
+, class Tag {
+  confidence: 8.913651
+  tag: runway
+}
+, class Tag {
+  confidence: 8.646683
+  tag: landscape
+}
+, class Tag {
+  confidence: 8.242855
+  tag: depart
+}
+, class Tag {
+  confidence: 8.236625
+  tag: sunrise
+}
+, class Tag {
+  confidence: 8.189313
+  tag: sun
+}
+, class Tag {
+  confidence: 7.9539776
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.9222484
+  tag: warplane
+}
+, class Tag {
+  confidence: 7.8768296
+  tag: ocean
+}
+, class Tag {
+  confidence: 7.7319913
+  tag: journey
+}
+, class Tag {
+  confidence: 7.507978
+  tag: arrival
+}
+, class Tag {
+  confidence: 7.4038453
+  tag: passenger
+}
+, class Tag {
+  confidence: 7.367084
+  tag: pilot
+}
+, class Tag {
+  confidence: 7.3510566
+  tag: airline
+}
+, class Tag {
+  confidence: 7.0794916
+  tag: military
+}
+]
+}
+]
+  unsuccessful: null
+}

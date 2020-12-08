@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKBmviWgAEoHRz.png
+  tags: [class Tag {
+  confidence: 52.72285
+  tag: gown
+}
+, class Tag {
+  confidence: 45.409653
+  tag: vestment
+}
+, class Tag {
+  confidence: 38.43026
+  tag: outerwear
+}
+, class Tag {
+  confidence: 28.328403
+  tag: covering
+}
+, class Tag {
+  confidence: 26.600054
+  tag: clothing
+}
+, class Tag {
+  confidence: 20.517809
+  tag: cloak
+}
+, class Tag {
+  confidence: 19.38
+  tag: academic gown
+}
+, class Tag {
+  confidence: 15.698389
+  tag: person
+}
+, class Tag {
+  confidence: 15.508862
+  tag: attractive
+}
+, class Tag {
+  confidence: 15.41044
+  tag: adult
+}
+, class Tag {
+  confidence: 15.368382
+  tag: happy
+}
+, class Tag {
+  confidence: 15.172984
+  tag: people
+}
+, class Tag {
+  confidence: 14.907076
+  tag: man
+}
+, class Tag {
+  confidence: 14.083125
+  tag: male
+}
+, class Tag {
+  confidence: 13.432562
+  tag: suit
+}
+, class Tag {
+  confidence: 12.812
+  tag: consumer goods
+}
+, class Tag {
+  confidence: 12.78271
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.417522
+  tag: business
+}
+, class Tag {
+  confidence: 11.6650305
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.536042
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.331753
+  tag: smile
+}
+, class Tag {
+  confidence: 10.51706
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.462687
+  tag: work
+}
+, class Tag {
+  confidence: 9.949125
+  tag: job
+}
+, class Tag {
+  confidence: 9.704762
+  tag: face
+}
+, class Tag {
+  confidence: 9.692098
+  tag: fashion
+}
+, class Tag {
+  confidence: 9.676225
+  tag: looking
+}
+, class Tag {
+  confidence: 9.561996
+  tag: casual
+}
+, class Tag {
+  confidence: 9.2483425
+  tag: holding
+}
+, class Tag {
+  confidence: 9.137726
+  tag: success
+}
+, class Tag {
+  confidence: 8.855686
+  tag: model
+}
+, class Tag {
+  confidence: 7.653491
+  tag: hair
+}
+, class Tag {
+  confidence: 7.63903
+  tag: professional
+}
+, class Tag {
+  confidence: 7.5458946
+  tag: cute
+}
+, class Tag {
+  confidence: 7.2683296
+  tag: standing
+}
+, class Tag {
+  confidence: 7.1405897
+  tag: fun
+}
+, class Tag {
+  confidence: 7.098523
+  tag: tie
+}
+, class Tag {
+  confidence: 7.051589
+  tag: corporate
+}
+]
+}
+]
+  unsuccessful: null
+}

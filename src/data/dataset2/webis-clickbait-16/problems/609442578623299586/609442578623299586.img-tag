@@ -1,0 +1,280 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUsy8_WgAAZ6wq.jpg
+  tags: [class Tag {
+  confidence: 43.438976
+  tag: man
+}
+, class Tag {
+  confidence: 38.98415
+  tag: male
+}
+, class Tag {
+  confidence: 34.51878
+  tag: portrait
+}
+, class Tag {
+  confidence: 32.55316
+  tag: person
+}
+, class Tag {
+  confidence: 29.40427
+  tag: adult
+}
+, class Tag {
+  confidence: 28.39702
+  tag: face
+}
+, class Tag {
+  confidence: 26.113176
+  tag: people
+}
+, class Tag {
+  confidence: 25.771414
+  tag: caucasian
+}
+, class Tag {
+  confidence: 21.056274
+  tag: businessman
+}
+, class Tag {
+  confidence: 20.81274
+  tag: expression
+}
+, class Tag {
+  confidence: 20.276716
+  tag: business
+}
+, class Tag {
+  confidence: 18.283901
+  tag: black
+}
+, class Tag {
+  confidence: 18.202255
+  tag: smile
+}
+, class Tag {
+  confidence: 17.75444
+  tag: eyes
+}
+, class Tag {
+  confidence: 17.409975
+  tag: looking
+}
+, class Tag {
+  confidence: 16.96338
+  tag: handsome
+}
+, class Tag {
+  confidence: 16.888021
+  tag: happy
+}
+, class Tag {
+  confidence: 16.84758
+  tag: professional
+}
+, class Tag {
+  confidence: 16.792458
+  tag: attractive
+}
+, class Tag {
+  confidence: 16.392145
+  tag: hair
+}
+, class Tag {
+  confidence: 16.229912
+  tag: one
+}
+, class Tag {
+  confidence: 15.6857815
+  tag: head
+}
+, class Tag {
+  confidence: 15.62901
+  tag: close
+}
+, class Tag {
+  confidence: 15.609385
+  tag: executive
+}
+, class Tag {
+  confidence: 15.314967
+  tag: beard
+}
+, class Tag {
+  confidence: 14.916807
+  tag: hand
+}
+, class Tag {
+  confidence: 14.864483
+  tag: model
+}
+, class Tag {
+  confidence: 13.908569
+  tag: guy
+}
+, class Tag {
+  confidence: 13.76311
+  tag: smiling
+}
+, class Tag {
+  confidence: 12.941394
+  tag: men
+}
+, class Tag {
+  confidence: 12.89083
+  tag: human
+}
+, class Tag {
+  confidence: 12.165216
+  tag: mature
+}
+, class Tag {
+  confidence: 12.084264
+  tag: corporate
+}
+, class Tag {
+  confidence: 11.600249
+  tag: serious
+}
+, class Tag {
+  confidence: 11.297213
+  tag: office
+}
+, class Tag {
+  confidence: 11.197515
+  tag: youth
+}
+, class Tag {
+  confidence: 10.981936
+  tag: suit
+}
+, class Tag {
+  confidence: 10.746981
+  tag: studio
+}
+, class Tag {
+  confidence: 10.663338
+  tag: boy
+}
+, class Tag {
+  confidence: 10.28283
+  tag: skin
+}
+, class Tag {
+  confidence: 10.203558
+  tag: alone
+}
+, class Tag {
+  confidence: 10.074254
+  tag: holding
+}
+, class Tag {
+  confidence: 9.626083
+  tag: sitting
+}
+, class Tag {
+  confidence: 9.61036
+  tag: senior
+}
+, class Tag {
+  confidence: 9.601324
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.532737
+  tag: work
+}
+, class Tag {
+  confidence: 9.4033165
+  tag: phone
+}
+, class Tag {
+  confidence: 9.352833
+  tag: fashion
+}
+, class Tag {
+  confidence: 9.331806
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.22777
+  tag: job
+}
+, class Tag {
+  confidence: 9.026316
+  tag: indoors
+}
+, class Tag {
+  confidence: 8.885979
+  tag: tie
+}
+, class Tag {
+  confidence: 8.4255705
+  tag: success
+}
+, class Tag {
+  confidence: 8.361712
+  tag: style
+}
+, class Tag {
+  confidence: 8.105821
+  tag: cute
+}
+, class Tag {
+  confidence: 8.020598
+  tag: thinking
+}
+, class Tag {
+  confidence: 7.764227
+  tag: emotion
+}
+, class Tag {
+  confidence: 7.744726
+  tag: lady
+}
+, class Tag {
+  confidence: 7.7076297
+  tag: successful
+}
+, class Tag {
+  confidence: 7.6509767
+  tag: stylish
+}
+, class Tag {
+  confidence: 7.4285035
+  tag: look
+}
+, class Tag {
+  confidence: 7.3793545
+  tag: brunette
+}
+, class Tag {
+  confidence: 7.2983084
+  tag: american
+}
+, class Tag {
+  confidence: 7.136622
+  tag: gesture
+}
+, class Tag {
+  confidence: 7.117859
+  tag: elderly
+}
+, class Tag {
+  confidence: 7.1168394
+  tag: businesspeople
+}
+, class Tag {
+  confidence: 7.012586
+  tag: good
+}
+, class Tag {
+  confidence: 7.0010533
+  tag: one person
+}
+]
+}
+]
+  unsuccessful: null
+}

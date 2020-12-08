@@ -1,0 +1,324 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJ0j2KXIAAyeFj.jpg
+  tags: [class Tag {
+  confidence: 31.142214
+  tag: man
+}
+, class Tag {
+  confidence: 29.813215
+  tag: people
+}
+, class Tag {
+  confidence: 28.872839
+  tag: male
+}
+, class Tag {
+  confidence: 25.88253
+  tag: student
+}
+, class Tag {
+  confidence: 24.934769
+  tag: group
+}
+, class Tag {
+  confidence: 24.791636
+  tag: caucasian
+}
+, class Tag {
+  confidence: 24.52838
+  tag: smiling
+}
+, class Tag {
+  confidence: 22.704664
+  tag: person
+}
+, class Tag {
+  confidence: 22.292027
+  tag: business
+}
+, class Tag {
+  confidence: 21.499277
+  tag: happy
+}
+, class Tag {
+  confidence: 20.434677
+  tag: adult
+}
+, class Tag {
+  confidence: 18.458635
+  tag: casual
+}
+, class Tag {
+  confidence: 18.212635
+  tag: together
+}
+, class Tag {
+  confidence: 17.970137
+  tag: team
+}
+, class Tag {
+  confidence: 17.289248
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 17.184734
+  tag: women
+}
+, class Tag {
+  confidence: 16.87085
+  tag: smile
+}
+, class Tag {
+  confidence: 16.330744
+  tag: men
+}
+, class Tag {
+  confidence: 15.967625
+  tag: office
+}
+, class Tag {
+  confidence: 15.086712
+  tag: friends
+}
+, class Tag {
+  confidence: 15.055434
+  tag: portrait
+}
+, class Tag {
+  confidence: 14.307984
+  tag: room
+}
+, class Tag {
+  confidence: 14.1991
+  tag: attractive
+}
+, class Tag {
+  confidence: 14.164695
+  tag: couple
+}
+, class Tag {
+  confidence: 14.158107
+  tag: 20s
+}
+, class Tag {
+  confidence: 13.860853
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 13.856
+  tag: enrollee
+}
+, class Tag {
+  confidence: 13.765316
+  tag: classroom
+}
+, class Tag {
+  confidence: 13.269346
+  tag: happiness
+}
+, class Tag {
+  confidence: 12.828715
+  tag: job
+}
+, class Tag {
+  confidence: 12.354103
+  tag: sitting
+}
+, class Tag {
+  confidence: 12.332922
+  tag: professional
+}
+, class Tag {
+  confidence: 12.305148
+  tag: laptop
+}
+, class Tag {
+  confidence: 12.227594
+  tag: computer
+}
+, class Tag {
+  confidence: 12.188029
+  tag: businessman
+}
+, class Tag {
+  confidence: 11.965806
+  tag: fun
+}
+, class Tag {
+  confidence: 11.902897
+  tag: meeting
+}
+, class Tag {
+  confidence: 11.849223
+  tag: indoors
+}
+, class Tag {
+  confidence: 11.838334
+  tag: cheerful
+}
+, class Tag {
+  confidence: 11.732881
+  tag: teamwork
+}
+, class Tag {
+  confidence: 11.714195
+  tag: friendship
+}
+, class Tag {
+  confidence: 11.313758
+  tag: two
+}
+, class Tag {
+  confidence: 11.130488
+  tag: working
+}
+, class Tag {
+  confidence: 10.967479
+  tag: american
+}
+, class Tag {
+  confidence: 10.848777
+  tag: corporate
+}
+, class Tag {
+  confidence: 10.767548
+  tag: occupation
+}
+, class Tag {
+  confidence: 10.625831
+  tag: home
+}
+, class Tag {
+  confidence: 10.508646
+  tag: discussion
+}
+, class Tag {
+  confidence: 10.105055
+  tag: females
+}
+, class Tag {
+  confidence: 9.868968
+  tag: work
+}
+, class Tag {
+  confidence: 9.769263
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.566311
+  tag: class
+}
+, class Tag {
+  confidence: 9.489432
+  tag: education
+}
+, class Tag {
+  confidence: 9.417373
+  tag: looking
+}
+, class Tag {
+  confidence: 9.387069
+  tag: businesspeople
+}
+, class Tag {
+  confidence: 9.313299
+  tag: adults
+}
+, class Tag {
+  confidence: 9.179752
+  tag: love
+}
+, class Tag {
+  confidence: 9.148478
+  tag: camera
+}
+, class Tag {
+  confidence: 8.960972
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.915026
+  tag: girls
+}
+, class Tag {
+  confidence: 8.732703
+  tag: colleagues
+}
+, class Tag {
+  confidence: 8.732599
+  tag: standing
+}
+, class Tag {
+  confidence: 8.632612
+  tag: boy
+}
+, class Tag {
+  confidence: 8.6246195
+  tag: asian
+}
+, class Tag {
+  confidence: 8.487064
+  tag: youth
+}
+, class Tag {
+  confidence: 8.258387
+  tag: communication
+}
+, class Tag {
+  confidence: 8.246644
+  tag: color
+}
+, class Tag {
+  confidence: 8.151075
+  tag: school
+}
+, class Tag {
+  confidence: 8.004888
+  tag: technology
+}
+, class Tag {
+  confidence: 7.8907957
+  tag: colleague
+}
+, class Tag {
+  confidence: 7.8014064
+  tag: 30s
+}
+, class Tag {
+  confidence: 7.7256756
+  tag: college
+}
+, class Tag {
+  confidence: 7.6730766
+  tag: desk
+}
+, class Tag {
+  confidence: 7.547402
+  tag: studio
+}
+, class Tag {
+  confidence: 7.4271865
+  tag: success
+}
+, class Tag {
+  confidence: 7.4179435
+  tag: indoor
+}
+, class Tag {
+  confidence: 7.4115314
+  tag: inside
+}
+, class Tag {
+  confidence: 7.2528353
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.045703
+  tag: african american
+}
+]
+}
+]
+  unsuccessful: null
+}

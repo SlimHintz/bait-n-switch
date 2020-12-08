@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTpaeUUsAEJlxK.jpg
+  tags: [class Tag {
+  confidence: 69.46615
+  tag: muslim
+}
+, class Tag {
+  confidence: 53.856
+  tag: religious person
+}
+, class Tag {
+  confidence: 49.663525
+  tag: person
+}
+, class Tag {
+  confidence: 35.217854
+  tag: arab
+}
+, class Tag {
+  confidence: 26.944
+  tag: semite
+}
+, class Tag {
+  confidence: 23.615685
+  tag: man
+}
+, class Tag {
+  confidence: 21.060152
+  tag: male
+}
+, class Tag {
+  confidence: 20.208
+  tag: white
+}
+, class Tag {
+  confidence: 17.775343
+  tag: hat
+}
+, class Tag {
+  confidence: 17.543894
+  tag: people
+}
+, class Tag {
+  confidence: 16.951359
+  tag: adult
+}
+, class Tag {
+  confidence: 15.861615
+  tag: portrait
+}
+, class Tag {
+  confidence: 15.1986885
+  tag: happy
+}
+, class Tag {
+  confidence: 13.891707
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.334326
+  tag: face
+}
+, class Tag {
+  confidence: 11.316886
+  tag: expression
+}
+, class Tag {
+  confidence: 10.833113
+  tag: smile
+}
+, class Tag {
+  confidence: 9.677045
+  tag: looking
+}
+, class Tag {
+  confidence: 9.619692
+  tag: men
+}
+, class Tag {
+  confidence: 9.534947
+  tag: fashion
+}
+, class Tag {
+  confidence: 9.525214
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.356019
+  tag: smiling
+}
+, class Tag {
+  confidence: 9.346128
+  tag: cute
+}
+, class Tag {
+  confidence: 9.2003975
+  tag: fun
+}
+, class Tag {
+  confidence: 8.853086
+  tag: clothing
+}
+, class Tag {
+  confidence: 8.798133
+  tag: helmet
+}
+, class Tag {
+  confidence: 8.587297
+  tag: professional
+}
+, class Tag {
+  confidence: 8.4798355
+  tag: business
+}
+, class Tag {
+  confidence: 8.288371
+  tag: job
+}
+, class Tag {
+  confidence: 8.196554
+  tag: work
+}
+, class Tag {
+  confidence: 7.9091816
+  tag: eyes
+}
+, class Tag {
+  confidence: 7.771594
+  tag: construction
+}
+, class Tag {
+  confidence: 7.662224
+  tag: costume
+}
+, class Tag {
+  confidence: 7.6512003
+  tag: worker
+}
+, class Tag {
+  confidence: 7.636574
+  tag: contractor
+}
+, class Tag {
+  confidence: 7.4255695
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.248395
+  tag: hair
+}
+, class Tag {
+  confidence: 7.062607
+  tag: religion
+}
+, class Tag {
+  confidence: 7.0587754
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.0217447
+  tag: businessman
+}
+]
+}
+]
+  unsuccessful: null
+}

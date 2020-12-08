@@ -1,0 +1,24 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNsG7UW4AAVvdI.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: rodent
+}
+, class Tag {
+  confidence: 100.0
+  tag: porcupine
+}
+, class Tag {
+  confidence: 71.46767
+  tag: mammal
+}
+, class Tag {
+  confidence: 7.118937
+  tag: echidna
+}
+]
+}
+]
+  unsuccessful: null
+}

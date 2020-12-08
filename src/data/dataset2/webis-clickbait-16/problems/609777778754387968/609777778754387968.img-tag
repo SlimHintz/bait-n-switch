@@ -1,0 +1,284 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYDopsUkAAcWQT.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: kitten
+}
+, class Tag {
+  confidence: 100.0
+  tag: cat
+}
+, class Tag {
+  confidence: 97.87452
+  tag: feline
+}
+, class Tag {
+  confidence: 75.62977
+  tag: animal
+}
+, class Tag {
+  confidence: 54.09979
+  tag: kitty
+}
+, class Tag {
+  confidence: 48.48933
+  tag: fur
+}
+, class Tag {
+  confidence: 46.816986
+  tag: pet
+}
+, class Tag {
+  confidence: 43.05006
+  tag: domestic cat
+}
+, class Tag {
+  confidence: 42.253098
+  tag: domestic
+}
+, class Tag {
+  confidence: 42.144
+  tag: young mammal
+}
+, class Tag {
+  confidence: 41.93819
+  tag: cute
+}
+, class Tag {
+  confidence: 31.785816
+  tag: mammal
+}
+, class Tag {
+  confidence: 31.747353
+  tag: domestic animal
+}
+, class Tag {
+  confidence: 31.608
+  tag: young
+}
+, class Tag {
+  confidence: 30.75526
+  tag: whiskers
+}
+, class Tag {
+  confidence: 29.729767
+  tag: eyes
+}
+, class Tag {
+  confidence: 28.56677
+  tag: furry
+}
+, class Tag {
+  confidence: 26.21467
+  tag: pets
+}
+, class Tag {
+  confidence: 25.393316
+  tag: animals
+}
+, class Tag {
+  confidence: 24.711554
+  tag: tabby
+}
+, class Tag {
+  confidence: 23.72
+  tag: egyptian cat
+}
+, class Tag {
+  confidence: 19.38549
+  tag: looking
+}
+, class Tag {
+  confidence: 17.747793
+  tag: cats
+}
+, class Tag {
+  confidence: 17.342104
+  tag: face
+}
+, class Tag {
+  confidence: 17.05793
+  tag: curious
+}
+, class Tag {
+  confidence: 16.838167
+  tag: adorable
+}
+, class Tag {
+  confidence: 16.373487
+  tag: eye
+}
+, class Tag {
+  confidence: 16.367893
+  tag: look
+}
+, class Tag {
+  confidence: 15.970443
+  tag: grey
+}
+, class Tag {
+  confidence: 15.789696
+  tag: hair
+}
+, class Tag {
+  confidence: 15.506314
+  tag: little
+}
+, class Tag {
+  confidence: 15.395089
+  tag: portrait
+}
+, class Tag {
+  confidence: 15.344721
+  tag: fluffy
+}
+, class Tag {
+  confidence: 14.753161
+  tag: ears
+}
+, class Tag {
+  confidence: 13.616302
+  tag: soft
+}
+, class Tag {
+  confidence: 13.445527
+  tag: whisker
+}
+, class Tag {
+  confidence: 13.337873
+  tag: puss
+}
+, class Tag {
+  confidence: 12.369372
+  tag: shorthair
+}
+, class Tag {
+  confidence: 12.16643
+  tag: tail
+}
+, class Tag {
+  confidence: 11.71635
+  tag: kittens
+}
+, class Tag {
+  confidence: 11.675783
+  tag: sitting
+}
+, class Tag {
+  confidence: 11.401435
+  tag: purebred
+}
+, class Tag {
+  confidence: 11.206427
+  tag: claws
+}
+, class Tag {
+  confidence: 11.187028
+  tag: striped
+}
+, class Tag {
+  confidence: 10.989654
+  tag: expression
+}
+, class Tag {
+  confidence: 10.84032
+  tag: nose
+}
+, class Tag {
+  confidence: 10.803766
+  tag: claw
+}
+, class Tag {
+  confidence: 10.580968
+  tag: charming
+}
+, class Tag {
+  confidence: 10.093252
+  tag: mammals
+}
+, class Tag {
+  confidence: 9.677982
+  tag: friendship
+}
+, class Tag {
+  confidence: 9.66
+  tag: tiger cat
+}
+, class Tag {
+  confidence: 9.658826
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.449979
+  tag: brown
+}
+, class Tag {
+  confidence: 9.297779
+  tag: sweet
+}
+, class Tag {
+  confidence: 9.23691
+  tag: carnivore
+}
+, class Tag {
+  confidence: 9.046389
+  tag: playful
+}
+, class Tag {
+  confidence: 8.816965
+  tag: interested
+}
+, class Tag {
+  confidence: 8.484072
+  tag: staring
+}
+, class Tag {
+  confidence: 8.4793825
+  tag: curiosity
+}
+, class Tag {
+  confidence: 8.474457
+  tag: close
+}
+, class Tag {
+  confidence: 8.21961
+  tag: head
+}
+, class Tag {
+  confidence: 7.935804
+  tag: funny
+}
+, class Tag {
+  confidence: 7.866281
+  tag: cuddly
+}
+, class Tag {
+  confidence: 7.836747
+  tag: lovely
+}
+, class Tag {
+  confidence: 7.7157364
+  tag: orange
+}
+, class Tag {
+  confidence: 7.6705246
+  tag: household
+}
+, class Tag {
+  confidence: 7.5991573
+  tag: pussy
+}
+, class Tag {
+  confidence: 7.492226
+  tag: sit
+}
+, class Tag {
+  confidence: 7.4655447
+  tag: play
+}
+]
+}
+]
+  unsuccessful: null
+}

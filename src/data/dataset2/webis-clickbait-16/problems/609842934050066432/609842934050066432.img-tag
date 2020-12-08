@@ -1,0 +1,108 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHaY6tiWcAAhQm2.jpg
+  tags: [class Tag {
+  confidence: 40.46
+  tag: graffito
+}
+, class Tag {
+  confidence: 29.51727
+  tag: decoration
+}
+, class Tag {
+  confidence: 15.842281
+  tag: grunge
+}
+, class Tag {
+  confidence: 14.406625
+  tag: spectacles
+}
+, class Tag {
+  confidence: 14.286791
+  tag: design
+}
+, class Tag {
+  confidence: 12.804518
+  tag: graphic
+}
+, class Tag {
+  confidence: 12.470426
+  tag: silhouette
+}
+, class Tag {
+  confidence: 12.277844
+  tag: art
+}
+, class Tag {
+  confidence: 11.17444
+  tag: retro
+}
+, class Tag {
+  confidence: 11.068903
+  tag: old
+}
+, class Tag {
+  confidence: 10.3425455
+  tag: person
+}
+, class Tag {
+  confidence: 10.289527
+  tag: face
+}
+, class Tag {
+  confidence: 9.89693
+  tag: black
+}
+, class Tag {
+  confidence: 9.630652
+  tag: sunglass
+}
+, class Tag {
+  confidence: 9.604488
+  tag: pattern
+}
+, class Tag {
+  confidence: 9.332446
+  tag: texture
+}
+, class Tag {
+  confidence: 9.265292
+  tag: frame
+}
+, class Tag {
+  confidence: 8.651442
+  tag: vintage
+}
+, class Tag {
+  confidence: 8.609171
+  tag: color
+}
+, class Tag {
+  confidence: 8.374839
+  tag: antique
+}
+, class Tag {
+  confidence: 8.315845
+  tag: people
+}
+, class Tag {
+  confidence: 7.404937
+  tag: business
+}
+, class Tag {
+  confidence: 7.3577557
+  tag: border
+}
+, class Tag {
+  confidence: 7.35648
+  tag: dirty
+}
+, class Tag {
+  confidence: 7.244645
+  tag: modern
+}
+]
+}
+]
+  unsuccessful: null
+}

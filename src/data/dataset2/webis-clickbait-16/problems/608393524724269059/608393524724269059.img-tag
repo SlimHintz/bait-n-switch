@@ -1,0 +1,268 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHFykGtXIAAi-P7.jpg
+  tags: [class Tag {
+  confidence: 19.233242
+  tag: person
+}
+, class Tag {
+  confidence: 18.850601
+  tag: home
+}
+, class Tag {
+  confidence: 18.509241
+  tag: people
+}
+, class Tag {
+  confidence: 17.74487
+  tag: adult
+}
+, class Tag {
+  confidence: 16.47053
+  tag: business
+}
+, class Tag {
+  confidence: 14.162772
+  tag: door
+}
+, class Tag {
+  confidence: 13.485268
+  tag: office
+}
+, class Tag {
+  confidence: 13.309451
+  tag: building
+}
+, class Tag {
+  confidence: 13.1315775
+  tag: happy
+}
+, class Tag {
+  confidence: 12.969962
+  tag: house
+}
+, class Tag {
+  confidence: 12.297319
+  tag: cafe
+}
+, class Tag {
+  confidence: 12.1143265
+  tag: call
+}
+, class Tag {
+  confidence: 12.08667
+  tag: hand
+}
+, class Tag {
+  confidence: 11.863902
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.694591
+  tag: indoors
+}
+, class Tag {
+  confidence: 11.576701
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.486585
+  tag: smile
+}
+, class Tag {
+  confidence: 11.062055
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.055793
+  tag: man
+}
+, class Tag {
+  confidence: 11.003655
+  tag: male
+}
+, class Tag {
+  confidence: 10.934412
+  tag: working
+}
+, class Tag {
+  confidence: 10.8140955
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.616545
+  tag: casual
+}
+, class Tag {
+  confidence: 10.56705
+  tag: expression
+}
+, class Tag {
+  confidence: 10.497649
+  tag: barbershop
+}
+, class Tag {
+  confidence: 10.45508
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.429553
+  tag: shop
+}
+, class Tag {
+  confidence: 10.284864
+  tag: holding
+}
+, class Tag {
+  confidence: 10.074818
+  tag: pretty
+}
+, class Tag {
+  confidence: 10.045905
+  tag: looking
+}
+, class Tag {
+  confidence: 9.77927
+  tag: sliding door
+}
+, class Tag {
+  confidence: 9.634858
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.62364
+  tag: communication
+}
+, class Tag {
+  confidence: 9.362813
+  tag: interior
+}
+, class Tag {
+  confidence: 9.312774
+  tag: modern
+}
+, class Tag {
+  confidence: 8.988473
+  tag: 20s
+}
+, class Tag {
+  confidence: 8.920103
+  tag: face
+}
+, class Tag {
+  confidence: 8.905265
+  tag: phone
+}
+, class Tag {
+  confidence: 8.804403
+  tag: relaxation
+}
+, class Tag {
+  confidence: 8.537727
+  tag: technology
+}
+, class Tag {
+  confidence: 8.441992
+  tag: sofa
+}
+, class Tag {
+  confidence: 8.418989
+  tag: apartment
+}
+, class Tag {
+  confidence: 8.37014
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.333887
+  tag: living
+}
+, class Tag {
+  confidence: 8.320084
+  tag: mobile
+}
+, class Tag {
+  confidence: 8.126434
+  tag: leisure
+}
+, class Tag {
+  confidence: 8.079864
+  tag: restaurant
+}
+, class Tag {
+  confidence: 8.077437
+  tag: laptop
+}
+, class Tag {
+  confidence: 8.0717745
+  tag: architecture
+}
+, class Tag {
+  confidence: 8.059241
+  tag: window
+}
+, class Tag {
+  confidence: 7.746712
+  tag: women
+}
+, class Tag {
+  confidence: 7.739483
+  tag: education
+}
+, class Tag {
+  confidence: 7.6240945
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.621966
+  tag: urban
+}
+, class Tag {
+  confidence: 7.5619006
+  tag: furniture
+}
+, class Tag {
+  confidence: 7.455467
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.440151
+  tag: human
+}
+, class Tag {
+  confidence: 7.350844
+  tag: floor
+}
+, class Tag {
+  confidence: 7.3437667
+  tag: one
+}
+, class Tag {
+  confidence: 7.287909
+  tag: old
+}
+, class Tag {
+  confidence: 7.2615905
+  tag: student
+}
+, class Tag {
+  confidence: 7.254359
+  tag: success
+}
+, class Tag {
+  confidence: 7.0791306
+  tag: structure
+}
+, class Tag {
+  confidence: 7.076825
+  tag: computer
+}
+, class Tag {
+  confidence: 7.05556
+  tag: passenger
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,128 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJbYlrWkAAy47V.jpg
+  tags: [class Tag {
+  confidence: 42.61687
+  tag: shop
+}
+, class Tag {
+  confidence: 34.44428
+  tag: plaza
+}
+, class Tag {
+  confidence: 32.64
+  tag: mercantile establishment
+}
+, class Tag {
+  confidence: 21.992
+  tag: place of business
+}
+, class Tag {
+  confidence: 17.02
+  tag: shoe shop
+}
+, class Tag {
+  confidence: 17.019339
+  tag: stall
+}
+, class Tag {
+  confidence: 13.350971
+  tag: business
+}
+, class Tag {
+  confidence: 13.245167
+  tag: bookshop
+}
+, class Tag {
+  confidence: 13.0885935
+  tag: building
+}
+, class Tag {
+  confidence: 11.829746
+  tag: supermarket
+}
+, class Tag {
+  confidence: 11.333
+  tag: establishment
+}
+, class Tag {
+  confidence: 10.499708
+  tag: architecture
+}
+, class Tag {
+  confidence: 10.278721
+  tag: adult
+}
+, class Tag {
+  confidence: 9.994658
+  tag: city
+}
+, class Tag {
+  confidence: 9.657535
+  tag: home
+}
+, class Tag {
+  confidence: 9.435362
+  tag: color
+}
+, class Tag {
+  confidence: 9.364607
+  tag: house
+}
+, class Tag {
+  confidence: 8.936216
+  tag: people
+}
+, class Tag {
+  confidence: 8.661251
+  tag: empty
+}
+, class Tag {
+  confidence: 8.1384115
+  tag: interior
+}
+, class Tag {
+  confidence: 7.8998184
+  tag: old
+}
+, class Tag {
+  confidence: 7.7873487
+  tag: grocery store
+}
+, class Tag {
+  confidence: 7.613446
+  tag: person
+}
+, class Tag {
+  confidence: 7.6096864
+  tag: light
+}
+, class Tag {
+  confidence: 7.577559
+  tag: modern
+}
+, class Tag {
+  confidence: 7.554154
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.456432
+  tag: man
+}
+, class Tag {
+  confidence: 7.2725787
+  tag: urban
+}
+, class Tag {
+  confidence: 7.2436256
+  tag: chair
+}
+, class Tag {
+  confidence: 7.061551
+  tag: indoor
+}
+]
+}
+]
+  unsuccessful: null
+}

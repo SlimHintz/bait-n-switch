@@ -1,0 +1,96 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQP4abWsAAYrkH.jpg
+  tags: [class Tag {
+  confidence: 12.720559
+  tag: drawing
+}
+, class Tag {
+  confidence: 12.460015
+  tag: art
+}
+, class Tag {
+  confidence: 12.456594
+  tag: design
+}
+, class Tag {
+  confidence: 12.323894
+  tag: silhouette
+}
+, class Tag {
+  confidence: 12.148193
+  tag: graphic
+}
+, class Tag {
+  confidence: 12.12459
+  tag: animal
+}
+, class Tag {
+  confidence: 10.2327795
+  tag: symbol
+}
+, class Tag {
+  confidence: 9.941679
+  tag: barn
+}
+, class Tag {
+  confidence: 9.817137
+  tag: summer
+}
+, class Tag {
+  confidence: 9.234424
+  tag: cartoon
+}
+, class Tag {
+  confidence: 9.221809
+  tag: frame
+}
+, class Tag {
+  confidence: 8.801196
+  tag: black
+}
+, class Tag {
+  confidence: 8.646057
+  tag: business
+}
+, class Tag {
+  confidence: 8.630069
+  tag: grass
+}
+, class Tag {
+  confidence: 8.524596
+  tag: sign
+}
+, class Tag {
+  confidence: 8.07057
+  tag: landscape
+}
+, class Tag {
+  confidence: 7.6839027
+  tag: clipart
+}
+, class Tag {
+  confidence: 7.4402313
+  tag: icon
+}
+, class Tag {
+  confidence: 7.4388566
+  tag: computer
+}
+, class Tag {
+  confidence: 7.3718495
+  tag: brown
+}
+, class Tag {
+  confidence: 7.126033
+  tag: season
+}
+, class Tag {
+  confidence: 7.0300956
+  tag: floral
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,204 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPb_BlUAAA6-aA.png
+  tags: [class Tag {
+  confidence: 25.22263
+  tag: design
+}
+, class Tag {
+  confidence: 21.45446
+  tag: art
+}
+, class Tag {
+  confidence: 19.715794
+  tag: drawing
+}
+, class Tag {
+  confidence: 19.54517
+  tag: graphic
+}
+, class Tag {
+  confidence: 18.932959
+  tag: element
+}
+, class Tag {
+  confidence: 16.909641
+  tag: icon
+}
+, class Tag {
+  confidence: 16.63266
+  tag: pattern
+}
+, class Tag {
+  confidence: 15.361056
+  tag: floral
+}
+, class Tag {
+  confidence: 15.206517
+  tag: symbol
+}
+, class Tag {
+  confidence: 14.328278
+  tag: silhouette
+}
+, class Tag {
+  confidence: 12.993673
+  tag: cartoon
+}
+, class Tag {
+  confidence: 12.985158
+  tag: painting
+}
+, class Tag {
+  confidence: 12.705223
+  tag: frame
+}
+, class Tag {
+  confidence: 12.688918
+  tag: decorative
+}
+, class Tag {
+  confidence: 12.231803
+  tag: card
+}
+, class Tag {
+  confidence: 11.751863
+  tag: sign
+}
+, class Tag {
+  confidence: 11.613228
+  tag: curve
+}
+, class Tag {
+  confidence: 11.599381
+  tag: leaf
+}
+, class Tag {
+  confidence: 11.438891
+  tag: set
+}
+, class Tag {
+  confidence: 11.311413
+  tag: shape
+}
+, class Tag {
+  confidence: 10.889382
+  tag: flower
+}
+, class Tag {
+  confidence: 10.793109
+  tag: black
+}
+, class Tag {
+  confidence: 10.224061
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.997895
+  tag: style
+}
+, class Tag {
+  confidence: 9.235113
+  tag: fun
+}
+, class Tag {
+  confidence: 9.037902
+  tag: plant
+}
+, class Tag {
+  confidence: 9.02114
+  tag: grunge
+}
+, class Tag {
+  confidence: 8.950101
+  tag: clip
+}
+, class Tag {
+  confidence: 8.935597
+  tag: business
+}
+, class Tag {
+  confidence: 8.931153
+  tag: clip art
+}
+, class Tag {
+  confidence: 8.478345
+  tag: text
+}
+, class Tag {
+  confidence: 8.239694
+  tag: sketch
+}
+, class Tag {
+  confidence: 8.174883
+  tag: outline
+}
+, class Tag {
+  confidence: 8.164021
+  tag: curl
+}
+, class Tag {
+  confidence: 8.1050205
+  tag: animal
+}
+, class Tag {
+  confidence: 8.0983925
+  tag: modern
+}
+, class Tag {
+  confidence: 8.0039215
+  tag: water
+}
+, class Tag {
+  confidence: 7.901606
+  tag: swirl
+}
+, class Tag {
+  confidence: 7.890439
+  tag: retro
+}
+, class Tag {
+  confidence: 7.7497935
+  tag: summer
+}
+, class Tag {
+  confidence: 7.715679
+  tag: color
+}
+, class Tag {
+  confidence: 7.3944793
+  tag: artistic
+}
+, class Tag {
+  confidence: 7.349259
+  tag: line
+}
+, class Tag {
+  confidence: 7.342895
+  tag: ornament
+}
+, class Tag {
+  confidence: 7.174054
+  tag: icons
+}
+, class Tag {
+  confidence: 7.1239243
+  tag: coffee
+}
+, class Tag {
+  confidence: 7.1002445
+  tag: pink
+}
+, class Tag {
+  confidence: 7.097267
+  tag: elements
+}
+, class Tag {
+  confidence: 7.06745
+  tag: single
+}
+]
+}
+]
+  unsuccessful: null
+}

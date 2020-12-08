@@ -1,0 +1,140 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJ-4DFWgAEMkPw.jpg
+  tags: [class Tag {
+  confidence: 57.222862
+  tag: hourglass
+}
+, class Tag {
+  confidence: 51.634266
+  tag: lamp
+}
+, class Tag {
+  confidence: 43.32239
+  tag: light bulb
+}
+, class Tag {
+  confidence: 41.84975
+  tag: sandglass
+}
+, class Tag {
+  confidence: 32.544
+  tag: electric lamp
+}
+, class Tag {
+  confidence: 31.284557
+  tag: timepiece
+}
+, class Tag {
+  confidence: 23.526966
+  tag: glass
+}
+, class Tag {
+  confidence: 22.032
+  tag: source of illumination
+}
+, class Tag {
+  confidence: 14.61225
+  tag: wineglass
+}
+, class Tag {
+  confidence: 14.549518
+  tag: light
+}
+, class Tag {
+  confidence: 13.02
+  tag: table lamp
+}
+, class Tag {
+  confidence: 11.497425
+  tag: lampshade
+}
+, class Tag {
+  confidence: 11.264802
+  tag: bulb
+}
+, class Tag {
+  confidence: 10.882457
+  tag: drink
+}
+, class Tag {
+  confidence: 10.695068
+  tag: black
+}
+, class Tag {
+  confidence: 10.197092
+  tag: alcohol
+}
+, class Tag {
+  confidence: 10.107473
+  tag: gold
+}
+, class Tag {
+  confidence: 9.973131
+  tag: reflection
+}
+, class Tag {
+  confidence: 9.561317
+  tag: idea
+}
+, class Tag {
+  confidence: 9.535382
+  tag: shade
+}
+, class Tag {
+  confidence: 8.766964
+  tag: beverage
+}
+, class Tag {
+  confidence: 8.74153
+  tag: energy
+}
+, class Tag {
+  confidence: 8.630047
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.54881
+  tag: object
+}
+, class Tag {
+  confidence: 8.359559
+  tag: bright
+}
+, class Tag {
+  confidence: 8.30782
+  tag: metal
+}
+, class Tag {
+  confidence: 8.239647
+  tag: shiny
+}
+, class Tag {
+  confidence: 8.185121
+  tag: party
+}
+, class Tag {
+  confidence: 7.788955
+  tag: electricity
+}
+, class Tag {
+  confidence: 7.6896167
+  tag: electric
+}
+, class Tag {
+  confidence: 7.5184255
+  tag: furniture
+}
+, class Tag {
+  confidence: 7.37038
+  tag: transparent
+}
+, class Tag {
+  confidence: 7.2525744
+  tag: 3d
+}
+]
+}
+]
+  unsuccessful: null
+}

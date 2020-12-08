@@ -1,0 +1,324 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPZcxhVAAAgZDF.png
+  tags: [class Tag {
+  confidence: 39.821465
+  tag: man
+}
+, class Tag {
+  confidence: 34.540554
+  tag: male
+}
+, class Tag {
+  confidence: 32.332497
+  tag: people
+}
+, class Tag {
+  confidence: 31.338102
+  tag: caucasian
+}
+, class Tag {
+  confidence: 29.311954
+  tag: couple
+}
+, class Tag {
+  confidence: 28.11025
+  tag: happy
+}
+, class Tag {
+  confidence: 27.911854
+  tag: adult
+}
+, class Tag {
+  confidence: 26.680052
+  tag: smiling
+}
+, class Tag {
+  confidence: 26.6471
+  tag: attractive
+}
+, class Tag {
+  confidence: 24.492609
+  tag: together
+}
+, class Tag {
+  confidence: 24.095417
+  tag: love
+}
+, class Tag {
+  confidence: 21.381151
+  tag: smile
+}
+, class Tag {
+  confidence: 20.233795
+  tag: two
+}
+, class Tag {
+  confidence: 19.87037
+  tag: portrait
+}
+, class Tag {
+  confidence: 19.57481
+  tag: person
+}
+, class Tag {
+  confidence: 18.496729
+  tag: women
+}
+, class Tag {
+  confidence: 17.281149
+  tag: business
+}
+, class Tag {
+  confidence: 17.035118
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 15.954329
+  tag: handsome
+}
+, class Tag {
+  confidence: 15.094296
+  tag: casual
+}
+, class Tag {
+  confidence: 14.7181225
+  tag: friends
+}
+, class Tag {
+  confidence: 14.40857
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 14.35888
+  tag: group
+}
+, class Tag {
+  confidence: 14.27595
+  tag: team
+}
+, class Tag {
+  confidence: 13.989868
+  tag: relationship
+}
+, class Tag {
+  confidence: 13.842516
+  tag: pretty
+}
+, class Tag {
+  confidence: 13.719578
+  tag: 20s
+}
+, class Tag {
+  confidence: 13.716288
+  tag: happiness
+}
+, class Tag {
+  confidence: 12.825531
+  tag: men
+}
+, class Tag {
+  confidence: 12.759469
+  tag: looking
+}
+, class Tag {
+  confidence: 12.182226
+  tag: cheerful
+}
+, class Tag {
+  confidence: 12.108344
+  tag: friendship
+}
+, class Tag {
+  confidence: 11.959396
+  tag: sitting
+}
+, class Tag {
+  confidence: 11.9515
+  tag: office
+}
+, class Tag {
+  confidence: 11.838015
+  tag: student
+}
+, class Tag {
+  confidence: 11.561785
+  tag: romance
+}
+, class Tag {
+  confidence: 11.318413
+  tag: american
+}
+, class Tag {
+  confidence: 10.849703
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.672366
+  tag: standing
+}
+, class Tag {
+  confidence: 10.640247
+  tag: success
+}
+, class Tag {
+  confidence: 10.391299
+  tag: teamwork
+}
+, class Tag {
+  confidence: 10.380958
+  tag: professional
+}
+, class Tag {
+  confidence: 9.992553
+  tag: blond
+}
+, class Tag {
+  confidence: 9.943433
+  tag: lady
+}
+, class Tag {
+  confidence: 9.846088
+  tag: hispanic
+}
+, class Tag {
+  confidence: 9.813667
+  tag: diversity
+}
+, class Tag {
+  confidence: 9.712754
+  tag: businesspeople
+}
+, class Tag {
+  confidence: 9.598864
+  tag: adults
+}
+, class Tag {
+  confidence: 9.481091
+  tag: guy
+}
+, class Tag {
+  confidence: 9.43282
+  tag: occupation
+}
+, class Tag {
+  confidence: 9.41669
+  tag: friend
+}
+, class Tag {
+  confidence: 9.346542
+  tag: friendly
+}
+, class Tag {
+  confidence: 9.014784
+  tag: wife
+}
+, class Tag {
+  confidence: 8.994102
+  tag: dating
+}
+, class Tag {
+  confidence: 8.89261
+  tag: fun
+}
+, class Tag {
+  confidence: 8.713854
+  tag: work
+}
+, class Tag {
+  confidence: 8.533948
+  tag: confident
+}
+, class Tag {
+  confidence: 8.521975
+  tag: communication
+}
+, class Tag {
+  confidence: 8.342585
+  tag: clothing
+}
+, class Tag {
+  confidence: 8.322995
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.275253
+  tag: romantic
+}
+, class Tag {
+  confidence: 8.253808
+  tag: family
+}
+, class Tag {
+  confidence: 8.189579
+  tag: indoors
+}
+, class Tag {
+  confidence: 8.124702
+  tag: education
+}
+, class Tag {
+  confidence: 8.01125
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.9540954
+  tag: date
+}
+, class Tag {
+  confidence: 7.9289966
+  tag: youth
+}
+, class Tag {
+  confidence: 7.8484216
+  tag: females
+}
+, class Tag {
+  confidence: 7.700707
+  tag: holding
+}
+, class Tag {
+  confidence: 7.581771
+  tag: suit
+}
+, class Tag {
+  confidence: 7.4379516
+  tag: job
+}
+, class Tag {
+  confidence: 7.336096
+  tag: face
+}
+, class Tag {
+  confidence: 7.3360023
+  tag: celebration
+}
+, class Tag {
+  confidence: 7.182278
+  tag: day
+}
+, class Tag {
+  confidence: 7.1706095
+  tag: lovers
+}
+, class Tag {
+  confidence: 7.1487827
+  tag: expression
+}
+, class Tag {
+  confidence: 7.1359386
+  tag: studio
+}
+, class Tag {
+  confidence: 7.131892
+  tag: outside
+}
+, class Tag {
+  confidence: 7.051779
+  tag: loving
+}
+]
+}
+]
+  unsuccessful: null
+}

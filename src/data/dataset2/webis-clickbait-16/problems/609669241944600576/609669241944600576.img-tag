@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHX68fEVEAA0PdR.jpg
+  tags: [class Tag {
+  confidence: 59.694004
+  tag: rabbit
+}
+, class Tag {
+  confidence: 46.666065
+  tag: angora
+}
+, class Tag {
+  confidence: 37.67609
+  tag: cat
+}
+, class Tag {
+  confidence: 34.43776
+  tag: animal
+}
+, class Tag {
+  confidence: 32.55765
+  tag: kitten
+}
+, class Tag {
+  confidence: 32.291103
+  tag: feline
+}
+, class Tag {
+  confidence: 24.539597
+  tag: fur
+}
+, class Tag {
+  confidence: 22.970402
+  tag: cute
+}
+, class Tag {
+  confidence: 22.444263
+  tag: domestic
+}
+, class Tag {
+  confidence: 20.653933
+  tag: pet
+}
+, class Tag {
+  confidence: 18.359776
+  tag: domestic cat
+}
+, class Tag {
+  confidence: 18.15518
+  tag: mammal
+}
+, class Tag {
+  confidence: 17.874798
+  tag: pets
+}
+, class Tag {
+  confidence: 17.415413
+  tag: kitty
+}
+, class Tag {
+  confidence: 13.726808
+  tag: domestic animal
+}
+, class Tag {
+  confidence: 12.257255
+  tag: persian cat
+}
+, class Tag {
+  confidence: 11.663006
+  tag: animals
+}
+, class Tag {
+  confidence: 11.013896
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.699202
+  tag: siamese cat
+}
+, class Tag {
+  confidence: 10.21092
+  tag: furry
+}
+, class Tag {
+  confidence: 9.520996
+  tag: whiskers
+}
+, class Tag {
+  confidence: 9.455062
+  tag: fluffy
+}
+, class Tag {
+  confidence: 8.816
+  tag: young mammal
+}
+, class Tag {
+  confidence: 8.658481
+  tag: face
+}
+, class Tag {
+  confidence: 8.429176
+  tag: eyes
+}
+, class Tag {
+  confidence: 8.2556305
+  tag: hair
+}
+, class Tag {
+  confidence: 8.227077
+  tag: eye
+}
+, class Tag {
+  confidence: 8.148958
+  tag: happy
+}
+, class Tag {
+  confidence: 8.028635
+  tag: close
+}
+, class Tag {
+  confidence: 7.878749
+  tag: looking
+}
+, class Tag {
+  confidence: 7.678269
+  tag: funny
+}
+, class Tag {
+  confidence: 7.5986156
+  tag: play
+}
+, class Tag {
+  confidence: 7.390652
+  tag: little
+}
+, class Tag {
+  confidence: 7.341294
+  tag: one
+}
+, class Tag {
+  confidence: 7.069646
+  tag: playful
+}
+, class Tag {
+  confidence: 7.0576735
+  tag: home
+}
+, class Tag {
+  confidence: 7.048347
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.034452
+  tag: black
+}
+]
+}
+]
+  unsuccessful: null
+}

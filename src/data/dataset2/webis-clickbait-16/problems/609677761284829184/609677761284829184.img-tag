@@ -1,0 +1,240 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYCsY8W8AAKQd1.jpg
+  tags: [class Tag {
+  confidence: 41.44736
+  tag: person
+}
+, class Tag {
+  confidence: 28.261236
+  tag: man
+}
+, class Tag {
+  confidence: 27.658413
+  tag: farmer
+}
+, class Tag {
+  confidence: 23.661903
+  tag: outdoors
+}
+, class Tag {
+  confidence: 21.91016
+  tag: happy
+}
+, class Tag {
+  confidence: 21.724459
+  tag: people
+}
+, class Tag {
+  confidence: 20.868025
+  tag: male
+}
+, class Tag {
+  confidence: 19.173344
+  tag: adult
+}
+, class Tag {
+  confidence: 18.583038
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.7567
+  tag: scientist
+}
+, class Tag {
+  confidence: 16.325886
+  tag: smile
+}
+, class Tag {
+  confidence: 15.372061
+  tag: smiling
+}
+, class Tag {
+  confidence: 14.194895
+  tag: outside
+}
+, class Tag {
+  confidence: 13.981092
+  tag: portrait
+}
+, class Tag {
+  confidence: 13.727534
+  tag: field
+}
+, class Tag {
+  confidence: 13.422041
+  tag: grass
+}
+, class Tag {
+  confidence: 13.239761
+  tag: outdoor
+}
+, class Tag {
+  confidence: 12.664985
+  tag: casual
+}
+, class Tag {
+  confidence: 12.419005
+  tag: summer
+}
+, class Tag {
+  confidence: 11.973765
+  tag: looking
+}
+, class Tag {
+  confidence: 11.595458
+  tag: grandfather
+}
+, class Tag {
+  confidence: 11.555768
+  tag: elderly
+}
+, class Tag {
+  confidence: 11.358719
+  tag: senior
+}
+, class Tag {
+  confidence: 11.284805
+  tag: face
+}
+, class Tag {
+  confidence: 10.927971
+  tag: fun
+}
+, class Tag {
+  confidence: 10.690395
+  tag: old
+}
+, class Tag {
+  confidence: 10.592797
+  tag: park
+}
+, class Tag {
+  confidence: 10.470664
+  tag: sitting
+}
+, class Tag {
+  confidence: 10.393433
+  tag: hair
+}
+, class Tag {
+  confidence: 9.602844
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.600347
+  tag: hat
+}
+, class Tag {
+  confidence: 9.470948
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.452512
+  tag: leisure
+}
+, class Tag {
+  confidence: 9.386288
+  tag: child
+}
+, class Tag {
+  confidence: 9.30084
+  tag: cheerful
+}
+, class Tag {
+  confidence: 9.235213
+  tag: family
+}
+, class Tag {
+  confidence: 9.202822
+  tag: tree
+}
+, class Tag {
+  confidence: 9.195958
+  tag: one
+}
+, class Tag {
+  confidence: 9.175373
+  tag: standing
+}
+, class Tag {
+  confidence: 8.811788
+  tag: cute
+}
+, class Tag {
+  confidence: 8.182129
+  tag: work
+}
+, class Tag {
+  confidence: 8.11561
+  tag: day
+}
+, class Tag {
+  confidence: 8.025319
+  tag: mother
+}
+, class Tag {
+  confidence: 8.025132
+  tag: head
+}
+, class Tag {
+  confidence: 7.956578
+  tag: joy
+}
+, class Tag {
+  confidence: 7.898441
+  tag: sky
+}
+, class Tag {
+  confidence: 7.8312345
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.7464027
+  tag: meadow
+}
+, class Tag {
+  confidence: 7.6302705
+  tag: women
+}
+, class Tag {
+  confidence: 7.623631
+  tag: together
+}
+, class Tag {
+  confidence: 7.5991
+  tag: autumn
+}
+, class Tag {
+  confidence: 7.554663
+  tag: boy
+}
+, class Tag {
+  confidence: 7.5253186
+  tag: business
+}
+, class Tag {
+  confidence: 7.5074835
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.3802686
+  tag: spring
+}
+, class Tag {
+  confidence: 7.2366467
+  tag: mature
+}
+, class Tag {
+  confidence: 7.203415
+  tag: garden
+}
+, class Tag {
+  confidence: 7.108127
+  tag: countryside
+}
+]
+}
+]
+  unsuccessful: null
+}

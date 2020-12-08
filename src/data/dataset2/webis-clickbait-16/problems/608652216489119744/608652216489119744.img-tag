@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJdZ-UWcAAUf_2.jpg
+  tags: [class Tag {
+  confidence: 23.417007
+  tag: slot machine
+}
+, class Tag {
+  confidence: 22.798298
+  tag: vending machine
+}
+, class Tag {
+  confidence: 20.007067
+  tag: machine
+}
+, class Tag {
+  confidence: 16.653418
+  tag: computer
+}
+, class Tag {
+  confidence: 16.649183
+  tag: business
+}
+, class Tag {
+  confidence: 14.995805
+  tag: design
+}
+, class Tag {
+  confidence: 13.678246
+  tag: device
+}
+, class Tag {
+  confidence: 13.503808
+  tag: technology
+}
+, class Tag {
+  confidence: 12.451053
+  tag: internet
+}
+, class Tag {
+  confidence: 12.333884
+  tag: 3d
+}
+, class Tag {
+  confidence: 11.921444
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.107975
+  tag: icon
+}
+, class Tag {
+  confidence: 10.755102
+  tag: black
+}
+, class Tag {
+  confidence: 10.689751
+  tag: graphic
+}
+, class Tag {
+  confidence: 10.499518
+  tag: digital
+}
+, class Tag {
+  confidence: 10.342745
+  tag: modern
+}
+, class Tag {
+  confidence: 9.894309
+  tag: button
+}
+, class Tag {
+  confidence: 9.712799
+  tag: color
+}
+, class Tag {
+  confidence: 9.568466
+  tag: web
+}
+, class Tag {
+  confidence: 9.568181
+  tag: home
+}
+, class Tag {
+  confidence: 9.488924
+  tag: laptop
+}
+, class Tag {
+  confidence: 9.285421
+  tag: sign
+}
+, class Tag {
+  confidence: 8.937488
+  tag: finance
+}
+, class Tag {
+  confidence: 8.916467
+  tag: screen
+}
+, class Tag {
+  confidence: 8.868028
+  tag: set
+}
+, class Tag {
+  confidence: 8.580874
+  tag: light
+}
+, class Tag {
+  confidence: 8.213468
+  tag: shiny
+}
+, class Tag {
+  confidence: 8.103487
+  tag: buy
+}
+, class Tag {
+  confidence: 7.889007
+  tag: data
+}
+, class Tag {
+  confidence: 7.8359528
+  tag: element
+}
+, class Tag {
+  confidence: 7.7705398
+  tag: house
+}
+, class Tag {
+  confidence: 7.5397024
+  tag: metal
+}
+, class Tag {
+  confidence: 7.301226
+  tag: slot
+}
+, class Tag {
+  confidence: 7.235268
+  tag: display
+}
+, class Tag {
+  confidence: 7.2310834
+  tag: communication
+}
+, class Tag {
+  confidence: 7.2202888
+  tag: sound
+}
+, class Tag {
+  confidence: 7.1145372
+  tag: shopping
+}
+, class Tag {
+  confidence: 7.0853353
+  tag: connection
+}
+]
+}
+]
+  unsuccessful: null
+}

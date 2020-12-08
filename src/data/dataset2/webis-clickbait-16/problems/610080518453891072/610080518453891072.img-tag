@@ -1,0 +1,96 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdij6VW8AAZ3GQ.jpg
+  tags: [class Tag {
+  confidence: 19.861174
+  tag: shopping cart
+}
+, class Tag {
+  confidence: 16.88
+  tag: radio telescope
+}
+, class Tag {
+  confidence: 16.115139
+  tag: sky
+}
+, class Tag {
+  confidence: 15.227452
+  tag: handcart
+}
+, class Tag {
+  confidence: 13.730885
+  tag: water
+}
+, class Tag {
+  confidence: 13.504
+  tag: astronomical telescope
+}
+, class Tag {
+  confidence: 11.424
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 11.164267
+  tag: landscape
+}
+, class Tag {
+  confidence: 10.950631
+  tag: telescope
+}
+, class Tag {
+  confidence: 10.122413
+  tag: sun
+}
+, class Tag {
+  confidence: 9.43105
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.122028
+  tag: black
+}
+, class Tag {
+  confidence: 9.039497
+  tag: summer
+}
+, class Tag {
+  confidence: 8.690884
+  tag: container
+}
+, class Tag {
+  confidence: 8.63406
+  tag: day
+}
+, class Tag {
+  confidence: 8.529579
+  tag: sea
+}
+, class Tag {
+  confidence: 8.477525
+  tag: light
+}
+, class Tag {
+  confidence: 8.25815
+  tag: color
+}
+, class Tag {
+  confidence: 8.0459175
+  tag: cloud
+}
+, class Tag {
+  confidence: 7.9700165
+  tag: rubbish
+}
+, class Tag {
+  confidence: 7.956735
+  tag: grass
+}
+, class Tag {
+  confidence: 7.5528784
+  tag: travel
+}
+]
+}
+]
+  unsuccessful: null
+}

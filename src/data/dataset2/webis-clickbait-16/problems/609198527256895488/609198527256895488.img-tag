@@ -1,0 +1,312 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHP1fQAVAAAw8oR.jpg
+  tags: [class Tag {
+  confidence: 41.96261
+  tag: food
+}
+, class Tag {
+  confidence: 29.104479
+  tag: bakery
+}
+, class Tag {
+  confidence: 27.58179
+  tag: sweet
+}
+, class Tag {
+  confidence: 26.34473
+  tag: bun
+}
+, class Tag {
+  confidence: 23.854883
+  tag: delicious
+}
+, class Tag {
+  confidence: 23.738008
+  tag: doughnut
+}
+, class Tag {
+  confidence: 23.619656
+  tag: dessert
+}
+, class Tag {
+  confidence: 23.328789
+  tag: bread
+}
+, class Tag {
+  confidence: 22.91476
+  tag: meal
+}
+, class Tag {
+  confidence: 22.73599
+  tag: snack
+}
+, class Tag {
+  confidence: 22.164923
+  tag: breakfast
+}
+, class Tag {
+  confidence: 21.456953
+  tag: tasty
+}
+, class Tag {
+  confidence: 21.406366
+  tag: baked
+}
+, class Tag {
+  confidence: 20.743254
+  tag: pastry
+}
+, class Tag {
+  confidence: 20.083813
+  tag: candy
+}
+, class Tag {
+  confidence: 18.7234
+  tag: eat
+}
+, class Tag {
+  confidence: 18.065248
+  tag: sugar
+}
+, class Tag {
+  confidence: 17.755945
+  tag: gourmet
+}
+, class Tag {
+  confidence: 17.68
+  tag: friedcake
+}
+, class Tag {
+  confidence: 16.119576
+  tag: baked goods
+}
+, class Tag {
+  confidence: 15.55694
+  tag: plate
+}
+, class Tag {
+  confidence: 15.178474
+  tag: healthy
+}
+, class Tag {
+  confidence: 15.077199
+  tag: cake
+}
+, class Tag {
+  confidence: 14.584742
+  tag: eating
+}
+, class Tag {
+  confidence: 14.124231
+  tag: fresh
+}
+, class Tag {
+  confidence: 13.350516
+  tag: diet
+}
+, class Tag {
+  confidence: 12.688522
+  tag: fruit
+}
+, class Tag {
+  confidence: 12.640199
+  tag: chocolate
+}
+, class Tag {
+  confidence: 11.975277
+  tag: dinner
+}
+, class Tag {
+  confidence: 11.883554
+  tag: bagel
+}
+, class Tag {
+  confidence: 11.841016
+  tag: nutrition
+}
+, class Tag {
+  confidence: 11.836902
+  tag: cream
+}
+, class Tag {
+  confidence: 11.309251
+  tag: closeup
+}
+, class Tag {
+  confidence: 11.011997
+  tag: shop
+}
+, class Tag {
+  confidence: 10.8463335
+  tag: close
+}
+, class Tag {
+  confidence: 10.7972145
+  tag: lunch
+}
+, class Tag {
+  confidence: 10.604723
+  tag: meat
+}
+, class Tag {
+  confidence: 10.52601
+  tag: bake
+}
+, class Tag {
+  confidence: 10.4501295
+  tag: treat
+}
+, class Tag {
+  confidence: 10.338931
+  tag: confectionery
+}
+, class Tag {
+  confidence: 9.912731
+  tag: health
+}
+, class Tag {
+  confidence: 9.79169
+  tag: crust
+}
+, class Tag {
+  confidence: 9.754541
+  tag: cereal
+}
+, class Tag {
+  confidence: 9.711475
+  tag: traditional
+}
+, class Tag {
+  confidence: 9.690634
+  tag: organic
+}
+, class Tag {
+  confidence: 9.65922
+  tag: kitchen
+}
+, class Tag {
+  confidence: 9.432609
+  tag: fat
+}
+, class Tag {
+  confidence: 9.169872
+  tag: slice
+}
+, class Tag {
+  confidence: 9.00877
+  tag: dough
+}
+, class Tag {
+  confidence: 8.990441
+  tag: cuisine
+}
+, class Tag {
+  confidence: 8.828136
+  tag: pretzel
+}
+, class Tag {
+  confidence: 8.79508
+  tag: ingredient
+}
+, class Tag {
+  confidence: 8.640385
+  tag: cheese
+}
+, class Tag {
+  confidence: 8.265955
+  tag: icing
+}
+, class Tag {
+  confidence: 8.147272
+  tag: baking
+}
+, class Tag {
+  confidence: 8.107836
+  tag: homemade
+}
+, class Tag {
+  confidence: 8.1
+  tag: mercantile establishment
+}
+, class Tag {
+  confidence: 8.07493
+  tag: yellow
+}
+, class Tag {
+  confidence: 8.0171385
+  tag: roll
+}
+, class Tag {
+  confidence: 7.9766936
+  tag: restaurant
+}
+, class Tag {
+  confidence: 7.9712577
+  tag: cooking
+}
+, class Tag {
+  confidence: 7.9321084
+  tag: brown
+}
+, class Tag {
+  confidence: 7.927159
+  tag: nobody
+}
+, class Tag {
+  confidence: 7.868248
+  tag: cracker
+}
+, class Tag {
+  confidence: 7.7339535
+  tag: vegetable
+}
+, class Tag {
+  confidence: 7.6518383
+  tag: pink
+}
+, class Tag {
+  confidence: 7.6215353
+  tag: refreshment
+}
+, class Tag {
+  confidence: 7.6106734
+  tag: dish
+}
+, class Tag {
+  confidence: 7.4556
+  tag: raw
+}
+, class Tag {
+  confidence: 7.3852553
+  tag: flour
+}
+, class Tag {
+  confidence: 7.3270164
+  tag: nut
+}
+, class Tag {
+  confidence: 7.223406
+  tag: round
+}
+, class Tag {
+  confidence: 7.172332
+  tag: culture
+}
+, class Tag {
+  confidence: 7.1380715
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.114011
+  tag: nutritious
+}
+, class Tag {
+  confidence: 7.075696
+  tag: colorful
+}
+]
+}
+]
+  unsuccessful: null
+}

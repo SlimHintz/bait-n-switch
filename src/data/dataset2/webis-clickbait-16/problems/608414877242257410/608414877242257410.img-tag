@@ -1,0 +1,128 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHFzRxFWgAEtO7R.jpg
+  tags: [class Tag {
+  confidence: 26.22
+  tag: assault rifle
+}
+, class Tag {
+  confidence: 26.22
+  tag: automatic firearm
+}
+, class Tag {
+  confidence: 25.592924
+  tag: revolver
+}
+, class Tag {
+  confidence: 22.422718
+  tag: man
+}
+, class Tag {
+  confidence: 20.976
+  tag: automatic rifle
+}
+, class Tag {
+  confidence: 20.570402
+  tag: pistol
+}
+, class Tag {
+  confidence: 20.070044
+  tag: firearm
+}
+, class Tag {
+  confidence: 16.559505
+  tag: machine gun
+}
+, class Tag {
+  confidence: 16.305517
+  tag: male
+}
+, class Tag {
+  confidence: 15.732
+  tag: autoloader
+}
+, class Tag {
+  confidence: 15.444149
+  tag: person
+}
+, class Tag {
+  confidence: 14.212665
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.190613
+  tag: hand
+}
+, class Tag {
+  confidence: 13.027263
+  tag: gun
+}
+, class Tag {
+  confidence: 13.000611
+  tag: people
+}
+, class Tag {
+  confidence: 12.019676
+  tag: human
+}
+, class Tag {
+  confidence: 11.328261
+  tag: business
+}
+, class Tag {
+  confidence: 11.085549
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.277652
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.038696
+  tag: safety
+}
+, class Tag {
+  confidence: 9.664116
+  tag: weapon
+}
+, class Tag {
+  confidence: 9.099281
+  tag: work
+}
+, class Tag {
+  confidence: 8.916497
+  tag: holding
+}
+, class Tag {
+  confidence: 8.509861
+  tag: metal
+}
+, class Tag {
+  confidence: 8.283738
+  tag: adult
+}
+, class Tag {
+  confidence: 7.828694
+  tag: black
+}
+, class Tag {
+  confidence: 7.443618
+  tag: one
+}
+, class Tag {
+  confidence: 7.2334366
+  tag: men
+}
+, class Tag {
+  confidence: 7.143691
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.117265
+  tag: youth
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,140 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHV8wJSUMAAVN29.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: base
+}
+, class Tag {
+  confidence: 80.268
+  tag: baseball equipment
+}
+, class Tag {
+  confidence: 58.88166
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 33.143627
+  tag: equipment
+}
+, class Tag {
+  confidence: 32.695602
+  tag: player
+}
+, class Tag {
+  confidence: 32.120052
+  tag: baseball
+}
+, class Tag {
+  confidence: 31.157673
+  tag: ballplayer
+}
+, class Tag {
+  confidence: 29.00218
+  tag: athlete
+}
+, class Tag {
+  confidence: 26.185112
+  tag: ball
+}
+, class Tag {
+  confidence: 24.978136
+  tag: home plate
+}
+, class Tag {
+  confidence: 18.67648
+  tag: contestant
+}
+, class Tag {
+  confidence: 17.388508
+  tag: person
+}
+, class Tag {
+  confidence: 15.909289
+  tag: sport
+}
+, class Tag {
+  confidence: 12.820517
+  tag: male
+}
+, class Tag {
+  confidence: 12.173078
+  tag: man
+}
+, class Tag {
+  confidence: 11.16036
+  tag: game
+}
+, class Tag {
+  confidence: 10.498117
+  tag: people
+}
+, class Tag {
+  confidence: 10.393827
+  tag: fun
+}
+, class Tag {
+  confidence: 9.804289
+  tag: outdoor
+}
+, class Tag {
+  confidence: 9.758771
+  tag: field
+}
+, class Tag {
+  confidence: 8.699453
+  tag: sports
+}
+, class Tag {
+  confidence: 8.514101
+  tag: active
+}
+, class Tag {
+  confidence: 8.50164
+  tag: caucasian
+}
+, class Tag {
+  confidence: 8.4522085
+  tag: team
+}
+, class Tag {
+  confidence: 8.301674
+  tag: competition
+}
+, class Tag {
+  confidence: 8.167481
+  tag: grass
+}
+, class Tag {
+  confidence: 8.033013
+  tag: happy
+}
+, class Tag {
+  confidence: 7.9067445
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.691218
+  tag: play
+}
+, class Tag {
+  confidence: 7.279607
+  tag: exercise
+}
+, class Tag {
+  confidence: 7.142794
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.079434
+  tag: recreation
+}
+, class Tag {
+  confidence: 7.0142727
+  tag: summer
+}
+]
+}
+]
+  unsuccessful: null
+}

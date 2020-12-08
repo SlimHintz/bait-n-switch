@@ -1,0 +1,120 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPs54pW4AAVBSj.jpg
+  tags: [class Tag {
+  confidence: 39.475708
+  tag: bow
+}
+, class Tag {
+  confidence: 32.737373
+  tag: weapon
+}
+, class Tag {
+  confidence: 25.680445
+  tag: instrument
+}
+, class Tag {
+  confidence: 18.693241
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.157139
+  tag: adult
+}
+, class Tag {
+  confidence: 17.380363
+  tag: person
+}
+, class Tag {
+  confidence: 15.638967
+  tag: device
+}
+, class Tag {
+  confidence: 15.05569
+  tag: male
+}
+, class Tag {
+  confidence: 14.811724
+  tag: people
+}
+, class Tag {
+  confidence: 14.22392
+  tag: man
+}
+, class Tag {
+  confidence: 13.027251
+  tag: one
+}
+, class Tag {
+  confidence: 12.184811
+  tag: happy
+}
+, class Tag {
+  confidence: 11.507974
+  tag: fun
+}
+, class Tag {
+  confidence: 10.982615
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.217978
+  tag: violin
+}
+, class Tag {
+  confidence: 9.159166
+  tag: business
+}
+, class Tag {
+  confidence: 8.89223
+  tag: smile
+}
+, class Tag {
+  confidence: 8.356254
+  tag: electric
+}
+, class Tag {
+  confidence: 8.164584
+  tag: human
+}
+, class Tag {
+  confidence: 7.8458424
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.7475495
+  tag: casual
+}
+, class Tag {
+  confidence: 7.619937
+  tag: play
+}
+, class Tag {
+  confidence: 7.517324
+  tag: sport
+}
+, class Tag {
+  confidence: 7.4805236
+  tag: hand
+}
+, class Tag {
+  confidence: 7.392
+  tag: bowed stringed instrument
+}
+, class Tag {
+  confidence: 7.2062774
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.084845
+  tag: face
+}
+, class Tag {
+  confidence: 7.0142436
+  tag: grass
+}
+]
+}
+]
+  unsuccessful: null
+}

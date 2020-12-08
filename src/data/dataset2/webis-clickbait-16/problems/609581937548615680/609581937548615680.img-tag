@@ -1,0 +1,120 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHWrisDVEAAI-yH.jpg
+  tags: [class Tag {
+  confidence: 31.81107
+  tag: vehicle
+}
+, class Tag {
+  confidence: 29.3
+  tag: go-kart
+}
+, class Tag {
+  confidence: 24.203259
+  tag: motor vehicle
+}
+, class Tag {
+  confidence: 23.072
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 22.363926
+  tag: motorcycle
+}
+, class Tag {
+  confidence: 14.428366
+  tag: man
+}
+, class Tag {
+  confidence: 12.559588
+  tag: car
+}
+, class Tag {
+  confidence: 12.375518
+  tag: craft
+}
+, class Tag {
+  confidence: 12.111233
+  tag: people
+}
+, class Tag {
+  confidence: 10.7620535
+  tag: water
+}
+, class Tag {
+  confidence: 10.237029
+  tag: speed
+}
+, class Tag {
+  confidence: 9.438658
+  tag: summer
+}
+, class Tag {
+  confidence: 9.409315
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.357101
+  tag: male
+}
+, class Tag {
+  confidence: 8.968655
+  tag: person
+}
+, class Tag {
+  confidence: 8.932123
+  tag: tank
+}
+, class Tag {
+  confidence: 8.728487
+  tag: sky
+}
+, class Tag {
+  confidence: 8.696801
+  tag: landscape
+}
+, class Tag {
+  confidence: 8.526561
+  tag: transportation
+}
+, class Tag {
+  confidence: 8.209825
+  tag: sun
+}
+, class Tag {
+  confidence: 7.82272
+  tag: ocean
+}
+, class Tag {
+  confidence: 7.611545
+  tag: travel
+}
+, class Tag {
+  confidence: 7.6113024
+  tag: automobile
+}
+, class Tag {
+  confidence: 7.3054123
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.2749248
+  tag: sport
+}
+, class Tag {
+  confidence: 7.2068768
+  tag: road
+}
+, class Tag {
+  confidence: 7.0996118
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.0759015
+  tag: working
+}
+]
+}
+]
+  unsuccessful: null
+}

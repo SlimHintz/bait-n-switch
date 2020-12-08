@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTyFYCUYAAzx8D.png
+  tags: [class Tag {
+  confidence: 36.853233
+  tag: document
+}
+, class Tag {
+  confidence: 33.012608
+  tag: web site
+}
+, class Tag {
+  confidence: 26.983925
+  tag: paper
+}
+, class Tag {
+  confidence: 26.26848
+  tag: writing
+}
+, class Tag {
+  confidence: 22.104801
+  tag: business
+}
+, class Tag {
+  confidence: 17.080042
+  tag: computer
+}
+, class Tag {
+  confidence: 16.902597
+  tag: design
+}
+, class Tag {
+  confidence: 16.84936
+  tag: pen
+}
+, class Tag {
+  confidence: 15.878866
+  tag: page
+}
+, class Tag {
+  confidence: 15.056136
+  tag: text
+}
+, class Tag {
+  confidence: 14.87179
+  tag: book
+}
+, class Tag {
+  confidence: 14.670687
+  tag: finance
+}
+, class Tag {
+  confidence: 14.38507
+  tag: newspaper
+}
+, class Tag {
+  confidence: 12.453967
+  tag: office
+}
+, class Tag {
+  confidence: 11.460448
+  tag: letter
+}
+, class Tag {
+  confidence: 10.592568
+  tag: window
+}
+, class Tag {
+  confidence: 10.27367
+  tag: word
+}
+, class Tag {
+  confidence: 10.2205925
+  tag: pencil
+}
+, class Tag {
+  confidence: 10.2084255
+  tag: press
+}
+, class Tag {
+  confidence: 10.063031
+  tag: money
+}
+, class Tag {
+  confidence: 9.863314
+  tag: menu
+}
+, class Tag {
+  confidence: 9.686475
+  tag: work
+}
+, class Tag {
+  confidence: 9.410258
+  tag: art
+}
+, class Tag {
+  confidence: 9.372476
+  tag: notebook
+}
+, class Tag {
+  confidence: 9.369782
+  tag: blank
+}
+, class Tag {
+  confidence: 9.334286
+  tag: note
+}
+, class Tag {
+  confidence: 9.27989
+  tag: new
+}
+, class Tag {
+  confidence: 8.88925
+  tag: notes
+}
+, class Tag {
+  confidence: 8.798754
+  tag: education
+}
+, class Tag {
+  confidence: 8.780111
+  tag: plan
+}
+, class Tag {
+  confidence: 8.666143
+  tag: banking
+}
+, class Tag {
+  confidence: 8.441863
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.279852
+  tag: information
+}
+, class Tag {
+  confidence: 8.061702
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.858912
+  tag: template
+}
+, class Tag {
+  confidence: 7.792445
+  tag: black
+}
+, class Tag {
+  confidence: 7.666014
+  tag: financial
+}
+, class Tag {
+  confidence: 7.5533214
+  tag: market
+}
+, class Tag {
+  confidence: 7.5500536
+  tag: daily
+}
+, class Tag {
+  confidence: 7.318464
+  tag: web
+}
+, class Tag {
+  confidence: 7.269937
+  tag: write
+}
+, class Tag {
+  confidence: 7.2545333
+  tag: stock
+}
+, class Tag {
+  confidence: 7.245404
+  tag: internet
+}
+, class Tag {
+  confidence: 7.2297454
+  tag: study
+}
+, class Tag {
+  confidence: 7.1811094
+  tag: investment
+}
+, class Tag {
+  confidence: 7.113957
+  tag: brass
+}
+, class Tag {
+  confidence: 7.1112714
+  tag: communication
+}
+, class Tag {
+  confidence: 7.1024675
+  tag: structure
+}
+, class Tag {
+  confidence: 7.040428
+  tag: retro
+}
+, class Tag {
+  confidence: 7.0286465
+  tag: bank
+}
+]
+}
+]
+  unsuccessful: null
+}

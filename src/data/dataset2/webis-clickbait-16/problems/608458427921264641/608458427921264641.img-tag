@@ -1,0 +1,176 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHGttwrW4AA_wVa.jpg
+  tags: [class Tag {
+  confidence: 45.5745
+  tag: skate
+}
+, class Tag {
+  confidence: 30.822304
+  tag: silhouette
+}
+, class Tag {
+  confidence: 25.92532
+  tag: man
+}
+, class Tag {
+  confidence: 23.007269
+  tag: male
+}
+, class Tag {
+  confidence: 20.20429
+  tag: people
+}
+, class Tag {
+  confidence: 15.782444
+  tag: sport
+}
+, class Tag {
+  confidence: 14.741372
+  tag: fun
+}
+, class Tag {
+  confidence: 14.476963
+  tag: silhoette
+}
+, class Tag {
+  confidence: 14.466271
+  tag: silhoutte
+}
+, class Tag {
+  confidence: 14.394072
+  tag: person
+}
+, class Tag {
+  confidence: 14.234834
+  tag: art
+}
+, class Tag {
+  confidence: 13.585773
+  tag: men
+}
+, class Tag {
+  confidence: 10.81538
+  tag: black
+}
+, class Tag {
+  confidence: 10.589169
+  tag: youth
+}
+, class Tag {
+  confidence: 10.267067
+  tag: dance
+}
+, class Tag {
+  confidence: 10.139079
+  tag: happy
+}
+, class Tag {
+  confidence: 9.9895
+  tag: adult
+}
+, class Tag {
+  confidence: 9.761666
+  tag: pose
+}
+, class Tag {
+  confidence: 9.4736395
+  tag: boy
+}
+, class Tag {
+  confidence: 9.445388
+  tag: gymnastics
+}
+, class Tag {
+  confidence: 9.4038515
+  tag: dash
+}
+, class Tag {
+  confidence: 9.132482
+  tag: caucasian
+}
+, class Tag {
+  confidence: 8.825231
+  tag: game
+}
+, class Tag {
+  confidence: 8.595685
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.54743
+  tag: women
+}
+, class Tag {
+  confidence: 8.276825
+  tag: active
+}
+, class Tag {
+  confidence: 8.177849
+  tag: recreation
+}
+, class Tag {
+  confidence: 8.154719
+  tag: posing
+}
+, class Tag {
+  confidence: 8.072557
+  tag: group
+}
+, class Tag {
+  confidence: 7.883151
+  tag: jump
+}
+, class Tag {
+  confidence: 7.748589
+  tag: action
+}
+, class Tag {
+  confidence: 7.7200294
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.656276
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.621898
+  tag: competition
+}
+, class Tag {
+  confidence: 7.6098275
+  tag: studio
+}
+, class Tag {
+  confidence: 7.5766125
+  tag: teenager
+}
+, class Tag {
+  confidence: 7.194898
+  tag: smile
+}
+, class Tag {
+  confidence: 7.181802
+  tag: cute
+}
+, class Tag {
+  confidence: 7.0795126
+  tag: moving
+}
+, class Tag {
+  confidence: 7.0197215
+  tag: party
+}
+, class Tag {
+  confidence: 7.008277
+  tag: friends
+}
+, class Tag {
+  confidence: 7.0056977
+  tag: life
+}
+]
+}
+]
+  unsuccessful: null
+}

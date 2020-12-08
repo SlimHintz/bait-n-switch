@@ -1,0 +1,108 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeNlfeWcAEUqTY.jpg
+  tags: [class Tag {
+  confidence: 72.286224
+  tag: motorcycle
+}
+, class Tag {
+  confidence: 69.816
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 56.045437
+  tag: vehicle
+}
+, class Tag {
+  confidence: 53.915974
+  tag: motor scooter
+}
+, class Tag {
+  confidence: 32.057606
+  tag: crash helmet
+}
+, class Tag {
+  confidence: 30.979412
+  tag: helmet
+}
+, class Tag {
+  confidence: 24.26264
+  tag: conveyance
+}
+, class Tag {
+  confidence: 19.203024
+  tag: headdress
+}
+, class Tag {
+  confidence: 18.33619
+  tag: moped
+}
+, class Tag {
+  confidence: 14.139777
+  tag: minibike
+}
+, class Tag {
+  confidence: 13.243592
+  tag: clothing
+}
+, class Tag {
+  confidence: 13.165909
+  tag: bike
+}
+, class Tag {
+  confidence: 11.6011915
+  tag: sport
+}
+, class Tag {
+  confidence: 10.6800785
+  tag: speed
+}
+, class Tag {
+  confidence: 10.554385
+  tag: car
+}
+, class Tag {
+  confidence: 10.303729
+  tag: wheel
+}
+, class Tag {
+  confidence: 9.247077
+  tag: transportation
+}
+, class Tag {
+  confidence: 9.114528
+  tag: motor
+}
+, class Tag {
+  confidence: 7.808799
+  tag: tire
+}
+, class Tag {
+  confidence: 7.4903007
+  tag: active
+}
+, class Tag {
+  confidence: 7.3932414
+  tag: tricycle
+}
+, class Tag {
+  confidence: 7.239859
+  tag: man
+}
+, class Tag {
+  confidence: 7.2358136
+  tag: transport
+}
+, class Tag {
+  confidence: 7.126288
+  tag: bicycle
+}
+, class Tag {
+  confidence: 7.0646157
+  tag: motor vehicle
+}
+]
+}
+]
+  unsuccessful: null
+}

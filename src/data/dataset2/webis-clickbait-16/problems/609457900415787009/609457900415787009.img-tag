@@ -1,0 +1,88 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHU6uzQXAAAG4kw.jpg
+  tags: [class Tag {
+  confidence: 87.12825
+  tag: diagram
+}
+, class Tag {
+  confidence: 68.65378
+  tag: drawing
+}
+, class Tag {
+  confidence: 53.926914
+  tag: representation
+}
+, class Tag {
+  confidence: 15.333569
+  tag: design
+}
+, class Tag {
+  confidence: 13.713294
+  tag: graphic
+}
+, class Tag {
+  confidence: 13.6539
+  tag: icon
+}
+, class Tag {
+  confidence: 13.421617
+  tag: symbol
+}
+, class Tag {
+  confidence: 12.6944275
+  tag: art
+}
+, class Tag {
+  confidence: 12.645351
+  tag: sign
+}
+, class Tag {
+  confidence: 11.860465
+  tag: circle
+}
+, class Tag {
+  confidence: 9.503842
+  tag: shiny
+}
+, class Tag {
+  confidence: 9.008817
+  tag: clipart
+}
+, class Tag {
+  confidence: 8.703091
+  tag: element
+}
+, class Tag {
+  confidence: 8.573716
+  tag: shape
+}
+, class Tag {
+  confidence: 8.552333
+  tag: decoration
+}
+, class Tag {
+  confidence: 8.221311
+  tag: back
+}
+, class Tag {
+  confidence: 7.858418
+  tag: web
+}
+, class Tag {
+  confidence: 7.698532
+  tag: button
+}
+, class Tag {
+  confidence: 7.660729
+  tag: retro
+}
+, class Tag {
+  confidence: 7.6366377
+  tag: technology
+}
+]
+}
+]
+  unsuccessful: null
+}

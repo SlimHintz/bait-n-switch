@@ -1,0 +1,188 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTxk4LUwAERKYL.png
+  tags: [class Tag {
+  confidence: 49.32
+  tag: great white shark
+}
+, class Tag {
+  confidence: 39.29064
+  tag: shark
+}
+, class Tag {
+  confidence: 39.026505
+  tag: fish
+}
+, class Tag {
+  confidence: 26.554996
+  tag: water
+}
+, class Tag {
+  confidence: 20.52927
+  tag: sturgeon
+}
+, class Tag {
+  confidence: 20.28147
+  tag: sea
+}
+, class Tag {
+  confidence: 19.314888
+  tag: ocean
+}
+, class Tag {
+  confidence: 16.432
+  tag: ganoid
+}
+, class Tag {
+  confidence: 15.66
+  tag: coho
+}
+, class Tag {
+  confidence: 13.94
+  tag: tiger shark
+}
+, class Tag {
+  confidence: 12.942595
+  tag: salmon
+}
+, class Tag {
+  confidence: 12.831816
+  tag: animal
+}
+, class Tag {
+  confidence: 11.61653
+  tag: platypus
+}
+, class Tag {
+  confidence: 11.577757
+  tag: aquarium
+}
+, class Tag {
+  confidence: 11.462054
+  tag: fresh
+}
+, class Tag {
+  confidence: 11.178869
+  tag: liquid
+}
+, class Tag {
+  confidence: 11.035548
+  tag: river
+}
+, class Tag {
+  confidence: 10.755238
+  tag: marine
+}
+, class Tag {
+  confidence: 10.240439
+  tag: ripple
+}
+, class Tag {
+  confidence: 10.239553
+  tag: natural
+}
+, class Tag {
+  confidence: 10.074708
+  tag: clean
+}
+, class Tag {
+  confidence: 9.821546
+  tag: stream
+}
+, class Tag {
+  confidence: 9.49027
+  tag: splash
+}
+, class Tag {
+  confidence: 9.396
+  tag: salmonid
+}
+, class Tag {
+  confidence: 9.396
+  tag: food fish
+}
+, class Tag {
+  confidence: 9.224585
+  tag: summer
+}
+, class Tag {
+  confidence: 8.984354
+  tag: sun
+}
+, class Tag {
+  confidence: 8.715185
+  tag: clear
+}
+, class Tag {
+  confidence: 8.565137
+  tag: environment
+}
+, class Tag {
+  confidence: 8.493523
+  tag: rock
+}
+, class Tag {
+  confidence: 8.330707
+  tag: underwater
+}
+, class Tag {
+  confidence: 8.245277
+  tag: freshness
+}
+, class Tag {
+  confidence: 8.189948
+  tag: life
+}
+, class Tag {
+  confidence: 8.07772
+  tag: pool
+}
+, class Tag {
+  confidence: 7.9246683
+  tag: light
+}
+, class Tag {
+  confidence: 7.698142
+  tag: landscape
+}
+, class Tag {
+  confidence: 7.678373
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.5924706
+  tag: cool
+}
+, class Tag {
+  confidence: 7.569846
+  tag: swim
+}
+, class Tag {
+  confidence: 7.530386
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.4209676
+  tag: swimming
+}
+, class Tag {
+  confidence: 7.3667736
+  tag: purity
+}
+, class Tag {
+  confidence: 7.326242
+  tag: sky
+}
+, class Tag {
+  confidence: 7.294397
+  tag: travel
+}
+, class Tag {
+  confidence: 7.1038184
+  tag: beach
+}
+]
+}
+]
+  unsuccessful: null
+}

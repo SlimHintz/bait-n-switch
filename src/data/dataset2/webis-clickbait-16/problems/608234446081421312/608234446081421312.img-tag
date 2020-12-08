@@ -1,0 +1,384 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHDh-hkUgAA018M.png
+  tags: [class Tag {
+  confidence: 40.178383
+  tag: body
+}
+, class Tag {
+  confidence: 39.81159
+  tag: underwear
+}
+, class Tag {
+  confidence: 37.152157
+  tag: sexy
+}
+, class Tag {
+  confidence: 33.997856
+  tag: top
+}
+, class Tag {
+  confidence: 33.49181
+  tag: lingerie
+}
+, class Tag {
+  confidence: 32.646515
+  tag: attractive
+}
+, class Tag {
+  confidence: 29.60092
+  tag: model
+}
+, class Tag {
+  confidence: 26.773895
+  tag: slim
+}
+, class Tag {
+  confidence: 25.855852
+  tag: pretty
+}
+, class Tag {
+  confidence: 24.298195
+  tag: adult
+}
+, class Tag {
+  confidence: 22.008112
+  tag: sensual
+}
+, class Tag {
+  confidence: 21.936413
+  tag: erotic
+}
+, class Tag {
+  confidence: 21.67412
+  tag: hair
+}
+, class Tag {
+  confidence: 21.550138
+  tag: clothing
+}
+, class Tag {
+  confidence: 21.177927
+  tag: lady
+}
+, class Tag {
+  confidence: 20.376644
+  tag: caucasian
+}
+, class Tag {
+  confidence: 20.333344
+  tag: pantie
+}
+, class Tag {
+  confidence: 20.29201
+  tag: fashion
+}
+, class Tag {
+  confidence: 19.5178
+  tag: figure
+}
+, class Tag {
+  confidence: 18.211958
+  tag: skin
+}
+, class Tag {
+  confidence: 17.951345
+  tag: person
+}
+, class Tag {
+  confidence: 17.676231
+  tag: glamour
+}
+, class Tag {
+  confidence: 17.454351
+  tag: sensuality
+}
+, class Tag {
+  confidence: 17.233461
+  tag: cute
+}
+, class Tag {
+  confidence: 16.307072
+  tag: people
+}
+, class Tag {
+  confidence: 16.046633
+  tag: brunette
+}
+, class Tag {
+  confidence: 15.981528
+  tag: health
+}
+, class Tag {
+  confidence: 15.941749
+  tag: fit
+}
+, class Tag {
+  confidence: 15.141931
+  tag: long
+}
+, class Tag {
+  confidence: 15.017272
+  tag: fitness
+}
+, class Tag {
+  confidence: 15.010438
+  tag: seductive
+}
+, class Tag {
+  confidence: 14.900524
+  tag: portrait
+}
+, class Tag {
+  confidence: 14.8986435
+  tag: healthy
+}
+, class Tag {
+  confidence: 14.470783
+  tag: women
+}
+, class Tag {
+  confidence: 14.321257
+  tag: nude
+}
+, class Tag {
+  confidence: 14.287319
+  tag: naked
+}
+, class Tag {
+  confidence: 13.690992
+  tag: panties
+}
+, class Tag {
+  confidence: 13.339688
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 13.278728
+  tag: happy
+}
+, class Tag {
+  confidence: 12.695643
+  tag: pose
+}
+, class Tag {
+  confidence: 12.586366
+  tag: posing
+}
+, class Tag {
+  confidence: 12.315606
+  tag: brassiere
+}
+, class Tag {
+  confidence: 12.060728
+  tag: studio
+}
+, class Tag {
+  confidence: 11.264155
+  tag: hand
+}
+, class Tag {
+  confidence: 11.148763
+  tag: garment
+}
+, class Tag {
+  confidence: 11.1002445
+  tag: desire
+}
+, class Tag {
+  confidence: 11.018604
+  tag: lovely
+}
+, class Tag {
+  confidence: 10.891083
+  tag: feminine
+}
+, class Tag {
+  confidence: 10.865638
+  tag: legs
+}
+, class Tag {
+  confidence: 10.5185175
+  tag: provocative
+}
+, class Tag {
+  confidence: 10.512027
+  tag: breast
+}
+, class Tag {
+  confidence: 10.474039
+  tag: gorgeous
+}
+, class Tag {
+  confidence: 10.370337
+  tag: waist
+}
+, class Tag {
+  confidence: 10.365544
+  tag: blond
+}
+, class Tag {
+  confidence: 9.961955
+  tag: one
+}
+, class Tag {
+  confidence: 9.879262
+  tag: maillot
+}
+, class Tag {
+  confidence: 9.696473
+  tag: elegance
+}
+, class Tag {
+  confidence: 9.605714
+  tag: care
+}
+, class Tag {
+  confidence: 9.484123
+  tag: smile
+}
+, class Tag {
+  confidence: 9.335534
+  tag: swimsuit
+}
+, class Tag {
+  confidence: 9.245933
+  tag: black
+}
+, class Tag {
+  confidence: 9.216
+  tag: woman's clothing
+}
+, class Tag {
+  confidence: 9.211873
+  tag: undergarment
+}
+, class Tag {
+  confidence: 9.074908
+  tag: covering
+}
+, class Tag {
+  confidence: 9.01164
+  tag: back
+}
+, class Tag {
+  confidence: 8.979692
+  tag: bra
+}
+, class Tag {
+  confidence: 8.927929
+  tag: skirt
+}
+, class Tag {
+  confidence: 8.899144
+  tag: human
+}
+, class Tag {
+  confidence: 8.749736
+  tag: temptation
+}
+, class Tag {
+  confidence: 8.718535
+  tag: standing
+}
+, class Tag {
+  confidence: 8.717767
+  tag: tights
+}
+, class Tag {
+  confidence: 8.651544
+  tag: weight
+}
+, class Tag {
+  confidence: 8.352
+  tag: consumer goods
+}
+, class Tag {
+  confidence: 8.311004
+  tag: face
+}
+, class Tag {
+  confidence: 8.303004
+  tag: wellness
+}
+, class Tag {
+  confidence: 8.2954235
+  tag: nice
+}
+, class Tag {
+  confidence: 8.238717
+  tag: dress
+}
+, class Tag {
+  confidence: 8.222119
+  tag: hot
+}
+, class Tag {
+  confidence: 8.062258
+  tag: babe
+}
+, class Tag {
+  confidence: 8.007326
+  tag: miniskirt
+}
+, class Tag {
+  confidence: 7.9914703
+  tag: sexual
+}
+, class Tag {
+  confidence: 7.955992
+  tag: tempting
+}
+, class Tag {
+  confidence: 7.932266
+  tag: workout
+}
+, class Tag {
+  confidence: 7.927477
+  tag: style
+}
+, class Tag {
+  confidence: 7.725237
+  tag: passion
+}
+, class Tag {
+  confidence: 7.58525
+  tag: relaxation
+}
+, class Tag {
+  confidence: 7.552708
+  tag: exercise
+}
+, class Tag {
+  confidence: 7.460879
+  tag: active
+}
+, class Tag {
+  confidence: 7.2870913
+  tag: ass
+}
+, class Tag {
+  confidence: 7.2738166
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.156095
+  tag: gym
+}
+, class Tag {
+  confidence: 7.1262174
+  tag: eyes
+}
+, class Tag {
+  confidence: 7.0953765
+  tag: love
+}
+, class Tag {
+  confidence: 7.0871077
+  tag: glamor
+}
+]
+}
+]
+  unsuccessful: null
+}

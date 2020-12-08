@@ -1,0 +1,76 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHErlbGW8AAeljO.png
+  tags: [class Tag {
+  confidence: 100.0
+  tag: golden retriever
+}
+, class Tag {
+  confidence: 100.0
+  tag: retriever
+}
+, class Tag {
+  confidence: 91.1692
+  tag: sporting dog
+}
+, class Tag {
+  confidence: 60.75225
+  tag: hunting dog
+}
+, class Tag {
+  confidence: 46.571056
+  tag: dog
+}
+, class Tag {
+  confidence: 13.551545
+  tag: animal
+}
+, class Tag {
+  confidence: 13.262634
+  tag: pet
+}
+, class Tag {
+  confidence: 13.246687
+  tag: canine
+}
+, class Tag {
+  confidence: 9.95507
+  tag: mammal
+}
+, class Tag {
+  confidence: 9.344579
+  tag: puppy
+}
+, class Tag {
+  confidence: 8.33751
+  tag: cocker spaniel
+}
+, class Tag {
+  confidence: 7.9028406
+  tag: portrait
+}
+, class Tag {
+  confidence: 7.8884726
+  tag: cute
+}
+, class Tag {
+  confidence: 7.7089567
+  tag: domestic
+}
+, class Tag {
+  confidence: 7.6979523
+  tag: golden
+}
+, class Tag {
+  confidence: 7.2937546
+  tag: spaniel
+}
+, class Tag {
+  confidence: 7.019927
+  tag: purebred
+}
+]
+}
+]
+  unsuccessful: null
+}

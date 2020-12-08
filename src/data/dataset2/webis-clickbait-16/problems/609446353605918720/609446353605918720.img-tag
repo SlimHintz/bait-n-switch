@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUwOrZWoAE8Vok.jpg
+  tags: [class Tag {
+  confidence: 17.408321
+  tag: rock
+}
+, class Tag {
+  confidence: 15.649513
+  tag: landscape
+}
+, class Tag {
+  confidence: 14.187857
+  tag: texture
+}
+, class Tag {
+  confidence: 12.96753
+  tag: material
+}
+, class Tag {
+  confidence: 12.708017
+  tag: water
+}
+, class Tag {
+  confidence: 11.856095
+  tag: day
+}
+, class Tag {
+  confidence: 11.472469
+  tag: sky
+}
+, class Tag {
+  confidence: 10.678137
+  tag: natural
+}
+, class Tag {
+  confidence: 10.622154
+  tag: summer
+}
+, class Tag {
+  confidence: 10.572492
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.5241585
+  tag: road
+}
+, class Tag {
+  confidence: 10.255075
+  tag: environment
+}
+, class Tag {
+  confidence: 9.909446
+  tag: detail
+}
+, class Tag {
+  confidence: 9.9086485
+  tag: rough
+}
+, class Tag {
+  confidence: 9.690236
+  tag: stone
+}
+, class Tag {
+  confidence: 9.264236
+  tag: rocks
+}
+, class Tag {
+  confidence: 9.240274
+  tag: grunge
+}
+, class Tag {
+  confidence: 9.200671
+  tag: forest
+}
+, class Tag {
+  confidence: 9.06493
+  tag: black
+}
+, class Tag {
+  confidence: 9.034669
+  tag: beach
+}
+, class Tag {
+  confidence: 9.0156355
+  tag: pattern
+}
+, class Tag {
+  confidence: 8.680466
+  tag: textured
+}
+, class Tag {
+  confidence: 8.536087
+  tag: close
+}
+, class Tag {
+  confidence: 8.448743
+  tag: scene
+}
+, class Tag {
+  confidence: 8.278781
+  tag: dark
+}
+, class Tag {
+  confidence: 8.188618
+  tag: color
+}
+, class Tag {
+  confidence: 8.013997
+  tag: park
+}
+, class Tag {
+  confidence: 7.982622
+  tag: wet
+}
+, class Tag {
+  confidence: 7.696678
+  tag: wild
+}
+, class Tag {
+  confidence: 7.6886373
+  tag: soil
+}
+, class Tag {
+  confidence: 7.6646986
+  tag: wall
+}
+, class Tag {
+  confidence: 7.519097
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.433901
+  tag: old
+}
+, class Tag {
+  confidence: 7.3901954
+  tag: object
+}
+, class Tag {
+  confidence: 7.3646045
+  tag: paving
+}
+, class Tag {
+  confidence: 7.338765
+  tag: travel
+}
+, class Tag {
+  confidence: 7.1595864
+  tag: surface
+}
+, class Tag {
+  confidence: 7.131586
+  tag: brown
+}
+, class Tag {
+  confidence: 7.1071467
+  tag: sun
+}
+, class Tag {
+  confidence: 7.0812297
+  tag: trees
+}
+, class Tag {
+  confidence: 7.0364304
+  tag: nobody
+}
+]
+}
+]
+  unsuccessful: null
+}

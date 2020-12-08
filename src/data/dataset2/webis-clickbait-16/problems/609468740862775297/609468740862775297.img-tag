@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUQ_8oVAAANPiE.png
+  tags: [class Tag {
+  confidence: 95.87349
+  tag: daily
+}
+, class Tag {
+  confidence: 59.380188
+  tag: newspaper
+}
+, class Tag {
+  confidence: 25.763931
+  tag: press
+}
+, class Tag {
+  confidence: 20.025036
+  tag: money
+}
+, class Tag {
+  confidence: 19.600924
+  tag: print media
+}
+, class Tag {
+  confidence: 17.550001
+  tag: paper
+}
+, class Tag {
+  confidence: 17.18817
+  tag: business
+}
+, class Tag {
+  confidence: 16.686813
+  tag: currency
+}
+, class Tag {
+  confidence: 16.274055
+  tag: finance
+}
+, class Tag {
+  confidence: 16.194437
+  tag: cash
+}
+, class Tag {
+  confidence: 16.031338
+  tag: financial
+}
+, class Tag {
+  confidence: 15.965386
+  tag: banking
+}
+, class Tag {
+  confidence: 15.898498
+  tag: bank
+}
+, class Tag {
+  confidence: 14.663755
+  tag: medium
+}
+, class Tag {
+  confidence: 13.914614
+  tag: bill
+}
+, class Tag {
+  confidence: 13.186855
+  tag: dollar
+}
+, class Tag {
+  confidence: 12.224707
+  tag: product
+}
+, class Tag {
+  confidence: 10.967178
+  tag: wealth
+}
+, class Tag {
+  confidence: 10.03157
+  tag: text
+}
+, class Tag {
+  confidence: 9.858761
+  tag: exchange
+}
+, class Tag {
+  confidence: 9.663069
+  tag: word
+}
+, class Tag {
+  confidence: 9.033353
+  tag: note
+}
+, class Tag {
+  confidence: 8.690263
+  tag: close
+}
+, class Tag {
+  confidence: 8.618108
+  tag: letter
+}
+, class Tag {
+  confidence: 8.534295
+  tag: banknote
+}
+, class Tag {
+  confidence: 8.403903
+  tag: investment
+}
+, class Tag {
+  confidence: 7.9459186
+  tag: hundred
+}
+, class Tag {
+  confidence: 7.5342145
+  tag: us
+}
+, class Tag {
+  confidence: 7.521956
+  tag: usa
+}
+, class Tag {
+  confidence: 7.509567
+  tag: pay
+}
+, class Tag {
+  confidence: 7.4115562
+  tag: rich
+}
+, class Tag {
+  confidence: 7.405389
+  tag: old
+}
+, class Tag {
+  confidence: 7.3824067
+  tag: states
+}
+, class Tag {
+  confidence: 7.375398
+  tag: american
+}
+, class Tag {
+  confidence: 7.214837
+  tag: market
+}
+, class Tag {
+  confidence: 7.065116
+  tag: savings
+}
+, class Tag {
+  confidence: 7.020249
+  tag: success
+}
+]
+}
+]
+  unsuccessful: null
+}

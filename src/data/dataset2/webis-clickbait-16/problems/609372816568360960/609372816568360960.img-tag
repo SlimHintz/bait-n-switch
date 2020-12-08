@@ -1,0 +1,188 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTtB4tUsAA8dok.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: cathedral
+}
+, class Tag {
+  confidence: 46.545856
+  tag: church
+}
+, class Tag {
+  confidence: 31.315758
+  tag: building
+}
+, class Tag {
+  confidence: 31.21263
+  tag: architecture
+}
+, class Tag {
+  confidence: 29.184422
+  tag: facade
+}
+, class Tag {
+  confidence: 26.62
+  tag: front
+}
+, class Tag {
+  confidence: 23.963573
+  tag: tower
+}
+, class Tag {
+  confidence: 22.81455
+  tag: religion
+}
+, class Tag {
+  confidence: 22.447296
+  tag: gothic
+}
+, class Tag {
+  confidence: 19.028048
+  tag: historic
+}
+, class Tag {
+  confidence: 18.196732
+  tag: tourism
+}
+, class Tag {
+  confidence: 17.380224
+  tag: old
+}
+, class Tag {
+  confidence: 16.848871
+  tag: europe
+}
+, class Tag {
+  confidence: 16.66717
+  tag: landmark
+}
+, class Tag {
+  confidence: 15.61822
+  tag: city
+}
+, class Tag {
+  confidence: 15.081878
+  tag: travel
+}
+, class Tag {
+  confidence: 15.000941
+  tag: religious
+}
+, class Tag {
+  confidence: 14.500784
+  tag: monument
+}
+, class Tag {
+  confidence: 14.214657
+  tag: christian
+}
+, class Tag {
+  confidence: 13.945416
+  tag: famous
+}
+, class Tag {
+  confidence: 13.589693
+  tag: france
+}
+, class Tag {
+  confidence: 13.479474
+  tag: england
+}
+, class Tag {
+  confidence: 12.720061
+  tag: history
+}
+, class Tag {
+  confidence: 12.591135
+  tag: ancient
+}
+, class Tag {
+  confidence: 12.451266
+  tag: christianity
+}
+, class Tag {
+  confidence: 12.174772
+  tag: sky
+}
+, class Tag {
+  confidence: 11.737908
+  tag: structure
+}
+, class Tag {
+  confidence: 11.426487
+  tag: catholic
+}
+, class Tag {
+  confidence: 10.769882
+  tag: stone
+}
+, class Tag {
+  confidence: 10.68216
+  tag: paris
+}
+, class Tag {
+  confidence: 10.65945
+  tag: tourist
+}
+, class Tag {
+  confidence: 10.288
+  tag: place of worship
+}
+, class Tag {
+  confidence: 9.933902
+  tag: faith
+}
+, class Tag {
+  confidence: 9.5220375
+  tag: medieval
+}
+, class Tag {
+  confidence: 9.034952
+  tag: god
+}
+, class Tag {
+  confidence: 8.680741
+  tag: worship
+}
+, class Tag {
+  confidence: 8.26768
+  tag: basilica
+}
+, class Tag {
+  confidence: 7.9383097
+  tag: historical
+}
+, class Tag {
+  confidence: 7.8073273
+  tag: holy
+}
+, class Tag {
+  confidence: 7.7189717
+  tag: european
+}
+, class Tag {
+  confidence: 7.544517
+  tag: prayer
+}
+, class Tag {
+  confidence: 7.40957
+  tag: town
+}
+, class Tag {
+  confidence: 7.370017
+  tag: capital
+}
+, class Tag {
+  confidence: 7.313061
+  tag: spire
+}
+, class Tag {
+  confidence: 7.104759
+  tag: exterior
+}
+]
+}
+]
+  unsuccessful: null
+}

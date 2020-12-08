@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHanvkWUYAEV62s.jpg
+  tags: [class Tag {
+  confidence: 36.28342
+  tag: shop
+}
+, class Tag {
+  confidence: 34.66
+  tag: shoe shop
+}
+, class Tag {
+  confidence: 20.796
+  tag: mercantile establishment
+}
+, class Tag {
+  confidence: 18.6333
+  tag: people
+}
+, class Tag {
+  confidence: 16.842625
+  tag: person
+}
+, class Tag {
+  confidence: 14.812569
+  tag: adult
+}
+, class Tag {
+  confidence: 13.864
+  tag: place of business
+}
+, class Tag {
+  confidence: 12.429093
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.304601
+  tag: home
+}
+, class Tag {
+  confidence: 12.276777
+  tag: business
+}
+, class Tag {
+  confidence: 10.821416
+  tag: man
+}
+, class Tag {
+  confidence: 10.707214
+  tag: fashion
+}
+, class Tag {
+  confidence: 10.444566
+  tag: women
+}
+, class Tag {
+  confidence: 10.322505
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.205291
+  tag: male
+}
+, class Tag {
+  confidence: 10.1198225
+  tag: indoors
+}
+, class Tag {
+  confidence: 10.068965
+  tag: happy
+}
+, class Tag {
+  confidence: 10.031562
+  tag: human
+}
+, class Tag {
+  confidence: 10.002455
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.68968
+  tag: smiling
+}
+, class Tag {
+  confidence: 9.581369
+  tag: clothing
+}
+, class Tag {
+  confidence: 9.376931
+  tag: city
+}
+, class Tag {
+  confidence: 9.126239
+  tag: casual
+}
+, class Tag {
+  confidence: 9.041273
+  tag: shopping
+}
+, class Tag {
+  confidence: 9.022018
+  tag: street
+}
+, class Tag {
+  confidence: 8.935096
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.691793
+  tag: house
+}
+, class Tag {
+  confidence: 8.503414
+  tag: urban
+}
+, class Tag {
+  confidence: 8.330403
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.30866
+  tag: building
+}
+, class Tag {
+  confidence: 8.259611
+  tag: portrait
+}
+, class Tag {
+  confidence: 8.065926
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.015088
+  tag: interior
+}
+, class Tag {
+  confidence: 7.9510803
+  tag: looking
+}
+, class Tag {
+  confidence: 7.8357344
+  tag: model
+}
+, class Tag {
+  confidence: 7.7671804
+  tag: store
+}
+, class Tag {
+  confidence: 7.7185535
+  tag: smile
+}
+, class Tag {
+  confidence: 7.594825
+  tag: life
+}
+, class Tag {
+  confidence: 7.500342
+  tag: lady
+}
+, class Tag {
+  confidence: 7.493284
+  tag: holding
+}
+]
+}
+]
+  unsuccessful: null
+}

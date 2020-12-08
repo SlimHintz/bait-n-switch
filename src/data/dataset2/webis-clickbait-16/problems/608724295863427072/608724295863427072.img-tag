@@ -1,0 +1,120 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKfWqGXIAE7XXL.jpg
+  tags: [class Tag {
+  confidence: 34.509693
+  tag: saltshaker
+}
+, class Tag {
+  confidence: 31.407845
+  tag: glass
+}
+, class Tag {
+  confidence: 27.574825
+  tag: shaker
+}
+, class Tag {
+  confidence: 26.002537
+  tag: container
+}
+, class Tag {
+  confidence: 17.237288
+  tag: glassware
+}
+, class Tag {
+  confidence: 15.890186
+  tag: drink
+}
+, class Tag {
+  confidence: 13.909542
+  tag: celebration
+}
+, class Tag {
+  confidence: 12.569714
+  tag: alcohol
+}
+, class Tag {
+  confidence: 12.381923
+  tag: pop
+}
+, class Tag {
+  confidence: 11.709452
+  tag: liquid
+}
+, class Tag {
+  confidence: 11.577656
+  tag: party
+}
+, class Tag {
+  confidence: 11.50016
+  tag: beverage
+}
+, class Tag {
+  confidence: 9.823537
+  tag: pink
+}
+, class Tag {
+  confidence: 9.737822
+  tag: food
+}
+, class Tag {
+  confidence: 9.550426
+  tag: wine
+}
+, class Tag {
+  confidence: 9.213845
+  tag: yellow
+}
+, class Tag {
+  confidence: 8.868501
+  tag: bottle
+}
+, class Tag {
+  confidence: 8.455338
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.176468
+  tag: glasses
+}
+, class Tag {
+  confidence: 8.150137
+  tag: bar
+}
+, class Tag {
+  confidence: 8.029464
+  tag: close
+}
+, class Tag {
+  confidence: 7.936163
+  tag: clean
+}
+, class Tag {
+  confidence: 7.8734727
+  tag: jar
+}
+, class Tag {
+  confidence: 7.4920273
+  tag: aroma
+}
+, class Tag {
+  confidence: 7.350464
+  tag: decoration
+}
+, class Tag {
+  confidence: 7.2537293
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.2344723
+  tag: fresh
+}
+, class Tag {
+  confidence: 7.150485
+  tag: water
+}
+]
+}
+]
+  unsuccessful: null
+}

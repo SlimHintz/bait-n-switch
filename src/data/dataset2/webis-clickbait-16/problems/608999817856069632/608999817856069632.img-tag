@@ -1,0 +1,216 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOaGy7UUAEmfXW.jpg
+  tags: [class Tag {
+  confidence: 30.551662
+  tag: plant
+}
+, class Tag {
+  confidence: 29.178259
+  tag: leaf
+}
+, class Tag {
+  confidence: 20.489944
+  tag: growth
+}
+, class Tag {
+  confidence: 20.017675
+  tag: spring
+}
+, class Tag {
+  confidence: 18.930168
+  tag: natural
+}
+, class Tag {
+  confidence: 18.383615
+  tag: garden
+}
+, class Tag {
+  confidence: 18.23558
+  tag: flora
+}
+, class Tag {
+  confidence: 16.802612
+  tag: fresh
+}
+, class Tag {
+  confidence: 16.742584
+  tag: summer
+}
+, class Tag {
+  confidence: 16.482553
+  tag: bright
+}
+, class Tag {
+  confidence: 16.309956
+  tag: leaves
+}
+, class Tag {
+  confidence: 15.822294
+  tag: color
+}
+, class Tag {
+  confidence: 15.405428
+  tag: freshness
+}
+, class Tag {
+  confidence: 14.592792
+  tag: environment
+}
+, class Tag {
+  confidence: 14.204928
+  tag: flower
+}
+, class Tag {
+  confidence: 13.177404
+  tag: grass
+}
+, class Tag {
+  confidence: 12.671189
+  tag: water
+}
+, class Tag {
+  confidence: 12.54707
+  tag: organic
+}
+, class Tag {
+  confidence: 12.282949
+  tag: foliage
+}
+, class Tag {
+  confidence: 12.093636
+  tag: drop
+}
+, class Tag {
+  confidence: 11.626561
+  tag: botany
+}
+, class Tag {
+  confidence: 11.107824
+  tag: life
+}
+, class Tag {
+  confidence: 11.060115
+  tag: texture
+}
+, class Tag {
+  confidence: 10.975611
+  tag: close
+}
+, class Tag {
+  confidence: 10.88
+  tag: green
+}
+, class Tag {
+  confidence: 10.797019
+  tag: closeup
+}
+, class Tag {
+  confidence: 10.677638
+  tag: light
+}
+, class Tag {
+  confidence: 10.654053
+  tag: lettuce
+}
+, class Tag {
+  confidence: 9.973195
+  tag: grow
+}
+, class Tag {
+  confidence: 9.9173155
+  tag: forest
+}
+, class Tag {
+  confidence: 9.662981
+  tag: clean
+}
+, class Tag {
+  confidence: 9.528872
+  tag: pattern
+}
+, class Tag {
+  confidence: 9.143448
+  tag: detail
+}
+, class Tag {
+  confidence: 9.073296
+  tag: stem
+}
+, class Tag {
+  confidence: 8.935415
+  tag: season
+}
+, class Tag {
+  confidence: 8.752748
+  tag: tree
+}
+, class Tag {
+  confidence: 8.526544
+  tag: design
+}
+, class Tag {
+  confidence: 8.432585
+  tag: botanical
+}
+, class Tag {
+  confidence: 8.301079
+  tag: herb
+}
+, class Tag {
+  confidence: 8.132817
+  tag: earth
+}
+, class Tag {
+  confidence: 8.048218
+  tag: health
+}
+, class Tag {
+  confidence: 8.038546
+  tag: backdrop
+}
+, class Tag {
+  confidence: 7.9876113
+  tag: wet
+}
+, class Tag {
+  confidence: 7.9405417
+  tag: sunlight
+}
+, class Tag {
+  confidence: 7.8551393
+  tag: vibrant
+}
+, class Tag {
+  confidence: 7.807422
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.806115
+  tag: fruit
+}
+, class Tag {
+  confidence: 7.572843
+  tag: drops
+}
+, class Tag {
+  confidence: 7.5488105
+  tag: floral
+}
+, class Tag {
+  confidence: 7.3511767
+  tag: ecology
+}
+, class Tag {
+  confidence: 7.265068
+  tag: digital
+}
+, class Tag {
+  confidence: 7.0029306
+  tag: decoration
+}
+]
+}
+]
+  unsuccessful: null
+}

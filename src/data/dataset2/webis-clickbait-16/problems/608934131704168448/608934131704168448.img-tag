@@ -1,0 +1,48 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNVO8OUgAE6WUx.jpg
+  tags: [class Tag {
+  confidence: 99.98824
+  tag: finch
+}
+, class Tag {
+  confidence: 75.24
+  tag: brambling
+}
+, class Tag {
+  confidence: 41.08
+  tag: junco
+}
+, class Tag {
+  confidence: 37.81421
+  tag: bird
+}
+, class Tag {
+  confidence: 11.37509
+  tag: wing
+}
+, class Tag {
+  confidence: 10.148307
+  tag: wild
+}
+, class Tag {
+  confidence: 10.078119
+  tag: animal
+}
+, class Tag {
+  confidence: 9.019307
+  tag: black
+}
+, class Tag {
+  confidence: 8.8768635
+  tag: wildlife
+}
+, class Tag {
+  confidence: 7.385237
+  tag: beak
+}
+]
+}
+]
+  unsuccessful: null
+}

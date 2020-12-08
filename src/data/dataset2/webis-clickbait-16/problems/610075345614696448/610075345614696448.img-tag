@@ -1,0 +1,200 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdenbXUYAEnzaQ.png
+  tags: [class Tag {
+  confidence: 26.393892
+  tag: symbol
+}
+, class Tag {
+  confidence: 25.049273
+  tag: sign
+}
+, class Tag {
+  confidence: 22.519289
+  tag: design
+}
+, class Tag {
+  confidence: 22.35642
+  tag: text
+}
+, class Tag {
+  confidence: 20.21213
+  tag: icon
+}
+, class Tag {
+  confidence: 17.405628
+  tag: business
+}
+, class Tag {
+  confidence: 15.905567
+  tag: set
+}
+, class Tag {
+  confidence: 15.577246
+  tag: capital
+}
+, class Tag {
+  confidence: 15.502256
+  tag: font
+}
+, class Tag {
+  confidence: 14.825552
+  tag: 3d
+}
+, class Tag {
+  confidence: 14.227702
+  tag: graphic
+}
+, class Tag {
+  confidence: 13.511327
+  tag: collection
+}
+, class Tag {
+  confidence: 12.743057
+  tag: letters
+}
+, class Tag {
+  confidence: 12.656175
+  tag: alphabet
+}
+, class Tag {
+  confidence: 12.475696
+  tag: information
+}
+, class Tag {
+  confidence: 12.427924
+  tag: word
+}
+, class Tag {
+  confidence: 12.223347
+  tag: icons
+}
+, class Tag {
+  confidence: 11.876275
+  tag: internet
+}
+, class Tag {
+  confidence: 11.300695
+  tag: finance
+}
+, class Tag {
+  confidence: 11.129074
+  tag: web
+}
+, class Tag {
+  confidence: 11.062037
+  tag: black
+}
+, class Tag {
+  confidence: 10.372538
+  tag: reflection
+}
+, class Tag {
+  confidence: 10.35546
+  tag: metal
+}
+, class Tag {
+  confidence: 9.868843
+  tag: type
+}
+, class Tag {
+  confidence: 9.850806
+  tag: modern
+}
+, class Tag {
+  confidence: 9.470213
+  tag: letter
+}
+, class Tag {
+  confidence: 9.383513
+  tag: data
+}
+, class Tag {
+  confidence: 9.097963
+  tag: creative
+}
+, class Tag {
+  confidence: 9.058156
+  tag: button
+}
+, class Tag {
+  confidence: 8.727094
+  tag: simple
+}
+, class Tag {
+  confidence: 8.270501
+  tag: silver
+}
+, class Tag {
+  confidence: 8.250441
+  tag: typography
+}
+, class Tag {
+  confidence: 8.210658
+  tag: new
+}
+, class Tag {
+  confidence: 8.082428
+  tag: money
+}
+, class Tag {
+  confidence: 8.04576
+  tag: symbols
+}
+, class Tag {
+  confidence: 7.788615
+  tag: sale
+}
+, class Tag {
+  confidence: 7.7203403
+  tag: metallic
+}
+, class Tag {
+  confidence: 7.7027473
+  tag: headline
+}
+, class Tag {
+  confidence: 7.678258
+  tag: element
+}
+, class Tag {
+  confidence: 7.672907
+  tag: style
+}
+, class Tag {
+  confidence: 7.5128303
+  tag: object
+}
+, class Tag {
+  confidence: 7.4981656
+  tag: conceptual
+}
+, class Tag {
+  confidence: 7.4738975
+  tag: computer
+}
+, class Tag {
+  confidence: 7.321616
+  tag: characters
+}
+, class Tag {
+  confidence: 7.3004174
+  tag: bright
+}
+, class Tag {
+  confidence: 7.183718
+  tag: cloud
+}
+, class Tag {
+  confidence: 7.1828184
+  tag: art
+}
+, class Tag {
+  confidence: 7.0563183
+  tag: print
+}
+]
+}
+]
+  unsuccessful: null
+}

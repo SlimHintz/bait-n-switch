@@ -1,0 +1,332 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYvS0JWwAEGPCE.png
+  tags: [class Tag {
+  confidence: 28.426142
+  tag: dancer
+}
+, class Tag {
+  confidence: 26.265207
+  tag: person
+}
+, class Tag {
+  confidence: 22.279678
+  tag: adult
+}
+, class Tag {
+  confidence: 21.660858
+  tag: performer
+}
+, class Tag {
+  confidence: 20.95258
+  tag: gymnastics
+}
+, class Tag {
+  confidence: 20.436028
+  tag: people
+}
+, class Tag {
+  confidence: 20.152298
+  tag: attractive
+}
+, class Tag {
+  confidence: 19.509598
+  tag: fashion
+}
+, class Tag {
+  confidence: 18.175594
+  tag: man
+}
+, class Tag {
+  confidence: 16.854826
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.666716
+  tag: sport
+}
+, class Tag {
+  confidence: 15.350439
+  tag: model
+}
+, class Tag {
+  confidence: 15.308509
+  tag: happy
+}
+, class Tag {
+  confidence: 15.227934
+  tag: clothing
+}
+, class Tag {
+  confidence: 15.088363
+  tag: pose
+}
+, class Tag {
+  confidence: 15.044103
+  tag: sexy
+}
+, class Tag {
+  confidence: 14.929145
+  tag: posing
+}
+, class Tag {
+  confidence: 14.798416
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.3505535
+  tag: dancing
+}
+, class Tag {
+  confidence: 14.188557
+  tag: body
+}
+, class Tag {
+  confidence: 13.998765
+  tag: women
+}
+, class Tag {
+  confidence: 13.428907
+  tag: studio
+}
+, class Tag {
+  confidence: 13.391407
+  tag: male
+}
+, class Tag {
+  confidence: 12.422224
+  tag: black
+}
+, class Tag {
+  confidence: 12.054034
+  tag: exercise
+}
+, class Tag {
+  confidence: 12.0499525
+  tag: cute
+}
+, class Tag {
+  confidence: 11.826374
+  tag: elegance
+}
+, class Tag {
+  confidence: 11.787829
+  tag: blond
+}
+, class Tag {
+  confidence: 11.704901
+  tag: glamour
+}
+, class Tag {
+  confidence: 11.666863
+  tag: dance
+}
+, class Tag {
+  confidence: 11.622841
+  tag: fun
+}
+, class Tag {
+  confidence: 11.614797
+  tag: combatant
+}
+, class Tag {
+  confidence: 11.404774
+  tag: human
+}
+, class Tag {
+  confidence: 11.207086
+  tag: youth
+}
+, class Tag {
+  confidence: 11.097428
+  tag: style
+}
+, class Tag {
+  confidence: 10.935208
+  tag: jump
+}
+, class Tag {
+  confidence: 10.880812
+  tag: performance
+}
+, class Tag {
+  confidence: 10.607067
+  tag: pretty
+}
+, class Tag {
+  confidence: 10.602711
+  tag: entertainer
+}
+, class Tag {
+  confidence: 10.544146
+  tag: action
+}
+, class Tag {
+  confidence: 10.521437
+  tag: casual
+}
+, class Tag {
+  confidence: 10.471301
+  tag: motion
+}
+, class Tag {
+  confidence: 10.288442
+  tag: skate
+}
+, class Tag {
+  confidence: 10.237337
+  tag: leisure
+}
+, class Tag {
+  confidence: 10.195846
+  tag: silhouette
+}
+, class Tag {
+  confidence: 10.151127
+  tag: lady
+}
+, class Tag {
+  confidence: 10.089741
+  tag: sword
+}
+, class Tag {
+  confidence: 10.078051
+  tag: athlete
+}
+, class Tag {
+  confidence: 9.901534
+  tag: one
+}
+, class Tag {
+  confidence: 9.819162
+  tag: healthy
+}
+, class Tag {
+  confidence: 9.672179
+  tag: sensuality
+}
+, class Tag {
+  confidence: 9.478031
+  tag: weapon
+}
+, class Tag {
+  confidence: 9.400761
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.372049
+  tag: music
+}
+, class Tag {
+  confidence: 9.304211
+  tag: skill
+}
+, class Tag {
+  confidence: 9.2
+  tag: knee pad
+}
+, class Tag {
+  confidence: 9.183132
+  tag: boy
+}
+, class Tag {
+  confidence: 9.069786
+  tag: training
+}
+, class Tag {
+  confidence: 9.012584
+  tag: player
+}
+, class Tag {
+  confidence: 8.807331
+  tag: teenager
+}
+, class Tag {
+  confidence: 8.7896385
+  tag: dress
+}
+, class Tag {
+  confidence: 8.785996
+  tag: fitness
+}
+, class Tag {
+  confidence: 8.557264
+  tag: cool
+}
+, class Tag {
+  confidence: 8.463855
+  tag: jumping
+}
+, class Tag {
+  confidence: 8.373117
+  tag: hair
+}
+, class Tag {
+  confidence: 8.23655
+  tag: smile
+}
+, class Tag {
+  confidence: 8.200219
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.178909
+  tag: legs
+}
+, class Tag {
+  confidence: 8.111799
+  tag: guy
+}
+, class Tag {
+  confidence: 8.104775
+  tag: slim
+}
+, class Tag {
+  confidence: 8.036575
+  tag: modern
+}
+, class Tag {
+  confidence: 8.02625
+  tag: joy
+}
+, class Tag {
+  confidence: 7.830072
+  tag: art
+}
+, class Tag {
+  confidence: 7.7297444
+  tag: brunette
+}
+, class Tag {
+  confidence: 7.566129
+  tag: men
+}
+, class Tag {
+  confidence: 7.523758
+  tag: hands
+}
+, class Tag {
+  confidence: 7.4901505
+  tag: leg
+}
+, class Tag {
+  confidence: 7.36
+  tag: protective garment
+}
+, class Tag {
+  confidence: 7.2541904
+  tag: teen
+}
+, class Tag {
+  confidence: 7.1783423
+  tag: stylish
+}
+, class Tag {
+  confidence: 7.102648
+  tag: handsome
+}
+]
+}
+]
+  unsuccessful: null
+}

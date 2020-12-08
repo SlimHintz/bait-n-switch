@@ -1,0 +1,92 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHW5nKnWsAAwHVv.jpg
+  tags: [class Tag {
+  confidence: 94.43726
+  tag: german shepherd
+}
+, class Tag {
+  confidence: 89.897285
+  tag: shepherd dog
+}
+, class Tag {
+  confidence: 65.36173
+  tag: dog
+}
+, class Tag {
+  confidence: 48.362152
+  tag: canine
+}
+, class Tag {
+  confidence: 26.875687
+  tag: domestic animal
+}
+, class Tag {
+  confidence: 26.802973
+  tag: malinois
+}
+, class Tag {
+  confidence: 20.416
+  tag: belgian sheepdog
+}
+, class Tag {
+  confidence: 14.371288
+  tag: animal
+}
+, class Tag {
+  confidence: 12.64
+  tag: border terrier
+}
+, class Tag {
+  confidence: 10.556736
+  tag: shepherd
+}
+, class Tag {
+  confidence: 10.063912
+  tag: terrier
+}
+, class Tag {
+  confidence: 9.66
+  tag: leonberg
+}
+, class Tag {
+  confidence: 9.16793
+  tag: german
+}
+, class Tag {
+  confidence: 8.95374
+  tag: pet
+}
+, class Tag {
+  confidence: 8.36
+  tag: african hunting dog
+}
+, class Tag {
+  confidence: 8.341076
+  tag: cute
+}
+, class Tag {
+  confidence: 7.7084894
+  tag: black
+}
+, class Tag {
+  confidence: 7.5800385
+  tag: hunting dog
+}
+, class Tag {
+  confidence: 7.4750147
+  tag: grass
+}
+, class Tag {
+  confidence: 7.22333
+  tag: friend
+}
+, class Tag {
+  confidence: 7.02572
+  tag: outside
+}
+]
+}
+]
+  unsuccessful: null
+}

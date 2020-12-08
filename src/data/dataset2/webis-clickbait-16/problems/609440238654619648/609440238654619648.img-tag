@@ -1,0 +1,308 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUqqu3WUAE1ojw.jpg
+  tags: [class Tag {
+  confidence: 50.483456
+  tag: senior
+}
+, class Tag {
+  confidence: 41.41716
+  tag: man
+}
+, class Tag {
+  confidence: 40.211784
+  tag: elderly
+}
+, class Tag {
+  confidence: 39.110794
+  tag: grandma
+}
+, class Tag {
+  confidence: 35.58895
+  tag: male
+}
+, class Tag {
+  confidence: 34.46972
+  tag: mature
+}
+, class Tag {
+  confidence: 33.089767
+  tag: happy
+}
+, class Tag {
+  confidence: 31.962782
+  tag: couple
+}
+, class Tag {
+  confidence: 31.394655
+  tag: people
+}
+, class Tag {
+  confidence: 31.29603
+  tag: old
+}
+, class Tag {
+  confidence: 29.228096
+  tag: adult
+}
+, class Tag {
+  confidence: 28.020544
+  tag: smile
+}
+, class Tag {
+  confidence: 27.598927
+  tag: grandfather
+}
+, class Tag {
+  confidence: 27.114307
+  tag: caucasian
+}
+, class Tag {
+  confidence: 26.924095
+  tag: retired
+}
+, class Tag {
+  confidence: 26.41499
+  tag: portrait
+}
+, class Tag {
+  confidence: 25.601746
+  tag: person
+}
+, class Tag {
+  confidence: 25.17321
+  tag: husband
+}
+, class Tag {
+  confidence: 24.22505
+  tag: retirement
+}
+, class Tag {
+  confidence: 23.356901
+  tag: wife
+}
+, class Tag {
+  confidence: 22.654276
+  tag: love
+}
+, class Tag {
+  confidence: 21.69142
+  tag: smiling
+}
+, class Tag {
+  confidence: 20.400736
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 20.363104
+  tag: happiness
+}
+, class Tag {
+  confidence: 19.922504
+  tag: together
+}
+, class Tag {
+  confidence: 17.998816
+  tag: family
+}
+, class Tag {
+  confidence: 17.480423
+  tag: ancestor
+}
+, class Tag {
+  confidence: 16.150204
+  tag: men
+}
+, class Tag {
+  confidence: 15.594548
+  tag: older
+}
+, class Tag {
+  confidence: 15.02354
+  tag: grandmother
+}
+, class Tag {
+  confidence: 14.736193
+  tag: affectionate
+}
+, class Tag {
+  confidence: 14.722756
+  tag: affection
+}
+, class Tag {
+  confidence: 14.593765
+  tag: face
+}
+, class Tag {
+  confidence: 14.343617
+  tag: romance
+}
+, class Tag {
+  confidence: 14.329288
+  tag: sitting
+}
+, class Tag {
+  confidence: 14.22718
+  tag: two
+}
+, class Tag {
+  confidence: 13.913116
+  tag: home
+}
+, class Tag {
+  confidence: 13.740108
+  tag: aged
+}
+, class Tag {
+  confidence: 13.7049465
+  tag: romantic
+}
+, class Tag {
+  confidence: 13.031617
+  tag: handsome
+}
+, class Tag {
+  confidence: 12.449334
+  tag: cheerful
+}
+, class Tag {
+  confidence: 12.354222
+  tag: outdoors
+}
+, class Tag {
+  confidence: 11.682078
+  tag: casual
+}
+, class Tag {
+  confidence: 11.470446
+  tag: women
+}
+, class Tag {
+  confidence: 11.462064
+  tag: expression
+}
+, class Tag {
+  confidence: 11.387173
+  tag: gray
+}
+, class Tag {
+  confidence: 11.343863
+  tag: loving
+}
+, class Tag {
+  confidence: 10.749476
+  tag: hair
+}
+, class Tag {
+  confidence: 10.622406
+  tag: pensioner
+}
+, class Tag {
+  confidence: 10.618288
+  tag: grey
+}
+, class Tag {
+  confidence: 10.580018
+  tag: married
+}
+, class Tag {
+  confidence: 9.573802
+  tag: enjoying
+}
+, class Tag {
+  confidence: 9.488045
+  tag: indoors
+}
+, class Tag {
+  confidence: 9.3154545
+  tag: glasses
+}
+, class Tag {
+  confidence: 9.041955
+  tag: holding
+}
+, class Tag {
+  confidence: 8.913883
+  tag: father
+}
+, class Tag {
+  confidence: 8.851306
+  tag: park
+}
+, class Tag {
+  confidence: 8.480648
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.396149
+  tag: joy
+}
+, class Tag {
+  confidence: 8.347945
+  tag: human
+}
+, class Tag {
+  confidence: 8.171002
+  tag: looking
+}
+, class Tag {
+  confidence: 8.088253
+  tag: aging
+}
+, class Tag {
+  confidence: 7.960089
+  tag: closeup
+}
+, class Tag {
+  confidence: 7.8341994
+  tag: day
+}
+, class Tag {
+  confidence: 7.81527
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.7524414
+  tag: lady
+}
+, class Tag {
+  confidence: 7.5202713
+  tag: citizen
+}
+, class Tag {
+  confidence: 7.471311
+  tag: 70s
+}
+, class Tag {
+  confidence: 7.3489327
+  tag: elder
+}
+, class Tag {
+  confidence: 7.3292403
+  tag: marriage
+}
+, class Tag {
+  confidence: 7.3144455
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.145486
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.110216
+  tag: relaxed
+}
+, class Tag {
+  confidence: 7.1074114
+  tag: close
+}
+, class Tag {
+  confidence: 7.0705934
+  tag: relationship
+}
+]
+}
+]
+  unsuccessful: null
+}

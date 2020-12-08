@@ -1,0 +1,164 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYjwWlVAAACbqT.jpg
+  tags: [class Tag {
+  confidence: 20.690224
+  tag: texture
+}
+, class Tag {
+  confidence: 20.219494
+  tag: textured
+}
+, class Tag {
+  confidence: 18.33723
+  tag: pattern
+}
+, class Tag {
+  confidence: 18.28158
+  tag: old
+}
+, class Tag {
+  confidence: 17.274193
+  tag: brown
+}
+, class Tag {
+  confidence: 15.410832
+  tag: stone
+}
+, class Tag {
+  confidence: 15.102027
+  tag: bark
+}
+, class Tag {
+  confidence: 14.562323
+  tag: rough
+}
+, class Tag {
+  confidence: 13.864519
+  tag: close
+}
+, class Tag {
+  confidence: 13.383489
+  tag: design
+}
+, class Tag {
+  confidence: 13.003114
+  tag: art
+}
+, class Tag {
+  confidence: 13.0
+  tag: trilobite
+}
+, class Tag {
+  confidence: 12.802007
+  tag: wall
+}
+, class Tag {
+  confidence: 12.598546
+  tag: material
+}
+, class Tag {
+  confidence: 12.2420435
+  tag: ancient
+}
+, class Tag {
+  confidence: 12.123776
+  tag: grunge
+}
+, class Tag {
+  confidence: 11.673862
+  tag: surface
+}
+, class Tag {
+  confidence: 11.488299
+  tag: sandstone
+}
+, class Tag {
+  confidence: 11.370403
+  tag: rock
+}
+, class Tag {
+  confidence: 11.228468
+  tag: dirty
+}
+, class Tag {
+  confidence: 10.519134
+  tag: natural
+}
+, class Tag {
+  confidence: 10.386043
+  tag: arthropod
+}
+, class Tag {
+  confidence: 10.05334
+  tag: antiquity
+}
+, class Tag {
+  confidence: 9.957584
+  tag: color
+}
+, class Tag {
+  confidence: 9.812395
+  tag: detail
+}
+, class Tag {
+  confidence: 9.479473
+  tag: wood
+}
+, class Tag {
+  confidence: 9.388626
+  tag: backdrop
+}
+, class Tag {
+  confidence: 9.154508
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 8.824188
+  tag: decoration
+}
+, class Tag {
+  confidence: 8.142878
+  tag: vintage
+}
+, class Tag {
+  confidence: 8.055697
+  tag: aged
+}
+, class Tag {
+  confidence: 7.881303
+  tag: history
+}
+, class Tag {
+  confidence: 7.7617536
+  tag: invertebrate
+}
+, class Tag {
+  confidence: 7.432867
+  tag: animal
+}
+, class Tag {
+  confidence: 7.365232
+  tag: tree
+}
+, class Tag {
+  confidence: 7.313504
+  tag: decorative
+}
+, class Tag {
+  confidence: 7.289198
+  tag: retro
+}
+, class Tag {
+  confidence: 7.133154
+  tag: closeup
+}
+, class Tag {
+  confidence: 7.046487
+  tag: wooden
+}
+]
+}
+]
+  unsuccessful: null
+}

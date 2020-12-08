@@ -1,0 +1,104 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAOKDJUgAAVf0l.jpg
+  tags: [class Tag {
+  confidence: 16.765942
+  tag: business
+}
+, class Tag {
+  confidence: 14.021415
+  tag: design
+}
+, class Tag {
+  confidence: 12.619344
+  tag: graphic
+}
+, class Tag {
+  confidence: 11.4194355
+  tag: black
+}
+, class Tag {
+  confidence: 11.412896
+  tag: home
+}
+, class Tag {
+  confidence: 10.505265
+  tag: space
+}
+, class Tag {
+  confidence: 10.34486
+  tag: sign
+}
+, class Tag {
+  confidence: 10.333315
+  tag: color
+}
+, class Tag {
+  confidence: 9.955793
+  tag: symbol
+}
+, class Tag {
+  confidence: 9.344957
+  tag: happy
+}
+, class Tag {
+  confidence: 9.271577
+  tag: computer
+}
+, class Tag {
+  confidence: 9.26817
+  tag: icon
+}
+, class Tag {
+  confidence: 8.717646
+  tag: success
+}
+, class Tag {
+  confidence: 8.339532
+  tag: finance
+}
+, class Tag {
+  confidence: 8.195879
+  tag: set
+}
+, class Tag {
+  confidence: 8.177414
+  tag: internet
+}
+, class Tag {
+  confidence: 8.077291
+  tag: communication
+}
+, class Tag {
+  confidence: 7.9931717
+  tag: art
+}
+, class Tag {
+  confidence: 7.880409
+  tag: copy space
+}
+, class Tag {
+  confidence: 7.7979817
+  tag: person
+}
+, class Tag {
+  confidence: 7.2364855
+  tag: company
+}
+, class Tag {
+  confidence: 7.0684595
+  tag: house
+}
+, class Tag {
+  confidence: 7.062188
+  tag: laptop
+}
+, class Tag {
+  confidence: 7.052666
+  tag: male
+}
+]
+}
+]
+  unsuccessful: null
+}

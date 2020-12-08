@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJsi-EWcAAIwkM.jpg
+  tags: [class Tag {
+  confidence: 56.728058
+  tag: shop
+}
+, class Tag {
+  confidence: 52.14
+  tag: mercantile establishment
+}
+, class Tag {
+  confidence: 34.356
+  tag: place of business
+}
+, class Tag {
+  confidence: 24.401426
+  tag: grocery store
+}
+, class Tag {
+  confidence: 18.835001
+  tag: marketplace
+}
+, class Tag {
+  confidence: 18.458181
+  tag: supermarket
+}
+, class Tag {
+  confidence: 18.06
+  tag: shoe shop
+}
+, class Tag {
+  confidence: 16.555931
+  tag: establishment
+}
+, class Tag {
+  confidence: 14.939016
+  tag: collection
+}
+, class Tag {
+  confidence: 13.4657135
+  tag: home
+}
+, class Tag {
+  confidence: 13.46
+  tag: tobacco shop
+}
+, class Tag {
+  confidence: 13.068777
+  tag: stall
+}
+, class Tag {
+  confidence: 11.980374
+  tag: colorful
+}
+, class Tag {
+  confidence: 11.426311
+  tag: building
+}
+, class Tag {
+  confidence: 11.248596
+  tag: house
+}
+, class Tag {
+  confidence: 11.247404
+  tag: bookshop
+}
+, class Tag {
+  confidence: 11.2018175
+  tag: business
+}
+, class Tag {
+  confidence: 10.67564
+  tag: old
+}
+, class Tag {
+  confidence: 10.558388
+  tag: architecture
+}
+, class Tag {
+  confidence: 10.059667
+  tag: interior
+}
+, class Tag {
+  confidence: 10.050835
+  tag: color
+}
+, class Tag {
+  confidence: 10.031361
+  tag: indoors
+}
+, class Tag {
+  confidence: 9.513318
+  tag: people
+}
+, class Tag {
+  confidence: 9.44672
+  tag: counter
+}
+, class Tag {
+  confidence: 8.796885
+  tag: adult
+}
+, class Tag {
+  confidence: 8.622182
+  tag: person
+}
+, class Tag {
+  confidence: 8.437786
+  tag: store
+}
+, class Tag {
+  confidence: 8.251412
+  tag: indoor
+}
+, class Tag {
+  confidence: 8.20761
+  tag: design
+}
+, class Tag {
+  confidence: 8.199388
+  tag: toyshop
+}
+, class Tag {
+  confidence: 8.006646
+  tag: food
+}
+, class Tag {
+  confidence: 7.6455398
+  tag: industry
+}
+, class Tag {
+  confidence: 7.6279445
+  tag: light
+}
+, class Tag {
+  confidence: 7.4371157
+  tag: shopping
+}
+, class Tag {
+  confidence: 7.283053
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.209832
+  tag: market
+}
+, class Tag {
+  confidence: 7.094941
+  tag: empty
+}
+, class Tag {
+  confidence: 7.015602
+  tag: pattern
+}
+]
+}
+]
+  unsuccessful: null
+}

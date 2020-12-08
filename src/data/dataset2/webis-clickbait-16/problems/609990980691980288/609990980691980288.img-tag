@@ -1,0 +1,188 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHcem87UAAAMC7q.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: elephant
+}
+, class Tag {
+  confidence: 79.84816
+  tag: mammal
+}
+, class Tag {
+  confidence: 78.26336
+  tag: african elephant
+}
+, class Tag {
+  confidence: 45.636
+  tag: proboscidean
+}
+, class Tag {
+  confidence: 39.71298
+  tag: africa
+}
+, class Tag {
+  confidence: 37.873814
+  tag: animal
+}
+, class Tag {
+  confidence: 34.48564
+  tag: safari
+}
+, class Tag {
+  confidence: 32.652153
+  tag: wildlife
+}
+, class Tag {
+  confidence: 32.5
+  tag: tusker
+}
+, class Tag {
+  confidence: 26.48867
+  tag: african
+}
+, class Tag {
+  confidence: 24.736935
+  tag: wild
+}
+, class Tag {
+  confidence: 21.120127
+  tag: animals
+}
+, class Tag {
+  confidence: 20.415022
+  tag: tusk
+}
+, class Tag {
+  confidence: 19.733063
+  tag: elephants
+}
+, class Tag {
+  confidence: 19.25754
+  tag: park
+}
+, class Tag {
+  confidence: 18.939554
+  tag: trunk
+}
+, class Tag {
+  confidence: 17.315777
+  tag: national
+}
+, class Tag {
+  confidence: 14.895143
+  tag: reserve
+}
+, class Tag {
+  confidence: 14.326008
+  tag: bull
+}
+, class Tag {
+  confidence: 14.10388
+  tag: grey
+}
+, class Tag {
+  confidence: 14.094759
+  tag: endangered
+}
+, class Tag {
+  confidence: 14.031083
+  tag: south
+}
+, class Tag {
+  confidence: 13.109804
+  tag: five
+}
+, class Tag {
+  confidence: 13.0802965
+  tag: ears
+}
+, class Tag {
+  confidence: 12.860213
+  tag: herbivore
+}
+, class Tag {
+  confidence: 12.708389
+  tag: kenya
+}
+, class Tag {
+  confidence: 12.168735
+  tag: conservation
+}
+, class Tag {
+  confidence: 11.992366
+  tag: ivory
+}
+, class Tag {
+  confidence: 11.110516
+  tag: dangerous
+}
+, class Tag {
+  confidence: 11.024176
+  tag: tusks
+}
+, class Tag {
+  confidence: 10.821878
+  tag: head
+}
+, class Tag {
+  confidence: 10.56688
+  tag: wilderness
+}
+, class Tag {
+  confidence: 10.106968
+  tag: ear
+}
+, class Tag {
+  confidence: 10.07606
+  tag: mammals
+}
+, class Tag {
+  confidence: 9.839608
+  tag: kruger
+}
+, class Tag {
+  confidence: 9.323443
+  tag: habitat
+}
+, class Tag {
+  confidence: 8.829379
+  tag: water
+}
+, class Tag {
+  confidence: 8.819546
+  tag: pachyderm
+}
+, class Tag {
+  confidence: 8.291684
+  tag: natural
+}
+, class Tag {
+  confidence: 8.047965
+  tag: savannah
+}
+, class Tag {
+  confidence: 7.753245
+  tag: strong
+}
+, class Tag {
+  confidence: 7.659334
+  tag: zoo
+}
+, class Tag {
+  confidence: 7.3679013
+  tag: travel
+}
+, class Tag {
+  confidence: 7.2461905
+  tag: herd
+}
+, class Tag {
+  confidence: 7.169649
+  tag: africana
+}
+]
+}
+]
+  unsuccessful: null
+}

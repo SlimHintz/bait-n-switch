@@ -1,0 +1,148 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHSIAWIWgAA_G0y.jpg
+  tags: [class Tag {
+  confidence: 86.53354
+  tag: fur coat
+}
+, class Tag {
+  confidence: 77.08668
+  tag: coat
+}
+, class Tag {
+  confidence: 51.924
+  tag: overgarment
+}
+, class Tag {
+  confidence: 34.35947
+  tag: garment
+}
+, class Tag {
+  confidence: 22.574678
+  tag: clothing
+}
+, class Tag {
+  confidence: 20.069504
+  tag: portrait
+}
+, class Tag {
+  confidence: 19.573824
+  tag: model
+}
+, class Tag {
+  confidence: 18.763128
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.14625
+  tag: fashion
+}
+, class Tag {
+  confidence: 17.833452
+  tag: face
+}
+, class Tag {
+  confidence: 17.125994
+  tag: attractive
+}
+, class Tag {
+  confidence: 16.641468
+  tag: pretty
+}
+, class Tag {
+  confidence: 16.078442
+  tag: adult
+}
+, class Tag {
+  confidence: 15.998227
+  tag: hair
+}
+, class Tag {
+  confidence: 14.299436
+  tag: people
+}
+, class Tag {
+  confidence: 14.010116
+  tag: person
+}
+, class Tag {
+  confidence: 13.56539
+  tag: sexy
+}
+, class Tag {
+  confidence: 11.923174
+  tag: eyes
+}
+, class Tag {
+  confidence: 11.892179
+  tag: smile
+}
+, class Tag {
+  confidence: 11.634657
+  tag: cute
+}
+, class Tag {
+  confidence: 10.36
+  tag: three-toed sloth
+}
+, class Tag {
+  confidence: 10.207437
+  tag: happy
+}
+, class Tag {
+  confidence: 10.14685
+  tag: winter
+}
+, class Tag {
+  confidence: 9.457647
+  tag: lady
+}
+, class Tag {
+  confidence: 9.10716
+  tag: fur
+}
+, class Tag {
+  confidence: 8.923316
+  tag: brunette
+}
+, class Tag {
+  confidence: 8.76798
+  tag: women
+}
+, class Tag {
+  confidence: 8.3196945
+  tag: youth
+}
+, class Tag {
+  confidence: 8.287381
+  tag: sloth
+}
+, class Tag {
+  confidence: 8.117119
+  tag: glamour
+}
+, class Tag {
+  confidence: 7.991631
+  tag: cold
+}
+, class Tag {
+  confidence: 7.8861413
+  tag: gorgeous
+}
+, class Tag {
+  confidence: 7.450251
+  tag: human
+}
+, class Tag {
+  confidence: 7.2476263
+  tag: one
+}
+, class Tag {
+  confidence: 7.0887938
+  tag: fun
+}
+]
+}
+]
+  unsuccessful: null
+}

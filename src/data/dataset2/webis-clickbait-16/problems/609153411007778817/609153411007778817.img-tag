@@ -1,0 +1,104 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQlzJXUAAABETu.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: map
+}
+, class Tag {
+  confidence: 100.0
+  tag: representation
+}
+, class Tag {
+  confidence: 22.294804
+  tag: geography
+}
+, class Tag {
+  confidence: 17.751427
+  tag: country
+}
+, class Tag {
+  confidence: 14.25572
+  tag: world
+}
+, class Tag {
+  confidence: 14.026816
+  tag: atlas
+}
+, class Tag {
+  confidence: 13.273088
+  tag: continent
+}
+, class Tag {
+  confidence: 13.060267
+  tag: nation
+}
+, class Tag {
+  confidence: 12.439817
+  tag: travel
+}
+, class Tag {
+  confidence: 11.257594
+  tag: earth
+}
+, class Tag {
+  confidence: 10.677983
+  tag: europe
+}
+, class Tag {
+  confidence: 9.463781
+  tag: globe
+}
+, class Tag {
+  confidence: 9.328096
+  tag: cartography
+}
+, class Tag {
+  confidence: 9.168843
+  tag: global
+}
+, class Tag {
+  confidence: 9.140806
+  tag: state
+}
+, class Tag {
+  confidence: 8.709002
+  tag: land
+}
+, class Tag {
+  confidence: 8.025728
+  tag: city
+}
+, class Tag {
+  confidence: 7.962367
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.891799
+  tag: planet
+}
+, class Tag {
+  confidence: 7.505651
+  tag: asia
+}
+, class Tag {
+  confidence: 7.326813
+  tag: countries
+}
+, class Tag {
+  confidence: 7.29554
+  tag: national
+}
+, class Tag {
+  confidence: 7.132591
+  tag: south
+}
+, class Tag {
+  confidence: 7.0338664
+  tag: design
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,292 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKt1pRUYAAmzJ_.jpg
+  tags: [class Tag {
+  confidence: 72.88701
+  tag: church
+}
+, class Tag {
+  confidence: 59.61893
+  tag: dome
+}
+, class Tag {
+  confidence: 50.07294
+  tag: building
+}
+, class Tag {
+  confidence: 42.881176
+  tag: architecture
+}
+, class Tag {
+  confidence: 38.29416
+  tag: roof
+}
+, class Tag {
+  confidence: 31.792948
+  tag: tower
+}
+, class Tag {
+  confidence: 31.04941
+  tag: religion
+}
+, class Tag {
+  confidence: 27.195436
+  tag: cathedral
+}
+, class Tag {
+  confidence: 25.98
+  tag: place of worship
+}
+, class Tag {
+  confidence: 24.24
+  tag: protective covering
+}
+, class Tag {
+  confidence: 24.0562
+  tag: old
+}
+, class Tag {
+  confidence: 22.278238
+  tag: sky
+}
+, class Tag {
+  confidence: 21.807617
+  tag: history
+}
+, class Tag {
+  confidence: 21.388245
+  tag: structure
+}
+, class Tag {
+  confidence: 21.29912
+  tag: city
+}
+, class Tag {
+  confidence: 21.043606
+  tag: christianity
+}
+, class Tag {
+  confidence: 21.014175
+  tag: travel
+}
+, class Tag {
+  confidence: 20.92581
+  tag: europe
+}
+, class Tag {
+  confidence: 20.397577
+  tag: monastery
+}
+, class Tag {
+  confidence: 20.358707
+  tag: landmark
+}
+, class Tag {
+  confidence: 19.19505
+  tag: cross
+}
+, class Tag {
+  confidence: 18.551872
+  tag: culture
+}
+, class Tag {
+  confidence: 18.483501
+  tag: russia
+}
+, class Tag {
+  confidence: 17.5894
+  tag: tourism
+}
+, class Tag {
+  confidence: 17.239855
+  tag: famous
+}
+, class Tag {
+  confidence: 15.9774885
+  tag: covering
+}
+, class Tag {
+  confidence: 15.638153
+  tag: historic
+}
+, class Tag {
+  confidence: 15.057314
+  tag: town
+}
+, class Tag {
+  confidence: 14.722393
+  tag: traditional
+}
+, class Tag {
+  confidence: 13.483814
+  tag: orthodox
+}
+, class Tag {
+  confidence: 13.271206
+  tag: christian
+}
+, class Tag {
+  confidence: 13.088537
+  tag: house
+}
+, class Tag {
+  confidence: 12.46765
+  tag: russian
+}
+, class Tag {
+  confidence: 12.3664
+  tag: european
+}
+, class Tag {
+  confidence: 12.008859
+  tag: exterior
+}
+, class Tag {
+  confidence: 11.935926
+  tag: gold
+}
+, class Tag {
+  confidence: 11.917524
+  tag: ancient
+}
+, class Tag {
+  confidence: 11.532321
+  tag: stone
+}
+, class Tag {
+  confidence: 11.44353
+  tag: religious
+}
+, class Tag {
+  confidence: 10.906748
+  tag: saint
+}
+, class Tag {
+  confidence: 10.741965
+  tag: historical
+}
+, class Tag {
+  confidence: 10.564262
+  tag: monument
+}
+, class Tag {
+  confidence: 10.523685
+  tag: place
+}
+, class Tag {
+  confidence: 10.135358
+  tag: st
+}
+, class Tag {
+  confidence: 9.97151
+  tag: temple
+}
+, class Tag {
+  confidence: 9.958001
+  tag: clock
+}
+, class Tag {
+  confidence: 9.693204
+  tag: chapel
+}
+, class Tag {
+  confidence: 9.62046
+  tag: summer
+}
+, class Tag {
+  confidence: 9.376067
+  tag: faith
+}
+, class Tag {
+  confidence: 9.342997
+  tag: spirituality
+}
+, class Tag {
+  confidence: 9.334615
+  tag: god
+}
+, class Tag {
+  confidence: 9.0510025
+  tag: destination
+}
+, class Tag {
+  confidence: 8.920658
+  tag: construction
+}
+, class Tag {
+  confidence: 8.817519
+  tag: square
+}
+, class Tag {
+  confidence: 8.732199
+  tag: cupola
+}
+, class Tag {
+  confidence: 8.607877
+  tag: medieval
+}
+, class Tag {
+  confidence: 8.469566
+  tag: capital
+}
+, class Tag {
+  confidence: 8.297904
+  tag: wall
+}
+, class Tag {
+  confidence: 8.285468
+  tag: day
+}
+, class Tag {
+  confidence: 7.9024763
+  tag: moscow
+}
+, class Tag {
+  confidence: 7.811279
+  tag: palace
+}
+, class Tag {
+  confidence: 7.7504945
+  tag: stupa
+}
+, class Tag {
+  confidence: 7.733954
+  tag: urban
+}
+, class Tag {
+  confidence: 7.6042285
+  tag: center
+}
+, class Tag {
+  confidence: 7.52
+  tag: religious residence
+}
+, class Tag {
+  confidence: 7.46
+  tag: bell cote
+}
+, class Tag {
+  confidence: 7.2939706
+  tag: tourist
+}
+, class Tag {
+  confidence: 7.1306458
+  tag: catholic
+}
+, class Tag {
+  confidence: 7.1154594
+  tag: night
+}
+, class Tag {
+  confidence: 7.1014132
+  tag: london
+}
+, class Tag {
+  confidence: 7.0728517
+  tag: landscape
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,288 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPsXJiXIAEmANa.jpg
+  tags: [class Tag {
+  confidence: 41.214622
+  tag: hat
+}
+, class Tag {
+  confidence: 27.89579
+  tag: person
+}
+, class Tag {
+  confidence: 26.218967
+  tag: cap
+}
+, class Tag {
+  confidence: 25.02868
+  tag: people
+}
+, class Tag {
+  confidence: 23.973867
+  tag: caucasian
+}
+, class Tag {
+  confidence: 22.057978
+  tag: adult
+}
+, class Tag {
+  confidence: 21.59552
+  tag: man
+}
+, class Tag {
+  confidence: 21.299149
+  tag: happy
+}
+, class Tag {
+  confidence: 20.857029
+  tag: portrait
+}
+, class Tag {
+  confidence: 20.852968
+  tag: pretty
+}
+, class Tag {
+  confidence: 19.197575
+  tag: smile
+}
+, class Tag {
+  confidence: 18.43055
+  tag: attractive
+}
+, class Tag {
+  confidence: 18.25626
+  tag: smiling
+}
+, class Tag {
+  confidence: 18.09825
+  tag: male
+}
+, class Tag {
+  confidence: 17.184753
+  tag: cute
+}
+, class Tag {
+  confidence: 16.001308
+  tag: model
+}
+, class Tag {
+  confidence: 15.256068
+  tag: hair
+}
+, class Tag {
+  confidence: 15.00776
+  tag: eyes
+}
+, class Tag {
+  confidence: 14.5211935
+  tag: face
+}
+, class Tag {
+  confidence: 14.355577
+  tag: occupation
+}
+, class Tag {
+  confidence: 14.075791
+  tag: expression
+}
+, class Tag {
+  confidence: 13.822093
+  tag: clothing
+}
+, class Tag {
+  confidence: 13.117581
+  tag: xmas
+}
+, class Tag {
+  confidence: 13.076974
+  tag: santa
+}
+, class Tag {
+  confidence: 12.281859
+  tag: holiday
+}
+, class Tag {
+  confidence: 12.166984
+  tag: fun
+}
+, class Tag {
+  confidence: 11.780916
+  tag: professional
+}
+, class Tag {
+  confidence: 11.56153
+  tag: christmas
+}
+, class Tag {
+  confidence: 11.468305
+  tag: worker
+}
+, class Tag {
+  confidence: 11.439991
+  tag: joy
+}
+, class Tag {
+  confidence: 10.792498
+  tag: winter
+}
+, class Tag {
+  confidence: 10.637733
+  tag: headdress
+}
+, class Tag {
+  confidence: 10.634861
+  tag: contractor
+}
+, class Tag {
+  confidence: 10.605578
+  tag: lady
+}
+, class Tag {
+  confidence: 10.531488
+  tag: cheerful
+}
+, class Tag {
+  confidence: 10.388101
+  tag: looking
+}
+, class Tag {
+  confidence: 10.005855
+  tag: construction
+}
+, class Tag {
+  confidence: 9.971456
+  tag: head
+}
+, class Tag {
+  confidence: 9.866476
+  tag: child
+}
+, class Tag {
+  confidence: 9.823045
+  tag: studio
+}
+, class Tag {
+  confidence: 9.660873
+  tag: helmet
+}
+, class Tag {
+  confidence: 9.6
+  tag: shower cap
+}
+, class Tag {
+  confidence: 9.580592
+  tag: uniform
+}
+, class Tag {
+  confidence: 9.145074
+  tag: fashion
+}
+, class Tag {
+  confidence: 9.082861
+  tag: hand
+}
+, class Tag {
+  confidence: 9.007985
+  tag: job
+}
+, class Tag {
+  confidence: 8.878988
+  tag: claus
+}
+, class Tag {
+  confidence: 8.843741
+  tag: builder
+}
+, class Tag {
+  confidence: 8.649378
+  tag: black
+}
+, class Tag {
+  confidence: 8.618191
+  tag: work
+}
+, class Tag {
+  confidence: 8.50384
+  tag: mature
+}
+, class Tag {
+  confidence: 8.435545
+  tag: safety
+}
+, class Tag {
+  confidence: 8.336682
+  tag: teenager
+}
+, class Tag {
+  confidence: 8.314185
+  tag: pose
+}
+, class Tag {
+  confidence: 8.280229
+  tag: one
+}
+, class Tag {
+  confidence: 8.156955
+  tag: cowboy hat
+}
+, class Tag {
+  confidence: 8.081817
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.970768
+  tag: celebration
+}
+, class Tag {
+  confidence: 7.910881
+  tag: seasonal
+}
+, class Tag {
+  confidence: 7.836951
+  tag: costume
+}
+, class Tag {
+  confidence: 7.8206916
+  tag: youth
+}
+, class Tag {
+  confidence: 7.762458
+  tag: skin
+}
+, class Tag {
+  confidence: 7.554603
+  tag: funny
+}
+, class Tag {
+  confidence: 7.4198685
+  tag: girls
+}
+, class Tag {
+  confidence: 7.351688
+  tag: lovely
+}
+, class Tag {
+  confidence: 7.170511
+  tag: foreman
+}
+, class Tag {
+  confidence: 7.1212173
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.0246897
+  tag: wearing
+}
+, class Tag {
+  confidence: 7.016006
+  tag: engineer
+}
+, class Tag {
+  confidence: 7.0073004
+  tag: season
+}
+]
+}
+]
+  unsuccessful: null
+}

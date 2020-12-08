@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_PLV8UgAAT-M4.jpg
+  tags: [class Tag {
+  confidence: 77.184906
+  tag: megalith
+}
+, class Tag {
+  confidence: 61.837082
+  tag: memorial
+}
+, class Tag {
+  confidence: 39.630417
+  tag: structure
+}
+, class Tag {
+  confidence: 21.73023
+  tag: landscape
+}
+, class Tag {
+  confidence: 19.222286
+  tag: sky
+}
+, class Tag {
+  confidence: 17.572395
+  tag: grass
+}
+, class Tag {
+  confidence: 16.731133
+  tag: tree
+}
+, class Tag {
+  confidence: 16.235245
+  tag: stone
+}
+, class Tag {
+  confidence: 13.7041645
+  tag: outdoors
+}
+, class Tag {
+  confidence: 13.436214
+  tag: park
+}
+, class Tag {
+  confidence: 13.31879
+  tag: forest
+}
+, class Tag {
+  confidence: 11.988761
+  tag: clouds
+}
+, class Tag {
+  confidence: 11.946153
+  tag: rock
+}
+, class Tag {
+  confidence: 11.896045
+  tag: field
+}
+, class Tag {
+  confidence: 11.6176605
+  tag: trees
+}
+, class Tag {
+  confidence: 10.537903
+  tag: travel
+}
+, class Tag {
+  confidence: 10.510521
+  tag: summer
+}
+, class Tag {
+  confidence: 10.450745
+  tag: mountain
+}
+, class Tag {
+  confidence: 9.566772
+  tag: sun
+}
+, class Tag {
+  confidence: 9.550466
+  tag: natural
+}
+, class Tag {
+  confidence: 9.364049
+  tag: monument
+}
+, class Tag {
+  confidence: 9.256897
+  tag: environment
+}
+, class Tag {
+  confidence: 9.253487
+  tag: tourism
+}
+, class Tag {
+  confidence: 8.794788
+  tag: oak
+}
+, class Tag {
+  confidence: 8.770112
+  tag: scenic
+}
+, class Tag {
+  confidence: 8.735279
+  tag: ancient
+}
+, class Tag {
+  confidence: 8.710245
+  tag: cloak
+}
+, class Tag {
+  confidence: 8.603952
+  tag: outdoor
+}
+, class Tag {
+  confidence: 8.386292
+  tag: meadow
+}
+, class Tag {
+  confidence: 7.935445
+  tag: old
+}
+, class Tag {
+  confidence: 7.843353
+  tag: horizon
+}
+, class Tag {
+  confidence: 7.6982117
+  tag: hill
+}
+, class Tag {
+  confidence: 7.675165
+  tag: trunk
+}
+, class Tag {
+  confidence: 7.5467377
+  tag: cloud
+}
+, class Tag {
+  confidence: 7.51555
+  tag: covering
+}
+, class Tag {
+  confidence: 7.363367
+  tag: rural
+}
+, class Tag {
+  confidence: 7.2558336
+  tag: day
+}
+]
+}
+]
+  unsuccessful: null
+}

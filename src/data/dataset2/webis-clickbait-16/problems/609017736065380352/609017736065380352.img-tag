@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOqZ2xXIAAlQ-w.jpg
+  tags: [class Tag {
+  confidence: 50.86
+  tag: window screen
+}
+, class Tag {
+  confidence: 49.548866
+  tag: screen
+}
+, class Tag {
+  confidence: 35.172
+  tag: protective covering
+}
+, class Tag {
+  confidence: 23.952097
+  tag: covering
+}
+, class Tag {
+  confidence: 19.407541
+  tag: cell
+}
+, class Tag {
+  confidence: 18.287685
+  tag: pattern
+}
+, class Tag {
+  confidence: 17.271988
+  tag: prison
+}
+, class Tag {
+  confidence: 16.237926
+  tag: modern
+}
+, class Tag {
+  confidence: 15.821753
+  tag: texture
+}
+, class Tag {
+  confidence: 14.585013
+  tag: design
+}
+, class Tag {
+  confidence: 13.28
+  tag: correctional institution
+}
+, class Tag {
+  confidence: 13.006341
+  tag: architecture
+}
+, class Tag {
+  confidence: 12.818181
+  tag: technology
+}
+, class Tag {
+  confidence: 11.513266
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 11.171439
+  tag: business
+}
+, class Tag {
+  confidence: 10.980934
+  tag: building
+}
+, class Tag {
+  confidence: 10.904181
+  tag: light
+}
+, class Tag {
+  confidence: 10.163094
+  tag: wall
+}
+, class Tag {
+  confidence: 10.085613
+  tag: window
+}
+, class Tag {
+  confidence: 10.058203
+  tag: industry
+}
+, class Tag {
+  confidence: 9.96
+  tag: penal institution
+}
+, class Tag {
+  confidence: 9.783061
+  tag: textured
+}
+, class Tag {
+  confidence: 9.758827
+  tag: digital
+}
+, class Tag {
+  confidence: 8.818206
+  tag: detail
+}
+, class Tag {
+  confidence: 8.70606
+  tag: lines
+}
+, class Tag {
+  confidence: 8.62309
+  tag: backdrop
+}
+, class Tag {
+  confidence: 8.525567
+  tag: material
+}
+, class Tag {
+  confidence: 8.452564
+  tag: glass
+}
+, class Tag {
+  confidence: 8.321062
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.077575
+  tag: futuristic
+}
+, class Tag {
+  confidence: 8.0038805
+  tag: dark
+}
+, class Tag {
+  confidence: 7.9411907
+  tag: house
+}
+, class Tag {
+  confidence: 7.76
+  tag: fire screen
+}
+, class Tag {
+  confidence: 7.6489816
+  tag: old
+}
+, class Tag {
+  confidence: 7.2709284
+  tag: art
+}
+, class Tag {
+  confidence: 7.239488
+  tag: surface
+}
+, class Tag {
+  confidence: 7.1732225
+  tag: interior
+}
+, class Tag {
+  confidence: 7.0829134
+  tag: steel
+}
+, class Tag {
+  confidence: 7.0818057
+  tag: urban
+}
+, class Tag {
+  confidence: 7.03908
+  tag: graphic
+}
+]
+}
+]
+  unsuccessful: null
+}

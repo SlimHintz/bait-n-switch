@@ -1,0 +1,312 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHT09JHWwAAFYx0.jpg
+  tags: [class Tag {
+  confidence: 45.08978
+  tag: soccer
+}
+, class Tag {
+  confidence: 39.862362
+  tag: ball
+}
+, class Tag {
+  confidence: 28.335884
+  tag: person
+}
+, class Tag {
+  confidence: 28.050064
+  tag: grass
+}
+, class Tag {
+  confidence: 22.829618
+  tag: people
+}
+, class Tag {
+  confidence: 22.56475
+  tag: caucasian
+}
+, class Tag {
+  confidence: 21.168583
+  tag: child
+}
+, class Tag {
+  confidence: 21.11605
+  tag: happy
+}
+, class Tag {
+  confidence: 20.203115
+  tag: adult
+}
+, class Tag {
+  confidence: 19.673698
+  tag: male
+}
+, class Tag {
+  confidence: 18.669334
+  tag: man
+}
+, class Tag {
+  confidence: 18.06
+  tag: game equipment
+}
+, class Tag {
+  confidence: 18.00032
+  tag: outdoors
+}
+, class Tag {
+  confidence: 17.891186
+  tag: happiness
+}
+, class Tag {
+  confidence: 17.445766
+  tag: soccer ball
+}
+, class Tag {
+  confidence: 17.221539
+  tag: cute
+}
+, class Tag {
+  confidence: 17.111074
+  tag: active
+}
+, class Tag {
+  confidence: 17.074759
+  tag: fun
+}
+, class Tag {
+  confidence: 17.038761
+  tag: field
+}
+, class Tag {
+  confidence: 16.62394
+  tag: park
+}
+, class Tag {
+  confidence: 16.547516
+  tag: runner
+}
+, class Tag {
+  confidence: 16.454466
+  tag: boy
+}
+, class Tag {
+  confidence: 15.711513
+  tag: summer
+}
+, class Tag {
+  confidence: 15.575194
+  tag: sport
+}
+, class Tag {
+  confidence: 15.511424
+  tag: athlete
+}
+, class Tag {
+  confidence: 14.998466
+  tag: football
+}
+, class Tag {
+  confidence: 14.98228
+  tag: exercise
+}
+, class Tag {
+  confidence: 14.630887
+  tag: childhood
+}
+, class Tag {
+  confidence: 14.272949
+  tag: portrait
+}
+, class Tag {
+  confidence: 14.238937
+  tag: rugby ball
+}
+, class Tag {
+  confidence: 14.208933
+  tag: healthy
+}
+, class Tag {
+  confidence: 13.985848
+  tag: pretty
+}
+, class Tag {
+  confidence: 13.7637
+  tag: equipment
+}
+, class Tag {
+  confidence: 13.697766
+  tag: leisure
+}
+, class Tag {
+  confidence: 13.277232
+  tag: play
+}
+, class Tag {
+  confidence: 13.121322
+  tag: family
+}
+, class Tag {
+  confidence: 12.945621
+  tag: smile
+}
+, class Tag {
+  confidence: 12.618188
+  tag: outside
+}
+, class Tag {
+  confidence: 12.51392
+  tag: outdoor
+}
+, class Tag {
+  confidence: 12.513285
+  tag: activity
+}
+, class Tag {
+  confidence: 12.405808
+  tag: one
+}
+, class Tag {
+  confidence: 12.32346
+  tag: kid
+}
+, class Tag {
+  confidence: 12.124555
+  tag: european
+}
+, class Tag {
+  confidence: 11.991386
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.575129
+  tag: player
+}
+, class Tag {
+  confidence: 11.564255
+  tag: together
+}
+, class Tag {
+  confidence: 11.506159
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.481235
+  tag: cheerful
+}
+, class Tag {
+  confidence: 11.0077095
+  tag: two
+}
+, class Tag {
+  confidence: 10.964647
+  tag: love
+}
+, class Tag {
+  confidence: 10.549047
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.544627
+  tag: playing
+}
+, class Tag {
+  confidence: 10.375865
+  tag: kick
+}
+, class Tag {
+  confidence: 10.218556
+  tag: holding
+}
+, class Tag {
+  confidence: 10.166983
+  tag: joy
+}
+, class Tag {
+  confidence: 10.087584
+  tag: couple
+}
+, class Tag {
+  confidence: 9.79699
+  tag: children
+}
+, class Tag {
+  confidence: 9.707624
+  tag: team
+}
+, class Tag {
+  confidence: 9.331001
+  tag: human
+}
+, class Tag {
+  confidence: 9.171282
+  tag: sports
+}
+, class Tag {
+  confidence: 9.041171
+  tag: freedom
+}
+, class Tag {
+  confidence: 9.038552
+  tag: contestant
+}
+, class Tag {
+  confidence: 8.872356
+  tag: fitness
+}
+, class Tag {
+  confidence: 8.777075
+  tag: game
+}
+, class Tag {
+  confidence: 8.742957
+  tag: running
+}
+, class Tag {
+  confidence: 8.440242
+  tag: greek
+}
+, class Tag {
+  confidence: 8.21802
+  tag: face
+}
+, class Tag {
+  confidence: 8.201283
+  tag: girls
+}
+, class Tag {
+  confidence: 8.107449
+  tag: recreation
+}
+, class Tag {
+  confidence: 8.005551
+  tag: meadow
+}
+, class Tag {
+  confidence: 7.793291
+  tag: women
+}
+, class Tag {
+  confidence: 7.747272
+  tag: walk
+}
+, class Tag {
+  confidence: 7.5057235
+  tag: fit
+}
+, class Tag {
+  confidence: 7.4041233
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.132271
+  tag: goal
+}
+, class Tag {
+  confidence: 7.1020737
+  tag: model
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,264 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHBUt89WQAA7Bly.jpg
+  tags: [class Tag {
+  confidence: 57.85415
+  tag: house
+}
+, class Tag {
+  confidence: 43.219383
+  tag: housing
+}
+, class Tag {
+  confidence: 34.7046
+  tag: building
+}
+, class Tag {
+  confidence: 34.61525
+  tag: architecture
+}
+, class Tag {
+  confidence: 32.02967
+  tag: structure
+}
+, class Tag {
+  confidence: 31.555805
+  tag: home
+}
+, class Tag {
+  confidence: 22.76
+  tag: mobile home
+}
+, class Tag {
+  confidence: 22.200207
+  tag: old
+}
+, class Tag {
+  confidence: 21.305653
+  tag: roof
+}
+, class Tag {
+  confidence: 21.212812
+  tag: window
+}
+, class Tag {
+  confidence: 18.921923
+  tag: trailer
+}
+, class Tag {
+  confidence: 18.229992
+  tag: trees
+}
+, class Tag {
+  confidence: 18.098995
+  tag: door
+}
+, class Tag {
+  confidence: 17.392176
+  tag: residential
+}
+, class Tag {
+  confidence: 17.2082
+  tag: estate
+}
+, class Tag {
+  confidence: 17.112247
+  tag: dwelling
+}
+, class Tag {
+  confidence: 16.690119
+  tag: tree
+}
+, class Tag {
+  confidence: 16.341646
+  tag: real
+}
+, class Tag {
+  confidence: 16.22914
+  tag: travel
+}
+, class Tag {
+  confidence: 16.082056
+  tag: landscape
+}
+, class Tag {
+  confidence: 15.827461
+  tag: wood
+}
+, class Tag {
+  confidence: 15.510094
+  tag: garden
+}
+, class Tag {
+  confidence: 14.91888
+  tag: wall
+}
+, class Tag {
+  confidence: 14.816245
+  tag: city
+}
+, class Tag {
+  confidence: 14.6746855
+  tag: grass
+}
+, class Tag {
+  confidence: 14.15617
+  tag: sky
+}
+, class Tag {
+  confidence: 13.6785
+  tag: residence
+}
+, class Tag {
+  confidence: 13.656
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 12.901085
+  tag: rural
+}
+, class Tag {
+  confidence: 12.819276
+  tag: property
+}
+, class Tag {
+  confidence: 11.930152
+  tag: village
+}
+, class Tag {
+  confidence: 11.811851
+  tag: wooden
+}
+, class Tag {
+  confidence: 11.2843895
+  tag: summer
+}
+, class Tag {
+  confidence: 11.178902
+  tag: construction
+}
+, class Tag {
+  confidence: 10.579449
+  tag: tourism
+}
+, class Tag {
+  confidence: 10.255884
+  tag: stone
+}
+, class Tag {
+  confidence: 10.105524
+  tag: vehicle
+}
+, class Tag {
+  confidence: 9.959337
+  tag: town
+}
+, class Tag {
+  confidence: 9.802032
+  tag: street
+}
+, class Tag {
+  confidence: 9.644333
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.640016
+  tag: history
+}
+, class Tag {
+  confidence: 9.520064
+  tag: windows
+}
+, class Tag {
+  confidence: 9.395668
+  tag: country
+}
+, class Tag {
+  confidence: 9.210139
+  tag: ancient
+}
+, class Tag {
+  confidence: 8.550456
+  tag: flowers
+}
+, class Tag {
+  confidence: 8.311321
+  tag: exterior
+}
+, class Tag {
+  confidence: 8.175167
+  tag: cottage
+}
+, class Tag {
+  confidence: 8.156652
+  tag: modern
+}
+, class Tag {
+  confidence: 8.155842
+  tag: traditional
+}
+, class Tag {
+  confidence: 8.08745
+  tag: bungalow
+}
+, class Tag {
+  confidence: 7.895311
+  tag: brick
+}
+, class Tag {
+  confidence: 7.7974687
+  tag: buildings
+}
+, class Tag {
+  confidence: 7.7406917
+  tag: sunny
+}
+, class Tag {
+  confidence: 7.6985316
+  tag: vintage
+}
+, class Tag {
+  confidence: 7.50434
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.3604374
+  tag: style
+}
+, class Tag {
+  confidence: 7.3312035
+  tag: new
+}
+, class Tag {
+  confidence: 7.2913218
+  tag: antique
+}
+, class Tag {
+  confidence: 7.2864137
+  tag: porch
+}
+, class Tag {
+  confidence: 7.162405
+  tag: urban
+}
+, class Tag {
+  confidence: 7.1048717
+  tag: living
+}
+, class Tag {
+  confidence: 7.0895467
+  tag: scene
+}
+, class Tag {
+  confidence: 7.085753
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.047316
+  tag: hovel
+}
+]
+}
+]
+  unsuccessful: null
+}

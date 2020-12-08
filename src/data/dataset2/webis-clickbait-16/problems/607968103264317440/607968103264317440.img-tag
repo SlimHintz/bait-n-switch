@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_tLVZUQAAbTKs.png
+  tags: [class Tag {
+  confidence: 22.511984
+  tag: design
+}
+, class Tag {
+  confidence: 19.748045
+  tag: graphic
+}
+, class Tag {
+  confidence: 17.369144
+  tag: art
+}
+, class Tag {
+  confidence: 17.26104
+  tag: icon
+}
+, class Tag {
+  confidence: 16.086985
+  tag: black
+}
+, class Tag {
+  confidence: 14.648556
+  tag: element
+}
+, class Tag {
+  confidence: 13.747253
+  tag: backdrop
+}
+, class Tag {
+  confidence: 12.899386
+  tag: symbol
+}
+, class Tag {
+  confidence: 12.894233
+  tag: sign
+}
+, class Tag {
+  confidence: 12.427069
+  tag: frame
+}
+, class Tag {
+  confidence: 12.158797
+  tag: blank
+}
+, class Tag {
+  confidence: 11.909056
+  tag: paper
+}
+, class Tag {
+  confidence: 11.040521
+  tag: business
+}
+, class Tag {
+  confidence: 10.81445
+  tag: decorative
+}
+, class Tag {
+  confidence: 10.354896
+  tag: clipart
+}
+, class Tag {
+  confidence: 9.97067
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.92533
+  tag: copy
+}
+, class Tag {
+  confidence: 9.770342
+  tag: empty
+}
+, class Tag {
+  confidence: 9.5606
+  tag: web
+}
+, class Tag {
+  confidence: 9.544602
+  tag: bulletin
+}
+, class Tag {
+  confidence: 9.464934
+  tag: space
+}
+, class Tag {
+  confidence: 9.363307
+  tag: pattern
+}
+, class Tag {
+  confidence: 9.295376
+  tag: collection
+}
+, class Tag {
+  confidence: 8.844201
+  tag: drawing
+}
+, class Tag {
+  confidence: 8.720683
+  tag: internet
+}
+, class Tag {
+  confidence: 8.175105
+  tag: 3d
+}
+, class Tag {
+  confidence: 8.076596
+  tag: curve
+}
+, class Tag {
+  confidence: 7.999765
+  tag: set
+}
+, class Tag {
+  confidence: 7.891988
+  tag: modern
+}
+, class Tag {
+  confidence: 7.8448687
+  tag: vintage
+}
+, class Tag {
+  confidence: 7.7619543
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.758871
+  tag: lecture
+}
+, class Tag {
+  confidence: 7.7085114
+  tag: texture
+}
+, class Tag {
+  confidence: 7.700138
+  tag: copyspace
+}
+, class Tag {
+  confidence: 7.6052012
+  tag: digital
+}
+, class Tag {
+  confidence: 7.579296
+  tag: idea
+}
+, class Tag {
+  confidence: 7.5260153
+  tag: color
+}
+, class Tag {
+  confidence: 7.4568434
+  tag: text
+}
+, class Tag {
+  confidence: 7.3768816
+  tag: elegant
+}
+, class Tag {
+  confidence: 7.283246
+  tag: bright
+}
+, class Tag {
+  confidence: 7.1709847
+  tag: card
+}
+]
+}
+]
+  unsuccessful: null
+}

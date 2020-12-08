@@ -1,0 +1,104 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHDUM_9XAAAVPpq.jpg
+  tags: [class Tag {
+  confidence: 13.251038
+  tag: object
+}
+, class Tag {
+  confidence: 13.035915
+  tag: flower
+}
+, class Tag {
+  confidence: 11.841334
+  tag: plant
+}
+, class Tag {
+  confidence: 11.661313
+  tag: leaf
+}
+, class Tag {
+  confidence: 11.648357
+  tag: design
+}
+, class Tag {
+  confidence: 10.679919
+  tag: color
+}
+, class Tag {
+  confidence: 10.30841
+  tag: decoration
+}
+, class Tag {
+  confidence: 10.135768
+  tag: summer
+}
+, class Tag {
+  confidence: 10.119376
+  tag: close
+}
+, class Tag {
+  confidence: 9.842787
+  tag: day
+}
+, class Tag {
+  confidence: 9.758451
+  tag: spring
+}
+, class Tag {
+  confidence: 9.558963
+  tag: natural
+}
+, class Tag {
+  confidence: 9.161997
+  tag: space
+}
+, class Tag {
+  confidence: 9.123753
+  tag: grass
+}
+, class Tag {
+  confidence: 8.5852165
+  tag: flowers
+}
+, class Tag {
+  confidence: 8.573725
+  tag: black
+}
+, class Tag {
+  confidence: 8.405863
+  tag: floral
+}
+, class Tag {
+  confidence: 8.351824
+  tag: season
+}
+, class Tag {
+  confidence: 7.5885277
+  tag: fresh
+}
+, class Tag {
+  confidence: 7.451623
+  tag: garden
+}
+, class Tag {
+  confidence: 7.445021
+  tag: texture
+}
+, class Tag {
+  confidence: 7.344233
+  tag: park
+}
+, class Tag {
+  confidence: 7.234839
+  tag: flora
+}
+, class Tag {
+  confidence: 7.055092
+  tag: holiday
+}
+]
+}
+]
+  unsuccessful: null
+}

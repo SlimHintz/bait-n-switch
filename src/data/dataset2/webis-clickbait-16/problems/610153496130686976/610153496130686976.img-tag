@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHenmJ9WgAAOcMI.png
+  tags: [class Tag {
+  confidence: 37.88969
+  tag: icon
+}
+, class Tag {
+  confidence: 29.909641
+  tag: symbol
+}
+, class Tag {
+  confidence: 28.075428
+  tag: sign
+}
+, class Tag {
+  confidence: 22.64852
+  tag: design
+}
+, class Tag {
+  confidence: 21.266916
+  tag: button
+}
+, class Tag {
+  confidence: 19.728079
+  tag: set
+}
+, class Tag {
+  confidence: 18.043873
+  tag: icons
+}
+, class Tag {
+  confidence: 17.336754
+  tag: circle
+}
+, class Tag {
+  confidence: 16.119339
+  tag: graphic
+}
+, class Tag {
+  confidence: 14.795784
+  tag: web
+}
+, class Tag {
+  confidence: 13.768276
+  tag: business
+}
+, class Tag {
+  confidence: 12.694788
+  tag: element
+}
+, class Tag {
+  confidence: 11.709028
+  tag: art
+}
+, class Tag {
+  confidence: 11.618994
+  tag: computer
+}
+, class Tag {
+  confidence: 11.504307
+  tag: orange
+}
+, class Tag {
+  confidence: 11.4651165
+  tag: internet
+}
+, class Tag {
+  confidence: 11.410673
+  tag: black
+}
+, class Tag {
+  confidence: 10.90256
+  tag: arrow
+}
+, class Tag {
+  confidence: 10.693443
+  tag: 3d
+}
+, class Tag {
+  confidence: 9.870189
+  tag: object
+}
+, class Tag {
+  confidence: 9.579564
+  tag: cartoon
+}
+, class Tag {
+  confidence: 9.221578
+  tag: shape
+}
+, class Tag {
+  confidence: 9.008171
+  tag: glossy
+}
+, class Tag {
+  confidence: 8.807729
+  tag: silhouette
+}
+, class Tag {
+  confidence: 8.321091
+  tag: finance
+}
+, class Tag {
+  confidence: 8.26901
+  tag: logo
+}
+, class Tag {
+  confidence: 8.203067
+  tag: play
+}
+, class Tag {
+  confidence: 7.624535
+  tag: shiny
+}
+, class Tag {
+  confidence: 7.602165
+  tag: love
+}
+, class Tag {
+  confidence: 7.5115476
+  tag: money
+}
+, class Tag {
+  confidence: 7.4300404
+  tag: round
+}
+, class Tag {
+  confidence: 7.3975596
+  tag: yellow
+}
+, class Tag {
+  confidence: 7.324456
+  tag: website
+}
+, class Tag {
+  confidence: 7.2812853
+  tag: communication
+}
+, class Tag {
+  confidence: 7.259419
+  tag: buttons
+}
+, class Tag {
+  confidence: 7.2389193
+  tag: color
+}
+, class Tag {
+  confidence: 7.1752787
+  tag: clip art
+}
+, class Tag {
+  confidence: 7.158598
+  tag: sport
+}
+, class Tag {
+  confidence: 7.1319256
+  tag: elements
+}
+, class Tag {
+  confidence: 7.0796604
+  tag: group
+}
+, class Tag {
+  confidence: 7.0646234
+  tag: pattern
+}
+]
+}
+]
+  unsuccessful: null
+}

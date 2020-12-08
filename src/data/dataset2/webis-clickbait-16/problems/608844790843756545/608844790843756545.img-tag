@@ -1,0 +1,96 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHMNHHDVIAANP-9.jpg
+  tags: [class Tag {
+  confidence: 19.112022
+  tag: motor vehicle
+}
+, class Tag {
+  confidence: 13.398999
+  tag: snowplow
+}
+, class Tag {
+  confidence: 13.310548
+  tag: business
+}
+, class Tag {
+  confidence: 12.675333
+  tag: truck
+}
+, class Tag {
+  confidence: 11.942163
+  tag: sky
+}
+, class Tag {
+  confidence: 10.490831
+  tag: design
+}
+, class Tag {
+  confidence: 10.045804
+  tag: black
+}
+, class Tag {
+  confidence: 9.709421
+  tag: travel
+}
+, class Tag {
+  confidence: 9.703932
+  tag: day
+}
+, class Tag {
+  confidence: 9.446635
+  tag: summer
+}
+, class Tag {
+  confidence: 9.168954
+  tag: sun
+}
+, class Tag {
+  confidence: 9.104182
+  tag: color
+}
+, class Tag {
+  confidence: 8.528394
+  tag: boat
+}
+, class Tag {
+  confidence: 8.472402
+  tag: home
+}
+, class Tag {
+  confidence: 8.34667
+  tag: space
+}
+, class Tag {
+  confidence: 8.164
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 7.6065135
+  tag: building
+}
+, class Tag {
+  confidence: 7.446315
+  tag: water
+}
+, class Tag {
+  confidence: 7.285776
+  tag: house
+}
+, class Tag {
+  confidence: 7.1272097
+  tag: landscape
+}
+, class Tag {
+  confidence: 7.0357976
+  tag: fire engine
+}
+, class Tag {
+  confidence: 7.02
+  tag: fireboat
+}
+]
+}
+]
+  unsuccessful: null
+}

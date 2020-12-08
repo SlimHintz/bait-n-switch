@@ -1,0 +1,108 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPiDlHW0AE8MVN.jpg
+  tags: [class Tag {
+  confidence: 14.053593
+  tag: architecture
+}
+, class Tag {
+  confidence: 13.865797
+  tag: home
+}
+, class Tag {
+  confidence: 12.168066
+  tag: building
+}
+, class Tag {
+  confidence: 12.058746
+  tag: business
+}
+, class Tag {
+  confidence: 12.054903
+  tag: house
+}
+, class Tag {
+  confidence: 11.360567
+  tag: design
+}
+, class Tag {
+  confidence: 10.0989485
+  tag: sky
+}
+, class Tag {
+  confidence: 10.061892
+  tag: window
+}
+, class Tag {
+  confidence: 9.759654
+  tag: light
+}
+, class Tag {
+  confidence: 9.40868
+  tag: color
+}
+, class Tag {
+  confidence: 9.091767
+  tag: modern
+}
+, class Tag {
+  confidence: 9.048336
+  tag: city
+}
+, class Tag {
+  confidence: 8.790232
+  tag: travel
+}
+, class Tag {
+  confidence: 8.7714405
+  tag: 3d
+}
+, class Tag {
+  confidence: 8.741358
+  tag: black
+}
+, class Tag {
+  confidence: 8.741219
+  tag: sun
+}
+, class Tag {
+  confidence: 8.694098
+  tag: step
+}
+, class Tag {
+  confidence: 8.689229
+  tag: scene
+}
+, class Tag {
+  confidence: 8.596038
+  tag: day
+}
+, class Tag {
+  confidence: 8.167029
+  tag: interior
+}
+, class Tag {
+  confidence: 8.048
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.035099
+  tag: summer
+}
+, class Tag {
+  confidence: 7.6702366
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.2522364
+  tag: detail
+}
+, class Tag {
+  confidence: 7.188464
+  tag: space
+}
+]
+}
+]
+  unsuccessful: null
+}

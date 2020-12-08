@@ -1,0 +1,264 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHXlHKwUEAAKyBj.jpg
+  tags: [class Tag {
+  confidence: 83.80533
+  tag: golf
+}
+, class Tag {
+  confidence: 41.722668
+  tag: ball
+}
+, class Tag {
+  confidence: 35.548634
+  tag: grass
+}
+, class Tag {
+  confidence: 33.86387
+  tag: sport
+}
+, class Tag {
+  confidence: 31.930435
+  tag: golf club
+}
+, class Tag {
+  confidence: 30.130678
+  tag: golfer
+}
+, class Tag {
+  confidence: 29.213123
+  tag: course
+}
+, class Tag {
+  confidence: 25.088898
+  tag: outdoors
+}
+, class Tag {
+  confidence: 24.130566
+  tag: player
+}
+, class Tag {
+  confidence: 22.248869
+  tag: play
+}
+, class Tag {
+  confidence: 21.236313
+  tag: rough
+}
+, class Tag {
+  confidence: 20.41655
+  tag: club
+}
+, class Tag {
+  confidence: 19.293896
+  tag: recreation
+}
+, class Tag {
+  confidence: 19.283508
+  tag: fairway
+}
+, class Tag {
+  confidence: 18.650093
+  tag: male
+}
+, class Tag {
+  confidence: 18.53376
+  tag: man
+}
+, class Tag {
+  confidence: 17.765102
+  tag: swing
+}
+, class Tag {
+  confidence: 17.25298
+  tag: game
+}
+, class Tag {
+  confidence: 15.980383
+  tag: leisure
+}
+, class Tag {
+  confidence: 15.484447
+  tag: putt
+}
+, class Tag {
+  confidence: 15.205568
+  tag: person
+}
+, class Tag {
+  confidence: 15.027666
+  tag: golfing
+}
+, class Tag {
+  confidence: 14.564216
+  tag: tee
+}
+, class Tag {
+  confidence: 14.42
+  tag: croquet ball
+}
+, class Tag {
+  confidence: 14.134446
+  tag: summer
+}
+, class Tag {
+  confidence: 13.943251
+  tag: field
+}
+, class Tag {
+  confidence: 13.846425
+  tag: drive
+}
+, class Tag {
+  confidence: 13.197281
+  tag: hole
+}
+, class Tag {
+  confidence: 13.18053
+  tag: outside
+}
+, class Tag {
+  confidence: 11.543663
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.536
+  tag: croquet equipment
+}
+, class Tag {
+  confidence: 11.291963
+  tag: hit
+}
+, class Tag {
+  confidence: 11.14868
+  tag: outdoor
+}
+, class Tag {
+  confidence: 11.146332
+  tag: people
+}
+, class Tag {
+  confidence: 10.812582
+  tag: competition
+}
+, class Tag {
+  confidence: 10.550828
+  tag: park
+}
+, class Tag {
+  confidence: 10.52419
+  tag: playing
+}
+, class Tag {
+  confidence: 10.256412
+  tag: adult
+}
+, class Tag {
+  confidence: 10.150312
+  tag: activity
+}
+, class Tag {
+  confidence: 10.100516
+  tag: day
+}
+, class Tag {
+  confidence: 9.976379
+  tag: par
+}
+, class Tag {
+  confidence: 9.94257
+  tag: action
+}
+, class Tag {
+  confidence: 9.519464
+  tag: hobby
+}
+, class Tag {
+  confidence: 9.097181
+  tag: active
+}
+, class Tag {
+  confidence: 9.065751
+  tag: sports
+}
+, class Tag {
+  confidence: 8.988044
+  tag: equipment
+}
+, class Tag {
+  confidence: 8.980982
+  tag: fun
+}
+, class Tag {
+  confidence: 8.709929
+  tag: sky
+}
+, class Tag {
+  confidence: 8.652
+  tag: game equipment
+}
+, class Tag {
+  confidence: 8.641677
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 8.453046
+  tag: lawn
+}
+, class Tag {
+  confidence: 8.22218
+  tag: practice
+}
+, class Tag {
+  confidence: 7.835111
+  tag: relaxation
+}
+, class Tag {
+  confidence: 7.7359486
+  tag: clubs
+}
+, class Tag {
+  confidence: 7.698115
+  tag: chip
+}
+, class Tag {
+  confidence: 7.6297975
+  tag: exercise
+}
+, class Tag {
+  confidence: 7.60292
+  tag: one
+}
+, class Tag {
+  confidence: 7.578266
+  tag: tournament
+}
+, class Tag {
+  confidence: 7.438662
+  tag: driver
+}
+, class Tag {
+  confidence: 7.326196
+  tag: happy
+}
+, class Tag {
+  confidence: 7.2582574
+  tag: trees
+}
+, class Tag {
+  confidence: 7.1948853
+  tag: iron
+}
+, class Tag {
+  confidence: 7.1670456
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.0247445
+  tag: sunny
+}
+]
+}
+]
+  unsuccessful: null
+}

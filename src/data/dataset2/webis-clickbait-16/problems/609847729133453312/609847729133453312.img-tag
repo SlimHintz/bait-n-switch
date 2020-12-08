@@ -1,0 +1,284 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHaYKJ7VAAAaJJP.jpg
+  tags: [class Tag {
+  confidence: 25.189907
+  tag: smiling
+}
+, class Tag {
+  confidence: 25.020298
+  tag: happy
+}
+, class Tag {
+  confidence: 23.521542
+  tag: caucasian
+}
+, class Tag {
+  confidence: 22.524279
+  tag: people
+}
+, class Tag {
+  confidence: 21.737837
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 21.539534
+  tag: happiness
+}
+, class Tag {
+  confidence: 21.5316
+  tag: joy
+}
+, class Tag {
+  confidence: 21.309875
+  tag: smile
+}
+, class Tag {
+  confidence: 19.78999
+  tag: fun
+}
+, class Tag {
+  confidence: 18.410046
+  tag: child
+}
+, class Tag {
+  confidence: 18.35423
+  tag: person
+}
+, class Tag {
+  confidence: 17.357862
+  tag: cute
+}
+, class Tag {
+  confidence: 17.099756
+  tag: pretty
+}
+, class Tag {
+  confidence: 16.675337
+  tag: cheerful
+}
+, class Tag {
+  confidence: 16.40029
+  tag: kid
+}
+, class Tag {
+  confidence: 16.111256
+  tag: boy
+}
+, class Tag {
+  confidence: 15.284166
+  tag: attractive
+}
+, class Tag {
+  confidence: 14.186528
+  tag: adult
+}
+, class Tag {
+  confidence: 12.699919
+  tag: sitting
+}
+, class Tag {
+  confidence: 12.315228
+  tag: childhood
+}
+, class Tag {
+  confidence: 12.259985
+  tag: holding
+}
+, class Tag {
+  confidence: 11.868607
+  tag: color
+}
+, class Tag {
+  confidence: 11.754081
+  tag: children
+}
+, class Tag {
+  confidence: 11.744874
+  tag: playing
+}
+, class Tag {
+  confidence: 11.44818
+  tag: little
+}
+, class Tag {
+  confidence: 11.076538
+  tag: casual
+}
+, class Tag {
+  confidence: 11.037706
+  tag: joyful
+}
+, class Tag {
+  confidence: 10.970439
+  tag: hat
+}
+, class Tag {
+  confidence: 10.865077
+  tag: man
+}
+, class Tag {
+  confidence: 10.815258
+  tag: cartoon
+}
+, class Tag {
+  confidence: 10.734127
+  tag: activity
+}
+, class Tag {
+  confidence: 10.45043
+  tag: playful
+}
+, class Tag {
+  confidence: 10.368143
+  tag: kids
+}
+, class Tag {
+  confidence: 10.310718
+  tag: crayon
+}
+, class Tag {
+  confidence: 10.274565
+  tag: youth
+}
+, class Tag {
+  confidence: 10.108123
+  tag: male
+}
+, class Tag {
+  confidence: 9.715761
+  tag: education
+}
+, class Tag {
+  confidence: 9.65859
+  tag: toddler
+}
+, class Tag {
+  confidence: 9.425391
+  tag: play
+}
+, class Tag {
+  confidence: 9.279537
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.148505
+  tag: school
+}
+, class Tag {
+  confidence: 9.120119
+  tag: holiday
+}
+, class Tag {
+  confidence: 9.107545
+  tag: hand
+}
+, class Tag {
+  confidence: 8.95587
+  tag: looking
+}
+, class Tag {
+  confidence: 8.9314785
+  tag: brunette
+}
+, class Tag {
+  confidence: 8.672338
+  tag: learning
+}
+, class Tag {
+  confidence: 8.4789295
+  tag: leisure
+}
+, class Tag {
+  confidence: 8.466028
+  tag: human
+}
+, class Tag {
+  confidence: 8.374692
+  tag: sport
+}
+, class Tag {
+  confidence: 8.31849
+  tag: blond
+}
+, class Tag {
+  confidence: 8.30338
+  tag: writing implement
+}
+, class Tag {
+  confidence: 8.088729
+  tag: women
+}
+, class Tag {
+  confidence: 8.077488
+  tag: model
+}
+, class Tag {
+  confidence: 8.013302
+  tag: ball
+}
+, class Tag {
+  confidence: 7.885623
+  tag: expression
+}
+, class Tag {
+  confidence: 7.7660036
+  tag: christmas
+}
+, class Tag {
+  confidence: 7.731563
+  tag: gymnastics
+}
+, class Tag {
+  confidence: 7.656924
+  tag: art
+}
+, class Tag {
+  confidence: 7.628814
+  tag: lady
+}
+, class Tag {
+  confidence: 7.600995
+  tag: toy
+}
+, class Tag {
+  confidence: 7.584117
+  tag: student
+}
+, class Tag {
+  confidence: 7.5562553
+  tag: sexy
+}
+, class Tag {
+  confidence: 7.329313
+  tag: hair
+}
+, class Tag {
+  confidence: 7.110799
+  tag: gift
+}
+, class Tag {
+  confidence: 7.0953217
+  tag: drawing
+}
+, class Tag {
+  confidence: 7.084108
+  tag: studio
+}
+, class Tag {
+  confidence: 7.083911
+  tag: gifts
+}
+, class Tag {
+  confidence: 7.074983
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.0396295
+  tag: costume
+}
+]
+}
+]
+  unsuccessful: null
+}

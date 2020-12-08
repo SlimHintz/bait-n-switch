@@ -1,0 +1,36 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHe1MaaWcAEaICD.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: great white shark
+}
+, class Tag {
+  confidence: 100.0
+  tag: shark
+}
+, class Tag {
+  confidence: 32.56
+  tag: tiger shark
+}
+, class Tag {
+  confidence: 12.402256
+  tag: water
+}
+, class Tag {
+  confidence: 9.798486
+  tag: ocean
+}
+, class Tag {
+  confidence: 9.560139
+  tag: sea
+}
+, class Tag {
+  confidence: 7.14
+  tag: dugong
+}
+]
+}
+]
+  unsuccessful: null
+}

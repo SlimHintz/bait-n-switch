@@ -1,0 +1,136 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHVdKIUUAAADyz0.jpg
+  tags: [class Tag {
+  confidence: 60.366764
+  tag: garage
+}
+, class Tag {
+  confidence: 20.25028
+  tag: vehicle
+}
+, class Tag {
+  confidence: 17.956547
+  tag: car
+}
+, class Tag {
+  confidence: 16.116
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 15.320635
+  tag: transportation
+}
+, class Tag {
+  confidence: 14.357953
+  tag: architecture
+}
+, class Tag {
+  confidence: 14.271946
+  tag: house
+}
+, class Tag {
+  confidence: 14.1310005
+  tag: building
+}
+, class Tag {
+  confidence: 14.129231
+  tag: motor vehicle
+}
+, class Tag {
+  confidence: 13.746331
+  tag: home
+}
+, class Tag {
+  confidence: 11.980162
+  tag: window
+}
+, class Tag {
+  confidence: 11.921872
+  tag: structure
+}
+, class Tag {
+  confidence: 11.861756
+  tag: city
+}
+, class Tag {
+  confidence: 11.558274
+  tag: recreational vehicle
+}
+, class Tag {
+  confidence: 11.249061
+  tag: travel
+}
+, class Tag {
+  confidence: 10.63095
+  tag: wall
+}
+, class Tag {
+  confidence: 10.024421
+  tag: transport
+}
+, class Tag {
+  confidence: 9.959256
+  tag: golfcart
+}
+, class Tag {
+  confidence: 9.183211
+  tag: door
+}
+, class Tag {
+  confidence: 8.664593
+  tag: old
+}
+, class Tag {
+  confidence: 8.662351
+  tag: roof
+}
+, class Tag {
+  confidence: 8.017606
+  tag: minibus
+}
+, class Tag {
+  confidence: 7.9674053
+  tag: golf equipment
+}
+, class Tag {
+  confidence: 7.817059
+  tag: modern
+}
+, class Tag {
+  confidence: 7.777006
+  tag: urban
+}
+, class Tag {
+  confidence: 7.740788
+  tag: equipment
+}
+, class Tag {
+  confidence: 7.650817
+  tag: street
+}
+, class Tag {
+  confidence: 7.3645606
+  tag: design
+}
+, class Tag {
+  confidence: 7.3420577
+  tag: business
+}
+, class Tag {
+  confidence: 7.1238794
+  tag: scene
+}
+, class Tag {
+  confidence: 7.0726633
+  tag: construction
+}
+, class Tag {
+  confidence: 7.0458508
+  tag: bus
+}
+]
+}
+]
+  unsuccessful: null
+}

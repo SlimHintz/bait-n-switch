@@ -1,0 +1,196 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNHOGqWMAEZhiP.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: skyscraper
+}
+, class Tag {
+  confidence: 37.67592
+  tag: city
+}
+, class Tag {
+  confidence: 36.20159
+  tag: architecture
+}
+, class Tag {
+  confidence: 35.979282
+  tag: building
+}
+, class Tag {
+  confidence: 31.391417
+  tag: office
+}
+, class Tag {
+  confidence: 28.65071
+  tag: urban
+}
+, class Tag {
+  confidence: 27.844261
+  tag: glass
+}
+, class Tag {
+  confidence: 26.343063
+  tag: tall
+}
+, class Tag {
+  confidence: 24.685612
+  tag: sky
+}
+, class Tag {
+  confidence: 24.203259
+  tag: downtown
+}
+, class Tag {
+  confidence: 23.618809
+  tag: modern
+}
+, class Tag {
+  confidence: 22.223396
+  tag: tower
+}
+, class Tag {
+  confidence: 21.086966
+  tag: business
+}
+, class Tag {
+  confidence: 20.46435
+  tag: high
+}
+, class Tag {
+  confidence: 18.969913
+  tag: construction
+}
+, class Tag {
+  confidence: 18.622005
+  tag: window
+}
+, class Tag {
+  confidence: 18.168514
+  tag: corporate
+}
+, class Tag {
+  confidence: 16.49924
+  tag: buildings
+}
+, class Tag {
+  confidence: 16.38166
+  tag: new
+}
+, class Tag {
+  confidence: 16.375391
+  tag: reflection
+}
+, class Tag {
+  confidence: 16.165943
+  tag: cityscape
+}
+, class Tag {
+  confidence: 15.94756
+  tag: steel
+}
+, class Tag {
+  confidence: 15.793025
+  tag: structure
+}
+, class Tag {
+  confidence: 15.603712
+  tag: financial
+}
+, class Tag {
+  confidence: 14.613376
+  tag: windows
+}
+, class Tag {
+  confidence: 14.290122
+  tag: district
+}
+, class Tag {
+  confidence: 14.216398
+  tag: exterior
+}
+, class Tag {
+  confidence: 13.731745
+  tag: finance
+}
+, class Tag {
+  confidence: 13.362968
+  tag: facade
+}
+, class Tag {
+  confidence: 13.340796
+  tag: skyline
+}
+, class Tag {
+  confidence: 11.832824
+  tag: apartment
+}
+, class Tag {
+  confidence: 11.067388
+  tag: skyscrapers
+}
+, class Tag {
+  confidence: 10.462858
+  tag: futuristic
+}
+, class Tag {
+  confidence: 10.16558
+  tag: center
+}
+, class Tag {
+  confidence: 9.915558
+  tag: business district
+}
+, class Tag {
+  confidence: 9.238236
+  tag: town
+}
+, class Tag {
+  confidence: 8.983009
+  tag: scene
+}
+, class Tag {
+  confidence: 8.924976
+  tag: perspective
+}
+, class Tag {
+  confidence: 8.881286
+  tag: mirror
+}
+, class Tag {
+  confidence: 8.81053
+  tag: street
+}
+, class Tag {
+  confidence: 8.25423
+  tag: work
+}
+, class Tag {
+  confidence: 8.017662
+  tag: offices
+}
+, class Tag {
+  confidence: 7.7820573
+  tag: wall
+}
+, class Tag {
+  confidence: 7.69632
+  tag: commercial
+}
+, class Tag {
+  confidence: 7.552029
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.1676483
+  tag: built
+}
+, class Tag {
+  confidence: 7.042982
+  tag: office building
+}
+]
+}
+]
+  unsuccessful: null
+}

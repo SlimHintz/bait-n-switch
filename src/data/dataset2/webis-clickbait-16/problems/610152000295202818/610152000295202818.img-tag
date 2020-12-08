@@ -1,0 +1,188 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeyAsjVAAAykfd.jpg
+  tags: [class Tag {
+  confidence: 21.992424
+  tag: business
+}
+, class Tag {
+  confidence: 16.735003
+  tag: computer
+}
+, class Tag {
+  confidence: 14.183362
+  tag: technology
+}
+, class Tag {
+  confidence: 13.685883
+  tag: paper
+}
+, class Tag {
+  confidence: 13.293341
+  tag: laptop
+}
+, class Tag {
+  confidence: 12.5728855
+  tag: money
+}
+, class Tag {
+  confidence: 11.757811
+  tag: finance
+}
+, class Tag {
+  confidence: 11.65391
+  tag: mousetrap
+}
+, class Tag {
+  confidence: 10.710376
+  tag: currency
+}
+, class Tag {
+  confidence: 10.218049
+  tag: black
+}
+, class Tag {
+  confidence: 10.148758
+  tag: device
+}
+, class Tag {
+  confidence: 10.144443
+  tag: design
+}
+, class Tag {
+  confidence: 10.087937
+  tag: man
+}
+, class Tag {
+  confidence: 9.981146
+  tag: work
+}
+, class Tag {
+  confidence: 9.889878
+  tag: communication
+}
+, class Tag {
+  confidence: 9.673686
+  tag: hand
+}
+, class Tag {
+  confidence: 9.552727
+  tag: binder
+}
+, class Tag {
+  confidence: 9.52965
+  tag: office
+}
+, class Tag {
+  confidence: 9.280882
+  tag: trap
+}
+, class Tag {
+  confidence: 9.265724
+  tag: sale
+}
+, class Tag {
+  confidence: 9.231818
+  tag: internet
+}
+, class Tag {
+  confidence: 9.158095
+  tag: shopping
+}
+, class Tag {
+  confidence: 9.065771
+  tag: bank
+}
+, class Tag {
+  confidence: 9.022161
+  tag: financial
+}
+, class Tag {
+  confidence: 8.462632
+  tag: notebook
+}
+, class Tag {
+  confidence: 8.379343
+  tag: product
+}
+, class Tag {
+  confidence: 8.376965
+  tag: cash
+}
+, class Tag {
+  confidence: 8.214374
+  tag: success
+}
+, class Tag {
+  confidence: 7.9632187
+  tag: education
+}
+, class Tag {
+  confidence: 7.9578424
+  tag: banknote
+}
+, class Tag {
+  confidence: 7.956966
+  tag: male
+}
+, class Tag {
+  confidence: 7.8771625
+  tag: empty
+}
+, class Tag {
+  confidence: 7.855285
+  tag: pay
+}
+, class Tag {
+  confidence: 7.8522496
+  tag: blank
+}
+, class Tag {
+  confidence: 7.8271933
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.798684
+  tag: hands
+}
+, class Tag {
+  confidence: 7.7261467
+  tag: card
+}
+, class Tag {
+  confidence: 7.6931596
+  tag: buy
+}
+, class Tag {
+  confidence: 7.642
+  tag: economy
+}
+, class Tag {
+  confidence: 7.515278
+  tag: book
+}
+, class Tag {
+  confidence: 7.4629297
+  tag: data
+}
+, class Tag {
+  confidence: 7.284387
+  tag: object
+}
+, class Tag {
+  confidence: 7.266244
+  tag: conceptual
+}
+, class Tag {
+  confidence: 7.165077
+  tag: home
+}
+, class Tag {
+  confidence: 7.089439
+  tag: close
+}
+]
+}
+]
+  unsuccessful: null
+}

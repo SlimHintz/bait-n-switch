@@ -1,0 +1,228 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHMqAzvW4AApAZr.jpg
+  tags: [class Tag {
+  confidence: 38.37401
+  tag: man
+}
+, class Tag {
+  confidence: 34.250267
+  tag: male
+}
+, class Tag {
+  confidence: 23.26429
+  tag: caucasian
+}
+, class Tag {
+  confidence: 22.911982
+  tag: people
+}
+, class Tag {
+  confidence: 22.765615
+  tag: person
+}
+, class Tag {
+  confidence: 22.570488
+  tag: adult
+}
+, class Tag {
+  confidence: 18.267632
+  tag: portrait
+}
+, class Tag {
+  confidence: 17.5633
+  tag: happy
+}
+, class Tag {
+  confidence: 17.312553
+  tag: smiling
+}
+, class Tag {
+  confidence: 13.697781
+  tag: professional
+}
+, class Tag {
+  confidence: 12.872573
+  tag: smile
+}
+, class Tag {
+  confidence: 12.75459
+  tag: handsome
+}
+, class Tag {
+  confidence: 12.416771
+  tag: standing
+}
+, class Tag {
+  confidence: 12.212292
+  tag: business
+}
+, class Tag {
+  confidence: 12.141641
+  tag: looking
+}
+, class Tag {
+  confidence: 12.072259
+  tag: hat
+}
+, class Tag {
+  confidence: 12.023816
+  tag: expression
+}
+, class Tag {
+  confidence: 11.600633
+  tag: uniform
+}
+, class Tag {
+  confidence: 11.264116
+  tag: occupation
+}
+, class Tag {
+  confidence: 11.10348
+  tag: black
+}
+, class Tag {
+  confidence: 10.905827
+  tag: holding
+}
+, class Tag {
+  confidence: 10.474076
+  tag: sitting
+}
+, class Tag {
+  confidence: 10.137729
+  tag: face
+}
+, class Tag {
+  confidence: 10.132378
+  tag: businessman
+}
+, class Tag {
+  confidence: 9.817882
+  tag: boy
+}
+, class Tag {
+  confidence: 9.731334
+  tag: men
+}
+, class Tag {
+  confidence: 9.666424
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.609852
+  tag: guy
+}
+, class Tag {
+  confidence: 9.560338
+  tag: work
+}
+, class Tag {
+  confidence: 9.453034
+  tag: head
+}
+, class Tag {
+  confidence: 9.344931
+  tag: studio
+}
+, class Tag {
+  confidence: 9.337656
+  tag: suit
+}
+, class Tag {
+  confidence: 9.243141
+  tag: cheerful
+}
+, class Tag {
+  confidence: 9.217939
+  tag: job
+}
+, class Tag {
+  confidence: 9.003669
+  tag: fun
+}
+, class Tag {
+  confidence: 8.915778
+  tag: tie
+}
+, class Tag {
+  confidence: 8.772052
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.734846
+  tag: mature
+}
+, class Tag {
+  confidence: 8.563372
+  tag: hand
+}
+, class Tag {
+  confidence: 8.544933
+  tag: alone
+}
+, class Tag {
+  confidence: 8.467624
+  tag: success
+}
+, class Tag {
+  confidence: 8.01106
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.8022714
+  tag: glasses
+}
+, class Tag {
+  confidence: 7.7830586
+  tag: child
+}
+, class Tag {
+  confidence: 7.7751465
+  tag: one
+}
+, class Tag {
+  confidence: 7.6873713
+  tag: teenager
+}
+, class Tag {
+  confidence: 7.585103
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.574397
+  tag: worker
+}
+, class Tag {
+  confidence: 7.5489144
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.5345845
+  tag: posing
+}
+, class Tag {
+  confidence: 7.419839
+  tag: indoors
+}
+, class Tag {
+  confidence: 7.2362657
+  tag: casual
+}
+, class Tag {
+  confidence: 7.214137
+  tag: helmet
+}
+, class Tag {
+  confidence: 7.2057667
+  tag: youth
+}
+, class Tag {
+  confidence: 7.0315986
+  tag: one person
+}
+]
+}
+]
+  unsuccessful: null
+}

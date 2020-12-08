@@ -1,0 +1,200 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHVHXaFVEAAETzW.png
+  tags: [class Tag {
+  confidence: 22.49649
+  tag: package
+}
+, class Tag {
+  confidence: 17.428648
+  tag: money
+}
+, class Tag {
+  confidence: 16.62608
+  tag: currency
+}
+, class Tag {
+  confidence: 16.03289
+  tag: cash
+}
+, class Tag {
+  confidence: 15.803091
+  tag: finance
+}
+, class Tag {
+  confidence: 15.338224
+  tag: business
+}
+, class Tag {
+  confidence: 15.265074
+  tag: paper
+}
+, class Tag {
+  confidence: 14.309192
+  tag: packet
+}
+, class Tag {
+  confidence: 13.264399
+  tag: bank
+}
+, class Tag {
+  confidence: 13.233195
+  tag: color
+}
+, class Tag {
+  confidence: 13.223223
+  tag: financial
+}
+, class Tag {
+  confidence: 12.74129
+  tag: investment
+}
+, class Tag {
+  confidence: 12.632281
+  tag: graphic
+}
+, class Tag {
+  confidence: 12.434515
+  tag: card
+}
+, class Tag {
+  confidence: 12.064147
+  tag: savings
+}
+, class Tag {
+  confidence: 11.699275
+  tag: decoration
+}
+, class Tag {
+  confidence: 11.585701
+  tag: wealth
+}
+, class Tag {
+  confidence: 11.341202
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.222879
+  tag: close
+}
+, class Tag {
+  confidence: 10.161923
+  tag: 3d
+}
+, class Tag {
+  confidence: 9.745611
+  tag: hand
+}
+, class Tag {
+  confidence: 9.71375
+  tag: design
+}
+, class Tag {
+  confidence: 9.63722
+  tag: education
+}
+, class Tag {
+  confidence: 9.333293
+  tag: banking
+}
+, class Tag {
+  confidence: 9.018575
+  tag: box
+}
+, class Tag {
+  confidence: 8.904325
+  tag: container
+}
+, class Tag {
+  confidence: 8.799933
+  tag: icon
+}
+, class Tag {
+  confidence: 8.7305565
+  tag: euro
+}
+, class Tag {
+  confidence: 8.630517
+  tag: gift
+}
+, class Tag {
+  confidence: 8.508036
+  tag: dollar
+}
+, class Tag {
+  confidence: 8.500206
+  tag: christmas
+}
+, class Tag {
+  confidence: 8.441484
+  tag: note
+}
+, class Tag {
+  confidence: 8.408353
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.333712
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.2797
+  tag: present
+}
+, class Tag {
+  confidence: 8.273864
+  tag: element
+}
+, class Tag {
+  confidence: 8.081319
+  tag: text
+}
+, class Tag {
+  confidence: 8.043593
+  tag: new
+}
+, class Tag {
+  confidence: 8.033694
+  tag: banknote
+}
+, class Tag {
+  confidence: 7.976935
+  tag: celebration
+}
+, class Tag {
+  confidence: 7.976198
+  tag: hundred
+}
+, class Tag {
+  confidence: 7.7190495
+  tag: buy
+}
+, class Tag {
+  confidence: 7.7189918
+  tag: sign
+}
+, class Tag {
+  confidence: 7.5838013
+  tag: letter
+}
+, class Tag {
+  confidence: 7.4325604
+  tag: food
+}
+, class Tag {
+  confidence: 7.346474
+  tag: object
+}
+, class Tag {
+  confidence: 7.3300605
+  tag: conceptual
+}
+, class Tag {
+  confidence: 7.2244587
+  tag: home
+}
+]
+}
+]
+  unsuccessful: null
+}

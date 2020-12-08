@@ -1,0 +1,176 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTilZdWsAATyYo.png
+  tags: [class Tag {
+  confidence: 27.098227
+  tag: bathtub
+}
+, class Tag {
+  confidence: 25.642813
+  tag: vessel
+}
+, class Tag {
+  confidence: 25.4
+  tag: mosquito net
+}
+, class Tag {
+  confidence: 15.24
+  tag: protective covering
+}
+, class Tag {
+  confidence: 14.539868
+  tag: tub
+}
+, class Tag {
+  confidence: 14.420718
+  tag: home
+}
+, class Tag {
+  confidence: 12.887649
+  tag: person
+}
+, class Tag {
+  confidence: 12.80441
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.752339
+  tag: bath
+}
+, class Tag {
+  confidence: 11.636314
+  tag: adult
+}
+, class Tag {
+  confidence: 11.440292
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.164067
+  tag: skin
+}
+, class Tag {
+  confidence: 10.856578
+  tag: covering
+}
+, class Tag {
+  confidence: 10.852585
+  tag: health
+}
+, class Tag {
+  confidence: 10.224827
+  tag: clean
+}
+, class Tag {
+  confidence: 10.0395
+  tag: body
+}
+, class Tag {
+  confidence: 9.65615
+  tag: people
+}
+, class Tag {
+  confidence: 9.595595
+  tag: spa
+}
+, class Tag {
+  confidence: 9.428877
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.976054
+  tag: face
+}
+, class Tag {
+  confidence: 8.510964
+  tag: happy
+}
+, class Tag {
+  confidence: 8.482199
+  tag: luxury
+}
+, class Tag {
+  confidence: 8.355266
+  tag: smile
+}
+, class Tag {
+  confidence: 8.319136
+  tag: relax
+}
+, class Tag {
+  confidence: 8.314276
+  tag: portrait
+}
+, class Tag {
+  confidence: 8.271259
+  tag: relaxation
+}
+, class Tag {
+  confidence: 8.267759
+  tag: care
+}
+, class Tag {
+  confidence: 8.080138
+  tag: digital
+}
+, class Tag {
+  confidence: 8.078449
+  tag: house
+}
+, class Tag {
+  confidence: 7.848366
+  tag: design
+}
+, class Tag {
+  confidence: 7.759982
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.590591
+  tag: treatment
+}
+, class Tag {
+  confidence: 7.5754128
+  tag: human
+}
+, class Tag {
+  confidence: 7.566563
+  tag: relaxing
+}
+, class Tag {
+  confidence: 7.2707863
+  tag: women
+}
+, class Tag {
+  confidence: 7.257053
+  tag: model
+}
+, class Tag {
+  confidence: 7.1912074
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.115541
+  tag: casual
+}
+, class Tag {
+  confidence: 7.1042237
+  tag: color
+}
+, class Tag {
+  confidence: 7.0898504
+  tag: light
+}
+, class Tag {
+  confidence: 7.0609965
+  tag: space
+}
+, class Tag {
+  confidence: 7.019382
+  tag: life
+}
+]
+}
+]
+  unsuccessful: null
+}

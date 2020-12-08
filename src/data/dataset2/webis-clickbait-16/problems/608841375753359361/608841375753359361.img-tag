@@ -1,0 +1,132 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHMKAUHW4AAuIBZ.jpg
+  tags: [class Tag {
+  confidence: 59.545036
+  tag: car
+}
+, class Tag {
+  confidence: 26.867582
+  tag: minivan
+}
+, class Tag {
+  confidence: 25.150988
+  tag: vehicle
+}
+, class Tag {
+  confidence: 24.53036
+  tag: motor vehicle
+}
+, class Tag {
+  confidence: 20.848
+  tag: passenger van
+}
+, class Tag {
+  confidence: 16.838112
+  tag: automobile
+}
+, class Tag {
+  confidence: 16.742775
+  tag: auto
+}
+, class Tag {
+  confidence: 16.379892
+  tag: van
+}
+, class Tag {
+  confidence: 16.306503
+  tag: transportation
+}
+, class Tag {
+  confidence: 15.938033
+  tag: transport
+}
+, class Tag {
+  confidence: 15.665723
+  tag: drive
+}
+, class Tag {
+  confidence: 14.426362
+  tag: speed
+}
+, class Tag {
+  confidence: 14.243472
+  tag: truck
+}
+, class Tag {
+  confidence: 12.94849
+  tag: travel
+}
+, class Tag {
+  confidence: 12.529892
+  tag: helmet
+}
+, class Tag {
+  confidence: 11.616603
+  tag: design
+}
+, class Tag {
+  confidence: 10.714037
+  tag: luxury
+}
+, class Tag {
+  confidence: 10.62371
+  tag: grille
+}
+, class Tag {
+  confidence: 10.408
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 10.17988
+  tag: wheel
+}
+, class Tag {
+  confidence: 9.910388
+  tag: modern
+}
+, class Tag {
+  confidence: 9.714116
+  tag: business
+}
+, class Tag {
+  confidence: 9.687033
+  tag: motor
+}
+, class Tag {
+  confidence: 8.210103
+  tag: road
+}
+, class Tag {
+  confidence: 7.9918914
+  tag: color
+}
+, class Tag {
+  confidence: 7.98
+  tag: bullet train
+}
+, class Tag {
+  confidence: 7.891243
+  tag: minibus
+}
+, class Tag {
+  confidence: 7.8253937
+  tag: grate
+}
+, class Tag {
+  confidence: 7.7863345
+  tag: fast
+}
+, class Tag {
+  confidence: 7.438334
+  tag: public transport
+}
+, class Tag {
+  confidence: 7.336293
+  tag: black
+}
+]
+}
+]
+  unsuccessful: null
+}

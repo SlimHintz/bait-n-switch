@@ -1,0 +1,136 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_52jkUgAAqk5n.png
+  tags: [class Tag {
+  confidence: 18.189835
+  tag: dog
+}
+, class Tag {
+  confidence: 15.440632
+  tag: happy
+}
+, class Tag {
+  confidence: 15.233447
+  tag: hound
+}
+, class Tag {
+  confidence: 12.667417
+  tag: person
+}
+, class Tag {
+  confidence: 11.892608
+  tag: boxer
+}
+, class Tag {
+  confidence: 11.328909
+  tag: people
+}
+, class Tag {
+  confidence: 11.070214
+  tag: hunting dog
+}
+, class Tag {
+  confidence: 10.89517
+  tag: cute
+}
+, class Tag {
+  confidence: 10.673095
+  tag: canine
+}
+, class Tag {
+  confidence: 10.488765
+  tag: home
+}
+, class Tag {
+  confidence: 10.438123
+  tag: business
+}
+, class Tag {
+  confidence: 10.427031
+  tag: man
+}
+, class Tag {
+  confidence: 9.776738
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.652649
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.398535
+  tag: design
+}
+, class Tag {
+  confidence: 9.06014
+  tag: male
+}
+, class Tag {
+  confidence: 8.952959
+  tag: smile
+}
+, class Tag {
+  confidence: 8.905417
+  tag: black
+}
+, class Tag {
+  confidence: 8.857416
+  tag: joy
+}
+, class Tag {
+  confidence: 8.814695
+  tag: human
+}
+, class Tag {
+  confidence: 8.364234
+  tag: casual
+}
+, class Tag {
+  confidence: 8.2864
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.060245
+  tag: color
+}
+, class Tag {
+  confidence: 7.92
+  tag: walker hound
+}
+, class Tag {
+  confidence: 7.7029595
+  tag: adult
+}
+, class Tag {
+  confidence: 7.7
+  tag: miniature pinscher
+}
+, class Tag {
+  confidence: 7.665445
+  tag: face
+}
+, class Tag {
+  confidence: 7.42539
+  tag: domestic animal
+}
+, class Tag {
+  confidence: 7.304284
+  tag: animal
+}
+, class Tag {
+  confidence: 7.129658
+  tag: portrait
+}
+, class Tag {
+  confidence: 7.0952325
+  tag: beagle
+}
+, class Tag {
+  confidence: 7.0728927
+  tag: graphic
+}
+]
+}
+]
+  unsuccessful: null
+}

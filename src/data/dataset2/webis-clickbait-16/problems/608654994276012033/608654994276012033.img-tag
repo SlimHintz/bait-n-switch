@@ -1,0 +1,176 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJgdYQWsAATDeN.png
+  tags: [class Tag {
+  confidence: 33.747585
+  tag: cartoon
+}
+, class Tag {
+  confidence: 22.633514
+  tag: art
+}
+, class Tag {
+  confidence: 21.924053
+  tag: design
+}
+, class Tag {
+  confidence: 19.11273
+  tag: animal
+}
+, class Tag {
+  confidence: 17.993723
+  tag: cute
+}
+, class Tag {
+  confidence: 17.052391
+  tag: card
+}
+, class Tag {
+  confidence: 16.929853
+  tag: holiday
+}
+, class Tag {
+  confidence: 16.416794
+  tag: drawing
+}
+, class Tag {
+  confidence: 16.292686
+  tag: fun
+}
+, class Tag {
+  confidence: 15.012216
+  tag: clipart
+}
+, class Tag {
+  confidence: 14.245767
+  tag: clip art
+}
+, class Tag {
+  confidence: 14.233228
+  tag: happy
+}
+, class Tag {
+  confidence: 12.519959
+  tag: graphic
+}
+, class Tag {
+  confidence: 12.164436
+  tag: artwork
+}
+, class Tag {
+  confidence: 11.832447
+  tag: decorative
+}
+, class Tag {
+  confidence: 11.811494
+  tag: pink
+}
+, class Tag {
+  confidence: 11.800042
+  tag: cheerful
+}
+, class Tag {
+  confidence: 11.746663
+  tag: character
+}
+, class Tag {
+  confidence: 11.078279
+  tag: smile
+}
+, class Tag {
+  confidence: 10.732736
+  tag: clip
+}
+, class Tag {
+  confidence: 10.562175
+  tag: funny
+}
+, class Tag {
+  confidence: 10.177228
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.954289
+  tag: style
+}
+, class Tag {
+  confidence: 9.738843
+  tag: color
+}
+, class Tag {
+  confidence: 9.708862
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.555654
+  tag: pattern
+}
+, class Tag {
+  confidence: 9.488489
+  tag: painting
+}
+, class Tag {
+  confidence: 9.410715
+  tag: flower
+}
+, class Tag {
+  confidence: 8.795073
+  tag: graphics
+}
+, class Tag {
+  confidence: 8.706651
+  tag: frame
+}
+, class Tag {
+  confidence: 8.347739
+  tag: rabbit
+}
+, class Tag {
+  confidence: 8.066414
+  tag: icons
+}
+, class Tag {
+  confidence: 8.061531
+  tag: sign
+}
+, class Tag {
+  confidence: 7.990073
+  tag: greeting
+}
+, class Tag {
+  confidence: 7.904242
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.6787057
+  tag: mammal
+}
+, class Tag {
+  confidence: 7.6125965
+  tag: little
+}
+, class Tag {
+  confidence: 7.534661
+  tag: love
+}
+, class Tag {
+  confidence: 7.4701486
+  tag: bunny
+}
+, class Tag {
+  confidence: 7.32549
+  tag: ornament
+}
+, class Tag {
+  confidence: 7.128815
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.020745
+  tag: heart
+}
+]
+}
+]
+  unsuccessful: null
+}

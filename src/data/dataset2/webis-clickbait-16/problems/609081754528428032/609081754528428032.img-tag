@@ -1,0 +1,84 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPd-2tUYAAj5rk.png
+  tags: [class Tag {
+  confidence: 100.0
+  tag: window
+}
+, class Tag {
+  confidence: 17.836004
+  tag: web site
+}
+, class Tag {
+  confidence: 16.862617
+  tag: computer
+}
+, class Tag {
+  confidence: 14.192363
+  tag: design
+}
+, class Tag {
+  confidence: 12.893221
+  tag: blank
+}
+, class Tag {
+  confidence: 11.775032
+  tag: web
+}
+, class Tag {
+  confidence: 11.602199
+  tag: internet
+}
+, class Tag {
+  confidence: 11.585349
+  tag: business
+}
+, class Tag {
+  confidence: 10.238217
+  tag: modern
+}
+, class Tag {
+  confidence: 9.365286
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.903
+  tag: template
+}
+, class Tag {
+  confidence: 8.650892
+  tag: frame
+}
+, class Tag {
+  confidence: 8.527579
+  tag: set
+}
+, class Tag {
+  confidence: 8.360992
+  tag: sign
+}
+, class Tag {
+  confidence: 8.155079
+  tag: icon
+}
+, class Tag {
+  confidence: 7.7246423
+  tag: communication
+}
+, class Tag {
+  confidence: 7.439353
+  tag: paper
+}
+, class Tag {
+  confidence: 7.1408057
+  tag: technology
+}
+, class Tag {
+  confidence: 7.048232
+  tag: website
+}
+]
+}
+]
+  unsuccessful: null
+}

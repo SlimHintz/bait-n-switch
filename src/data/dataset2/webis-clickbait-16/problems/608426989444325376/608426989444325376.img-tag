@@ -1,0 +1,204 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHGQ_gXWsAE70OC.jpg
+  tags: [class Tag {
+  confidence: 25.870283
+  tag: food
+}
+, class Tag {
+  confidence: 15.590756
+  tag: healthy
+}
+, class Tag {
+  confidence: 14.830539
+  tag: home
+}
+, class Tag {
+  confidence: 14.125199
+  tag: dish
+}
+, class Tag {
+  confidence: 13.6319895
+  tag: meal
+}
+, class Tag {
+  confidence: 13.527235
+  tag: people
+}
+, class Tag {
+  confidence: 13.356852
+  tag: person
+}
+, class Tag {
+  confidence: 12.802448
+  tag: diet
+}
+, class Tag {
+  confidence: 12.722799
+  tag: happy
+}
+, class Tag {
+  confidence: 12.119767
+  tag: fresh
+}
+, class Tag {
+  confidence: 11.977874
+  tag: dinner
+}
+, class Tag {
+  confidence: 11.896875
+  tag: bread
+}
+, class Tag {
+  confidence: 11.720576
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.380524
+  tag: adult
+}
+, class Tag {
+  confidence: 11.311491
+  tag: plate
+}
+, class Tag {
+  confidence: 11.265558
+  tag: bun
+}
+, class Tag {
+  confidence: 11.244294
+  tag: vegetable
+}
+, class Tag {
+  confidence: 11.235251
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.058535
+  tag: eat
+}
+, class Tag {
+  confidence: 11.013687
+  tag: bagel
+}
+, class Tag {
+  confidence: 10.541413
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.302876
+  tag: attractive
+}
+, class Tag {
+  confidence: 9.949279
+  tag: lunch
+}
+, class Tag {
+  confidence: 9.3
+  tag: potpie
+}
+, class Tag {
+  confidence: 9.298925
+  tag: hamburger
+}
+, class Tag {
+  confidence: 9.262073
+  tag: cooking
+}
+, class Tag {
+  confidence: 9.233945
+  tag: fruit
+}
+, class Tag {
+  confidence: 9.05517
+  tag: smile
+}
+, class Tag {
+  confidence: 8.942578
+  tag: holding
+}
+, class Tag {
+  confidence: 8.898559
+  tag: nutrition
+}
+, class Tag {
+  confidence: 8.873498
+  tag: eating
+}
+, class Tag {
+  confidence: 8.834784
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.77275
+  tag: hat
+}
+, class Tag {
+  confidence: 8.715279
+  tag: delicious
+}
+, class Tag {
+  confidence: 8.715221
+  tag: cuisine
+}
+, class Tag {
+  confidence: 8.707247
+  tag: kitchen
+}
+, class Tag {
+  confidence: 8.688774
+  tag: man
+}
+, class Tag {
+  confidence: 8.688447
+  tag: interior
+}
+, class Tag {
+  confidence: 8.391788
+  tag: face
+}
+, class Tag {
+  confidence: 8.266814
+  tag: natural
+}
+, class Tag {
+  confidence: 8.206725
+  tag: joy
+}
+, class Tag {
+  confidence: 8.0398035
+  tag: health
+}
+, class Tag {
+  confidence: 7.82821
+  tag: model
+}
+, class Tag {
+  confidence: 7.7774315
+  tag: table
+}
+, class Tag {
+  confidence: 7.7362595
+  tag: restaurant
+}
+, class Tag {
+  confidence: 7.6511974
+  tag: sweet
+}
+, class Tag {
+  confidence: 7.5381784
+  tag: snack
+}
+, class Tag {
+  confidence: 7.4798217
+  tag: bowl
+}
+, class Tag {
+  confidence: 7.1019692
+  tag: indoors
+}
+]
+}
+]
+  unsuccessful: null
+}

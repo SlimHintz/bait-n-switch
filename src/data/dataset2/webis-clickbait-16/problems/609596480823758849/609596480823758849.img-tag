@@ -1,0 +1,104 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHW4xNxUYAAhXxR.jpg
+  tags: [class Tag {
+  confidence: 17.88454
+  tag: building
+}
+, class Tag {
+  confidence: 15.66809
+  tag: sky
+}
+, class Tag {
+  confidence: 14.756537
+  tag: architecture
+}
+, class Tag {
+  confidence: 13.171968
+  tag: business
+}
+, class Tag {
+  confidence: 11.296246
+  tag: house
+}
+, class Tag {
+  confidence: 10.211161
+  tag: home
+}
+, class Tag {
+  confidence: 10.125668
+  tag: construction
+}
+, class Tag {
+  confidence: 10.010082
+  tag: travel
+}
+, class Tag {
+  confidence: 9.448426
+  tag: sun
+}
+, class Tag {
+  confidence: 9.0566225
+  tag: city
+}
+, class Tag {
+  confidence: 8.7598095
+  tag: design
+}
+, class Tag {
+  confidence: 8.571147
+  tag: grass
+}
+, class Tag {
+  confidence: 7.9842477
+  tag: urban
+}
+, class Tag {
+  confidence: 7.9047675
+  tag: color
+}
+, class Tag {
+  confidence: 7.870408
+  tag: day
+}
+, class Tag {
+  confidence: 7.868299
+  tag: cloud
+}
+, class Tag {
+  confidence: 7.7841916
+  tag: modern
+}
+, class Tag {
+  confidence: 7.77636
+  tag: industry
+}
+, class Tag {
+  confidence: 7.7296605
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.676056
+  tag: water
+}
+, class Tag {
+  confidence: 7.5434175
+  tag: window
+}
+, class Tag {
+  confidence: 7.486554
+  tag: industrial
+}
+, class Tag {
+  confidence: 7.377011
+  tag: tourism
+}
+, class Tag {
+  confidence: 7.345202
+  tag: transportation
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,164 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHL8TzHUYAE_Jsf.jpg
+  tags: [class Tag {
+  confidence: 64.73615
+  tag: basketball
+}
+, class Tag {
+  confidence: 53.113956
+  tag: ball
+}
+, class Tag {
+  confidence: 46.896
+  tag: basketball equipment
+}
+, class Tag {
+  confidence: 35.172
+  tag: game equipment
+}
+, class Tag {
+  confidence: 35.130035
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 27.071482
+  tag: athlete
+}
+, class Tag {
+  confidence: 22.485826
+  tag: equipment
+}
+, class Tag {
+  confidence: 19.212624
+  tag: man
+}
+, class Tag {
+  confidence: 17.015701
+  tag: adult
+}
+, class Tag {
+  confidence: 16.772486
+  tag: diversion
+}
+, class Tag {
+  confidence: 16.769169
+  tag: sport
+}
+, class Tag {
+  confidence: 16.031212
+  tag: people
+}
+, class Tag {
+  confidence: 14.835463
+  tag: person
+}
+, class Tag {
+  confidence: 13.586239
+  tag: male
+}
+, class Tag {
+  confidence: 13.03211
+  tag: king
+}
+, class Tag {
+  confidence: 12.77549
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.5714855
+  tag: football
+}
+, class Tag {
+  confidence: 10.155215
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.11887
+  tag: fitness
+}
+, class Tag {
+  confidence: 10.0109
+  tag: game
+}
+, class Tag {
+  confidence: 9.805915
+  tag: player
+}
+, class Tag {
+  confidence: 9.802694
+  tag: fun
+}
+, class Tag {
+  confidence: 9.480248
+  tag: runner
+}
+, class Tag {
+  confidence: 9.280489
+  tag: happy
+}
+, class Tag {
+  confidence: 8.705734
+  tag: activity
+}
+, class Tag {
+  confidence: 8.613626
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.593536
+  tag: boy
+}
+, class Tag {
+  confidence: 8.379055
+  tag: exercise
+}
+, class Tag {
+  confidence: 8.283147
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.2822
+  tag: competition
+}
+, class Tag {
+  confidence: 8.113337
+  tag: rival
+}
+, class Tag {
+  confidence: 8.080241
+  tag: two
+}
+, class Tag {
+  confidence: 7.900542
+  tag: black
+}
+, class Tag {
+  confidence: 7.8245716
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.788522
+  tag: sports
+}
+, class Tag {
+  confidence: 7.784954
+  tag: one
+}
+, class Tag {
+  confidence: 7.6322455
+  tag: health
+}
+, class Tag {
+  confidence: 7.193217
+  tag: looking
+}
+, class Tag {
+  confidence: 7.1143684
+  tag: team
+}
+]
+}
+]
+  unsuccessful: null
+}

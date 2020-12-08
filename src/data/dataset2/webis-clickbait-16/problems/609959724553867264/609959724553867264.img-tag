@@ -1,0 +1,252 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHZCMBxUcAAjD5Z.png
+  tags: [class Tag {
+  confidence: 100.0
+  tag: manhattan
+}
+, class Tag {
+  confidence: 74.772316
+  tag: city
+}
+, class Tag {
+  confidence: 43.930397
+  tag: skyline
+}
+, class Tag {
+  confidence: 41.22011
+  tag: cityscape
+}
+, class Tag {
+  confidence: 39.171864
+  tag: urban
+}
+, class Tag {
+  confidence: 38.486324
+  tag: metropolitan
+}
+, class Tag {
+  confidence: 35.94303
+  tag: skyscraper
+}
+, class Tag {
+  confidence: 35.870186
+  tag: architecture
+}
+, class Tag {
+  confidence: 30.155931
+  tag: building
+}
+, class Tag {
+  confidence: 27.18557
+  tag: buildings
+}
+, class Tag {
+  confidence: 26.31568
+  tag: night
+}
+, class Tag {
+  confidence: 26.182396
+  tag: downtown
+}
+, class Tag {
+  confidence: 24.413296
+  tag: tower
+}
+, class Tag {
+  confidence: 23.841341
+  tag: river
+}
+, class Tag {
+  confidence: 22.153969
+  tag: sky
+}
+, class Tag {
+  confidence: 20.653084
+  tag: york
+}
+, class Tag {
+  confidence: 19.414139
+  tag: usa
+}
+, class Tag {
+  confidence: 19.412216
+  tag: business district
+}
+, class Tag {
+  confidence: 19.214945
+  tag: new
+}
+, class Tag {
+  confidence: 19.179758
+  tag: skyscrapers
+}
+, class Tag {
+  confidence: 19.002913
+  tag: landmark
+}
+, class Tag {
+  confidence: 18.009192
+  tag: financial
+}
+, class Tag {
+  confidence: 17.645914
+  tag: america
+}
+, class Tag {
+  confidence: 17.489235
+  tag: office
+}
+, class Tag {
+  confidence: 17.43117
+  tag: travel
+}
+, class Tag {
+  confidence: 16.869194
+  tag: business
+}
+, class Tag {
+  confidence: 16.601215
+  tag: modern
+}
+, class Tag {
+  confidence: 16.461496
+  tag: district
+}
+, class Tag {
+  confidence: 14.312037
+  tag: dusk
+}
+, class Tag {
+  confidence: 14.264149
+  tag: bridge
+}
+, class Tag {
+  confidence: 14.161389
+  tag: tall
+}
+, class Tag {
+  confidence: 13.873199
+  tag: nyc
+}
+, class Tag {
+  confidence: 13.791231
+  tag: water
+}
+, class Tag {
+  confidence: 13.787252
+  tag: evening
+}
+, class Tag {
+  confidence: 13.269953
+  tag: metropolis
+}
+, class Tag {
+  confidence: 13.038819
+  tag: asia
+}
+, class Tag {
+  confidence: 12.691977
+  tag: twilight
+}
+, class Tag {
+  confidence: 12.5609045
+  tag: lights
+}
+, class Tag {
+  confidence: 12.371552
+  tag: tourism
+}
+, class Tag {
+  confidence: 12.330127
+  tag: center
+}
+, class Tag {
+  confidence: 11.786989
+  tag: harbor
+}
+, class Tag {
+  confidence: 11.078168
+  tag: high
+}
+, class Tag {
+  confidence: 11.075511
+  tag: scenic
+}
+, class Tag {
+  confidence: 11.035076
+  tag: tourist
+}
+, class Tag {
+  confidence: 10.967503
+  tag: town
+}
+, class Tag {
+  confidence: 10.722736
+  tag: structure
+}
+, class Tag {
+  confidence: 10.396304
+  tag: sunset
+}
+, class Tag {
+  confidence: 10.275299
+  tag: corporate
+}
+, class Tag {
+  confidence: 10.17488
+  tag: panorama
+}
+, class Tag {
+  confidence: 9.666344
+  tag: new york
+}
+, class Tag {
+  confidence: 9.408531
+  tag: landscape
+}
+, class Tag {
+  confidence: 9.307831
+  tag: street
+}
+, class Tag {
+  confidence: 9.274727
+  tag: reflection
+}
+, class Tag {
+  confidence: 9.151779
+  tag: famous
+}
+, class Tag {
+  confidence: 8.936452
+  tag: aerial
+}
+, class Tag {
+  confidence: 8.877421
+  tag: empire
+}
+, class Tag {
+  confidence: 8.324207
+  tag: waterfront
+}
+, class Tag {
+  confidence: 8.252259
+  tag: state
+}
+, class Tag {
+  confidence: 7.9222894
+  tag: illuminated
+}
+, class Tag {
+  confidence: 7.5657816
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.5151815
+  tag: scene
+}
+]
+}
+]
+  unsuccessful: null
+}

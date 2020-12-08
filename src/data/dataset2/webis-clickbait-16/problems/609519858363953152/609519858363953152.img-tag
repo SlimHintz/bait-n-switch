@@ -1,0 +1,236 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHU02_4UcAAr95r.png
+  tags: [class Tag {
+  confidence: 37.58852
+  tag: food
+}
+, class Tag {
+  confidence: 30.77747
+  tag: meal
+}
+, class Tag {
+  confidence: 28.686934
+  tag: dinner
+}
+, class Tag {
+  confidence: 25.790428
+  tag: plate
+}
+, class Tag {
+  confidence: 23.836823
+  tag: lunch
+}
+, class Tag {
+  confidence: 22.395514
+  tag: healthy
+}
+, class Tag {
+  confidence: 19.169483
+  tag: cuisine
+}
+, class Tag {
+  confidence: 18.680412
+  tag: restaurant
+}
+, class Tag {
+  confidence: 18.56125
+  tag: diet
+}
+, class Tag {
+  confidence: 16.677061
+  tag: bowl
+}
+, class Tag {
+  confidence: 16.291275
+  tag: eat
+}
+, class Tag {
+  confidence: 15.673643
+  tag: nutrition
+}
+, class Tag {
+  confidence: 15.557169
+  tag: cook
+}
+, class Tag {
+  confidence: 15.087406
+  tag: vegetable
+}
+, class Tag {
+  confidence: 14.805884
+  tag: cooking
+}
+, class Tag {
+  confidence: 14.5192795
+  tag: fresh
+}
+, class Tag {
+  confidence: 14.071025
+  tag: table
+}
+, class Tag {
+  confidence: 14.058301
+  tag: tasty
+}
+, class Tag {
+  confidence: 13.595855
+  tag: spoon
+}
+, class Tag {
+  confidence: 13.384467
+  tag: eating
+}
+, class Tag {
+  confidence: 13.255875
+  tag: wine
+}
+, class Tag {
+  confidence: 13.04703
+  tag: dish
+}
+, class Tag {
+  confidence: 12.947114
+  tag: meat
+}
+, class Tag {
+  confidence: 12.858374
+  tag: snack
+}
+, class Tag {
+  confidence: 12.568267
+  tag: breakfast
+}
+, class Tag {
+  confidence: 12.133089
+  tag: gourmet
+}
+, class Tag {
+  confidence: 11.959138
+  tag: kitchen
+}
+, class Tag {
+  confidence: 10.963388
+  tag: delicious
+}
+, class Tag {
+  confidence: 10.719333
+  tag: fruit
+}
+, class Tag {
+  confidence: 10.711865
+  tag: pepper
+}
+, class Tag {
+  confidence: 10.566225
+  tag: health
+}
+, class Tag {
+  confidence: 10.4412775
+  tag: drink
+}
+, class Tag {
+  confidence: 10.431741
+  tag: hot
+}
+, class Tag {
+  confidence: 10.42547
+  tag: knife
+}
+, class Tag {
+  confidence: 10.379685
+  tag: glass
+}
+, class Tag {
+  confidence: 10.356574
+  tag: fork
+}
+, class Tag {
+  confidence: 10.125369
+  tag: onion
+}
+, class Tag {
+  confidence: 9.916298
+  tag: wooden spoon
+}
+, class Tag {
+  confidence: 9.790958
+  tag: salad
+}
+, class Tag {
+  confidence: 9.767333
+  tag: sweet
+}
+, class Tag {
+  confidence: 9.762331
+  tag: vegetables
+}
+, class Tag {
+  confidence: 9.550939
+  tag: carrot
+}
+, class Tag {
+  confidence: 9.209401
+  tag: yellow
+}
+, class Tag {
+  confidence: 8.748727
+  tag: vegetarian
+}
+, class Tag {
+  confidence: 8.469311
+  tag: appetizer
+}
+, class Tag {
+  confidence: 8.464283
+  tag: spice
+}
+, class Tag {
+  confidence: 8.145704
+  tag: traditional
+}
+, class Tag {
+  confidence: 7.937476
+  tag: wooden
+}
+, class Tag {
+  confidence: 7.8424964
+  tag: home
+}
+, class Tag {
+  confidence: 7.839135
+  tag: ingredient
+}
+, class Tag {
+  confidence: 7.750739
+  tag: fried
+}
+, class Tag {
+  confidence: 7.400995
+  tag: organic
+}
+, class Tag {
+  confidence: 7.319784
+  tag: tomato
+}
+, class Tag {
+  confidence: 7.298421
+  tag: fish
+}
+, class Tag {
+  confidence: 7.2917757
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.168424
+  tag: raw
+}
+, class Tag {
+  confidence: 7.1240244
+  tag: natural
+}
+]
+}
+]
+  unsuccessful: null
+}

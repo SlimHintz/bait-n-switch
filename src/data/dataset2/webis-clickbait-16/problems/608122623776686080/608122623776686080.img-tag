@@ -1,0 +1,260 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHB8TbYWgAEt0R6.png
+  tags: [class Tag {
+  confidence: 60.07692
+  tag: vessel
+}
+, class Tag {
+  confidence: 58.326473
+  tag: boat
+}
+, class Tag {
+  confidence: 45.040703
+  tag: fisherman
+}
+, class Tag {
+  confidence: 43.253345
+  tag: ship
+}
+, class Tag {
+  confidence: 42.952873
+  tag: sea
+}
+, class Tag {
+  confidence: 34.28549
+  tag: ocean
+}
+, class Tag {
+  confidence: 33.01524
+  tag: water
+}
+, class Tag {
+  confidence: 25.353323
+  tag: dock
+}
+, class Tag {
+  confidence: 21.731377
+  tag: vacation
+}
+, class Tag {
+  confidence: 20.975677
+  tag: travel
+}
+, class Tag {
+  confidence: 19.799526
+  tag: fishing
+}
+, class Tag {
+  confidence: 19.131432
+  tag: sky
+}
+, class Tag {
+  confidence: 17.72463
+  tag: island
+}
+, class Tag {
+  confidence: 17.383928
+  tag: harbor
+}
+, class Tag {
+  confidence: 16.163206
+  tag: coast
+}
+, class Tag {
+  confidence: 15.872801
+  tag: tourism
+}
+, class Tag {
+  confidence: 15.743866
+  tag: beach
+}
+, class Tag {
+  confidence: 15.308551
+  tag: boats
+}
+, class Tag {
+  confidence: 14.783601
+  tag: transportation
+}
+, class Tag {
+  confidence: 14.743342
+  tag: harbour
+}
+, class Tag {
+  confidence: 14.4422865
+  tag: cruise
+}
+, class Tag {
+  confidence: 13.744913
+  tag: summer
+}
+, class Tag {
+  confidence: 13.716157
+  tag: sailing
+}
+, class Tag {
+  confidence: 13.573726
+  tag: port
+}
+, class Tag {
+  confidence: 13.140979
+  tag: pier
+}
+, class Tag {
+  confidence: 12.667311
+  tag: vehicle
+}
+, class Tag {
+  confidence: 12.243429
+  tag: holiday
+}
+, class Tag {
+  confidence: 12.214397
+  tag: transport
+}
+, class Tag {
+  confidence: 11.922433
+  tag: tugboat
+}
+, class Tag {
+  confidence: 11.313813
+  tag: nautical
+}
+, class Tag {
+  confidence: 10.886181
+  tag: landscape
+}
+, class Tag {
+  confidence: 10.444835
+  tag: shore
+}
+, class Tag {
+  confidence: 10.265321
+  tag: bay
+}
+, class Tag {
+  confidence: 10.117769
+  tag: yacht
+}
+, class Tag {
+  confidence: 9.772889
+  tag: tourist
+}
+, class Tag {
+  confidence: 9.558144
+  tag: coastline
+}
+, class Tag {
+  confidence: 9.548292
+  tag: journey
+}
+, class Tag {
+  confidence: 9.352233
+  tag: sun
+}
+, class Tag {
+  confidence: 9.34368
+  tag: anchor
+}
+, class Tag {
+  confidence: 9.231761
+  tag: tropical
+}
+, class Tag {
+  confidence: 9.207191
+  tag: cargo
+}
+, class Tag {
+  confidence: 9.148227
+  tag: sail
+}
+, class Tag {
+  confidence: 9.1022005
+  tag: craft
+}
+, class Tag {
+  confidence: 9.029096
+  tag: river
+}
+, class Tag {
+  confidence: 8.886858
+  tag: luxury
+}
+, class Tag {
+  confidence: 8.7444515
+  tag: cloud
+}
+, class Tag {
+  confidence: 8.72444
+  tag: europe
+}
+, class Tag {
+  confidence: 8.693359
+  tag: landing
+}
+, class Tag {
+  confidence: 8.590875
+  tag: lake
+}
+, class Tag {
+  confidence: 8.573911
+  tag: day
+}
+, class Tag {
+  confidence: 8.524616
+  tag: ships
+}
+, class Tag {
+  confidence: 8.270528
+  tag: seascape
+}
+, class Tag {
+  confidence: 8.158296
+  tag: wave
+}
+, class Tag {
+  confidence: 8.137472
+  tag: amphibian
+}
+, class Tag {
+  confidence: 8.134167
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.9529014
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.719152
+  tag: structure
+}
+, class Tag {
+  confidence: 7.6938615
+  tag: shipping
+}
+, class Tag {
+  confidence: 7.42588
+  tag: tour
+}
+, class Tag {
+  confidence: 7.3562417
+  tag: resort
+}
+, class Tag {
+  confidence: 7.1315956
+  tag: peaceful
+}
+, class Tag {
+  confidence: 7.1027093
+  tag: horizon
+}
+, class Tag {
+  confidence: 7.039172
+  tag: recreation
+}
+]
+}
+]
+  unsuccessful: null
+}

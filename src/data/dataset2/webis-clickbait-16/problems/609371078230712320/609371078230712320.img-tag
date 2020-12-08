@@ -1,0 +1,260 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTrxFjWIAA94QM.jpg
+  tags: [class Tag {
+  confidence: 24.480867
+  tag: food
+}
+, class Tag {
+  confidence: 17.802095
+  tag: fruit
+}
+, class Tag {
+  confidence: 16.20992
+  tag: flower
+}
+, class Tag {
+  confidence: 15.077422
+  tag: fresh
+}
+, class Tag {
+  confidence: 14.551324
+  tag: healthy
+}
+, class Tag {
+  confidence: 14.53748
+  tag: sweet
+}
+, class Tag {
+  confidence: 13.444291
+  tag: leaf
+}
+, class Tag {
+  confidence: 13.07287
+  tag: eat
+}
+, class Tag {
+  confidence: 12.336945
+  tag: tasty
+}
+, class Tag {
+  confidence: 12.146173
+  tag: delicious
+}
+, class Tag {
+  confidence: 11.781322
+  tag: vegetable
+}
+, class Tag {
+  confidence: 11.758094
+  tag: colorful
+}
+, class Tag {
+  confidence: 11.472578
+  tag: dessert
+}
+, class Tag {
+  confidence: 11.452963
+  tag: freshness
+}
+, class Tag {
+  confidence: 11.177981
+  tag: orange
+}
+, class Tag {
+  confidence: 10.80197
+  tag: eating
+}
+, class Tag {
+  confidence: 10.7407055
+  tag: spring
+}
+, class Tag {
+  confidence: 10.611747
+  tag: decoration
+}
+, class Tag {
+  confidence: 10.477902
+  tag: natural
+}
+, class Tag {
+  confidence: 10.375254
+  tag: set
+}
+, class Tag {
+  confidence: 10.367748
+  tag: apple
+}
+, class Tag {
+  confidence: 10.294866
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.252001
+  tag: snack
+}
+, class Tag {
+  confidence: 10.196585
+  tag: dinner
+}
+, class Tag {
+  confidence: 10.139012
+  tag: plant
+}
+, class Tag {
+  confidence: 10.089279
+  tag: nutrition
+}
+, class Tag {
+  confidence: 9.994641
+  tag: color
+}
+, class Tag {
+  confidence: 9.954051
+  tag: vegetarian
+}
+, class Tag {
+  confidence: 9.902115
+  tag: holiday
+}
+, class Tag {
+  confidence: 9.655006
+  tag: diet
+}
+, class Tag {
+  confidence: 9.563908
+  tag: yellow
+}
+, class Tag {
+  confidence: 9.26768
+  tag: bright
+}
+, class Tag {
+  confidence: 8.950911
+  tag: grapes
+}
+, class Tag {
+  confidence: 8.835436
+  tag: flowers
+}
+, class Tag {
+  confidence: 8.628256
+  tag: floral
+}
+, class Tag {
+  confidence: 8.517051
+  tag: tomato
+}
+, class Tag {
+  confidence: 8.414782
+  tag: garden
+}
+, class Tag {
+  confidence: 8.411564
+  tag: health
+}
+, class Tag {
+  confidence: 8.119073
+  tag: summer
+}
+, class Tag {
+  confidence: 8.056949
+  tag: grape
+}
+, class Tag {
+  confidence: 8.007732
+  tag: lunch
+}
+, class Tag {
+  confidence: 7.8851295
+  tag: chocolate
+}
+, class Tag {
+  confidence: 7.838747
+  tag: bunch
+}
+, class Tag {
+  confidence: 7.812386
+  tag: close
+}
+, class Tag {
+  confidence: 7.753271
+  tag: pepper
+}
+, class Tag {
+  confidence: 7.738571
+  tag: taste
+}
+, class Tag {
+  confidence: 7.642557
+  tag: slice
+}
+, class Tag {
+  confidence: 7.632598
+  tag: vegetables
+}
+, class Tag {
+  confidence: 7.622462
+  tag: group
+}
+, class Tag {
+  confidence: 7.617138
+  tag: collection
+}
+, class Tag {
+  confidence: 7.5679073
+  tag: refreshment
+}
+, class Tag {
+  confidence: 7.554363
+  tag: juicy
+}
+, class Tag {
+  confidence: 7.5438437
+  tag: ripe
+}
+, class Tag {
+  confidence: 7.4993773
+  tag: meal
+}
+, class Tag {
+  confidence: 7.426165
+  tag: cut
+}
+, class Tag {
+  confidence: 7.304718
+  tag: design
+}
+, class Tag {
+  confidence: 7.253354
+  tag: april
+}
+, class Tag {
+  confidence: 7.1406384
+  tag: strawberry
+}
+, class Tag {
+  confidence: 7.120781
+  tag: cherry
+}
+, class Tag {
+  confidence: 7.07842
+  tag: plate
+}
+, class Tag {
+  confidence: 7.061609
+  tag: lemon
+}
+, class Tag {
+  confidence: 7.058029
+  tag: cake
+}
+, class Tag {
+  confidence: 7.0345016
+  tag: berry
+}
+]
+}
+]
+  unsuccessful: null
+}

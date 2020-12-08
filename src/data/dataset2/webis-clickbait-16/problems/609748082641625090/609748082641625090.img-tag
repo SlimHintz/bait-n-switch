@@ -1,0 +1,200 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYxO_JUsAASc3F.png
+  tags: [class Tag {
+  confidence: 27.599468
+  tag: person
+}
+, class Tag {
+  confidence: 25.377903
+  tag: adult
+}
+, class Tag {
+  confidence: 24.360945
+  tag: man
+}
+, class Tag {
+  confidence: 24.233587
+  tag: people
+}
+, class Tag {
+  confidence: 23.59493
+  tag: caucasian
+}
+, class Tag {
+  confidence: 21.629826
+  tag: male
+}
+, class Tag {
+  confidence: 17.915735
+  tag: happy
+}
+, class Tag {
+  confidence: 16.403858
+  tag: smiling
+}
+, class Tag {
+  confidence: 16.134243
+  tag: portrait
+}
+, class Tag {
+  confidence: 16.024569
+  tag: smile
+}
+, class Tag {
+  confidence: 13.844283
+  tag: pretty
+}
+, class Tag {
+  confidence: 12.999902
+  tag: fun
+}
+, class Tag {
+  confidence: 12.949257
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.672868
+  tag: youth
+}
+, class Tag {
+  confidence: 12.665297
+  tag: attractive
+}
+, class Tag {
+  confidence: 12.117367
+  tag: boy
+}
+, class Tag {
+  confidence: 11.896829
+  tag: one
+}
+, class Tag {
+  confidence: 11.524536
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.097357
+  tag: casual
+}
+, class Tag {
+  confidence: 10.994482
+  tag: hat
+}
+, class Tag {
+  confidence: 10.50281
+  tag: looking
+}
+, class Tag {
+  confidence: 10.379486
+  tag: laborer
+}
+, class Tag {
+  confidence: 10.172376
+  tag: work
+}
+, class Tag {
+  confidence: 10.003527
+  tag: child
+}
+, class Tag {
+  confidence: 9.989274
+  tag: holding
+}
+, class Tag {
+  confidence: 9.921617
+  tag: human
+}
+, class Tag {
+  confidence: 9.592725
+  tag: men
+}
+, class Tag {
+  confidence: 9.261311
+  tag: joy
+}
+, class Tag {
+  confidence: 9.181693
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.015269
+  tag: working
+}
+, class Tag {
+  confidence: 8.701585
+  tag: cute
+}
+, class Tag {
+  confidence: 8.678113
+  tag: face
+}
+, class Tag {
+  confidence: 8.531071
+  tag: fashion
+}
+, class Tag {
+  confidence: 8.442954
+  tag: hand
+}
+, class Tag {
+  confidence: 8.360882
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.346958
+  tag: active
+}
+, class Tag {
+  confidence: 8.2024555
+  tag: black
+}
+, class Tag {
+  confidence: 8.089564
+  tag: hair
+}
+, class Tag {
+  confidence: 8.087469
+  tag: model
+}
+, class Tag {
+  confidence: 7.7744846
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.4902306
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.455868
+  tag: worker
+}
+, class Tag {
+  confidence: 7.393461
+  tag: kid
+}
+, class Tag {
+  confidence: 7.3737
+  tag: women
+}
+, class Tag {
+  confidence: 7.3625226
+  tag: standing
+}
+, class Tag {
+  confidence: 7.1612916
+  tag: sitting
+}
+, class Tag {
+  confidence: 7.156495
+  tag: professional
+}
+, class Tag {
+  confidence: 7.0156646
+  tag: construction
+}
+]
+}
+]
+  unsuccessful: null
+}

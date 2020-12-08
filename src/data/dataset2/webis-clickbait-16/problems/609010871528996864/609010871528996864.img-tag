@@ -1,0 +1,128 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOixCBU0AEdFls.png
+  tags: [class Tag {
+  confidence: 100.0
+  tag: newspaper
+}
+, class Tag {
+  confidence: 57.835133
+  tag: daily
+}
+, class Tag {
+  confidence: 24.503267
+  tag: press
+}
+, class Tag {
+  confidence: 18.649612
+  tag: print media
+}
+, class Tag {
+  confidence: 17.737974
+  tag: money
+}
+, class Tag {
+  confidence: 16.456873
+  tag: paper
+}
+, class Tag {
+  confidence: 15.410944
+  tag: business
+}
+, class Tag {
+  confidence: 14.845471
+  tag: currency
+}
+, class Tag {
+  confidence: 14.795566
+  tag: cash
+}
+, class Tag {
+  confidence: 14.524031
+  tag: finance
+}
+, class Tag {
+  confidence: 14.235131
+  tag: banking
+}
+, class Tag {
+  confidence: 14.074357
+  tag: financial
+}
+, class Tag {
+  confidence: 13.959064
+  tag: medium
+}
+, class Tag {
+  confidence: 13.764318
+  tag: bank
+}
+, class Tag {
+  confidence: 12.700927
+  tag: bill
+}
+, class Tag {
+  confidence: 12.401737
+  tag: dollar
+}
+, class Tag {
+  confidence: 10.061757
+  tag: text
+}
+, class Tag {
+  confidence: 9.998417
+  tag: wealth
+}
+, class Tag {
+  confidence: 9.634505
+  tag: product
+}
+, class Tag {
+  confidence: 9.315594
+  tag: word
+}
+, class Tag {
+  confidence: 8.797505
+  tag: letter
+}
+, class Tag {
+  confidence: 8.729988
+  tag: exchange
+}
+, class Tag {
+  confidence: 8.495357
+  tag: close
+}
+, class Tag {
+  confidence: 8.018578
+  tag: note
+}
+, class Tag {
+  confidence: 7.4918184
+  tag: hundred
+}
+, class Tag {
+  confidence: 7.3245635
+  tag: old
+}
+, class Tag {
+  confidence: 7.1652493
+  tag: us
+}
+, class Tag {
+  confidence: 7.1557994
+  tag: banknote
+}
+, class Tag {
+  confidence: 7.150301
+  tag: pay
+}
+, class Tag {
+  confidence: 7.13067
+  tag: usa
+}
+]
+}
+]
+  unsuccessful: null
+}

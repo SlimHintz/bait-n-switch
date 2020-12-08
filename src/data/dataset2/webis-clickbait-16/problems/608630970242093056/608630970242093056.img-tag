@@ -1,0 +1,356 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJBiYmW4AA0K_v.jpg
+  tags: [class Tag {
+  confidence: 30.436544
+  tag: crystal
+}
+, class Tag {
+  confidence: 25.419275
+  tag: water
+}
+, class Tag {
+  confidence: 23.199278
+  tag: cold
+}
+, class Tag {
+  confidence: 22.540112
+  tag: ice
+}
+, class Tag {
+  confidence: 21.954737
+  tag: clear
+}
+, class Tag {
+  confidence: 20.788115
+  tag: sky
+}
+, class Tag {
+  confidence: 19.088736
+  tag: mountain
+}
+, class Tag {
+  confidence: 18.911448
+  tag: liquid
+}
+, class Tag {
+  confidence: 17.864836
+  tag: environment
+}
+, class Tag {
+  confidence: 17.798298
+  tag: snow
+}
+, class Tag {
+  confidence: 17.244251
+  tag: splash
+}
+, class Tag {
+  confidence: 17.225239
+  tag: wet
+}
+, class Tag {
+  confidence: 16.74799
+  tag: frozen
+}
+, class Tag {
+  confidence: 16.739347
+  tag: clean
+}
+, class Tag {
+  confidence: 15.970329
+  tag: weather
+}
+, class Tag {
+  confidence: 15.357487
+  tag: volcano
+}
+, class Tag {
+  confidence: 15.092871
+  tag: light
+}
+, class Tag {
+  confidence: 14.830862
+  tag: winter
+}
+, class Tag {
+  confidence: 14.608551
+  tag: landscape
+}
+, class Tag {
+  confidence: 14.502628
+  tag: sun
+}
+, class Tag {
+  confidence: 13.657866
+  tag: bright
+}
+, class Tag {
+  confidence: 13.501034
+  tag: season
+}
+, class Tag {
+  confidence: 13.500781
+  tag: motion
+}
+, class Tag {
+  confidence: 13.477602
+  tag: drop
+}
+, class Tag {
+  confidence: 13.181908
+  tag: bubble
+}
+, class Tag {
+  confidence: 13.027694
+  tag: fresh
+}
+, class Tag {
+  confidence: 12.939503
+  tag: flow
+}
+, class Tag {
+  confidence: 12.497893
+  tag: transparent
+}
+, class Tag {
+  confidence: 12.482444
+  tag: bubbles
+}
+, class Tag {
+  confidence: 12.281831
+  tag: close
+}
+, class Tag {
+  confidence: 12.181248
+  tag: purity
+}
+, class Tag {
+  confidence: 11.992083
+  tag: cloud
+}
+, class Tag {
+  confidence: 11.74778
+  tag: ripple
+}
+, class Tag {
+  confidence: 11.675017
+  tag: clouds
+}
+, class Tag {
+  confidence: 11.606825
+  tag: outdoors
+}
+, class Tag {
+  confidence: 11.459678
+  tag: flowing
+}
+, class Tag {
+  confidence: 11.306947
+  tag: wave
+}
+, class Tag {
+  confidence: 11.20359
+  tag: holiday
+}
+, class Tag {
+  confidence: 10.942635
+  tag: cool
+}
+, class Tag {
+  confidence: 10.840145
+  tag: color
+}
+, class Tag {
+  confidence: 10.695429
+  tag: outdoor
+}
+, class Tag {
+  confidence: 10.399363
+  tag: summer
+}
+, class Tag {
+  confidence: 10.241006
+  tag: day
+}
+, class Tag {
+  confidence: 10.214563
+  tag: droplet
+}
+, class Tag {
+  confidence: 10.079865
+  tag: freshness
+}
+, class Tag {
+  confidence: 10.060405
+  tag: sea
+}
+, class Tag {
+  confidence: 10.04442
+  tag: backdrop
+}
+, class Tag {
+  confidence: 9.802843
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 9.747902
+  tag: scene
+}
+, class Tag {
+  confidence: 9.693122
+  tag: high
+}
+, class Tag {
+  confidence: 9.589191
+  tag: smooth
+}
+, class Tag {
+  confidence: 9.548219
+  tag: azure
+}
+, class Tag {
+  confidence: 9.369135
+  tag: pattern
+}
+, class Tag {
+  confidence: 9.350893
+  tag: scenery
+}
+, class Tag {
+  confidence: 9.297006
+  tag: falling
+}
+, class Tag {
+  confidence: 9.287742
+  tag: trees
+}
+, class Tag {
+  confidence: 9.262487
+  tag: frost
+}
+, class Tag {
+  confidence: 9.1158285
+  tag: health
+}
+, class Tag {
+  confidence: 9.105369
+  tag: stream
+}
+, class Tag {
+  confidence: 8.943764
+  tag: nobody
+}
+, class Tag {
+  confidence: 8.936486
+  tag: travel
+}
+, class Tag {
+  confidence: 8.847419
+  tag: energy
+}
+, class Tag {
+  confidence: 8.752138
+  tag: drink
+}
+, class Tag {
+  confidence: 8.635681
+  tag: spa
+}
+, class Tag {
+  confidence: 8.490168
+  tag: splashing
+}
+, class Tag {
+  confidence: 8.488911
+  tag: vacation
+}
+, class Tag {
+  confidence: 8.484999
+  tag: sunlight
+}
+, class Tag {
+  confidence: 8.344689
+  tag: seasonal
+}
+, class Tag {
+  confidence: 8.289687
+  tag: drops
+}
+, class Tag {
+  confidence: 8.2857065
+  tag: rain
+}
+, class Tag {
+  confidence: 8.214854
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.180336
+  tag: december
+}
+, class Tag {
+  confidence: 8.17824
+  tag: space
+}
+, class Tag {
+  confidence: 8.125967
+  tag: natural
+}
+, class Tag {
+  confidence: 7.9291463
+  tag: tree
+}
+, class Tag {
+  confidence: 7.803276
+  tag: solid
+}
+, class Tag {
+  confidence: 7.7539167
+  tag: surface
+}
+, class Tag {
+  confidence: 7.74
+  tag: natural elevation
+}
+, class Tag {
+  confidence: 7.684702
+  tag: january
+}
+, class Tag {
+  confidence: 7.58072
+  tag: scenic
+}
+, class Tag {
+  confidence: 7.4891615
+  tag: sunny
+}
+, class Tag {
+  confidence: 7.4800787
+  tag: heaven
+}
+, class Tag {
+  confidence: 7.293534
+  tag: pure
+}
+, class Tag {
+  confidence: 7.212581
+  tag: texture
+}
+, class Tag {
+  confidence: 7.195993
+  tag: peaceful
+}
+, class Tag {
+  confidence: 7.154226
+  tag: ocean
+}
+, class Tag {
+  confidence: 7.127371
+  tag: park
+}
+]
+}
+]
+  unsuccessful: null
+}

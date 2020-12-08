@@ -1,0 +1,244 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHS01VHW8AAadbp.jpg
+  tags: [class Tag {
+  confidence: 31.746881
+  tag: building
+}
+, class Tag {
+  confidence: 27.011942
+  tag: structure
+}
+, class Tag {
+  confidence: 25.36394
+  tag: architecture
+}
+, class Tag {
+  confidence: 24.872465
+  tag: greenhouse
+}
+, class Tag {
+  confidence: 20.542112
+  tag: resort
+}
+, class Tag {
+  confidence: 20.280611
+  tag: travel
+}
+, class Tag {
+  confidence: 19.67527
+  tag: sky
+}
+, class Tag {
+  confidence: 19.491034
+  tag: house
+}
+, class Tag {
+  confidence: 19.088522
+  tag: summer
+}
+, class Tag {
+  confidence: 16.418346
+  tag: tourism
+}
+, class Tag {
+  confidence: 15.828127
+  tag: vacation
+}
+, class Tag {
+  confidence: 15.40023
+  tag: tree
+}
+, class Tag {
+  confidence: 13.960812
+  tag: city
+}
+, class Tag {
+  confidence: 13.629135
+  tag: outdoor
+}
+, class Tag {
+  confidence: 13.576774
+  tag: landscape
+}
+, class Tag {
+  confidence: 12.677833
+  tag: holiday
+}
+, class Tag {
+  confidence: 12.562181
+  tag: water
+}
+, class Tag {
+  confidence: 12.24976
+  tag: patio
+}
+, class Tag {
+  confidence: 11.761615
+  tag: sea
+}
+, class Tag {
+  confidence: 11.718487
+  tag: luxury
+}
+, class Tag {
+  confidence: 11.433411
+  tag: sun
+}
+, class Tag {
+  confidence: 11.348448
+  tag: hotel
+}
+, class Tag {
+  confidence: 10.323336
+  tag: urban
+}
+, class Tag {
+  confidence: 10.126923
+  tag: home
+}
+, class Tag {
+  confidence: 10.091049
+  tag: window
+}
+, class Tag {
+  confidence: 10.046772
+  tag: island
+}
+, class Tag {
+  confidence: 9.988499
+  tag: old
+}
+, class Tag {
+  confidence: 9.948975
+  tag: beach
+}
+, class Tag {
+  confidence: 9.75934
+  tag: area
+}
+, class Tag {
+  confidence: 9.738964
+  tag: ocean
+}
+, class Tag {
+  confidence: 9.552153
+  tag: flowers
+}
+, class Tag {
+  confidence: 9.320716
+  tag: tropical
+}
+, class Tag {
+  confidence: 9.252983
+  tag: day
+}
+, class Tag {
+  confidence: 9.12001
+  tag: tourist
+}
+, class Tag {
+  confidence: 8.813342
+  tag: ancient
+}
+, class Tag {
+  confidence: 8.749261
+  tag: scene
+}
+, class Tag {
+  confidence: 8.746953
+  tag: cloud
+}
+, class Tag {
+  confidence: 8.742659
+  tag: europe
+}
+, class Tag {
+  confidence: 8.200518
+  tag: trees
+}
+, class Tag {
+  confidence: 8.130382
+  tag: scenic
+}
+, class Tag {
+  confidence: 8.037775
+  tag: sunny
+}
+, class Tag {
+  confidence: 7.9961257
+  tag: bridge
+}
+, class Tag {
+  confidence: 7.9832788
+  tag: wall
+}
+, class Tag {
+  confidence: 7.932509
+  tag: palm
+}
+, class Tag {
+  confidence: 7.8244166
+  tag: modern
+}
+, class Tag {
+  confidence: 7.808823
+  tag: relaxation
+}
+, class Tag {
+  confidence: 7.736542
+  tag: garden
+}
+, class Tag {
+  confidence: 7.69888
+  tag: wood
+}
+, class Tag {
+  confidence: 7.5235567
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.38
+  tag: resort hotel
+}
+, class Tag {
+  confidence: 7.346679
+  tag: windows
+}
+, class Tag {
+  confidence: 7.3057313
+  tag: outside
+}
+, class Tag {
+  confidence: 7.2644553
+  tag: door
+}
+, class Tag {
+  confidence: 7.2495294
+  tag: glass
+}
+, class Tag {
+  confidence: 7.171611
+  tag: construction
+}
+, class Tag {
+  confidence: 7.1299396
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.083739
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.082191
+  tag: town
+}
+, class Tag {
+  confidence: 7.018496
+  tag: exterior
+}
+]
+}
+]
+  unsuccessful: null
+}

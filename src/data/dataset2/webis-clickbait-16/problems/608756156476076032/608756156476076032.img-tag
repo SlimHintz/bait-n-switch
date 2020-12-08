@@ -1,0 +1,132 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHK8f6sUUAAvuUI.jpg
+  tags: [class Tag {
+  confidence: 15.690044
+  tag: business
+}
+, class Tag {
+  confidence: 15.020638
+  tag: computer
+}
+, class Tag {
+  confidence: 14.844261
+  tag: 3d
+}
+, class Tag {
+  confidence: 14.087383
+  tag: close
+}
+, class Tag {
+  confidence: 13.949883
+  tag: technology
+}
+, class Tag {
+  confidence: 12.933112
+  tag: finance
+}
+, class Tag {
+  confidence: 12.180313
+  tag: sign
+}
+, class Tag {
+  confidence: 11.90723
+  tag: internet
+}
+, class Tag {
+  confidence: 11.6067295
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.146451
+  tag: paper
+}
+, class Tag {
+  confidence: 11.130052
+  tag: card
+}
+, class Tag {
+  confidence: 11.080434
+  tag: black
+}
+, class Tag {
+  confidence: 10.998301
+  tag: design
+}
+, class Tag {
+  confidence: 10.98886
+  tag: communication
+}
+, class Tag {
+  confidence: 10.537594
+  tag: color
+}
+, class Tag {
+  confidence: 10.501048
+  tag: icon
+}
+, class Tag {
+  confidence: 9.576797
+  tag: web
+}
+, class Tag {
+  confidence: 9.271058
+  tag: light
+}
+, class Tag {
+  confidence: 9.215981
+  tag: modern
+}
+, class Tag {
+  confidence: 8.906665
+  tag: money
+}
+, class Tag {
+  confidence: 8.728014
+  tag: key
+}
+, class Tag {
+  confidence: 8.5401
+  tag: hand
+}
+, class Tag {
+  confidence: 8.170842
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.9170732
+  tag: buy
+}
+, class Tag {
+  confidence: 7.777575
+  tag: art
+}
+, class Tag {
+  confidence: 7.703085
+  tag: shopping
+}
+, class Tag {
+  confidence: 7.6008425
+  tag: digital
+}
+, class Tag {
+  confidence: 7.4235816
+  tag: button
+}
+, class Tag {
+  confidence: 7.2852325
+  tag: space
+}
+, class Tag {
+  confidence: 7.235073
+  tag: credit
+}
+, class Tag {
+  confidence: 7.0050516
+  tag: keyboard
+}
+]
+}
+]
+  unsuccessful: null
+}

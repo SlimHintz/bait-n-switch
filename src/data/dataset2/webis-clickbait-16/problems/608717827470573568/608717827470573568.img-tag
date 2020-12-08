@@ -1,0 +1,108 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKVSNJUgAAau6j.jpg
+  tags: [class Tag {
+  confidence: 97.49911
+  tag: tricycle
+}
+, class Tag {
+  confidence: 76.128
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 57.85429
+  tag: vehicle
+}
+, class Tag {
+  confidence: 38.024254
+  tag: conveyance
+}
+, class Tag {
+  confidence: 19.765163
+  tag: wheelchair
+}
+, class Tag {
+  confidence: 15.108534
+  tag: chair
+}
+, class Tag {
+  confidence: 12.67318
+  tag: bike
+}
+, class Tag {
+  confidence: 11.745
+  tag: happy
+}
+, class Tag {
+  confidence: 11.696357
+  tag: bicycle
+}
+, class Tag {
+  confidence: 11.047124
+  tag: seat
+}
+, class Tag {
+  confidence: 10.97988
+  tag: fun
+}
+, class Tag {
+  confidence: 10.606448
+  tag: person
+}
+, class Tag {
+  confidence: 10.489046
+  tag: child
+}
+, class Tag {
+  confidence: 9.884028
+  tag: smiling
+}
+, class Tag {
+  confidence: 9.352637
+  tag: boy
+}
+, class Tag {
+  confidence: 9.2541275
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.934049
+  tag: caucasian
+}
+, class Tag {
+  confidence: 8.62204
+  tag: smile
+}
+, class Tag {
+  confidence: 8.570963
+  tag: people
+}
+, class Tag {
+  confidence: 8.180124
+  tag: kid
+}
+, class Tag {
+  confidence: 8.095726
+  tag: wheel
+}
+, class Tag {
+  confidence: 7.845495
+  tag: man
+}
+, class Tag {
+  confidence: 7.775758
+  tag: transportation
+}
+, class Tag {
+  confidence: 7.294882
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.0914326
+  tag: furniture
+}
+]
+}
+]
+  unsuccessful: null
+}

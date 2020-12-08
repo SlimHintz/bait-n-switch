@@ -1,0 +1,300 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJqEypU0AAu2i-.png
+  tags: [class Tag {
+  confidence: 36.158237
+  tag: alphabet
+}
+, class Tag {
+  confidence: 33.107075
+  tag: sign
+}
+, class Tag {
+  confidence: 32.74861
+  tag: symbol
+}
+, class Tag {
+  confidence: 32.693676
+  tag: capital
+}
+, class Tag {
+  confidence: 30.348663
+  tag: typescript
+}
+, class Tag {
+  confidence: 25.305239
+  tag: text
+}
+, class Tag {
+  confidence: 24.909704
+  tag: 3d
+}
+, class Tag {
+  confidence: 23.02579
+  tag: font
+}
+, class Tag {
+  confidence: 22.684126
+  tag: design
+}
+, class Tag {
+  confidence: 21.716482
+  tag: icon
+}
+, class Tag {
+  confidence: 18.719213
+  tag: metallic
+}
+, class Tag {
+  confidence: 18.05068
+  tag: metal
+}
+, class Tag {
+  confidence: 17.958754
+  tag: letter
+}
+, class Tag {
+  confidence: 17.41408
+  tag: characters
+}
+, class Tag {
+  confidence: 17.278793
+  tag: object
+}
+, class Tag {
+  confidence: 16.144304
+  tag: reflection
+}
+, class Tag {
+  confidence: 16.0698
+  tag: shiny
+}
+, class Tag {
+  confidence: 15.746085
+  tag: silver
+}
+, class Tag {
+  confidence: 15.325108
+  tag: word
+}
+, class Tag {
+  confidence: 15.253694
+  tag: chrome
+}
+, class Tag {
+  confidence: 15.18139
+  tag: sex
+}
+, class Tag {
+  confidence: 15.062014
+  tag: typeset
+}
+, class Tag {
+  confidence: 14.437038
+  tag: print
+}
+, class Tag {
+  confidence: 14.0525465
+  tag: finance
+}
+, class Tag {
+  confidence: 14.035081
+  tag: steel
+}
+, class Tag {
+  confidence: 13.136731
+  tag: modern
+}
+, class Tag {
+  confidence: 13.009532
+  tag: percent
+}
+, class Tag {
+  confidence: 12.627974
+  tag: money
+}
+, class Tag {
+  confidence: 12.608205
+  tag: uppercase
+}
+, class Tag {
+  confidence: 12.56991
+  tag: script
+}
+, class Tag {
+  confidence: 12.440904
+  tag: message
+}
+, class Tag {
+  confidence: 12.340452
+  tag: solid
+}
+, class Tag {
+  confidence: 12.306775
+  tag: graphic
+}
+, class Tag {
+  confidence: 12.196012
+  tag: business
+}
+, class Tag {
+  confidence: 11.7805395
+  tag: iron
+}
+, class Tag {
+  confidence: 11.630764
+  tag: smooth
+}
+, class Tag {
+  confidence: 11.267761
+  tag: surface
+}
+, class Tag {
+  confidence: 11.2215605
+  tag: textured
+}
+, class Tag {
+  confidence: 10.723517
+  tag: stainless
+}
+, class Tag {
+  confidence: 10.681651
+  tag: order
+}
+, class Tag {
+  confidence: 10.645906
+  tag: collection
+}
+, class Tag {
+  confidence: 10.519825
+  tag: letters
+}
+, class Tag {
+  confidence: 10.459675
+  tag: type
+}
+, class Tag {
+  confidence: 10.131146
+  tag: data
+}
+, class Tag {
+  confidence: 10.073263
+  tag: nickel
+}
+, class Tag {
+  confidence: 10.061212
+  tag: number
+}
+, class Tag {
+  confidence: 10.051748
+  tag: platinum
+}
+, class Tag {
+  confidence: 9.991676
+  tag: price
+}
+, class Tag {
+  confidence: 9.792432
+  tag: buy
+}
+, class Tag {
+  confidence: 9.380627
+  tag: black
+}
+, class Tag {
+  confidence: 9.289299
+  tag: market
+}
+, class Tag {
+  confidence: 9.243535
+  tag: titanium
+}
+, class Tag {
+  confidence: 9.143319
+  tag: gray
+}
+, class Tag {
+  confidence: 8.851483
+  tag: sale
+}
+, class Tag {
+  confidence: 8.820887
+  tag: shopping
+}
+, class Tag {
+  confidence: 8.611673
+  tag: set
+}
+, class Tag {
+  confidence: 8.416581
+  tag: messaging
+}
+, class Tag {
+  confidence: 8.3079405
+  tag: typing
+}
+, class Tag {
+  confidence: 8.306662
+  tag: bright
+}
+, class Tag {
+  confidence: 8.275069
+  tag: typography
+}
+, class Tag {
+  confidence: 8.136089
+  tag: reading
+}
+, class Tag {
+  confidence: 8.0627775
+  tag: rendering
+}
+, class Tag {
+  confidence: 8.052802
+  tag: writing
+}
+, class Tag {
+  confidence: 7.9644175
+  tag: web
+}
+, class Tag {
+  confidence: 7.962734
+  tag: render
+}
+, class Tag {
+  confidence: 7.927771
+  tag: write
+}
+, class Tag {
+  confidence: 7.770504
+  tag: percentage
+}
+, class Tag {
+  confidence: 7.7240973
+  tag: discount
+}
+, class Tag {
+  confidence: 7.643067
+  tag: purchase
+}
+, class Tag {
+  confidence: 7.617229
+  tag: currency
+}
+, class Tag {
+  confidence: 7.5665464
+  tag: material
+}
+, class Tag {
+  confidence: 7.547918
+  tag: element
+}
+, class Tag {
+  confidence: 7.0798554
+  tag: card
+}
+]
+}
+]
+  unsuccessful: null
+}

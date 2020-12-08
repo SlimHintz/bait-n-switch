@@ -1,0 +1,136 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQ41iTUcAEOfDL.jpg
+  tags: [class Tag {
+  confidence: 80.08983
+  tag: basketball
+}
+, class Tag {
+  confidence: 71.81318
+  tag: ball
+}
+, class Tag {
+  confidence: 58.096
+  tag: basketball equipment
+}
+, class Tag {
+  confidence: 50.508
+  tag: game equipment
+}
+, class Tag {
+  confidence: 43.52001
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 32.540154
+  tag: equipment
+}
+, class Tag {
+  confidence: 18.210485
+  tag: rival
+}
+, class Tag {
+  confidence: 17.452183
+  tag: diversion
+}
+, class Tag {
+  confidence: 15.319342
+  tag: sport
+}
+, class Tag {
+  confidence: 14.450139
+  tag: athlete
+}
+, class Tag {
+  confidence: 14.00976
+  tag: man
+}
+, class Tag {
+  confidence: 12.889443
+  tag: adult
+}
+, class Tag {
+  confidence: 12.349696
+  tag: track
+}
+, class Tag {
+  confidence: 11.655557
+  tag: people
+}
+, class Tag {
+  confidence: 11.522149
+  tag: volleyball
+}
+, class Tag {
+  confidence: 11.384471
+  tag: male
+}
+, class Tag {
+  confidence: 10.259726
+  tag: game
+}
+, class Tag {
+  confidence: 9.718225
+  tag: fitness
+}
+, class Tag {
+  confidence: 9.34823
+  tag: fun
+}
+, class Tag {
+  confidence: 8.991745
+  tag: caucasian
+}
+, class Tag {
+  confidence: 8.814144
+  tag: sports
+}
+, class Tag {
+  confidence: 8.617174
+  tag: competition
+}
+, class Tag {
+  confidence: 8.245843
+  tag: exercise
+}
+, class Tag {
+  confidence: 8.088125
+  tag: person
+}
+, class Tag {
+  confidence: 7.799939
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.7293363
+  tag: player
+}
+, class Tag {
+  confidence: 7.6118407
+  tag: recreation
+}
+, class Tag {
+  confidence: 7.3596063
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.3220406
+  tag: boy
+}
+, class Tag {
+  confidence: 7.2461996
+  tag: black
+}
+, class Tag {
+  confidence: 7.067634
+  tag: sexy
+}
+, class Tag {
+  confidence: 7.0327735
+  tag: play
+}
+]
+}
+]
+  unsuccessful: null
+}

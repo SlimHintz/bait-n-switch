@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHH1RDbWcAAwNmI.jpg
+  tags: [class Tag {
+  confidence: 15.208463
+  tag: person
+}
+, class Tag {
+  confidence: 13.095258
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.129324
+  tag: people
+}
+, class Tag {
+  confidence: 12.11786
+  tag: adult
+}
+, class Tag {
+  confidence: 12.042974
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.739123
+  tag: comic book
+}
+, class Tag {
+  confidence: 11.711309
+  tag: happy
+}
+, class Tag {
+  confidence: 11.615779
+  tag: shop
+}
+, class Tag {
+  confidence: 11.253541
+  tag: business
+}
+, class Tag {
+  confidence: 11.12296
+  tag: smile
+}
+, class Tag {
+  confidence: 10.859189
+  tag: toyshop
+}
+, class Tag {
+  confidence: 10.115966
+  tag: design
+}
+, class Tag {
+  confidence: 10.004886
+  tag: home
+}
+, class Tag {
+  confidence: 9.994467
+  tag: symbol
+}
+, class Tag {
+  confidence: 9.643389
+  tag: black
+}
+, class Tag {
+  confidence: 9.433003
+  tag: man
+}
+, class Tag {
+  confidence: 9.110477
+  tag: portrait
+}
+, class Tag {
+  confidence: 8.728032
+  tag: color
+}
+, class Tag {
+  confidence: 8.552263
+  tag: casual
+}
+, class Tag {
+  confidence: 8.471156
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.331533
+  tag: human
+}
+, class Tag {
+  confidence: 8.262548
+  tag: hand
+}
+, class Tag {
+  confidence: 8.2094755
+  tag: one
+}
+, class Tag {
+  confidence: 8.105332
+  tag: art
+}
+, class Tag {
+  confidence: 7.999262
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.9936323
+  tag: icon
+}
+, class Tag {
+  confidence: 7.923451
+  tag: boy
+}
+, class Tag {
+  confidence: 7.9074583
+  tag: hair
+}
+, class Tag {
+  confidence: 7.843002
+  tag: face
+}
+, class Tag {
+  confidence: 7.8285556
+  tag: finance
+}
+, class Tag {
+  confidence: 7.7374315
+  tag: expression
+}
+, class Tag {
+  confidence: 7.6019115
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.5464573
+  tag: child
+}
+, class Tag {
+  confidence: 7.5046167
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.3713274
+  tag: cartoon
+}
+, class Tag {
+  confidence: 7.35686
+  tag: financial
+}
+, class Tag {
+  confidence: 7.2994394
+  tag: male
+}
+, class Tag {
+  confidence: 7.236832
+  tag: graphic
+}
+]
+}
+]
+  unsuccessful: null
+}

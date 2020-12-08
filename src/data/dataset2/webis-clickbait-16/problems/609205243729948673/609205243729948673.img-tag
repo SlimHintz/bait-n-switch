@@ -1,0 +1,292 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQCp5CW4AAcorf.jpg
+  tags: [class Tag {
+  confidence: 31.407537
+  tag: caucasian
+}
+, class Tag {
+  confidence: 30.553726
+  tag: portrait
+}
+, class Tag {
+  confidence: 28.766264
+  tag: face
+}
+, class Tag {
+  confidence: 28.139116
+  tag: smile
+}
+, class Tag {
+  confidence: 27.749083
+  tag: person
+}
+, class Tag {
+  confidence: 27.602287
+  tag: happy
+}
+, class Tag {
+  confidence: 26.520422
+  tag: people
+}
+, class Tag {
+  confidence: 25.991074
+  tag: attractive
+}
+, class Tag {
+  confidence: 23.692028
+  tag: pretty
+}
+, class Tag {
+  confidence: 23.534311
+  tag: adult
+}
+, class Tag {
+  confidence: 21.129484
+  tag: hair
+}
+, class Tag {
+  confidence: 21.023586
+  tag: smiling
+}
+, class Tag {
+  confidence: 20.686272
+  tag: happiness
+}
+, class Tag {
+  confidence: 19.897284
+  tag: cute
+}
+, class Tag {
+  confidence: 19.56742
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 18.782606
+  tag: hand
+}
+, class Tag {
+  confidence: 18.655739
+  tag: expression
+}
+, class Tag {
+  confidence: 18.639193
+  tag: one
+}
+, class Tag {
+  confidence: 18.11378
+  tag: child
+}
+, class Tag {
+  confidence: 17.5477
+  tag: fun
+}
+, class Tag {
+  confidence: 17.214378
+  tag: eyes
+}
+, class Tag {
+  confidence: 16.370861
+  tag: cheerful
+}
+, class Tag {
+  confidence: 16.12371
+  tag: looking
+}
+, class Tag {
+  confidence: 15.871191
+  tag: model
+}
+, class Tag {
+  confidence: 14.535427
+  tag: human
+}
+, class Tag {
+  confidence: 14.25655
+  tag: little
+}
+, class Tag {
+  confidence: 14.217724
+  tag: joy
+}
+, class Tag {
+  confidence: 14.175803
+  tag: lady
+}
+, class Tag {
+  confidence: 13.839936
+  tag: studio
+}
+, class Tag {
+  confidence: 13.242076
+  tag: boy
+}
+, class Tag {
+  confidence: 13.102466
+  tag: fashion
+}
+, class Tag {
+  confidence: 12.619782
+  tag: kid
+}
+, class Tag {
+  confidence: 12.385634
+  tag: healthy
+}
+, class Tag {
+  confidence: 12.228487
+  tag: casual
+}
+, class Tag {
+  confidence: 12.18715
+  tag: youth
+}
+, class Tag {
+  confidence: 11.791472
+  tag: male
+}
+, class Tag {
+  confidence: 11.692508
+  tag: brunette
+}
+, class Tag {
+  confidence: 11.250262
+  tag: home
+}
+, class Tag {
+  confidence: 11.136036
+  tag: health
+}
+, class Tag {
+  confidence: 10.5977545
+  tag: sitting
+}
+, class Tag {
+  confidence: 10.414812
+  tag: skin
+}
+, class Tag {
+  confidence: 9.735224
+  tag: love
+}
+, class Tag {
+  confidence: 9.648161
+  tag: teen
+}
+, class Tag {
+  confidence: 9.604912
+  tag: emotion
+}
+, class Tag {
+  confidence: 9.593625
+  tag: indoor
+}
+, class Tag {
+  confidence: 9.564581
+  tag: teenager
+}
+, class Tag {
+  confidence: 9.408713
+  tag: blond
+}
+, class Tag {
+  confidence: 9.335437
+  tag: lovely
+}
+, class Tag {
+  confidence: 9.312017
+  tag: sexy
+}
+, class Tag {
+  confidence: 9.296383
+  tag: family
+}
+, class Tag {
+  confidence: 9.273815
+  tag: childhood
+}
+, class Tag {
+  confidence: 8.801005
+  tag: adorable
+}
+, class Tag {
+  confidence: 8.647374
+  tag: color
+}
+, class Tag {
+  confidence: 8.557479
+  tag: man
+}
+, class Tag {
+  confidence: 8.552081
+  tag: fresh
+}
+, class Tag {
+  confidence: 8.358523
+  tag: women
+}
+, class Tag {
+  confidence: 8.3443775
+  tag: indoors
+}
+, class Tag {
+  confidence: 8.122651
+  tag: natural
+}
+, class Tag {
+  confidence: 8.091044
+  tag: day
+}
+, class Tag {
+  confidence: 8.019729
+  tag: lying
+}
+, class Tag {
+  confidence: 7.972916
+  tag: baby
+}
+, class Tag {
+  confidence: 7.9024343
+  tag: holding
+}
+, class Tag {
+  confidence: 7.82
+  tag: ice lolly
+}
+, class Tag {
+  confidence: 7.7820854
+  tag: alone
+}
+, class Tag {
+  confidence: 7.738476
+  tag: children
+}
+, class Tag {
+  confidence: 7.709959
+  tag: girls
+}
+, class Tag {
+  confidence: 7.7088614
+  tag: park
+}
+, class Tag {
+  confidence: 7.1412773
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.0866036
+  tag: summer
+}
+, class Tag {
+  confidence: 7.0743446
+  tag: enjoyment
+}
+, class Tag {
+  confidence: 7.0678368
+  tag: lips
+}
+]
+}
+]
+  unsuccessful: null
+}

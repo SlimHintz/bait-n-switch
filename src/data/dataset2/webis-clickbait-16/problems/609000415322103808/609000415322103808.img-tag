@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOaBByWcAAuSxR.jpg
+  tags: [class Tag {
+  confidence: 64.18282
+  tag: signboard
+}
+, class Tag {
+  confidence: 26.343933
+  tag: sign
+}
+, class Tag {
+  confidence: 25.845896
+  tag: billboard
+}
+, class Tag {
+  confidence: 21.544483
+  tag: sky
+}
+, class Tag {
+  confidence: 21.442997
+  tag: blackboard
+}
+, class Tag {
+  confidence: 20.425507
+  tag: structure
+}
+, class Tag {
+  confidence: 19.269762
+  tag: board
+}
+, class Tag {
+  confidence: 17.273552
+  tag: scoreboard
+}
+, class Tag {
+  confidence: 14.548333
+  tag: landscape
+}
+, class Tag {
+  confidence: 12.62032
+  tag: communication
+}
+, class Tag {
+  confidence: 12.509136
+  tag: city
+}
+, class Tag {
+  confidence: 11.976674
+  tag: travel
+}
+, class Tag {
+  confidence: 11.475495
+  tag: tree
+}
+, class Tag {
+  confidence: 11.0077505
+  tag: summer
+}
+, class Tag {
+  confidence: 10.168658
+  tag: industry
+}
+, class Tag {
+  confidence: 9.462016
+  tag: business
+}
+, class Tag {
+  confidence: 9.310155
+  tag: road
+}
+, class Tag {
+  confidence: 9.114594
+  tag: trees
+}
+, class Tag {
+  confidence: 8.931509
+  tag: cloud
+}
+, class Tag {
+  confidence: 8.707247
+  tag: water
+}
+, class Tag {
+  confidence: 8.541707
+  tag: architecture
+}
+, class Tag {
+  confidence: 8.448487
+  tag: house
+}
+, class Tag {
+  confidence: 8.285978
+  tag: urban
+}
+, class Tag {
+  confidence: 8.281357
+  tag: sheet
+}
+, class Tag {
+  confidence: 8.193474
+  tag: scene
+}
+, class Tag {
+  confidence: 8.160715
+  tag: street
+}
+, class Tag {
+  confidence: 8.150442
+  tag: sun
+}
+, class Tag {
+  confidence: 8.079191
+  tag: place
+}
+, class Tag {
+  confidence: 8.03687
+  tag: horizon
+}
+, class Tag {
+  confidence: 8.022796
+  tag: building
+}
+, class Tag {
+  confidence: 7.9994864
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.672193
+  tag: black
+}
+, class Tag {
+  confidence: 7.5097346
+  tag: sea
+}
+, class Tag {
+  confidence: 7.46671
+  tag: light
+}
+, class Tag {
+  confidence: 7.3989415
+  tag: grass
+}
+, class Tag {
+  confidence: 7.3936872
+  tag: color
+}
+, class Tag {
+  confidence: 7.269181
+  tag: industrial
+}
+]
+}
+]
+  unsuccessful: null
+}

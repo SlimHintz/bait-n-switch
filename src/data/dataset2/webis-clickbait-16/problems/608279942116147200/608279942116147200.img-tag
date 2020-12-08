@@ -1,0 +1,284 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHEKUFUVAAEIuH7.jpg
+  tags: [class Tag {
+  confidence: 27.022018
+  tag: man
+}
+, class Tag {
+  confidence: 25.84997
+  tag: people
+}
+, class Tag {
+  confidence: 24.51806
+  tag: male
+}
+, class Tag {
+  confidence: 21.98256
+  tag: person
+}
+, class Tag {
+  confidence: 20.633337
+  tag: caucasian
+}
+, class Tag {
+  confidence: 19.445227
+  tag: adult
+}
+, class Tag {
+  confidence: 16.992582
+  tag: happy
+}
+, class Tag {
+  confidence: 14.961901
+  tag: sport
+}
+, class Tag {
+  confidence: 14.7641735
+  tag: fun
+}
+, class Tag {
+  confidence: 14.731627
+  tag: smiling
+}
+, class Tag {
+  confidence: 14.408049
+  tag: smile
+}
+, class Tag {
+  confidence: 13.422339
+  tag: happiness
+}
+, class Tag {
+  confidence: 12.70609
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.690787
+  tag: boy
+}
+, class Tag {
+  confidence: 12.476741
+  tag: competition
+}
+, class Tag {
+  confidence: 11.877188
+  tag: player
+}
+, class Tag {
+  confidence: 11.570611
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.36587
+  tag: game
+}
+, class Tag {
+  confidence: 11.339552
+  tag: joy
+}
+, class Tag {
+  confidence: 11.322058
+  tag: child
+}
+, class Tag {
+  confidence: 11.209852
+  tag: athlete
+}
+, class Tag {
+  confidence: 11.090605
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.516842
+  tag: silhouette
+}
+, class Tag {
+  confidence: 10.4475355
+  tag: skill
+}
+, class Tag {
+  confidence: 10.119784
+  tag: african
+}
+, class Tag {
+  confidence: 10.070571
+  tag: expression
+}
+, class Tag {
+  confidence: 9.974155
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.84311
+  tag: back
+}
+, class Tag {
+  confidence: 9.734237
+  tag: field
+}
+, class Tag {
+  confidence: 9.584859
+  tag: soccer
+}
+, class Tag {
+  confidence: 9.567348
+  tag: muscular
+}
+, class Tag {
+  confidence: 9.343335
+  tag: training
+}
+, class Tag {
+  confidence: 9.330942
+  tag: casual
+}
+, class Tag {
+  confidence: 9.017846
+  tag: human
+}
+, class Tag {
+  confidence: 9.017502
+  tag: team
+}
+, class Tag {
+  confidence: 8.738993
+  tag: match
+}
+, class Tag {
+  confidence: 8.66924
+  tag: ball
+}
+, class Tag {
+  confidence: 8.502691
+  tag: face
+}
+, class Tag {
+  confidence: 8.4476
+  tag: summer
+}
+, class Tag {
+  confidence: 8.391842
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.294964
+  tag: hat
+}
+, class Tag {
+  confidence: 8.240482
+  tag: playing
+}
+, class Tag {
+  confidence: 8.066103
+  tag: kid
+}
+, class Tag {
+  confidence: 7.944218
+  tag: championship
+}
+, class Tag {
+  confidence: 7.92675
+  tag: model
+}
+, class Tag {
+  confidence: 7.8787026
+  tag: patriotic
+}
+, class Tag {
+  confidence: 7.8719854
+  tag: cute
+}
+, class Tag {
+  confidence: 7.821653
+  tag: football
+}
+, class Tag {
+  confidence: 7.8117514
+  tag: goal
+}
+, class Tag {
+  confidence: 7.7939005
+  tag: nation
+}
+, class Tag {
+  confidence: 7.7669272
+  tag: youth
+}
+, class Tag {
+  confidence: 7.5909896
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.5635023
+  tag: flag
+}
+, class Tag {
+  confidence: 7.5290685
+  tag: holding
+}
+, class Tag {
+  confidence: 7.5114446
+  tag: black
+}
+, class Tag {
+  confidence: 7.50932
+  tag: event
+}
+, class Tag {
+  confidence: 7.45396
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.4028997
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.3586783
+  tag: active
+}
+, class Tag {
+  confidence: 7.323041
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.200675
+  tag: hair
+}
+, class Tag {
+  confidence: 7.1746173
+  tag: couple
+}
+, class Tag {
+  confidence: 7.153414
+  tag: sky
+}
+, class Tag {
+  confidence: 7.125457
+  tag: vibrant
+}
+, class Tag {
+  confidence: 7.0892715
+  tag: audience
+}
+, class Tag {
+  confidence: 7.052801
+  tag: stadium
+}
+, class Tag {
+  confidence: 7.0456004
+  tag: kick
+}
+, class Tag {
+  confidence: 7.034393
+  tag: pass
+}
+, class Tag {
+  confidence: 7.0020566
+  tag: shoot
+}
+]
+}
+]
+  unsuccessful: null
+}

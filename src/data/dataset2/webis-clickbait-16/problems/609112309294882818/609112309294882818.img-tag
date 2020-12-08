@@ -1,0 +1,216 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHP-Oh2UUAE-Xbn.png
+  tags: [class Tag {
+  confidence: 26.710577
+  tag: design
+}
+, class Tag {
+  confidence: 21.097656
+  tag: graphic
+}
+, class Tag {
+  confidence: 20.993763
+  tag: icon
+}
+, class Tag {
+  confidence: 19.907005
+  tag: set
+}
+, class Tag {
+  confidence: 19.146322
+  tag: art
+}
+, class Tag {
+  confidence: 17.396236
+  tag: symbol
+}
+, class Tag {
+  confidence: 16.863955
+  tag: business
+}
+, class Tag {
+  confidence: 16.43506
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 16.186811
+  tag: element
+}
+, class Tag {
+  confidence: 15.949483
+  tag: web
+}
+, class Tag {
+  confidence: 14.663336
+  tag: technology
+}
+, class Tag {
+  confidence: 13.726222
+  tag: pattern
+}
+, class Tag {
+  confidence: 13.493202
+  tag: internet
+}
+, class Tag {
+  confidence: 13.16146
+  tag: modern
+}
+, class Tag {
+  confidence: 12.943747
+  tag: curve
+}
+, class Tag {
+  confidence: 12.905716
+  tag: sign
+}
+, class Tag {
+  confidence: 12.391669
+  tag: creative
+}
+, class Tag {
+  confidence: 12.026268
+  tag: computer
+}
+, class Tag {
+  confidence: 11.469041
+  tag: backdrop
+}
+, class Tag {
+  confidence: 11.215493
+  tag: drawing
+}
+, class Tag {
+  confidence: 10.708144
+  tag: button
+}
+, class Tag {
+  confidence: 10.532441
+  tag: color
+}
+, class Tag {
+  confidence: 10.510498
+  tag: icons
+}
+, class Tag {
+  confidence: 10.394978
+  tag: elements
+}
+, class Tag {
+  confidence: 10.370626
+  tag: map
+}
+, class Tag {
+  confidence: 10.358459
+  tag: clipart
+}
+, class Tag {
+  confidence: 10.339845
+  tag: shape
+}
+, class Tag {
+  confidence: 10.249066
+  tag: texture
+}
+, class Tag {
+  confidence: 10.205562
+  tag: communication
+}
+, class Tag {
+  confidence: 10.13654
+  tag: collection
+}
+, class Tag {
+  confidence: 10.055851
+  tag: decorative
+}
+, class Tag {
+  confidence: 9.31835
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.2990265
+  tag: clean
+}
+, class Tag {
+  confidence: 8.731044
+  tag: card
+}
+, class Tag {
+  confidence: 8.5918665
+  tag: template
+}
+, class Tag {
+  confidence: 8.556026
+  tag: data
+}
+, class Tag {
+  confidence: 8.453247
+  tag: retro
+}
+, class Tag {
+  confidence: 8.354238
+  tag: digital
+}
+, class Tag {
+  confidence: 8.192175
+  tag: colors
+}
+, class Tag {
+  confidence: 8.084141
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.026743
+  tag: wave
+}
+, class Tag {
+  confidence: 8.018138
+  tag: artistic
+}
+, class Tag {
+  confidence: 7.9684076
+  tag: poster
+}
+, class Tag {
+  confidence: 7.754126
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.743539
+  tag: frame
+}
+, class Tag {
+  confidence: 7.591625
+  tag: idea
+}
+, class Tag {
+  confidence: 7.529727
+  tag: information
+}
+, class Tag {
+  confidence: 7.42892
+  tag: paper
+}
+, class Tag {
+  confidence: 7.4203973
+  tag: decor
+}
+, class Tag {
+  confidence: 7.168008
+  tag: line
+}
+, class Tag {
+  confidence: 7.16
+  tag: technical foul
+}
+, class Tag {
+  confidence: 7.1140633
+  tag: industry
+}
+]
+}
+]
+  unsuccessful: null
+}

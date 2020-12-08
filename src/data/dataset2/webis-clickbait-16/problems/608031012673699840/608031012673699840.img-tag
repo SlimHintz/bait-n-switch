@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAo-9aU8AANEpq.png
+  tags: [class Tag {
+  confidence: 83.63474
+  tag: nipple
+}
+, class Tag {
+  confidence: 69.07978
+  tag: cap
+}
+, class Tag {
+  confidence: 46.740673
+  tag: top
+}
+, class Tag {
+  confidence: 37.8
+  tag: liquid body substance
+}
+, class Tag {
+  confidence: 32.674755
+  tag: covering
+}
+, class Tag {
+  confidence: 24.968224
+  tag: bottle
+}
+, class Tag {
+  confidence: 17.282078
+  tag: plastic
+}
+, class Tag {
+  confidence: 15.9285965
+  tag: clean
+}
+, class Tag {
+  confidence: 15.79324
+  tag: container
+}
+, class Tag {
+  confidence: 15.670026
+  tag: health
+}
+, class Tag {
+  confidence: 13.868979
+  tag: child
+}
+, class Tag {
+  confidence: 13.763432
+  tag: liquid
+}
+, class Tag {
+  confidence: 12.408581
+  tag: healthy
+}
+, class Tag {
+  confidence: 12.398137
+  tag: drink
+}
+, class Tag {
+  confidence: 11.708552
+  tag: water
+}
+, class Tag {
+  confidence: 11.506691
+  tag: transparent
+}
+, class Tag {
+  confidence: 10.775989
+  tag: glass
+}
+, class Tag {
+  confidence: 10.069086
+  tag: cute
+}
+, class Tag {
+  confidence: 10.05312
+  tag: childhood
+}
+, class Tag {
+  confidence: 10.038786
+  tag: little
+}
+, class Tag {
+  confidence: 9.890706
+  tag: baby
+}
+, class Tag {
+  confidence: 9.551538
+  tag: object
+}
+, class Tag {
+  confidence: 9.540694
+  tag: care
+}
+, class Tag {
+  confidence: 9.171259
+  tag: kid
+}
+, class Tag {
+  confidence: 9.061694
+  tag: hygiene
+}
+, class Tag {
+  confidence: 8.806972
+  tag: life
+}
+, class Tag {
+  confidence: 8.307443
+  tag: medicine
+}
+, class Tag {
+  confidence: 8.181891
+  tag: pure
+}
+, class Tag {
+  confidence: 7.8527255
+  tag: bottles
+}
+, class Tag {
+  confidence: 7.735581
+  tag: boy
+}
+, class Tag {
+  confidence: 7.5902376
+  tag: fresh
+}
+, class Tag {
+  confidence: 7.4082866
+  tag: healthcare
+}
+, class Tag {
+  confidence: 7.34664
+  tag: mineral
+}
+, class Tag {
+  confidence: 7.329968
+  tag: face
+}
+, class Tag {
+  confidence: 7.236199
+  tag: food
+}
+, class Tag {
+  confidence: 7.1444488
+  tag: studio
+}
+, class Tag {
+  confidence: 7.046229
+  tag: clear
+}
+]
+}
+]
+  unsuccessful: null
+}

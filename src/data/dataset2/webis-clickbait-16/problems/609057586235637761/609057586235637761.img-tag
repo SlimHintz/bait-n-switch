@@ -1,0 +1,140 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPHJEiVAAAZd9s.jpg
+  tags: [class Tag {
+  confidence: 21.433651
+  tag: drawing
+}
+, class Tag {
+  confidence: 20.579365
+  tag: design
+}
+, class Tag {
+  confidence: 15.358916
+  tag: sketch
+}
+, class Tag {
+  confidence: 15.261485
+  tag: black
+}
+, class Tag {
+  confidence: 13.482307
+  tag: pattern
+}
+, class Tag {
+  confidence: 13.394314
+  tag: graphic
+}
+, class Tag {
+  confidence: 13.157469
+  tag: business
+}
+, class Tag {
+  confidence: 11.828373
+  tag: color
+}
+, class Tag {
+  confidence: 11.638596
+  tag: home
+}
+, class Tag {
+  confidence: 11.443756
+  tag: silhouette
+}
+, class Tag {
+  confidence: 11.408171
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.783824
+  tag: painting
+}
+, class Tag {
+  confidence: 10.584012
+  tag: art
+}
+, class Tag {
+  confidence: 10.32184
+  tag: icon
+}
+, class Tag {
+  confidence: 10.289033
+  tag: technology
+}
+, class Tag {
+  confidence: 9.8610115
+  tag: sign
+}
+, class Tag {
+  confidence: 9.841926
+  tag: element
+}
+, class Tag {
+  confidence: 9.367279
+  tag: internet
+}
+, class Tag {
+  confidence: 9.061894
+  tag: modern
+}
+, class Tag {
+  confidence: 9.008902
+  tag: house
+}
+, class Tag {
+  confidence: 8.784147
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 8.631129
+  tag: web
+}
+, class Tag {
+  confidence: 8.315905
+  tag: cartoon
+}
+, class Tag {
+  confidence: 8.056819
+  tag: object
+}
+, class Tag {
+  confidence: 7.8498745
+  tag: decoration
+}
+, class Tag {
+  confidence: 7.831179
+  tag: set
+}
+, class Tag {
+  confidence: 7.784129
+  tag: industry
+}
+, class Tag {
+  confidence: 7.381517
+  tag: computer
+}
+, class Tag {
+  confidence: 7.24466
+  tag: work
+}
+, class Tag {
+  confidence: 7.1467643
+  tag: finance
+}
+, class Tag {
+  confidence: 7.0736365
+  tag: spring
+}
+, class Tag {
+  confidence: 7.0521665
+  tag: line
+}
+, class Tag {
+  confidence: 7.0166636
+  tag: man
+}
+]
+}
+]
+  unsuccessful: null
+}

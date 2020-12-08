@@ -1,0 +1,200 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYDFpTUAAAQpMk.jpg
+  tags: [class Tag {
+  confidence: 28.934284
+  tag: bridge
+}
+, class Tag {
+  confidence: 28.226784
+  tag: architecture
+}
+, class Tag {
+  confidence: 26.654654
+  tag: city
+}
+, class Tag {
+  confidence: 26.145628
+  tag: building
+}
+, class Tag {
+  confidence: 24.803717
+  tag: structure
+}
+, class Tag {
+  confidence: 23.050987
+  tag: sky
+}
+, class Tag {
+  confidence: 18.28395
+  tag: urban
+}
+, class Tag {
+  confidence: 14.708206
+  tag: landscape
+}
+, class Tag {
+  confidence: 14.362213
+  tag: travel
+}
+, class Tag {
+  confidence: 14.147745
+  tag: construction
+}
+, class Tag {
+  confidence: 12.7247
+  tag: tourism
+}
+, class Tag {
+  confidence: 12.323192
+  tag: suspension bridge
+}
+, class Tag {
+  confidence: 11.999284
+  tag: greenhouse
+}
+, class Tag {
+  confidence: 11.740923
+  tag: tower
+}
+, class Tag {
+  confidence: 10.789404
+  tag: steel
+}
+, class Tag {
+  confidence: 10.785161
+  tag: cityscape
+}
+, class Tag {
+  confidence: 10.423909
+  tag: summer
+}
+, class Tag {
+  confidence: 10.254175
+  tag: landmark
+}
+, class Tag {
+  confidence: 10.214591
+  tag: tourist
+}
+, class Tag {
+  confidence: 9.794044
+  tag: plant
+}
+, class Tag {
+  confidence: 9.723599
+  tag: old
+}
+, class Tag {
+  confidence: 9.689571
+  tag: industry
+}
+, class Tag {
+  confidence: 9.428382
+  tag: transportation
+}
+, class Tag {
+  confidence: 9.336013
+  tag: light
+}
+, class Tag {
+  confidence: 8.88964
+  tag: energy
+}
+, class Tag {
+  confidence: 8.763524
+  tag: business
+}
+, class Tag {
+  confidence: 8.683436
+  tag: modern
+}
+, class Tag {
+  confidence: 8.633161
+  tag: house
+}
+, class Tag {
+  confidence: 8.590999
+  tag: park
+}
+, class Tag {
+  confidence: 8.295772
+  tag: cloud
+}
+, class Tag {
+  confidence: 8.290669
+  tag: scene
+}
+, class Tag {
+  confidence: 8.132463
+  tag: power
+}
+, class Tag {
+  confidence: 8.124556
+  tag: town
+}
+, class Tag {
+  confidence: 8.06169
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.907476
+  tag: environment
+}
+, class Tag {
+  confidence: 7.9035134
+  tag: water
+}
+, class Tag {
+  confidence: 7.703333
+  tag: river
+}
+, class Tag {
+  confidence: 7.52949
+  tag: grass
+}
+, class Tag {
+  confidence: 7.516129
+  tag: day
+}
+, class Tag {
+  confidence: 7.4951873
+  tag: skyline
+}
+, class Tag {
+  confidence: 7.44819
+  tag: glass
+}
+, class Tag {
+  confidence: 7.358592
+  tag: monument
+}
+, class Tag {
+  confidence: 7.3180285
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.24019
+  tag: technology
+}
+, class Tag {
+  confidence: 7.21521
+  tag: transport
+}
+, class Tag {
+  confidence: 7.145818
+  tag: industrial
+}
+, class Tag {
+  confidence: 7.069913
+  tag: scenery
+}
+, class Tag {
+  confidence: 7.007066
+  tag: night
+}
+]
+}
+]
+  unsuccessful: null
+}

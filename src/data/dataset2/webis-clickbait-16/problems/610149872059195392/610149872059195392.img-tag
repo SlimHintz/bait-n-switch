@@ -1,0 +1,300 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHewAlrXAAEyWJM.jpg
+  tags: [class Tag {
+  confidence: 55.43409
+  tag: soccer
+}
+, class Tag {
+  confidence: 38.70202
+  tag: ball
+}
+, class Tag {
+  confidence: 38.476982
+  tag: football
+}
+, class Tag {
+  confidence: 24.615763
+  tag: grass
+}
+, class Tag {
+  confidence: 23.981762
+  tag: man
+}
+, class Tag {
+  confidence: 21.95045
+  tag: people
+}
+, class Tag {
+  confidence: 21.89197
+  tag: male
+}
+, class Tag {
+  confidence: 21.160376
+  tag: person
+}
+, class Tag {
+  confidence: 21.094156
+  tag: sport
+}
+, class Tag {
+  confidence: 20.438578
+  tag: field
+}
+, class Tag {
+  confidence: 20.197596
+  tag: game
+}
+, class Tag {
+  confidence: 19.228014
+  tag: child
+}
+, class Tag {
+  confidence: 18.676983
+  tag: player
+}
+, class Tag {
+  confidence: 18.1176
+  tag: team
+}
+, class Tag {
+  confidence: 16.965576
+  tag: caucasian
+}
+, class Tag {
+  confidence: 15.94047
+  tag: adult
+}
+, class Tag {
+  confidence: 15.661492
+  tag: competition
+}
+, class Tag {
+  confidence: 15.597263
+  tag: park
+}
+, class Tag {
+  confidence: 15.513654
+  tag: boy
+}
+, class Tag {
+  confidence: 15.080248
+  tag: family
+}
+, class Tag {
+  confidence: 14.858021
+  tag: fun
+}
+, class Tag {
+  confidence: 14.720484
+  tag: active
+}
+, class Tag {
+  confidence: 14.679222
+  tag: outdoors
+}
+, class Tag {
+  confidence: 14.378186
+  tag: happy
+}
+, class Tag {
+  confidence: 13.257135
+  tag: outside
+}
+, class Tag {
+  confidence: 13.139019
+  tag: rugby ball
+}
+, class Tag {
+  confidence: 12.390078
+  tag: athlete
+}
+, class Tag {
+  confidence: 12.151219
+  tag: kick
+}
+, class Tag {
+  confidence: 12.0890665
+  tag: children
+}
+, class Tag {
+  confidence: 12.019478
+  tag: european
+}
+, class Tag {
+  confidence: 11.971555
+  tag: playing
+}
+, class Tag {
+  confidence: 11.763372
+  tag: outdoor
+}
+, class Tag {
+  confidence: 11.676
+  tag: game equipment
+}
+, class Tag {
+  confidence: 11.62487
+  tag: greek
+}
+, class Tag {
+  confidence: 11.558161
+  tag: leisure
+}
+, class Tag {
+  confidence: 11.4256735
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.14848
+  tag: goal
+}
+, class Tag {
+  confidence: 10.972056
+  tag: childhood
+}
+, class Tag {
+  confidence: 10.948812
+  tag: kid
+}
+, class Tag {
+  confidence: 10.707952
+  tag: equipment
+}
+, class Tag {
+  confidence: 10.68766
+  tag: play
+}
+, class Tag {
+  confidence: 10.574182
+  tag: cute
+}
+, class Tag {
+  confidence: 10.516125
+  tag: summer
+}
+, class Tag {
+  confidence: 10.469405
+  tag: pass
+}
+, class Tag {
+  confidence: 10.453086
+  tag: match
+}
+, class Tag {
+  confidence: 10.407604
+  tag: championship
+}
+, class Tag {
+  confidence: 10.375719
+  tag: two
+}
+, class Tag {
+  confidence: 10.091556
+  tag: back
+}
+, class Tag {
+  confidence: 9.775673
+  tag: stadium
+}
+, class Tag {
+  confidence: 9.635208
+  tag: activity
+}
+, class Tag {
+  confidence: 9.599492
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.331598
+  tag: sports
+}
+, class Tag {
+  confidence: 9.164691
+  tag: exercise
+}
+, class Tag {
+  confidence: 8.763182
+  tag: muscular
+}
+, class Tag {
+  confidence: 8.759075
+  tag: portrait
+}
+, class Tag {
+  confidence: 8.625381
+  tag: flag
+}
+, class Tag {
+  confidence: 8.5687065
+  tag: mother
+}
+, class Tag {
+  confidence: 8.3166
+  tag: holding
+}
+, class Tag {
+  confidence: 8.302992
+  tag: smile
+}
+, class Tag {
+  confidence: 8.189217
+  tag: uniform
+}
+, class Tag {
+  confidence: 8.184413
+  tag: together
+}
+, class Tag {
+  confidence: 8.164409
+  tag: one
+}
+, class Tag {
+  confidence: 8.157497
+  tag: couple
+}
+, class Tag {
+  confidence: 8.1085205
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.969077
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.945741
+  tag: love
+}
+, class Tag {
+  confidence: 7.8587737
+  tag: training
+}
+, class Tag {
+  confidence: 7.8429537
+  tag: soccer ball
+}
+, class Tag {
+  confidence: 7.6915565
+  tag: freedom
+}
+, class Tag {
+  confidence: 7.388459
+  tag: shoot
+}
+, class Tag {
+  confidence: 7.3507724
+  tag: skill
+}
+, class Tag {
+  confidence: 7.33985
+  tag: father
+}
+, class Tag {
+  confidence: 7.3366427
+  tag: patriotic
+}
+]
+}
+]
+  unsuccessful: null
+}

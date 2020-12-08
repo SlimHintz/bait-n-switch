@@ -1,0 +1,284 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHLxqOoUgAA1ZJD.jpg
+  tags: [class Tag {
+  confidence: 29.394306
+  tag: concert
+}
+, class Tag {
+  confidence: 29.017227
+  tag: stage
+}
+, class Tag {
+  confidence: 28.96945
+  tag: performance
+}
+, class Tag {
+  confidence: 21.836405
+  tag: person
+}
+, class Tag {
+  confidence: 21.353575
+  tag: people
+}
+, class Tag {
+  confidence: 18.930273
+  tag: crowd
+}
+, class Tag {
+  confidence: 18.280127
+  tag: silhouette
+}
+, class Tag {
+  confidence: 18.241003
+  tag: platform
+}
+, class Tag {
+  confidence: 17.396194
+  tag: lights
+}
+, class Tag {
+  confidence: 16.813484
+  tag: audience
+}
+, class Tag {
+  confidence: 16.255688
+  tag: hair
+}
+, class Tag {
+  confidence: 16.117159
+  tag: cheering
+}
+, class Tag {
+  confidence: 15.882891
+  tag: stadium
+}
+, class Tag {
+  confidence: 15.220004
+  tag: nighttime
+}
+, class Tag {
+  confidence: 14.986739
+  tag: patriotic
+}
+, class Tag {
+  confidence: 14.826592
+  tag: nation
+}
+, class Tag {
+  confidence: 14.706271
+  tag: music
+}
+, class Tag {
+  confidence: 14.388193
+  tag: flag
+}
+, class Tag {
+  confidence: 14.291522
+  tag: event
+}
+, class Tag {
+  confidence: 14.218044
+  tag: man
+}
+, class Tag {
+  confidence: 14.120663
+  tag: adult
+}
+, class Tag {
+  confidence: 13.29646
+  tag: skill
+}
+, class Tag {
+  confidence: 13.252566
+  tag: male
+}
+, class Tag {
+  confidence: 13.148265
+  tag: light
+}
+, class Tag {
+  confidence: 12.9583845
+  tag: player
+}
+, class Tag {
+  confidence: 12.760123
+  tag: roriginal
+}
+, class Tag {
+  confidence: 12.176764
+  tag: training
+}
+, class Tag {
+  confidence: 12.062783
+  tag: portrait
+}
+, class Tag {
+  confidence: 12.032087
+  tag: guitar
+}
+, class Tag {
+  confidence: 11.929435
+  tag: competition
+}
+, class Tag {
+  confidence: 11.77246
+  tag: icon
+}
+, class Tag {
+  confidence: 11.704605
+  tag: muscular
+}
+, class Tag {
+  confidence: 11.2365885
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.120094
+  tag: black
+}
+, class Tag {
+  confidence: 11.078633
+  tag: championship
+}
+, class Tag {
+  confidence: 10.967258
+  tag: match
+}
+, class Tag {
+  confidence: 10.826086
+  tag: athlete
+}
+, class Tag {
+  confidence: 10.487736
+  tag: consumer
+}
+, class Tag {
+  confidence: 10.196488
+  tag: night
+}
+, class Tag {
+  confidence: 10.049988
+  tag: sport
+}
+, class Tag {
+  confidence: 9.761513
+  tag: playing
+}
+, class Tag {
+  confidence: 9.608613
+  tag: dark
+}
+, class Tag {
+  confidence: 9.584627
+  tag: band
+}
+, class Tag {
+  confidence: 9.402758
+  tag: field
+}
+, class Tag {
+  confidence: 9.214564
+  tag: park
+}
+, class Tag {
+  confidence: 8.993957
+  tag: bully
+}
+, class Tag {
+  confidence: 8.979971
+  tag: caucasian
+}
+, class Tag {
+  confidence: 8.842946
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.757246
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.389141
+  tag: party
+}
+, class Tag {
+  confidence: 8.282976
+  tag: entertainment
+}
+, class Tag {
+  confidence: 8.236889
+  tag: team
+}
+, class Tag {
+  confidence: 8.124629
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.06266
+  tag: musician
+}
+, class Tag {
+  confidence: 8.052036
+  tag: human
+}
+, class Tag {
+  confidence: 7.978371
+  tag: versus
+}
+, class Tag {
+  confidence: 7.9054313
+  tag: musical
+}
+, class Tag {
+  confidence: 7.785526
+  tag: rock
+}
+, class Tag {
+  confidence: 7.6981616
+  tag: instrument
+}
+, class Tag {
+  confidence: 7.6886334
+  tag: dangerous
+}
+, class Tag {
+  confidence: 7.6453424
+  tag: expression
+}
+, class Tag {
+  confidence: 7.619227
+  tag: face
+}
+, class Tag {
+  confidence: 7.5323715
+  tag: bright
+}
+, class Tag {
+  confidence: 7.5252886
+  tag: smoke
+}
+, class Tag {
+  confidence: 7.366391
+  tag: design
+}
+, class Tag {
+  confidence: 7.158507
+  tag: vibrant
+}
+, class Tag {
+  confidence: 7.1287956
+  tag: men
+}
+, class Tag {
+  confidence: 7.078227
+  tag: youth
+}
+, class Tag {
+  confidence: 7.0670667
+  tag: gloves
+}
+]
+}
+]
+  unsuccessful: null
+}

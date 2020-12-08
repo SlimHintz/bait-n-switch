@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHX4RLbUsAAOTP_.jpg
+  tags: [class Tag {
+  confidence: 38.754463
+  tag: aircraft
+}
+, class Tag {
+  confidence: 35.701622
+  tag: weapon
+}
+, class Tag {
+  confidence: 27.916224
+  tag: sky
+}
+, class Tag {
+  confidence: 26.36032
+  tag: projectile
+}
+, class Tag {
+  confidence: 25.38425
+  tag: rocket
+}
+, class Tag {
+  confidence: 20.532482
+  tag: airplane
+}
+, class Tag {
+  confidence: 17.709112
+  tag: wing
+}
+, class Tag {
+  confidence: 15.9407215
+  tag: missile
+}
+, class Tag {
+  confidence: 15.781865
+  tag: vehicle
+}
+, class Tag {
+  confidence: 14.1835985
+  tag: flight
+}
+, class Tag {
+  confidence: 13.954981
+  tag: flying
+}
+, class Tag {
+  confidence: 13.765932
+  tag: fly
+}
+, class Tag {
+  confidence: 13.722068
+  tag: device
+}
+, class Tag {
+  confidence: 12.874738
+  tag: clouds
+}
+, class Tag {
+  confidence: 12.785322
+  tag: travel
+}
+, class Tag {
+  confidence: 11.188443
+  tag: plane
+}
+, class Tag {
+  confidence: 11.014244
+  tag: warplane
+}
+, class Tag {
+  confidence: 10.634854
+  tag: sea
+}
+, class Tag {
+  confidence: 10.476447
+  tag: jet
+}
+, class Tag {
+  confidence: 10.453074
+  tag: conveyance
+}
+, class Tag {
+  confidence: 10.071305
+  tag: instrument
+}
+, class Tag {
+  confidence: 9.961399
+  tag: water
+}
+, class Tag {
+  confidence: 9.83643
+  tag: vacation
+}
+, class Tag {
+  confidence: 9.7850065
+  tag: air
+}
+, class Tag {
+  confidence: 9.301153
+  tag: ocean
+}
+, class Tag {
+  confidence: 8.979037
+  tag: transport
+}
+, class Tag {
+  confidence: 8.8786745
+  tag: airfoil
+}
+, class Tag {
+  confidence: 8.865739
+  tag: aviation
+}
+, class Tag {
+  confidence: 8.816
+  tag: military vehicle
+}
+, class Tag {
+  confidence: 8.386553
+  tag: cloud
+}
+, class Tag {
+  confidence: 8.273604
+  tag: landscape
+}
+, class Tag {
+  confidence: 8.084643
+  tag: transportation
+}
+, class Tag {
+  confidence: 7.827717
+  tag: wings
+}
+, class Tag {
+  confidence: 7.475597
+  tag: speed
+}
+, class Tag {
+  confidence: 7.222398
+  tag: airport
+}
+, class Tag {
+  confidence: 7.121457
+  tag: tourism
+}
+, class Tag {
+  confidence: 7.111958
+  tag: metal
+}
+]
+}
+]
+  unsuccessful: null
+}

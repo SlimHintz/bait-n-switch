@@ -1,0 +1,280 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHd-Bz8WoAAeDZD.jpg
+  tags: [class Tag {
+  confidence: 41.226734
+  tag: sea
+}
+, class Tag {
+  confidence: 37.93223
+  tag: water
+}
+, class Tag {
+  confidence: 36.58802
+  tag: coast
+}
+, class Tag {
+  confidence: 35.77739
+  tag: landscape
+}
+, class Tag {
+  confidence: 35.190296
+  tag: ocean
+}
+, class Tag {
+  confidence: 30.461685
+  tag: sky
+}
+, class Tag {
+  confidence: 29.937258
+  tag: beach
+}
+, class Tag {
+  confidence: 27.308697
+  tag: shore
+}
+, class Tag {
+  confidence: 27.290934
+  tag: summer
+}
+, class Tag {
+  confidence: 25.56477
+  tag: travel
+}
+, class Tag {
+  confidence: 24.41149
+  tag: tourism
+}
+, class Tag {
+  confidence: 24.404152
+  tag: island
+}
+, class Tag {
+  confidence: 24.119066
+  tag: shoreline
+}
+, class Tag {
+  confidence: 22.475063
+  tag: vacation
+}
+, class Tag {
+  confidence: 21.885893
+  tag: coastline
+}
+, class Tag {
+  confidence: 18.69139
+  tag: sand
+}
+, class Tag {
+  confidence: 18.64259
+  tag: clouds
+}
+, class Tag {
+  confidence: 17.915947
+  tag: scenic
+}
+, class Tag {
+  confidence: 17.557795
+  tag: cape
+}
+, class Tag {
+  confidence: 15.68562
+  tag: mountain
+}
+, class Tag {
+  confidence: 15.587487
+  tag: sun
+}
+, class Tag {
+  confidence: 15.333962
+  tag: lake
+}
+, class Tag {
+  confidence: 15.332808
+  tag: rock
+}
+, class Tag {
+  confidence: 15.203538
+  tag: horizon
+}
+, class Tag {
+  confidence: 14.933038
+  tag: boundary
+}
+, class Tag {
+  confidence: 13.902208
+  tag: scene
+}
+, class Tag {
+  confidence: 13.809574
+  tag: cloud
+}
+, class Tag {
+  confidence: 13.516311
+  tag: reflection
+}
+, class Tag {
+  confidence: 12.720306
+  tag: bay
+}
+, class Tag {
+  confidence: 12.293244
+  tag: sunny
+}
+, class Tag {
+  confidence: 12.102847
+  tag: tropical
+}
+, class Tag {
+  confidence: 12.090921
+  tag: tranquil
+}
+, class Tag {
+  confidence: 11.966791
+  tag: scenery
+}
+, class Tag {
+  confidence: 11.73832
+  tag: river
+}
+, class Tag {
+  confidence: 11.727575
+  tag: city
+}
+, class Tag {
+  confidence: 11.4092245
+  tag: europe
+}
+, class Tag {
+  confidence: 11.380354
+  tag: holiday
+}
+, class Tag {
+  confidence: 10.811367
+  tag: waves
+}
+, class Tag {
+  confidence: 10.808206
+  tag: tree
+}
+, class Tag {
+  confidence: 10.761554
+  tag: wave
+}
+, class Tag {
+  confidence: 10.756878
+  tag: boat
+}
+, class Tag {
+  confidence: 10.275341
+  tag: seascape
+}
+, class Tag {
+  confidence: 9.597273
+  tag: stone
+}
+, class Tag {
+  confidence: 9.478157
+  tag: seaside
+}
+, class Tag {
+  confidence: 9.18055
+  tag: rocks
+}
+, class Tag {
+  confidence: 8.960509
+  tag: calm
+}
+, class Tag {
+  confidence: 8.898727
+  tag: outdoor
+}
+, class Tag {
+  confidence: 8.833114
+  tag: sunset
+}
+, class Tag {
+  confidence: 8.780668
+  tag: tourist
+}
+, class Tag {
+  confidence: 8.775442
+  tag: coastal
+}
+, class Tag {
+  confidence: 8.614827
+  tag: panoramic
+}
+, class Tag {
+  confidence: 8.606216
+  tag: harbor
+}
+, class Tag {
+  confidence: 8.600442
+  tag: cliff
+}
+, class Tag {
+  confidence: 8.57849
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.459211
+  tag: forest
+}
+, class Tag {
+  confidence: 8.429716
+  tag: idyllic
+}
+, class Tag {
+  confidence: 8.36676
+  tag: resort
+}
+, class Tag {
+  confidence: 8.133834
+  tag: peaceful
+}
+, class Tag {
+  confidence: 7.913202
+  tag: sunlight
+}
+, class Tag {
+  confidence: 7.7836003
+  tag: greece
+}
+, class Tag {
+  confidence: 7.6898756
+  tag: clear
+}
+, class Tag {
+  confidence: 7.6569886
+  tag: cloudscape
+}
+, class Tag {
+  confidence: 7.623381
+  tag: ship
+}
+, class Tag {
+  confidence: 7.609316
+  tag: day
+}
+, class Tag {
+  confidence: 7.601812
+  tag: russia
+}
+, class Tag {
+  confidence: 7.4558325
+  tag: architecture
+}
+, class Tag {
+  confidence: 7.4298463
+  tag: mountains
+}
+, class Tag {
+  confidence: 7.2613845
+  tag: park
+}
+]
+}
+]
+  unsuccessful: null
+}

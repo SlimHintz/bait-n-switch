@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNj_ZPXIAAcxnL.jpg
+  tags: [class Tag {
+  confidence: 44.153027
+  tag: terrier
+}
+, class Tag {
+  confidence: 32.926792
+  tag: hunting dog
+}
+, class Tag {
+  confidence: 30.67683
+  tag: dog
+}
+, class Tag {
+  confidence: 20.74
+  tag: west highland white terrier
+}
+, class Tag {
+  confidence: 18.533354
+  tag: happy
+}
+, class Tag {
+  confidence: 18.356266
+  tag: person
+}
+, class Tag {
+  confidence: 15.239152
+  tag: adult
+}
+, class Tag {
+  confidence: 14.735344
+  tag: people
+}
+, class Tag {
+  confidence: 14.602584
+  tag: canine
+}
+, class Tag {
+  confidence: 14.013106
+  tag: smile
+}
+, class Tag {
+  confidence: 13.394407
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.304321
+  tag: domestic animal
+}
+, class Tag {
+  confidence: 12.962343
+  tag: male
+}
+, class Tag {
+  confidence: 12.879462
+  tag: man
+}
+, class Tag {
+  confidence: 12.816607
+  tag: cute
+}
+, class Tag {
+  confidence: 12.750064
+  tag: attractive
+}
+, class Tag {
+  confidence: 11.98
+  tag: dandie dinmont
+}
+, class Tag {
+  confidence: 11.823323
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.564025
+  tag: face
+}
+, class Tag {
+  confidence: 11.388298
+  tag: hair
+}
+, class Tag {
+  confidence: 11.319393
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.181369
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.614697
+  tag: fun
+}
+, class Tag {
+  confidence: 10.213924
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.848964
+  tag: joy
+}
+, class Tag {
+  confidence: 9.690935
+  tag: human
+}
+, class Tag {
+  confidence: 9.377707
+  tag: expression
+}
+, class Tag {
+  confidence: 8.92
+  tag: norfolk terrier
+}
+, class Tag {
+  confidence: 8.88
+  tag: soft-coated wheaten terrier
+}
+, class Tag {
+  confidence: 8.72809
+  tag: model
+}
+, class Tag {
+  confidence: 8.684279
+  tag: casual
+}
+, class Tag {
+  confidence: 8.678816
+  tag: home
+}
+, class Tag {
+  confidence: 8.665706
+  tag: youth
+}
+, class Tag {
+  confidence: 8.385307
+  tag: summer
+}
+, class Tag {
+  confidence: 8.278815
+  tag: one
+}
+, class Tag {
+  confidence: 8.118788
+  tag: maltese dog
+}
+, class Tag {
+  confidence: 8.098207
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.056271
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.864412
+  tag: business
+}
+, class Tag {
+  confidence: 7.772852
+  tag: relax
+}
+, class Tag {
+  confidence: 7.7679005
+  tag: studio
+}
+, class Tag {
+  confidence: 7.760632
+  tag: season
+}
+, class Tag {
+  confidence: 7.7193356
+  tag: child
+}
+, class Tag {
+  confidence: 7.6949244
+  tag: hand
+}
+, class Tag {
+  confidence: 7.674304
+  tag: lady
+}
+, class Tag {
+  confidence: 7.62838
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.1827874
+  tag: grass
+}
+, class Tag {
+  confidence: 7.1166754
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.1037474
+  tag: animal
+}
+, class Tag {
+  confidence: 7.0656095
+  tag: outdoor
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,252 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAK9S8UAAErwnb.jpg
+  tags: [class Tag {
+  confidence: 28.073202
+  tag: food
+}
+, class Tag {
+  confidence: 20.331545
+  tag: snack
+}
+, class Tag {
+  confidence: 18.840513
+  tag: delicious
+}
+, class Tag {
+  confidence: 18.695234
+  tag: dessert
+}
+, class Tag {
+  confidence: 17.80576
+  tag: yellow
+}
+, class Tag {
+  confidence: 17.59287
+  tag: tasty
+}
+, class Tag {
+  confidence: 17.328094
+  tag: sweet
+}
+, class Tag {
+  confidence: 16.13836
+  tag: fresh
+}
+, class Tag {
+  confidence: 15.645574
+  tag: plate
+}
+, class Tag {
+  confidence: 15.605637
+  tag: meal
+}
+, class Tag {
+  confidence: 13.987379
+  tag: dinner
+}
+, class Tag {
+  confidence: 13.244213
+  tag: diet
+}
+, class Tag {
+  confidence: 12.439243
+  tag: close
+}
+, class Tag {
+  confidence: 11.526861
+  tag: healthy
+}
+, class Tag {
+  confidence: 11.358788
+  tag: cake
+}
+, class Tag {
+  confidence: 11.300339
+  tag: baked
+}
+, class Tag {
+  confidence: 11.22584
+  tag: cooking
+}
+, class Tag {
+  confidence: 11.02739
+  tag: fruit
+}
+, class Tag {
+  confidence: 10.75925
+  tag: nutrition
+}
+, class Tag {
+  confidence: 10.740242
+  tag: eating
+}
+, class Tag {
+  confidence: 10.722602
+  tag: brown
+}
+, class Tag {
+  confidence: 10.703088
+  tag: eat
+}
+, class Tag {
+  confidence: 10.432875
+  tag: restaurant
+}
+, class Tag {
+  confidence: 10.396306
+  tag: orange
+}
+, class Tag {
+  confidence: 10.358458
+  tag: sugar
+}
+, class Tag {
+  confidence: 10.316127
+  tag: lunch
+}
+, class Tag {
+  confidence: 10.240186
+  tag: bread
+}
+, class Tag {
+  confidence: 10.097427
+  tag: vegetable
+}
+, class Tag {
+  confidence: 10.020268
+  tag: refreshment
+}
+, class Tag {
+  confidence: 9.729093
+  tag: bakery
+}
+, class Tag {
+  confidence: 9.728089
+  tag: breakfast
+}
+, class Tag {
+  confidence: 9.726767
+  tag: colorful
+}
+, class Tag {
+  confidence: 9.692868
+  tag: confectionery
+}
+, class Tag {
+  confidence: 9.658091
+  tag: pastry
+}
+, class Tag {
+  confidence: 9.54175
+  tag: fat
+}
+, class Tag {
+  confidence: 9.510734
+  tag: object
+}
+, class Tag {
+  confidence: 9.327089
+  tag: closeup
+}
+, class Tag {
+  confidence: 9.288886
+  tag: slice
+}
+, class Tag {
+  confidence: 9.104015
+  tag: freshness
+}
+, class Tag {
+  confidence: 9.028725
+  tag: kitchen
+}
+, class Tag {
+  confidence: 8.959536
+  tag: health
+}
+, class Tag {
+  confidence: 8.958252
+  tag: color
+}
+, class Tag {
+  confidence: 8.89253
+  tag: unhealthy
+}
+, class Tag {
+  confidence: 8.724798
+  tag: chocolate
+}
+, class Tag {
+  confidence: 8.696984
+  tag: set
+}
+, class Tag {
+  confidence: 8.410268
+  tag: cook
+}
+, class Tag {
+  confidence: 8.360341
+  tag: meat
+}
+, class Tag {
+  confidence: 7.929039
+  tag: treat
+}
+, class Tag {
+  confidence: 7.816802
+  tag: cream
+}
+, class Tag {
+  confidence: 7.7113576
+  tag: leaf
+}
+, class Tag {
+  confidence: 7.588735
+  tag: single
+}
+, class Tag {
+  confidence: 7.5737643
+  tag: dish
+}
+, class Tag {
+  confidence: 7.5687194
+  tag: salad
+}
+, class Tag {
+  confidence: 7.5317163
+  tag: cup
+}
+, class Tag {
+  confidence: 7.5162
+  tag: gold
+}
+, class Tag {
+  confidence: 7.497268
+  tag: juicy
+}
+, class Tag {
+  confidence: 7.353335
+  tag: shiny
+}
+, class Tag {
+  confidence: 7.250542
+  tag: decoration
+}
+, class Tag {
+  confidence: 7.2159123
+  tag: bright
+}
+, class Tag {
+  confidence: 7.0540295
+  tag: gourmet
+}
+, class Tag {
+  confidence: 7.051325
+  tag: piece
+}
+]
+}
+]
+  unsuccessful: null
+}

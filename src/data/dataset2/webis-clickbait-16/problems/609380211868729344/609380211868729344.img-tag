@@ -1,0 +1,88 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHT0Eu0WwAER7ZC.jpg
+  tags: [class Tag {
+  confidence: 13.30357
+  tag: person
+}
+, class Tag {
+  confidence: 12.485634
+  tag: home
+}
+, class Tag {
+  confidence: 11.544028
+  tag: business
+}
+, class Tag {
+  confidence: 11.417236
+  tag: happy
+}
+, class Tag {
+  confidence: 10.953503
+  tag: man
+}
+, class Tag {
+  confidence: 10.819495
+  tag: people
+}
+, class Tag {
+  confidence: 10.195307
+  tag: male
+}
+, class Tag {
+  confidence: 9.871955
+  tag: design
+}
+, class Tag {
+  confidence: 9.453108
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.405944
+  tag: space
+}
+, class Tag {
+  confidence: 8.88947
+  tag: cockpit
+}
+, class Tag {
+  confidence: 8.48098
+  tag: hand
+}
+, class Tag {
+  confidence: 8.47073
+  tag: silhouette
+}
+, class Tag {
+  confidence: 8.247511
+  tag: black
+}
+, class Tag {
+  confidence: 8.090912
+  tag: adult
+}
+, class Tag {
+  confidence: 7.994762
+  tag: hands
+}
+, class Tag {
+  confidence: 7.972552
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.967927
+  tag: color
+}
+, class Tag {
+  confidence: 7.691557
+  tag: caucasian
+}
+, class Tag {
+  confidence: 7.0256977
+  tag: one
+}
+]
+}
+]
+  unsuccessful: null
+}

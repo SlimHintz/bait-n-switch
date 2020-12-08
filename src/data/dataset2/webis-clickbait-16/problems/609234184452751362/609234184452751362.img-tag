@@ -1,0 +1,116 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQqrh9UEAAcIKR.png
+  tags: [class Tag {
+  confidence: 14.706111
+  tag: happy
+}
+, class Tag {
+  confidence: 14.221266
+  tag: home
+}
+, class Tag {
+  confidence: 13.802805
+  tag: people
+}
+, class Tag {
+  confidence: 12.953381
+  tag: business
+}
+, class Tag {
+  confidence: 12.189001
+  tag: design
+}
+, class Tag {
+  confidence: 11.798114
+  tag: person
+}
+, class Tag {
+  confidence: 10.342319
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.71166
+  tag: male
+}
+, class Tag {
+  confidence: 9.64917
+  tag: color
+}
+, class Tag {
+  confidence: 9.376271
+  tag: hand
+}
+, class Tag {
+  confidence: 9.200817
+  tag: man
+}
+, class Tag {
+  confidence: 9.154109
+  tag: caucasian
+}
+, class Tag {
+  confidence: 9.132243
+  tag: computer
+}
+, class Tag {
+  confidence: 9.11212
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.913699
+  tag: smile
+}
+, class Tag {
+  confidence: 8.873613
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.8412075
+  tag: internet
+}
+, class Tag {
+  confidence: 8.270317
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.249327
+  tag: adult
+}
+, class Tag {
+  confidence: 7.948723
+  tag: communication
+}
+, class Tag {
+  confidence: 7.833759
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.754482
+  tag: copy space
+}
+, class Tag {
+  confidence: 7.6811666
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.5497518
+  tag: model
+}
+, class Tag {
+  confidence: 7.379463
+  tag: space
+}
+, class Tag {
+  confidence: 7.2935243
+  tag: black
+}
+, class Tag {
+  confidence: 7.0699697
+  tag: summer
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,268 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHaEH24XAAABODp.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: berry
+}
+, class Tag {
+  confidence: 100.0
+  tag: strawberry
+}
+, class Tag {
+  confidence: 88.17691
+  tag: fruit
+}
+, class Tag {
+  confidence: 64.952
+  tag: edible fruit
+}
+, class Tag {
+  confidence: 53.950535
+  tag: food
+}
+, class Tag {
+  confidence: 51.020714
+  tag: produce
+}
+, class Tag {
+  confidence: 41.154037
+  tag: strawberries
+}
+, class Tag {
+  confidence: 36.46485
+  tag: sweet
+}
+, class Tag {
+  confidence: 34.430984
+  tag: fresh
+}
+, class Tag {
+  confidence: 34.158493
+  tag: dessert
+}
+, class Tag {
+  confidence: 34.012135
+  tag: juicy
+}
+, class Tag {
+  confidence: 30.566038
+  tag: healthy
+}
+, class Tag {
+  confidence: 28.073107
+  tag: tasty
+}
+, class Tag {
+  confidence: 27.784473
+  tag: diet
+}
+, class Tag {
+  confidence: 25.826822
+  tag: ripe
+}
+, class Tag {
+  confidence: 25.704344
+  tag: delicious
+}
+, class Tag {
+  confidence: 24.299713
+  tag: melon
+}
+, class Tag {
+  confidence: 22.963776
+  tag: pepper
+}
+, class Tag {
+  confidence: 22.531538
+  tag: berries
+}
+, class Tag {
+  confidence: 21.692057
+  tag: freshness
+}
+, class Tag {
+  confidence: 21.064064
+  tag: organic
+}
+, class Tag {
+  confidence: 19.821892
+  tag: nutrition
+}
+, class Tag {
+  confidence: 19.470943
+  tag: summer
+}
+, class Tag {
+  confidence: 19.258465
+  tag: snack
+}
+, class Tag {
+  confidence: 18.999552
+  tag: vitamin
+}
+, class Tag {
+  confidence: 18.531506
+  tag: health
+}
+, class Tag {
+  confidence: 17.924124
+  tag: close
+}
+, class Tag {
+  confidence: 17.569593
+  tag: fruits
+}
+, class Tag {
+  confidence: 17.008158
+  tag: eat
+}
+, class Tag {
+  confidence: 16.419947
+  tag: vegetarian
+}
+, class Tag {
+  confidence: 16.212185
+  tag: closeup
+}
+, class Tag {
+  confidence: 15.869413
+  tag: raw
+}
+, class Tag {
+  confidence: 15.83975
+  tag: eating
+}
+, class Tag {
+  confidence: 13.348582
+  tag: leaf
+}
+, class Tag {
+  confidence: 13.281841
+  tag: refreshment
+}
+, class Tag {
+  confidence: 13.1092005
+  tag: vitamins
+}
+, class Tag {
+  confidence: 12.445586
+  tag: market
+}
+, class Tag {
+  confidence: 12.356875
+  tag: natural
+}
+, class Tag {
+  confidence: 11.90004
+  tag: sugar
+}
+, class Tag {
+  confidence: 11.725831
+  tag: breakfast
+}
+, class Tag {
+  confidence: 11.449836
+  tag: gourmet
+}
+, class Tag {
+  confidence: 11.420313
+  tag: agriculture
+}
+, class Tag {
+  confidence: 11.122211
+  tag: cut
+}
+, class Tag {
+  confidence: 10.789164
+  tag: ingredient
+}
+, class Tag {
+  confidence: 10.60373
+  tag: garden
+}
+, class Tag {
+  confidence: 10.560001
+  tag: vegetable
+}
+, class Tag {
+  confidence: 10.414344
+  tag: edible
+}
+, class Tag {
+  confidence: 10.381991
+  tag: color
+}
+, class Tag {
+  confidence: 9.70803
+  tag: colorful
+}
+, class Tag {
+  confidence: 9.211522
+  tag: seed
+}
+, class Tag {
+  confidence: 8.705072
+  tag: dieting
+}
+, class Tag {
+  confidence: 8.523418
+  tag: detail
+}
+, class Tag {
+  confidence: 8.495712
+  tag: bowl
+}
+, class Tag {
+  confidence: 8.399054
+  tag: plant
+}
+, class Tag {
+  confidence: 8.327565
+  tag: bell pepper
+}
+, class Tag {
+  confidence: 8.1498
+  tag: plate
+}
+, class Tag {
+  confidence: 8.076776
+  tag: fruity
+}
+, class Tag {
+  confidence: 8.057539
+  tag: raspberry
+}
+, class Tag {
+  confidence: 8.0358
+  tag: rampart
+}
+, class Tag {
+  confidence: 7.951643
+  tag: vibrant
+}
+, class Tag {
+  confidence: 7.9512587
+  tag: juice
+}
+, class Tag {
+  confidence: 7.509548
+  tag: cuisine
+}
+, class Tag {
+  confidence: 7.411747
+  tag: group
+}
+, class Tag {
+  confidence: 7.0650063
+  tag: orange
+}
+, class Tag {
+  confidence: 7.019794
+  tag: bud
+}
+]
+}
+]
+  unsuccessful: null
+}

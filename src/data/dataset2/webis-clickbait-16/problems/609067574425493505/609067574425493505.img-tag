@@ -1,0 +1,200 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPXk5wWMAAfj6Y.png
+  tags: [class Tag {
+  confidence: 73.48033
+  tag: racket
+}
+, class Tag {
+  confidence: 48.21803
+  tag: tennis
+}
+, class Tag {
+  confidence: 46.736
+  tag: sports implement
+}
+, class Tag {
+  confidence: 34.18525
+  tag: ball
+}
+, class Tag {
+  confidence: 26.141027
+  tag: player
+}
+, class Tag {
+  confidence: 24.3
+  tag: bathing cap
+}
+, class Tag {
+  confidence: 23.859814
+  tag: sport
+}
+, class Tag {
+  confidence: 20.042076
+  tag: cap
+}
+, class Tag {
+  confidence: 19.634573
+  tag: athlete
+}
+, class Tag {
+  confidence: 18.744194
+  tag: tennis ball
+}
+, class Tag {
+  confidence: 18.455233
+  tag: court
+}
+, class Tag {
+  confidence: 18.091883
+  tag: competition
+}
+, class Tag {
+  confidence: 16.22696
+  tag: game
+}
+, class Tag {
+  confidence: 15.735072
+  tag: exercise
+}
+, class Tag {
+  confidence: 14.836374
+  tag: active
+}
+, class Tag {
+  confidence: 14.555006
+  tag: headdress
+}
+, class Tag {
+  confidence: 13.7949705
+  tag: clothing
+}
+, class Tag {
+  confidence: 13.654393
+  tag: fitness
+}
+, class Tag {
+  confidence: 13.646505
+  tag: man
+}
+, class Tag {
+  confidence: 13.585038
+  tag: match
+}
+, class Tag {
+  confidence: 13.505483
+  tag: play
+}
+, class Tag {
+  confidence: 12.719837
+  tag: male
+}
+, class Tag {
+  confidence: 12.587495
+  tag: fun
+}
+, class Tag {
+  confidence: 12.306403
+  tag: person
+}
+, class Tag {
+  confidence: 12.090644
+  tag: people
+}
+, class Tag {
+  confidence: 11.531842
+  tag: sports
+}
+, class Tag {
+  confidence: 11.250909
+  tag: racquet
+}
+, class Tag {
+  confidence: 10.908179
+  tag: recreation
+}
+, class Tag {
+  confidence: 10.83227
+  tag: playing
+}
+, class Tag {
+  confidence: 10.226536
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.74244
+  tag: adult
+}
+, class Tag {
+  confidence: 9.477302
+  tag: net
+}
+, class Tag {
+  confidence: 9.450232
+  tag: activity
+}
+, class Tag {
+  confidence: 9.438705
+  tag: athletic
+}
+, class Tag {
+  confidence: 9.356743
+  tag: equipment
+}
+, class Tag {
+  confidence: 9.03799
+  tag: caucasian
+}
+, class Tag {
+  confidence: 8.812743
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.545428
+  tag: serve
+}
+, class Tag {
+  confidence: 8.175422
+  tag: happy
+}
+, class Tag {
+  confidence: 7.8019285
+  tag: summer
+}
+, class Tag {
+  confidence: 7.719209
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.6519666
+  tag: compete
+}
+, class Tag {
+  confidence: 7.595658
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.516633
+  tag: combatant
+}
+, class Tag {
+  confidence: 7.5
+  tag: game equipment
+}
+, class Tag {
+  confidence: 7.4453206
+  tag: action
+}
+, class Tag {
+  confidence: 7.3644996
+  tag: outside
+}
+, class Tag {
+  confidence: 7.0366983
+  tag: tournament
+}
+]
+}
+]
+  unsuccessful: null
+}

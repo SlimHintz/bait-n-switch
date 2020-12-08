@@ -1,0 +1,224 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHN-8RFWMAAeOr2.png
+  tags: [class Tag {
+  confidence: 23.980934
+  tag: people
+}
+, class Tag {
+  confidence: 21.836987
+  tag: summer
+}
+, class Tag {
+  confidence: 19.676266
+  tag: snorkel
+}
+, class Tag {
+  confidence: 18.575981
+  tag: water
+}
+, class Tag {
+  confidence: 17.66702
+  tag: person
+}
+, class Tag {
+  confidence: 17.499493
+  tag: sea
+}
+, class Tag {
+  confidence: 16.424606
+  tag: man
+}
+, class Tag {
+  confidence: 16.085136
+  tag: male
+}
+, class Tag {
+  confidence: 15.808
+  tag: breathing device
+}
+, class Tag {
+  confidence: 15.291718
+  tag: adult
+}
+, class Tag {
+  confidence: 15.093784
+  tag: caucasian
+}
+, class Tag {
+  confidence: 14.955527
+  tag: sky
+}
+, class Tag {
+  confidence: 14.693502
+  tag: beach
+}
+, class Tag {
+  confidence: 14.325991
+  tag: ocean
+}
+, class Tag {
+  confidence: 13.9487915
+  tag: smile
+}
+, class Tag {
+  confidence: 13.922375
+  tag: swimming
+}
+, class Tag {
+  confidence: 13.542206
+  tag: outdoors
+}
+, class Tag {
+  confidence: 13.452716
+  tag: vacation
+}
+, class Tag {
+  confidence: 13.391503
+  tag: outdoor
+}
+, class Tag {
+  confidence: 13.23748
+  tag: relax
+}
+, class Tag {
+  confidence: 13.050004
+  tag: happy
+}
+, class Tag {
+  confidence: 12.6417055
+  tag: attractive
+}
+, class Tag {
+  confidence: 12.456296
+  tag: sun
+}
+, class Tag {
+  confidence: 12.371697
+  tag: fun
+}
+, class Tag {
+  confidence: 12.321191
+  tag: happiness
+}
+, class Tag {
+  confidence: 12.245458
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.363909
+  tag: device
+}
+, class Tag {
+  confidence: 10.756723
+  tag: boy
+}
+, class Tag {
+  confidence: 10.640553
+  tag: pretty
+}
+, class Tag {
+  confidence: 10.621188
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.560344
+  tag: outside
+}
+, class Tag {
+  confidence: 10.154442
+  tag: travel
+}
+, class Tag {
+  confidence: 9.813308
+  tag: casual
+}
+, class Tag {
+  confidence: 9.596506
+  tag: tropical
+}
+, class Tag {
+  confidence: 9.531652
+  tag: freedom
+}
+, class Tag {
+  confidence: 9.503971
+  tag: relaxation
+}
+, class Tag {
+  confidence: 9.356573
+  tag: sexy
+}
+, class Tag {
+  confidence: 9.336256
+  tag: holiday
+}
+, class Tag {
+  confidence: 9.006225
+  tag: swimmer
+}
+, class Tag {
+  confidence: 8.724785
+  tag: fashion
+}
+, class Tag {
+  confidence: 8.414761
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.153822
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.138015
+  tag: slim
+}
+, class Tag {
+  confidence: 8.12354
+  tag: fit
+}
+, class Tag {
+  confidence: 7.563455
+  tag: work
+}
+, class Tag {
+  confidence: 7.4891353
+  tag: sunny
+}
+, class Tag {
+  confidence: 7.407779
+  tag: enjoy
+}
+, class Tag {
+  confidence: 7.3170705
+  tag: athlete
+}
+, class Tag {
+  confidence: 7.3152623
+  tag: hand
+}
+, class Tag {
+  confidence: 7.302415
+  tag: joy
+}
+, class Tag {
+  confidence: 7.1578684
+  tag: body
+}
+, class Tag {
+  confidence: 7.0890474
+  tag: looking
+}
+, class Tag {
+  confidence: 7.017404
+  tag: women
+}
+, class Tag {
+  confidence: 7.0081377
+  tag: coast
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,64 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHGMs4jWgAAyyOM.jpg
+  tags: [class Tag {
+  confidence: 79.716194
+  tag: saltshaker
+}
+, class Tag {
+  confidence: 63.696888
+  tag: shaker
+}
+, class Tag {
+  confidence: 58.466988
+  tag: container
+}
+, class Tag {
+  confidence: 9.260677
+  tag: glass
+}
+, class Tag {
+  confidence: 9.003122
+  tag: cap
+}
+, class Tag {
+  confidence: 8.397872
+  tag: black
+}
+, class Tag {
+  confidence: 8.277528
+  tag: thimble
+}
+, class Tag {
+  confidence: 7.8405604
+  tag: health
+}
+, class Tag {
+  confidence: 7.7868295
+  tag: bottle
+}
+, class Tag {
+  confidence: 7.7507586
+  tag: food
+}
+, class Tag {
+  confidence: 7.4619284
+  tag: toy
+}
+, class Tag {
+  confidence: 7.301149
+  tag: liquid
+}
+, class Tag {
+  confidence: 7.133188
+  tag: metal
+}
+, class Tag {
+  confidence: 7.1292825
+  tag: traditional
+}
+]
+}
+]
+  unsuccessful: null
+}

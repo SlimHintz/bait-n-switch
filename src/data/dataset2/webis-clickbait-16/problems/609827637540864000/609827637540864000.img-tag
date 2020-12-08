@@ -1,0 +1,312 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHaLAVdWwAAQL27.jpg
+  tags: [class Tag {
+  confidence: 29.35905
+  tag: smiling
+}
+, class Tag {
+  confidence: 28.617592
+  tag: caucasian
+}
+, class Tag {
+  confidence: 27.837715
+  tag: people
+}
+, class Tag {
+  confidence: 27.527882
+  tag: person
+}
+, class Tag {
+  confidence: 27.197128
+  tag: adult
+}
+, class Tag {
+  confidence: 26.662628
+  tag: attractive
+}
+, class Tag {
+  confidence: 26.238974
+  tag: happy
+}
+, class Tag {
+  confidence: 26.11287
+  tag: smile
+}
+, class Tag {
+  confidence: 23.080845
+  tag: male
+}
+, class Tag {
+  confidence: 23.01136
+  tag: portrait
+}
+, class Tag {
+  confidence: 21.892962
+  tag: man
+}
+, class Tag {
+  confidence: 20.194094
+  tag: business
+}
+, class Tag {
+  confidence: 19.980738
+  tag: pretty
+}
+, class Tag {
+  confidence: 18.59237
+  tag: casual
+}
+, class Tag {
+  confidence: 18.55151
+  tag: cheerful
+}
+, class Tag {
+  confidence: 17.535797
+  tag: looking
+}
+, class Tag {
+  confidence: 17.284883
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 16.873615
+  tag: happiness
+}
+, class Tag {
+  confidence: 15.516673
+  tag: professional
+}
+, class Tag {
+  confidence: 15.324433
+  tag: office
+}
+, class Tag {
+  confidence: 15.02
+  tag: ping-pong ball
+}
+, class Tag {
+  confidence: 14.885167
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 14.813159
+  tag: corporate
+}
+, class Tag {
+  confidence: 14.376953
+  tag: model
+}
+, class Tag {
+  confidence: 13.459911
+  tag: executive
+}
+, class Tag {
+  confidence: 13.352293
+  tag: success
+}
+, class Tag {
+  confidence: 13.347815
+  tag: 20s
+}
+, class Tag {
+  confidence: 13.082309
+  tag: handsome
+}
+, class Tag {
+  confidence: 13.067137
+  tag: cute
+}
+, class Tag {
+  confidence: 13.030559
+  tag: face
+}
+, class Tag {
+  confidence: 12.962731
+  tag: women
+}
+, class Tag {
+  confidence: 12.749878
+  tag: indoors
+}
+, class Tag {
+  confidence: 12.700507
+  tag: lady
+}
+, class Tag {
+  confidence: 12.504262
+  tag: confident
+}
+, class Tag {
+  confidence: 12.391452
+  tag: laptop
+}
+, class Tag {
+  confidence: 11.945342
+  tag: standing
+}
+, class Tag {
+  confidence: 11.200966
+  tag: working
+}
+, class Tag {
+  confidence: 10.869467
+  tag: sitting
+}
+, class Tag {
+  confidence: 10.807144
+  tag: successful
+}
+, class Tag {
+  confidence: 10.713117
+  tag: student
+}
+, class Tag {
+  confidence: 10.574396
+  tag: ball
+}
+, class Tag {
+  confidence: 10.571659
+  tag: businessman
+}
+, class Tag {
+  confidence: 10.523438
+  tag: holding
+}
+, class Tag {
+  confidence: 10.384004
+  tag: studio
+}
+, class Tag {
+  confidence: 10.252552
+  tag: american
+}
+, class Tag {
+  confidence: 9.990989
+  tag: home
+}
+, class Tag {
+  confidence: 9.968743
+  tag: phone
+}
+, class Tag {
+  confidence: 9.922837
+  tag: work
+}
+, class Tag {
+  confidence: 9.545055
+  tag: one
+}
+, class Tag {
+  confidence: 9.541124
+  tag: brunette
+}
+, class Tag {
+  confidence: 9.450997
+  tag: talking
+}
+, class Tag {
+  confidence: 9.412277
+  tag: computer
+}
+, class Tag {
+  confidence: 9.388393
+  tag: smart
+}
+, class Tag {
+  confidence: 9.338646
+  tag: telephone
+}
+, class Tag {
+  confidence: 9.265842
+  tag: youth
+}
+, class Tag {
+  confidence: 9.247371
+  tag: expression
+}
+, class Tag {
+  confidence: 9.119165
+  tag: friendly
+}
+, class Tag {
+  confidence: 9.073621
+  tag: life
+}
+, class Tag {
+  confidence: 9.012
+  tag: game equipment
+}
+, class Tag {
+  confidence: 8.981442
+  tag: human
+}
+, class Tag {
+  confidence: 8.978996
+  tag: korean
+}
+, class Tag {
+  confidence: 8.925701
+  tag: hand
+}
+, class Tag {
+  confidence: 8.91719
+  tag: job
+}
+, class Tag {
+  confidence: 8.909169
+  tag: clothing
+}
+, class Tag {
+  confidence: 8.665163
+  tag: boy
+}
+, class Tag {
+  confidence: 8.590661
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.395405
+  tag: guy
+}
+, class Tag {
+  confidence: 8.341597
+  tag: communication
+}
+, class Tag {
+  confidence: 8.339513
+  tag: occupation
+}
+, class Tag {
+  confidence: 8.003777
+  tag: fun
+}
+, class Tag {
+  confidence: 7.732787
+  tag: businesspeople
+}
+, class Tag {
+  confidence: 7.667211
+  tag: laughing
+}
+, class Tag {
+  confidence: 7.6212363
+  tag: one person
+}
+, class Tag {
+  confidence: 7.4067297
+  tag: alone
+}
+, class Tag {
+  confidence: 7.3766212
+  tag: technology
+}
+, class Tag {
+  confidence: 7.0216203
+  tag: men
+}
+]
+}
+]
+  unsuccessful: null
+}

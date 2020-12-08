@@ -1,0 +1,52 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHez2ONWcAA83Lp.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: crowd
+}
+, class Tag {
+  confidence: 13.08926
+  tag: people
+}
+, class Tag {
+  confidence: 11.285523
+  tag: man
+}
+, class Tag {
+  confidence: 11.0367365
+  tag: silhouette
+}
+, class Tag {
+  confidence: 10.502036
+  tag: male
+}
+, class Tag {
+  confidence: 8.993649
+  tag: group
+}
+, class Tag {
+  confidence: 8.928599
+  tag: audience
+}
+, class Tag {
+  confidence: 8.434965
+  tag: event
+}
+, class Tag {
+  confidence: 7.770926
+  tag: team
+}
+, class Tag {
+  confidence: 7.6476507
+  tag: adult
+}
+, class Tag {
+  confidence: 7.4669375
+  tag: lights
+}
+]
+}
+]
+  unsuccessful: null
+}

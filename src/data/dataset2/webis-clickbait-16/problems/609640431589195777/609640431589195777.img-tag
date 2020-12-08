@@ -1,0 +1,116 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHXf7RyUYAAIXgY.png
+  tags: [class Tag {
+  confidence: 57.851326
+  tag: billboard
+}
+, class Tag {
+  confidence: 43.38357
+  tag: signboard
+}
+, class Tag {
+  confidence: 32.80153
+  tag: structure
+}
+, class Tag {
+  confidence: 29.955791
+  tag: television
+}
+, class Tag {
+  confidence: 16.875145
+  tag: sky
+}
+, class Tag {
+  confidence: 15.936431
+  tag: web site
+}
+, class Tag {
+  confidence: 14.343072
+  tag: broadcasting
+}
+, class Tag {
+  confidence: 14.121291
+  tag: medium
+}
+, class Tag {
+  confidence: 13.115844
+  tag: display
+}
+, class Tag {
+  confidence: 10.852547
+  tag: telecommunication
+}
+, class Tag {
+  confidence: 10.291633
+  tag: landscape
+}
+, class Tag {
+  confidence: 10.110932
+  tag: publication
+}
+, class Tag {
+  confidence: 9.482292
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.177083
+  tag: travel
+}
+, class Tag {
+  confidence: 8.709957
+  tag: press
+}
+, class Tag {
+  confidence: 8.624211
+  tag: blank
+}
+, class Tag {
+  confidence: 8.285301
+  tag: horizon
+}
+, class Tag {
+  confidence: 8.218929
+  tag: city
+}
+, class Tag {
+  confidence: 7.9427967
+  tag: business
+}
+, class Tag {
+  confidence: 7.84
+  tag: telecommunication system
+}
+, class Tag {
+  confidence: 7.6049023
+  tag: field
+}
+, class Tag {
+  confidence: 7.5835223
+  tag: sport
+}
+, class Tag {
+  confidence: 7.453388
+  tag: tree
+}
+, class Tag {
+  confidence: 7.4522643
+  tag: urban
+}
+, class Tag {
+  confidence: 7.2399416
+  tag: cloud
+}
+, class Tag {
+  confidence: 7.133337
+  tag: print media
+}
+, class Tag {
+  confidence: 7.0302725
+  tag: summer
+}
+]
+}
+]
+  unsuccessful: null
+}

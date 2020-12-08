@@ -1,0 +1,164 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHcyKWFWcAA55tK.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: puzzle
+}
+, class Tag {
+  confidence: 28.406836
+  tag: jigsaw puzzle
+}
+, class Tag {
+  confidence: 27.760328
+  tag: game
+}
+, class Tag {
+  confidence: 20.683157
+  tag: jigsaw
+}
+, class Tag {
+  confidence: 16.599638
+  tag: business
+}
+, class Tag {
+  confidence: 16.518137
+  tag: design
+}
+, class Tag {
+  confidence: 16.232946
+  tag: solution
+}
+, class Tag {
+  confidence: 15.772355
+  tag: pieces
+}
+, class Tag {
+  confidence: 14.901153
+  tag: connection
+}
+, class Tag {
+  confidence: 14.622255
+  tag: pattern
+}
+, class Tag {
+  confidence: 12.869543
+  tag: idea
+}
+, class Tag {
+  confidence: 12.821963
+  tag: symbol
+}
+, class Tag {
+  confidence: 12.422268
+  tag: success
+}
+, class Tag {
+  confidence: 12.377609
+  tag: piece
+}
+, class Tag {
+  confidence: 12.301183
+  tag: graphic
+}
+, class Tag {
+  confidence: 11.3335
+  tag: concepts
+}
+, class Tag {
+  confidence: 11.123707
+  tag: texture
+}
+, class Tag {
+  confidence: 10.969346
+  tag: 3d
+}
+, class Tag {
+  confidence: 10.430707
+  tag: color
+}
+, class Tag {
+  confidence: 9.650058
+  tag: render
+}
+, class Tag {
+  confidence: 9.211874
+  tag: connect
+}
+, class Tag {
+  confidence: 8.934292
+  tag: element
+}
+, class Tag {
+  confidence: 8.779887
+  tag: toy
+}
+, class Tag {
+  confidence: 8.714214
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 8.661883
+  tag: challenge
+}
+, class Tag {
+  confidence: 8.61366
+  tag: ideas
+}
+, class Tag {
+  confidence: 8.559966
+  tag: shape
+}
+, class Tag {
+  confidence: 8.465226
+  tag: problem
+}
+, class Tag {
+  confidence: 8.4309025
+  tag: conceptual
+}
+, class Tag {
+  confidence: 8.4075
+  tag: metaphor
+}
+, class Tag {
+  confidence: 8.376336
+  tag: teamwork
+}
+, class Tag {
+  confidence: 8.360954
+  tag: link
+}
+, class Tag {
+  confidence: 8.007283
+  tag: group
+}
+, class Tag {
+  confidence: 7.9334803
+  tag: join
+}
+, class Tag {
+  confidence: 7.8657656
+  tag: art
+}
+, class Tag {
+  confidence: 7.7647057
+  tag: sign
+}
+, class Tag {
+  confidence: 7.518519
+  tag: icon
+}
+, class Tag {
+  confidence: 7.1726003
+  tag: blank
+}
+, class Tag {
+  confidence: 7.055284
+  tag: solve
+}
+]
+}
+]
+  unsuccessful: null
+}

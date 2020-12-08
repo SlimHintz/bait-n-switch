@@ -1,0 +1,92 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHMjKxBVIAAOnSX.jpg
+  tags: [class Tag {
+  confidence: 53.172005
+  tag: dog
+}
+, class Tag {
+  confidence: 37.537148
+  tag: canine
+}
+, class Tag {
+  confidence: 36.919693
+  tag: domestic animal
+}
+, class Tag {
+  confidence: 32.965233
+  tag: newfoundland
+}
+, class Tag {
+  confidence: 25.671274
+  tag: animal
+}
+, class Tag {
+  confidence: 18.06
+  tag: bouvier des flandres
+}
+, class Tag {
+  confidence: 14.446921
+  tag: shepherd dog
+}
+, class Tag {
+  confidence: 13.020716
+  tag: black
+}
+, class Tag {
+  confidence: 12.681373
+  tag: poodle
+}
+, class Tag {
+  confidence: 10.415705
+  tag: silhouette
+}
+, class Tag {
+  confidence: 10.401387
+  tag: grass
+}
+, class Tag {
+  confidence: 9.859467
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.16
+  tag: standard poodle
+}
+, class Tag {
+  confidence: 8.54
+  tag: kerry blue terrier
+}
+, class Tag {
+  confidence: 8.310816
+  tag: person
+}
+, class Tag {
+  confidence: 8.073823
+  tag: male
+}
+, class Tag {
+  confidence: 7.826019
+  tag: summer
+}
+, class Tag {
+  confidence: 7.795428
+  tag: field
+}
+, class Tag {
+  confidence: 7.640577
+  tag: happy
+}
+, class Tag {
+  confidence: 7.6256557
+  tag: man
+}
+, class Tag {
+  confidence: 7.024931
+  tag: design
+}
+]
+}
+]
+  unsuccessful: null
+}

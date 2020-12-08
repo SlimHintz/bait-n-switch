@@ -1,0 +1,256 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHVJFS2UYAAE2Lo.jpg
+  tags: [class Tag {
+  confidence: 68.18229
+  tag: pink
+}
+, class Tag {
+  confidence: 66.88322
+  tag: flower
+}
+, class Tag {
+  confidence: 39.443768
+  tag: petal
+}
+, class Tag {
+  confidence: 38.931507
+  tag: blossom
+}
+, class Tag {
+  confidence: 38.039944
+  tag: plant
+}
+, class Tag {
+  confidence: 36.87287
+  tag: flowers
+}
+, class Tag {
+  confidence: 32.75966
+  tag: bloom
+}
+, class Tag {
+  confidence: 29.815973
+  tag: floral
+}
+, class Tag {
+  confidence: 29.226284
+  tag: garden
+}
+, class Tag {
+  confidence: 28.942066
+  tag: blooming
+}
+, class Tag {
+  confidence: 27.865189
+  tag: spring
+}
+, class Tag {
+  confidence: 24.707056
+  tag: clover
+}
+, class Tag {
+  confidence: 24.093842
+  tag: flora
+}
+, class Tag {
+  confidence: 22.168934
+  tag: botany
+}
+, class Tag {
+  confidence: 20.823103
+  tag: leaf
+}
+, class Tag {
+  confidence: 20.018194
+  tag: summer
+}
+, class Tag {
+  confidence: 18.448898
+  tag: close
+}
+, class Tag {
+  confidence: 18.123001
+  tag: petals
+}
+, class Tag {
+  confidence: 16.946438
+  tag: botanical
+}
+, class Tag {
+  confidence: 16.170944
+  tag: bouquet
+}
+, class Tag {
+  confidence: 15.664431
+  tag: purple
+}
+, class Tag {
+  confidence: 15.274511
+  tag: natural
+}
+, class Tag {
+  confidence: 15.2575865
+  tag: stem
+}
+, class Tag {
+  confidence: 15.225383
+  tag: season
+}
+, class Tag {
+  confidence: 15.148333
+  tag: bright
+}
+, class Tag {
+  confidence: 15.087573
+  tag: color
+}
+, class Tag {
+  confidence: 14.005614
+  tag: gardening
+}
+, class Tag {
+  confidence: 13.667272
+  tag: detail
+}
+, class Tag {
+  confidence: 13.219104
+  tag: fresh
+}
+, class Tag {
+  confidence: 12.595084
+  tag: herb
+}
+, class Tag {
+  confidence: 12.303053
+  tag: growth
+}
+, class Tag {
+  confidence: 12.162261
+  tag: leaves
+}
+, class Tag {
+  confidence: 11.965419
+  tag: wild
+}
+, class Tag {
+  confidence: 11.806496
+  tag: daisy
+}
+, class Tag {
+  confidence: 11.803806
+  tag: vase
+}
+, class Tag {
+  confidence: 11.530178
+  tag: closeup
+}
+, class Tag {
+  confidence: 10.599123
+  tag: plants
+}
+, class Tag {
+  confidence: 10.0992365
+  tag: yellow
+}
+, class Tag {
+  confidence: 9.712856
+  tag: stamen
+}
+, class Tag {
+  confidence: 9.620677
+  tag: tropical
+}
+, class Tag {
+  confidence: 9.515264
+  tag: meadow
+}
+, class Tag {
+  confidence: 9.413968
+  tag: vibrant
+}
+, class Tag {
+  confidence: 9.253109
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.824533
+  tag: pattern
+}
+, class Tag {
+  confidence: 8.721581
+  tag: coil
+}
+, class Tag {
+  confidence: 8.62948
+  tag: colors
+}
+, class Tag {
+  confidence: 8.341655
+  tag: bunch
+}
+, class Tag {
+  confidence: 8.30087
+  tag: day
+}
+, class Tag {
+  confidence: 8.288745
+  tag: life
+}
+, class Tag {
+  confidence: 8.187048
+  tag: decoration
+}
+, class Tag {
+  confidence: 8.150431
+  tag: single
+}
+, class Tag {
+  confidence: 8.0649805
+  tag: freshness
+}
+, class Tag {
+  confidence: 7.994137
+  tag: bud
+}
+, class Tag {
+  confidence: 7.7852726
+  tag: gift
+}
+, class Tag {
+  confidence: 7.7523723
+  tag: seasonal
+}
+, class Tag {
+  confidence: 7.652191
+  tag: grass
+}
+, class Tag {
+  confidence: 7.4893727
+  tag: field
+}
+, class Tag {
+  confidence: 7.3363557
+  tag: environment
+}
+, class Tag {
+  confidence: 7.2799582
+  tag: lily
+}
+, class Tag {
+  confidence: 7.264137
+  tag: gardens
+}
+, class Tag {
+  confidence: 7.021085
+  tag: head
+}
+, class Tag {
+  confidence: 7.0165977
+  tag: pretty
+}
+]
+}
+]
+  unsuccessful: null
+}

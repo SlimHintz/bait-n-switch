@@ -1,0 +1,420 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHZtLvnUsAIe54z.jpg
+  tags: [class Tag {
+  confidence: 53.02762
+  tag: child
+}
+, class Tag {
+  confidence: 47.033035
+  tag: family
+}
+, class Tag {
+  confidence: 44.45491
+  tag: parent
+}
+, class Tag {
+  confidence: 42.271145
+  tag: mother
+}
+, class Tag {
+  confidence: 40.533516
+  tag: happy
+}
+, class Tag {
+  confidence: 37.319702
+  tag: love
+}
+, class Tag {
+  confidence: 36.049072
+  tag: together
+}
+, class Tag {
+  confidence: 34.8179
+  tag: children
+}
+, class Tag {
+  confidence: 34.22101
+  tag: boy
+}
+, class Tag {
+  confidence: 34.006935
+  tag: happiness
+}
+, class Tag {
+  confidence: 33.995598
+  tag: kid
+}
+, class Tag {
+  confidence: 32.41364
+  tag: childhood
+}
+, class Tag {
+  confidence: 30.231276
+  tag: smiling
+}
+, class Tag {
+  confidence: 30.104425
+  tag: sibling
+}
+, class Tag {
+  confidence: 29.733711
+  tag: fun
+}
+, class Tag {
+  confidence: 29.607899
+  tag: smile
+}
+, class Tag {
+  confidence: 28.621986
+  tag: people
+}
+, class Tag {
+  confidence: 27.712973
+  tag: cute
+}
+, class Tag {
+  confidence: 27.452694
+  tag: little
+}
+, class Tag {
+  confidence: 26.113955
+  tag: daughter
+}
+, class Tag {
+  confidence: 24.646212
+  tag: baby
+}
+, class Tag {
+  confidence: 24.525185
+  tag: caucasian
+}
+, class Tag {
+  confidence: 23.897402
+  tag: kids
+}
+, class Tag {
+  confidence: 23.760206
+  tag: brother
+}
+, class Tag {
+  confidence: 23.453888
+  tag: son
+}
+, class Tag {
+  confidence: 23.25159
+  tag: cheerful
+}
+, class Tag {
+  confidence: 21.424887
+  tag: two
+}
+, class Tag {
+  confidence: 20.819939
+  tag: portrait
+}
+, class Tag {
+  confidence: 20.684795
+  tag: father
+}
+, class Tag {
+  confidence: 20.485682
+  tag: joy
+}
+, class Tag {
+  confidence: 20.012705
+  tag: male
+}
+, class Tag {
+  confidence: 18.992952
+  tag: dad
+}
+, class Tag {
+  confidence: 18.86653
+  tag: adult
+}
+, class Tag {
+  confidence: 17.75963
+  tag: face
+}
+, class Tag {
+  confidence: 17.274368
+  tag: home
+}
+, class Tag {
+  confidence: 17.260117
+  tag: toddler
+}
+, class Tag {
+  confidence: 16.60728
+  tag: infant
+}
+, class Tag {
+  confidence: 16.089548
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 16.070108
+  tag: sister
+}
+, class Tag {
+  confidence: 15.999203
+  tag: couple
+}
+, class Tag {
+  confidence: 15.981992
+  tag: care
+}
+, class Tag {
+  confidence: 15.561089
+  tag: expression
+}
+, class Tag {
+  confidence: 14.967081
+  tag: mom
+}
+, class Tag {
+  confidence: 14.823462
+  tag: girls
+}
+, class Tag {
+  confidence: 14.77062
+  tag: loving
+}
+, class Tag {
+  confidence: 14.193247
+  tag: person
+}
+, class Tag {
+  confidence: 14.092541
+  tag: youth
+}
+, class Tag {
+  confidence: 14.02476
+  tag: outside
+}
+, class Tag {
+  confidence: 13.905493
+  tag: generation
+}
+, class Tag {
+  confidence: 13.649273
+  tag: holding
+}
+, class Tag {
+  confidence: 13.63308
+  tag: friends
+}
+, class Tag {
+  confidence: 13.34537
+  tag: sitting
+}
+, class Tag {
+  confidence: 13.329479
+  tag: casual
+}
+, class Tag {
+  confidence: 13.3112135
+  tag: man
+}
+, class Tag {
+  confidence: 13.300622
+  tag: park
+}
+, class Tag {
+  confidence: 12.934436
+  tag: togetherness
+}
+, class Tag {
+  confidence: 12.703981
+  tag: outdoors
+}
+, class Tag {
+  confidence: 12.455864
+  tag: parenthood
+}
+, class Tag {
+  confidence: 12.37579
+  tag: play
+}
+, class Tag {
+  confidence: 12.362225
+  tag: hug
+}
+, class Tag {
+  confidence: 12.324017
+  tag: 30s
+}
+, class Tag {
+  confidence: 11.814742
+  tag: adorable
+}
+, class Tag {
+  confidence: 11.781099
+  tag: looking
+}
+, class Tag {
+  confidence: 11.628972
+  tag: playing
+}
+, class Tag {
+  confidence: 11.286837
+  tag: summer
+}
+, class Tag {
+  confidence: 11.26903
+  tag: grass
+}
+, class Tag {
+  confidence: 11.057175
+  tag: friendship
+}
+, class Tag {
+  confidence: 10.629292
+  tag: affectionate
+}
+, class Tag {
+  confidence: 10.405867
+  tag: enjoying
+}
+, class Tag {
+  confidence: 10.400038
+  tag: outdoor
+}
+, class Tag {
+  confidence: 10.3887825
+  tag: laughing
+}
+, class Tag {
+  confidence: 10.030166
+  tag: emotion
+}
+, class Tag {
+  confidence: 9.84739
+  tag: day
+}
+, class Tag {
+  confidence: 9.658875
+  tag: indoors
+}
+, class Tag {
+  confidence: 9.23599
+  tag: joyful
+}
+, class Tag {
+  confidence: 9.211119
+  tag: horizontal
+}
+, class Tag {
+  confidence: 9.070236
+  tag: human
+}
+, class Tag {
+  confidence: 8.916937
+  tag: mum
+}
+, class Tag {
+  confidence: 8.863799
+  tag: hospital
+}
+, class Tag {
+  confidence: 8.729687
+  tag: innocence
+}
+, class Tag {
+  confidence: 8.624103
+  tag: playful
+}
+, class Tag {
+  confidence: 8.550031
+  tag: enjoy
+}
+, class Tag {
+  confidence: 8.176679
+  tag: group
+}
+, class Tag {
+  confidence: 8.144645
+  tag: siblings
+}
+, class Tag {
+  confidence: 8.0144825
+  tag: embracing
+}
+, class Tag {
+  confidence: 7.9991717
+  tag: look
+}
+, class Tag {
+  confidence: 7.956656
+  tag: embrace
+}
+, class Tag {
+  confidence: 7.925692
+  tag: affection
+}
+, class Tag {
+  confidence: 7.916907
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.73323
+  tag: wife
+}
+, class Tag {
+  confidence: 7.7305884
+  tag: life
+}
+, class Tag {
+  confidence: 7.7233033
+  tag: sweet
+}
+, class Tag {
+  confidence: 7.653842
+  tag: camera
+}
+, class Tag {
+  confidence: 7.594865
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.583286
+  tag: close
+}
+, class Tag {
+  confidence: 7.573407
+  tag: 20s
+}
+, class Tag {
+  confidence: 7.5250034
+  tag: positive
+}
+, class Tag {
+  confidence: 7.208193
+  tag: education
+}
+, class Tag {
+  confidence: 7.161503
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.0861425
+  tag: thirties
+}
+, class Tag {
+  confidence: 7.078312
+  tag: middle aged
+}
+, class Tag {
+  confidence: 7.0632463
+  tag: boys
+}
+, class Tag {
+  confidence: 7.0547867
+  tag: hands
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,304 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHZucAwVAAAkE82.jpg
+  tags: [class Tag {
+  confidence: 56.328026
+  tag: gymnastics
+}
+, class Tag {
+  confidence: 30.848
+  tag: gymnastic apparatus
+}
+, class Tag {
+  confidence: 28.512697
+  tag: exercise
+}
+, class Tag {
+  confidence: 23.98152
+  tag: people
+}
+, class Tag {
+  confidence: 23.108395
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 22.182001
+  tag: fitness
+}
+, class Tag {
+  confidence: 19.463966
+  tag: sport
+}
+, class Tag {
+  confidence: 18.845774
+  tag: person
+}
+, class Tag {
+  confidence: 18.55479
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 17.735758
+  tag: body
+}
+, class Tag {
+  confidence: 17.536337
+  tag: pose
+}
+, class Tag {
+  confidence: 17.446808
+  tag: active
+}
+, class Tag {
+  confidence: 16.93835
+  tag: attractive
+}
+, class Tag {
+  confidence: 16.545921
+  tag: sexy
+}
+, class Tag {
+  confidence: 16.498768
+  tag: horizontal bar
+}
+, class Tag {
+  confidence: 15.844514
+  tag: happy
+}
+, class Tag {
+  confidence: 15.214986
+  tag: adult
+}
+, class Tag {
+  confidence: 14.556436
+  tag: caucasian
+}
+, class Tag {
+  confidence: 14.375514
+  tag: posing
+}
+, class Tag {
+  confidence: 13.986965
+  tag: equipment
+}
+, class Tag {
+  confidence: 13.275791
+  tag: fit
+}
+, class Tag {
+  confidence: 13.146345
+  tag: pretty
+}
+, class Tag {
+  confidence: 13.143405
+  tag: stretching
+}
+, class Tag {
+  confidence: 12.773945
+  tag: model
+}
+, class Tag {
+  confidence: 12.735705
+  tag: man
+}
+, class Tag {
+  confidence: 12.641514
+  tag: training
+}
+, class Tag {
+  confidence: 12.170623
+  tag: exercising
+}
+, class Tag {
+  confidence: 12.162674
+  tag: smile
+}
+, class Tag {
+  confidence: 12.12
+  tag: parallel bars
+}
+, class Tag {
+  confidence: 12.110889
+  tag: women
+}
+, class Tag {
+  confidence: 11.947216
+  tag: healthy
+}
+, class Tag {
+  confidence: 11.772201
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.679085
+  tag: action
+}
+, class Tag {
+  confidence: 11.618862
+  tag: male
+}
+, class Tag {
+  confidence: 11.374397
+  tag: jump
+}
+, class Tag {
+  confidence: 11.309521
+  tag: workout
+}
+, class Tag {
+  confidence: 11.292475
+  tag: gym
+}
+, class Tag {
+  confidence: 11.039819
+  tag: studio
+}
+, class Tag {
+  confidence: 10.966704
+  tag: health
+}
+, class Tag {
+  confidence: 10.936387
+  tag: fashion
+}
+, class Tag {
+  confidence: 10.717092
+  tag: aerobics
+}
+, class Tag {
+  confidence: 10.154889
+  tag: slim
+}
+, class Tag {
+  confidence: 9.991059
+  tag: figure
+}
+, class Tag {
+  confidence: 9.96954
+  tag: style
+}
+, class Tag {
+  confidence: 9.94
+  tag: balance beam
+}
+, class Tag {
+  confidence: 9.84502
+  tag: joy
+}
+, class Tag {
+  confidence: 9.800744
+  tag: energy
+}
+, class Tag {
+  confidence: 9.722763
+  tag: dancing
+}
+, class Tag {
+  confidence: 9.671266
+  tag: athletic
+}
+, class Tag {
+  confidence: 9.573784
+  tag: dance
+}
+, class Tag {
+  confidence: 9.518361
+  tag: one
+}
+, class Tag {
+  confidence: 9.071879
+  tag: leisure
+}
+, class Tag {
+  confidence: 9.000449
+  tag: dancer
+}
+, class Tag {
+  confidence: 8.948781
+  tag: jumping
+}
+, class Tag {
+  confidence: 8.713651
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.548344
+  tag: youth
+}
+, class Tag {
+  confidence: 8.528466
+  tag: cute
+}
+, class Tag {
+  confidence: 8.481439
+  tag: black
+}
+, class Tag {
+  confidence: 8.408145
+  tag: wellness
+}
+, class Tag {
+  confidence: 8.2834425
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.073521
+  tag: performance
+}
+, class Tag {
+  confidence: 8.010255
+  tag: athlete
+}
+, class Tag {
+  confidence: 8.010145
+  tag: weight
+}
+, class Tag {
+  confidence: 7.786087
+  tag: human
+}
+, class Tag {
+  confidence: 7.621837
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.5083833
+  tag: fun
+}
+, class Tag {
+  confidence: 7.338789
+  tag: portrait
+}
+, class Tag {
+  confidence: 7.331223
+  tag: yoga
+}
+, class Tag {
+  confidence: 7.217008
+  tag: muscular
+}
+, class Tag {
+  confidence: 7.206381
+  tag: moving
+}
+, class Tag {
+  confidence: 7.162056
+  tag: motion
+}
+, class Tag {
+  confidence: 7.1362896
+  tag: erotic
+}
+, class Tag {
+  confidence: 7.132497
+  tag: modern
+}
+, class Tag {
+  confidence: 7.035539
+  tag: sports
+}
+]
+}
+]
+  unsuccessful: null
+}

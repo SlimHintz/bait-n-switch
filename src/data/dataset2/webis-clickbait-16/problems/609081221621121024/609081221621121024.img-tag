@@ -1,0 +1,224 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPh5HuUIAABO_W.jpg
+  tags: [class Tag {
+  confidence: 44.9326
+  tag: blackboard
+}
+, class Tag {
+  confidence: 23.764544
+  tag: sheet
+}
+, class Tag {
+  confidence: 21.186615
+  tag: chalk
+}
+, class Tag {
+  confidence: 18.103899
+  tag: board
+}
+, class Tag {
+  confidence: 17.087473
+  tag: chalkboard
+}
+, class Tag {
+  confidence: 16.483988
+  tag: frame
+}
+, class Tag {
+  confidence: 16.009453
+  tag: education
+}
+, class Tag {
+  confidence: 15.881996
+  tag: black
+}
+, class Tag {
+  confidence: 15.354031
+  tag: design
+}
+, class Tag {
+  confidence: 14.142425
+  tag: school
+}
+, class Tag {
+  confidence: 13.652623
+  tag: texture
+}
+, class Tag {
+  confidence: 13.2357645
+  tag: art
+}
+, class Tag {
+  confidence: 13.146086
+  tag: card
+}
+, class Tag {
+  confidence: 12.991198
+  tag: vintage
+}
+, class Tag {
+  confidence: 12.737519
+  tag: business
+}
+, class Tag {
+  confidence: 12.564952
+  tag: class
+}
+, class Tag {
+  confidence: 12.400572
+  tag: paper
+}
+, class Tag {
+  confidence: 11.874013
+  tag: grunge
+}
+, class Tag {
+  confidence: 11.490131
+  tag: space
+}
+, class Tag {
+  confidence: 11.32844
+  tag: old
+}
+, class Tag {
+  confidence: 10.988031
+  tag: classroom
+}
+, class Tag {
+  confidence: 10.495481
+  tag: blank
+}
+, class Tag {
+  confidence: 10.45394
+  tag: digital
+}
+, class Tag {
+  confidence: 10.272579
+  tag: message
+}
+, class Tag {
+  confidence: 10.171601
+  tag: data
+}
+, class Tag {
+  confidence: 9.975085
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.795501
+  tag: pattern
+}
+, class Tag {
+  confidence: 9.377872
+  tag: lesson
+}
+, class Tag {
+  confidence: 9.293796
+  tag: teacher
+}
+, class Tag {
+  confidence: 9.258458
+  tag: retro
+}
+, class Tag {
+  confidence: 9.190257
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.175623
+  tag: element
+}
+, class Tag {
+  confidence: 9.082301
+  tag: creative
+}
+, class Tag {
+  confidence: 8.979308
+  tag: writing
+}
+, class Tag {
+  confidence: 8.906152
+  tag: technology
+}
+, class Tag {
+  confidence: 8.750908
+  tag: student
+}
+, class Tag {
+  confidence: 8.657279
+  tag: communication
+}
+, class Tag {
+  confidence: 8.5149555
+  tag: teach
+}
+, class Tag {
+  confidence: 8.448164
+  tag: information
+}
+, class Tag {
+  confidence: 8.292679
+  tag: college
+}
+, class Tag {
+  confidence: 8.254493
+  tag: learn
+}
+, class Tag {
+  confidence: 8.235757
+  tag: computer
+}
+, class Tag {
+  confidence: 8.229604
+  tag: write
+}
+, class Tag {
+  confidence: 7.9590316
+  tag: internet
+}
+, class Tag {
+  confidence: 7.9316792
+  tag: cover
+}
+, class Tag {
+  confidence: 7.88
+  tag: book jacket
+}
+, class Tag {
+  confidence: 7.870379
+  tag: border
+}
+, class Tag {
+  confidence: 7.846748
+  tag: menu
+}
+, class Tag {
+  confidence: 7.6449413
+  tag: copy
+}
+, class Tag {
+  confidence: 7.480573
+  tag: empty
+}
+, class Tag {
+  confidence: 7.3971677
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.361258
+  tag: drawing
+}
+, class Tag {
+  confidence: 7.2898006
+  tag: cloud
+}
+, class Tag {
+  confidence: 7.079285
+  tag: decorative
+}
+]
+}
+]
+  unsuccessful: null
+}

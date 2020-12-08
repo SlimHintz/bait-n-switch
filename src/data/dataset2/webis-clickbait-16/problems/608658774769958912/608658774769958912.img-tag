@@ -1,0 +1,100 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJj7jjVIAEJwk5.jpg
+  tags: [class Tag {
+  confidence: 13.566952
+  tag: home
+}
+, class Tag {
+  confidence: 12.2815485
+  tag: travel
+}
+, class Tag {
+  confidence: 12.070268
+  tag: sky
+}
+, class Tag {
+  confidence: 11.251819
+  tag: business
+}
+, class Tag {
+  confidence: 11.064743
+  tag: house
+}
+, class Tag {
+  confidence: 11.045469
+  tag: architecture
+}
+, class Tag {
+  confidence: 10.693761
+  tag: sun
+}
+, class Tag {
+  confidence: 10.54
+  tag: canvas tent
+}
+, class Tag {
+  confidence: 9.848312
+  tag: window
+}
+, class Tag {
+  confidence: 9.846071
+  tag: water
+}
+, class Tag {
+  confidence: 9.835899
+  tag: building
+}
+, class Tag {
+  confidence: 9.602312
+  tag: interior
+}
+, class Tag {
+  confidence: 9.548053
+  tag: light
+}
+, class Tag {
+  confidence: 9.544869
+  tag: summer
+}
+, class Tag {
+  confidence: 9.541501
+  tag: modern
+}
+, class Tag {
+  confidence: 8.7470665
+  tag: vacation
+}
+, class Tag {
+  confidence: 8.552951
+  tag: garage
+}
+, class Tag {
+  confidence: 8.252324
+  tag: silhouette
+}
+, class Tag {
+  confidence: 8.091524
+  tag: design
+}
+, class Tag {
+  confidence: 7.428255
+  tag: technology
+}
+, class Tag {
+  confidence: 7.301032
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.262924
+  tag: color
+}
+, class Tag {
+  confidence: 7.009876
+  tag: day
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHHNxzxWkAAS31X.jpg
+  tags: [class Tag {
+  confidence: 28.10035
+  tag: press
+}
+, class Tag {
+  confidence: 27.924484
+  tag: publication
+}
+, class Tag {
+  confidence: 20.361427
+  tag: billboard
+}
+, class Tag {
+  confidence: 19.912567
+  tag: print media
+}
+, class Tag {
+  confidence: 19.142946
+  tag: business
+}
+, class Tag {
+  confidence: 16.63807
+  tag: signboard
+}
+, class Tag {
+  confidence: 14.746231
+  tag: medium
+}
+, class Tag {
+  confidence: 12.584028
+  tag: slick
+}
+, class Tag {
+  confidence: 11.581309
+  tag: money
+}
+, class Tag {
+  confidence: 11.543414
+  tag: finance
+}
+, class Tag {
+  confidence: 11.499699
+  tag: newspaper
+}
+, class Tag {
+  confidence: 11.484908
+  tag: design
+}
+, class Tag {
+  confidence: 10.404291
+  tag: structure
+}
+, class Tag {
+  confidence: 10.170856
+  tag: cash
+}
+, class Tag {
+  confidence: 9.969943
+  tag: financial
+}
+, class Tag {
+  confidence: 9.760934
+  tag: text
+}
+, class Tag {
+  confidence: 9.713686
+  tag: magazine
+}
+, class Tag {
+  confidence: 9.618571
+  tag: digital
+}
+, class Tag {
+  confidence: 9.395915
+  tag: paper
+}
+, class Tag {
+  confidence: 9.281813
+  tag: currency
+}
+, class Tag {
+  confidence: 9.144587
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.862451
+  tag: blank
+}
+, class Tag {
+  confidence: 8.760481
+  tag: director
+}
+, class Tag {
+  confidence: 8.719231
+  tag: happy
+}
+, class Tag {
+  confidence: 8.584158
+  tag: art
+}
+, class Tag {
+  confidence: 8.061705
+  tag: smile
+}
+, class Tag {
+  confidence: 8.054789
+  tag: card
+}
+, class Tag {
+  confidence: 8.041442
+  tag: banking
+}
+, class Tag {
+  confidence: 7.8364434
+  tag: bank
+}
+, class Tag {
+  confidence: 7.832598
+  tag: box
+}
+, class Tag {
+  confidence: 7.691235
+  tag: technology
+}
+, class Tag {
+  confidence: 7.470107
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.467577
+  tag: work
+}
+, class Tag {
+  confidence: 7.344043
+  tag: person
+}
+, class Tag {
+  confidence: 7.3405933
+  tag: letter
+}
+, class Tag {
+  confidence: 7.290231
+  tag: modern
+}
+, class Tag {
+  confidence: 7.2101836
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.1937017
+  tag: frame
+}
+, class Tag {
+  confidence: 7.1479673
+  tag: success
+}
+, class Tag {
+  confidence: 7.1162486
+  tag: element
+}
+, class Tag {
+  confidence: 7.019777
+  tag: market
+}
+]
+}
+]
+  unsuccessful: null
+}

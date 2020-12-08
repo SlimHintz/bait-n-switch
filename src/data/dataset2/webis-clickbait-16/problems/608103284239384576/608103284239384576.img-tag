@@ -1,0 +1,256 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAZSjoUYAAsdwD.jpg
+  tags: [class Tag {
+  confidence: 80.96
+  tag: potpie
+}
+, class Tag {
+  confidence: 74.910515
+  tag: dish
+}
+, class Tag {
+  confidence: 60.36888
+  tag: food
+}
+, class Tag {
+  confidence: 48.409744
+  tag: nutriment
+}
+, class Tag {
+  confidence: 45.011253
+  tag: toast
+}
+, class Tag {
+  confidence: 32.47034
+  tag: bread
+}
+, class Tag {
+  confidence: 28.202545
+  tag: meal
+}
+, class Tag {
+  confidence: 24.041513
+  tag: dinner
+}
+, class Tag {
+  confidence: 23.775114
+  tag: baked
+}
+, class Tag {
+  confidence: 23.613802
+  tag: snack
+}
+, class Tag {
+  confidence: 22.3786
+  tag: delicious
+}
+, class Tag {
+  confidence: 21.969185
+  tag: tasty
+}
+, class Tag {
+  confidence: 21.382854
+  tag: lunch
+}
+, class Tag {
+  confidence: 20.951437
+  tag: plate
+}
+, class Tag {
+  confidence: 18.205088
+  tag: cuisine
+}
+, class Tag {
+  confidence: 18.163475
+  tag: cheese
+}
+, class Tag {
+  confidence: 18.004623
+  tag: gourmet
+}
+, class Tag {
+  confidence: 16.546854
+  tag: breakfast
+}
+, class Tag {
+  confidence: 15.487089
+  tag: pastry
+}
+, class Tag {
+  confidence: 14.407428
+  tag: cooked
+}
+, class Tag {
+  confidence: 13.7169695
+  tag: fresh
+}
+, class Tag {
+  confidence: 13.30345
+  tag: cooking
+}
+, class Tag {
+  confidence: 12.999029
+  tag: french loaf
+}
+, class Tag {
+  confidence: 12.893197
+  tag: sweet
+}
+, class Tag {
+  confidence: 12.697364
+  tag: baked goods
+}
+, class Tag {
+  confidence: 12.612623
+  tag: meat
+}
+, class Tag {
+  confidence: 12.588571
+  tag: bakery
+}
+, class Tag {
+  confidence: 12.427216
+  tag: nutrition
+}
+, class Tag {
+  confidence: 12.398806
+  tag: healthy
+}
+, class Tag {
+  confidence: 12.301862
+  tag: diet
+}
+, class Tag {
+  confidence: 12.282168
+  tag: eat
+}
+, class Tag {
+  confidence: 12.187148
+  tag: crust
+}
+, class Tag {
+  confidence: 11.957785
+  tag: dessert
+}
+, class Tag {
+  confidence: 11.540454
+  tag: vegetable
+}
+, class Tag {
+  confidence: 11.300863
+  tag: brown
+}
+, class Tag {
+  confidence: 10.651548
+  tag: cake
+}
+, class Tag {
+  confidence: 10.483021
+  tag: slice
+}
+, class Tag {
+  confidence: 10.4
+  tag: loaf of bread
+}
+, class Tag {
+  confidence: 10.066537
+  tag: hot
+}
+, class Tag {
+  confidence: 9.995726
+  tag: tomato
+}
+, class Tag {
+  confidence: 9.753116
+  tag: cook
+}
+, class Tag {
+  confidence: 9.551419
+  tag: sauce
+}
+, class Tag {
+  confidence: 9.419775
+  tag: homemade
+}
+, class Tag {
+  confidence: 9.410087
+  tag: eating
+}
+, class Tag {
+  confidence: 9.1426115
+  tag: close
+}
+, class Tag {
+  confidence: 9.092717
+  tag: restaurant
+}
+, class Tag {
+  confidence: 8.887947
+  tag: parsley
+}
+, class Tag {
+  confidence: 8.758665
+  tag: vegetables
+}
+, class Tag {
+  confidence: 8.678357
+  tag: traditional
+}
+, class Tag {
+  confidence: 8.386384
+  tag: pie
+}
+, class Tag {
+  confidence: 8.226685
+  tag: golden
+}
+, class Tag {
+  confidence: 8.017593
+  tag: closeup
+}
+, class Tag {
+  confidence: 7.785458
+  tag: bun
+}
+, class Tag {
+  confidence: 7.736159
+  tag: pepper
+}
+, class Tag {
+  confidence: 7.6435847
+  tag: dough
+}
+, class Tag {
+  confidence: 7.6378016
+  tag: ingredients
+}
+, class Tag {
+  confidence: 7.509556
+  tag: italian
+}
+, class Tag {
+  confidence: 7.504
+  tag: starches
+}
+, class Tag {
+  confidence: 7.4453173
+  tag: tomatoes
+}
+, class Tag {
+  confidence: 7.2931046
+  tag: bake
+}
+, class Tag {
+  confidence: 7.166054
+  tag: baking
+}
+, class Tag {
+  confidence: 7.0913196
+  tag: butter
+}
+]
+}
+]
+  unsuccessful: null
+}

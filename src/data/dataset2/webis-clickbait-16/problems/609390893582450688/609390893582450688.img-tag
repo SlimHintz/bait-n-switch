@@ -1,0 +1,124 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHT9sabWUAAoZnZ.png
+  tags: [class Tag {
+  confidence: 21.568586
+  tag: silhouette
+}
+, class Tag {
+  confidence: 20.873167
+  tag: icon
+}
+, class Tag {
+  confidence: 19.264585
+  tag: symbol
+}
+, class Tag {
+  confidence: 19.097805
+  tag: art
+}
+, class Tag {
+  confidence: 18.262407
+  tag: black
+}
+, class Tag {
+  confidence: 16.717915
+  tag: design
+}
+, class Tag {
+  confidence: 16.427616
+  tag: set
+}
+, class Tag {
+  confidence: 16.243832
+  tag: sign
+}
+, class Tag {
+  confidence: 16.125813
+  tag: graphic
+}
+, class Tag {
+  confidence: 14.414622
+  tag: icons
+}
+, class Tag {
+  confidence: 13.942607
+  tag: cartoon
+}
+, class Tag {
+  confidence: 13.180368
+  tag: business
+}
+, class Tag {
+  confidence: 11.563772
+  tag: drawing
+}
+, class Tag {
+  confidence: 11.11764
+  tag: element
+}
+, class Tag {
+  confidence: 10.221766
+  tag: group
+}
+, class Tag {
+  confidence: 10.049829
+  tag: computer
+}
+, class Tag {
+  confidence: 9.355435
+  tag: man
+}
+, class Tag {
+  confidence: 9.164244
+  tag: finance
+}
+, class Tag {
+  confidence: 8.333842
+  tag: money
+}
+, class Tag {
+  confidence: 8.039147
+  tag: elements
+}
+, class Tag {
+  confidence: 7.854995
+  tag: people
+}
+, class Tag {
+  confidence: 7.8338537
+  tag: collection
+}
+, class Tag {
+  confidence: 7.8050084
+  tag: shape
+}
+, class Tag {
+  confidence: 7.3006783
+  tag: outline
+}
+, class Tag {
+  confidence: 7.2757454
+  tag: communication
+}
+, class Tag {
+  confidence: 7.170646
+  tag: sport
+}
+, class Tag {
+  confidence: 7.10768
+  tag: clipart
+}
+, class Tag {
+  confidence: 7.087184
+  tag: graphics
+}
+, class Tag {
+  confidence: 7.0455422
+  tag: object
+}
+]
+}
+]
+  unsuccessful: null
+}

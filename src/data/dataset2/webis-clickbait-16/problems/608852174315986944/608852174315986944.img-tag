@@ -1,0 +1,368 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHME3YZUkAEadHx.jpg
+  tags: [class Tag {
+  confidence: 49.126663
+  tag: food
+}
+, class Tag {
+  confidence: 47.52448
+  tag: meal
+}
+, class Tag {
+  confidence: 38.81244
+  tag: dinner
+}
+, class Tag {
+  confidence: 37.696804
+  tag: meat
+}
+, class Tag {
+  confidence: 35.07923
+  tag: lunch
+}
+, class Tag {
+  confidence: 32.261055
+  tag: plate
+}
+, class Tag {
+  confidence: 27.771265
+  tag: restaurant
+}
+, class Tag {
+  confidence: 25.531748
+  tag: dish
+}
+, class Tag {
+  confidence: 24.914616
+  tag: healthy
+}
+, class Tag {
+  confidence: 24.624172
+  tag: vegetable
+}
+, class Tag {
+  confidence: 23.716465
+  tag: cuisine
+}
+, class Tag {
+  confidence: 23.293163
+  tag: gourmet
+}
+, class Tag {
+  confidence: 22.6632
+  tag: tomato
+}
+, class Tag {
+  confidence: 22.362457
+  tag: delicious
+}
+, class Tag {
+  confidence: 22.132914
+  tag: nutrition
+}
+, class Tag {
+  confidence: 21.960634
+  tag: eat
+}
+, class Tag {
+  confidence: 21.8236
+  tag: fresh
+}
+, class Tag {
+  confidence: 21.199068
+  tag: tasty
+}
+, class Tag {
+  confidence: 20.244963
+  tag: snack
+}
+, class Tag {
+  confidence: 20.073256
+  tag: sauce
+}
+, class Tag {
+  confidence: 19.593964
+  tag: pepper
+}
+, class Tag {
+  confidence: 18.33735
+  tag: sandwich
+}
+, class Tag {
+  confidence: 17.987255
+  tag: pork
+}
+, class Tag {
+  confidence: 17.922848
+  tag: breakfast
+}
+, class Tag {
+  confidence: 17.313387
+  tag: hotdog
+}
+, class Tag {
+  confidence: 16.981392
+  tag: salad
+}
+, class Tag {
+  confidence: 16.343067
+  tag: bread
+}
+, class Tag {
+  confidence: 16.239346
+  tag: diet
+}
+, class Tag {
+  confidence: 15.536044
+  tag: hot
+}
+, class Tag {
+  confidence: 15.400502
+  tag: grilled
+}
+, class Tag {
+  confidence: 15.350812
+  tag: vegetables
+}
+, class Tag {
+  confidence: 14.714929
+  tag: eating
+}
+, class Tag {
+  confidence: 14.617797
+  tag: nutriment
+}
+, class Tag {
+  confidence: 14.58
+  tag: american lobster
+}
+, class Tag {
+  confidence: 14.139353
+  tag: cheese
+}
+, class Tag {
+  confidence: 13.935876
+  tag: close
+}
+, class Tag {
+  confidence: 13.913561
+  tag: cooking
+}
+, class Tag {
+  confidence: 13.557688
+  tag: beef
+}
+, class Tag {
+  confidence: 13.493849
+  tag: seafood
+}
+, class Tag {
+  confidence: 13.422566
+  tag: onion
+}
+, class Tag {
+  confidence: 13.397538
+  tag: cooked
+}
+, class Tag {
+  confidence: 13.145765
+  tag: table
+}
+, class Tag {
+  confidence: 12.9105835
+  tag: potato
+}
+, class Tag {
+  confidence: 12.904954
+  tag: fish
+}
+, class Tag {
+  confidence: 12.89932
+  tag: served
+}
+, class Tag {
+  confidence: 12.552166
+  tag: appetizer
+}
+, class Tag {
+  confidence: 12.001977
+  tag: fruit
+}
+, class Tag {
+  confidence: 11.364069
+  tag: sausage
+}
+, class Tag {
+  confidence: 11.30198
+  tag: slice
+}
+, class Tag {
+  confidence: 11.0873
+  tag: fork
+}
+, class Tag {
+  confidence: 11.038277
+  tag: health
+}
+, class Tag {
+  confidence: 10.988585
+  tag: traditional
+}
+, class Tag {
+  confidence: 10.869725
+  tag: lettuce
+}
+, class Tag {
+  confidence: 10.862987
+  tag: baked
+}
+, class Tag {
+  confidence: 10.481409
+  tag: lobster
+}
+, class Tag {
+  confidence: 10.443931
+  tag: nobody
+}
+, class Tag {
+  confidence: 10.414049
+  tag: barbecue
+}
+, class Tag {
+  confidence: 10.32281
+  tag: carrot
+}
+, class Tag {
+  confidence: 10.296816
+  tag: roast
+}
+, class Tag {
+  confidence: 10.294096
+  tag: raw
+}
+, class Tag {
+  confidence: 10.283157
+  tag: roasted
+}
+, class Tag {
+  confidence: 10.279203
+  tag: knife
+}
+, class Tag {
+  confidence: 10.270759
+  tag: fried
+}
+, class Tag {
+  confidence: 9.847258
+  tag: wine
+}
+, class Tag {
+  confidence: 9.710504
+  tag: cook
+}
+, class Tag {
+  confidence: 9.41484
+  tag: recipe
+}
+, class Tag {
+  confidence: 9.37526
+  tag: prepared
+}
+, class Tag {
+  confidence: 9.126541
+  tag: fast
+}
+, class Tag {
+  confidence: 9.092362
+  tag: bowl
+}
+, class Tag {
+  confidence: 9.078878
+  tag: oil
+}
+, class Tag {
+  confidence: 8.969235
+  tag: sweet
+}
+, class Tag {
+  confidence: 8.96017
+  tag: closeup
+}
+, class Tag {
+  confidence: 8.807343
+  tag: snack food
+}
+, class Tag {
+  confidence: 8.612595
+  tag: grill
+}
+, class Tag {
+  confidence: 8.527494
+  tag: appetizing
+}
+, class Tag {
+  confidence: 8.497107
+  tag: chicken
+}
+, class Tag {
+  confidence: 8.483645
+  tag: whole
+}
+, class Tag {
+  confidence: 8.43235
+  tag: spice
+}
+, class Tag {
+  confidence: 8.344794
+  tag: italian
+}
+, class Tag {
+  confidence: 8.0493
+  tag: vitamin
+}
+, class Tag {
+  confidence: 7.9030786
+  tag: kitchen
+}
+, class Tag {
+  confidence: 7.786808
+  tag: fillet
+}
+, class Tag {
+  confidence: 7.7754245
+  tag: asian
+}
+, class Tag {
+  confidence: 7.730152
+  tag: ingredient
+}
+, class Tag {
+  confidence: 7.6905255
+  tag: sliced
+}
+, class Tag {
+  confidence: 7.68289
+  tag: garnish
+}
+, class Tag {
+  confidence: 7.6029434
+  tag: dining
+}
+, class Tag {
+  confidence: 7.484897
+  tag: fat
+}
+, class Tag {
+  confidence: 7.009545
+  tag: ketchup
+}
+, class Tag {
+  confidence: 7.001927
+  tag: american
+}
+]
+}
+]
+  unsuccessful: null
+}

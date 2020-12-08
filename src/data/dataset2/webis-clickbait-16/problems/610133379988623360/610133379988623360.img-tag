@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHedmD2W8AAeXU-.png
+  tags: [class Tag {
+  confidence: 58.195366
+  tag: tennis
+}
+, class Tag {
+  confidence: 35.35695
+  tag: ball
+}
+, class Tag {
+  confidence: 30.111946
+  tag: game
+}
+, class Tag {
+  confidence: 29.797882
+  tag: player
+}
+, class Tag {
+  confidence: 22.794558
+  tag: football
+}
+, class Tag {
+  confidence: 20.433704
+  tag: sport
+}
+, class Tag {
+  confidence: 16.212704
+  tag: athlete
+}
+, class Tag {
+  confidence: 16.212343
+  tag: person
+}
+, class Tag {
+  confidence: 15.950162
+  tag: competition
+}
+, class Tag {
+  confidence: 14.5405035
+  tag: male
+}
+, class Tag {
+  confidence: 13.725148
+  tag: match
+}
+, class Tag {
+  confidence: 13.678569
+  tag: active
+}
+, class Tag {
+  confidence: 13.256154
+  tag: man
+}
+, class Tag {
+  confidence: 13.094235
+  tag: sports
+}
+, class Tag {
+  confidence: 12.467105
+  tag: court
+}
+, class Tag {
+  confidence: 12.404793
+  tag: people
+}
+, class Tag {
+  confidence: 11.770869
+  tag: equipment
+}
+, class Tag {
+  confidence: 11.731931
+  tag: fun
+}
+, class Tag {
+  confidence: 11.536094
+  tag: play
+}
+, class Tag {
+  confidence: 11.352009
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.919608
+  tag: racket
+}
+, class Tag {
+  confidence: 10.595254
+  tag: diversion
+}
+, class Tag {
+  confidence: 10.578188
+  tag: adult
+}
+, class Tag {
+  confidence: 10.289246
+  tag: happy
+}
+, class Tag {
+  confidence: 10.241212
+  tag: exercise
+}
+, class Tag {
+  confidence: 9.491978
+  tag: fitness
+}
+, class Tag {
+  confidence: 9.446127
+  tag: contestant
+}
+, class Tag {
+  confidence: 9.359945
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.357739
+  tag: set
+}
+, class Tag {
+  confidence: 9.330919
+  tag: smiling
+}
+, class Tag {
+  confidence: 9.300706
+  tag: design
+}
+, class Tag {
+  confidence: 9.256531
+  tag: caucasian
+}
+, class Tag {
+  confidence: 9.25306
+  tag: team
+}
+, class Tag {
+  confidence: 9.042116
+  tag: net
+}
+, class Tag {
+  confidence: 8.869281
+  tag: icon
+}
+, class Tag {
+  confidence: 8.670719
+  tag: recreation
+}
+, class Tag {
+  confidence: 8.324468
+  tag: soccer
+}
+, class Tag {
+  confidence: 8.183315
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.8722796
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.845024
+  tag: sign
+}
+, class Tag {
+  confidence: 7.818134
+  tag: activity
+}
+, class Tag {
+  confidence: 7.744
+  tag: game equipment
+}
+, class Tag {
+  confidence: 7.7067738
+  tag: athletic
+}
+, class Tag {
+  confidence: 7.43889
+  tag: professional
+}
+, class Tag {
+  confidence: 7.4356337
+  tag: smile
+}
+, class Tag {
+  confidence: 7.2551017
+  tag: sky
+}
+, class Tag {
+  confidence: 7.227463
+  tag: copy space
+}
+, class Tag {
+  confidence: 7.214705
+  tag: playing
+}
+, class Tag {
+  confidence: 7.1763735
+  tag: one
+}
+, class Tag {
+  confidence: 7.082898
+  tag: racquet
+}
+]
+}
+]
+  unsuccessful: null
+}

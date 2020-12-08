@@ -1,0 +1,300 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHWK_0kUMAE3KJf.jpg
+  tags: [class Tag {
+  confidence: 37.5438
+  tag: portrait
+}
+, class Tag {
+  confidence: 29.666973
+  tag: hairdo
+}
+, class Tag {
+  confidence: 29.19833
+  tag: face
+}
+, class Tag {
+  confidence: 29.172626
+  tag: attractive
+}
+, class Tag {
+  confidence: 28.355682
+  tag: person
+}
+, class Tag {
+  confidence: 26.037027
+  tag: people
+}
+, class Tag {
+  confidence: 25.857698
+  tag: adult
+}
+, class Tag {
+  confidence: 23.2915
+  tag: hair
+}
+, class Tag {
+  confidence: 23.260752
+  tag: model
+}
+, class Tag {
+  confidence: 21.028826
+  tag: happy
+}
+, class Tag {
+  confidence: 20.859268
+  tag: pretty
+}
+, class Tag {
+  confidence: 20.697369
+  tag: caucasian
+}
+, class Tag {
+  confidence: 19.818691
+  tag: smile
+}
+, class Tag {
+  confidence: 18.727144
+  tag: cute
+}
+, class Tag {
+  confidence: 18.575788
+  tag: eyes
+}
+, class Tag {
+  confidence: 18.542786
+  tag: fashion
+}
+, class Tag {
+  confidence: 16.78206
+  tag: brunette
+}
+, class Tag {
+  confidence: 16.448206
+  tag: smiling
+}
+, class Tag {
+  confidence: 16.185652
+  tag: one
+}
+, class Tag {
+  confidence: 16.047379
+  tag: looking
+}
+, class Tag {
+  confidence: 14.969911
+  tag: lady
+}
+, class Tag {
+  confidence: 14.708205
+  tag: youth
+}
+, class Tag {
+  confidence: 14.409655
+  tag: business
+}
+, class Tag {
+  confidence: 14.137528
+  tag: cheerful
+}
+, class Tag {
+  confidence: 13.293417
+  tag: expression
+}
+, class Tag {
+  confidence: 13.186356
+  tag: male
+}
+, class Tag {
+  confidence: 13.090784
+  tag: man
+}
+, class Tag {
+  confidence: 13.059684
+  tag: women
+}
+, class Tag {
+  confidence: 12.583651
+  tag: casual
+}
+, class Tag {
+  confidence: 12.262843
+  tag: head
+}
+, class Tag {
+  confidence: 11.957227
+  tag: sexy
+}
+, class Tag {
+  confidence: 11.6887865
+  tag: skin
+}
+, class Tag {
+  confidence: 11.261531
+  tag: studio
+}
+, class Tag {
+  confidence: 11.226588
+  tag: black
+}
+, class Tag {
+  confidence: 11.08269
+  tag: corporate
+}
+, class Tag {
+  confidence: 10.521001
+  tag: human
+}
+, class Tag {
+  confidence: 10.191609
+  tag: gorgeous
+}
+, class Tag {
+  confidence: 10.104118
+  tag: handsome
+}
+, class Tag {
+  confidence: 10.080351
+  tag: close
+}
+, class Tag {
+  confidence: 9.773293
+  tag: closeup
+}
+, class Tag {
+  confidence: 9.71631
+  tag: afro
+}
+, class Tag {
+  confidence: 9.614347
+  tag: style
+}
+, class Tag {
+  confidence: 9.5587
+  tag: professional
+}
+, class Tag {
+  confidence: 9.496445
+  tag: phone
+}
+, class Tag {
+  confidence: 9.449953
+  tag: friendly
+}
+, class Tag {
+  confidence: 9.447918
+  tag: teenager
+}
+, class Tag {
+  confidence: 9.306157
+  tag: suit
+}
+, class Tag {
+  confidence: 9.301976
+  tag: blond
+}
+, class Tag {
+  confidence: 8.823084
+  tag: lips
+}
+, class Tag {
+  confidence: 8.789513
+  tag: work
+}
+, class Tag {
+  confidence: 8.726066
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.691998
+  tag: confident
+}
+, class Tag {
+  confidence: 8.261516
+  tag: asian
+}
+, class Tag {
+  confidence: 8.206892
+  tag: american
+}
+, class Tag {
+  confidence: 8.203283
+  tag: serious
+}
+, class Tag {
+  confidence: 8.079587
+  tag: cosmetics
+}
+, class Tag {
+  confidence: 7.956811
+  tag: make
+}
+, class Tag {
+  confidence: 7.9168854
+  tag: 20s
+}
+, class Tag {
+  confidence: 7.8958335
+  tag: teen
+}
+, class Tag {
+  confidence: 7.8253207
+  tag: hand
+}
+, class Tag {
+  confidence: 7.784296
+  tag: girls
+}
+, class Tag {
+  confidence: 7.723877
+  tag: success
+}
+, class Tag {
+  confidence: 7.6607027
+  tag: posing
+}
+, class Tag {
+  confidence: 7.6535406
+  tag: glamour
+}
+, class Tag {
+  confidence: 7.648689
+  tag: office
+}
+, class Tag {
+  confidence: 7.564288
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.512222
+  tag: brown
+}
+, class Tag {
+  confidence: 7.240351
+  tag: communication
+}
+, class Tag {
+  confidence: 7.170173
+  tag: makeup
+}
+, class Tag {
+  confidence: 7.1545296
+  tag: care
+}
+, class Tag {
+  confidence: 7.1435666
+  tag: executive
+}
+, class Tag {
+  confidence: 7.125022
+  tag: joy
+}
+, class Tag {
+  confidence: 7.0009127
+  tag: pose
+}
+]
+}
+]
+  unsuccessful: null
+}

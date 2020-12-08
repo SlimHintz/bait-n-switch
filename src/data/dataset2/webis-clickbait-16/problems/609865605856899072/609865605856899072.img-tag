@@ -1,0 +1,92 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHZlSEkUEAABurr.jpg
+  tags: [class Tag {
+  confidence: 26.495455
+  tag: chimpanzee
+}
+, class Tag {
+  confidence: 16.26624
+  tag: ape
+}
+, class Tag {
+  confidence: 13.30895
+  tag: black
+}
+, class Tag {
+  confidence: 11.032192
+  tag: silhouette
+}
+, class Tag {
+  confidence: 10.847456
+  tag: animal
+}
+, class Tag {
+  confidence: 10.814927
+  tag: mammal
+}
+, class Tag {
+  confidence: 9.680412
+  tag: grass
+}
+, class Tag {
+  confidence: 9.205675
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.76
+  tag: indian elephant
+}
+, class Tag {
+  confidence: 8.546099
+  tag: primate
+}
+, class Tag {
+  confidence: 8.286206
+  tag: person
+}
+, class Tag {
+  confidence: 8.08
+  tag: tusker
+}
+, class Tag {
+  confidence: 7.7612166
+  tag: people
+}
+, class Tag {
+  confidence: 7.747988
+  tag: elephant
+}
+, class Tag {
+  confidence: 7.5823455
+  tag: field
+}
+, class Tag {
+  confidence: 7.530359
+  tag: happy
+}
+, class Tag {
+  confidence: 7.4426875
+  tag: design
+}
+, class Tag {
+  confidence: 7.252867
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.2423387
+  tag: summer
+}
+, class Tag {
+  confidence: 7.1402307
+  tag: color
+}
+, class Tag {
+  confidence: 7.0706997
+  tag: sky
+}
+]
+}
+]
+  unsuccessful: null
+}

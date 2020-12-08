@@ -1,0 +1,284 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTxHdCUMAAgwf3.png
+  tags: [class Tag {
+  confidence: 36.977177
+  tag: caucasian
+}
+, class Tag {
+  confidence: 35.33908
+  tag: portrait
+}
+, class Tag {
+  confidence: 33.15653
+  tag: face
+}
+, class Tag {
+  confidence: 33.08246
+  tag: attractive
+}
+, class Tag {
+  confidence: 30.1189
+  tag: adult
+}
+, class Tag {
+  confidence: 29.764017
+  tag: person
+}
+, class Tag {
+  confidence: 28.656721
+  tag: pretty
+}
+, class Tag {
+  confidence: 25.123377
+  tag: hair
+}
+, class Tag {
+  confidence: 24.39777
+  tag: model
+}
+, class Tag {
+  confidence: 24.121538
+  tag: happy
+}
+, class Tag {
+  confidence: 23.398697
+  tag: people
+}
+, class Tag {
+  confidence: 21.435606
+  tag: smile
+}
+, class Tag {
+  confidence: 20.141796
+  tag: looking
+}
+, class Tag {
+  confidence: 19.796982
+  tag: smiling
+}
+, class Tag {
+  confidence: 19.384481
+  tag: happiness
+}
+, class Tag {
+  confidence: 19.090069
+  tag: fashion
+}
+, class Tag {
+  confidence: 18.809778
+  tag: expression
+}
+, class Tag {
+  confidence: 18.554195
+  tag: brunette
+}
+, class Tag {
+  confidence: 18.225346
+  tag: lady
+}
+, class Tag {
+  confidence: 17.59206
+  tag: women
+}
+, class Tag {
+  confidence: 16.931719
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 16.606226
+  tag: cute
+}
+, class Tag {
+  confidence: 16.49725
+  tag: eyes
+}
+, class Tag {
+  confidence: 16.425514
+  tag: casual
+}
+, class Tag {
+  confidence: 16.174728
+  tag: studio
+}
+, class Tag {
+  confidence: 15.564887
+  tag: youth
+}
+, class Tag {
+  confidence: 15.191898
+  tag: one
+}
+, class Tag {
+  confidence: 14.953624
+  tag: cheerful
+}
+, class Tag {
+  confidence: 14.6562605
+  tag: human
+}
+, class Tag {
+  confidence: 12.74732
+  tag: fun
+}
+, class Tag {
+  confidence: 12.367636
+  tag: hand
+}
+, class Tag {
+  confidence: 12.128506
+  tag: girls
+}
+, class Tag {
+  confidence: 11.507205
+  tag: 20s
+}
+, class Tag {
+  confidence: 11.077511
+  tag: glamour
+}
+, class Tag {
+  confidence: 10.973145
+  tag: sexy
+}
+, class Tag {
+  confidence: 10.447908
+  tag: head
+}
+, class Tag {
+  confidence: 10.341748
+  tag: child
+}
+, class Tag {
+  confidence: 9.738722
+  tag: skin
+}
+, class Tag {
+  confidence: 9.545001
+  tag: holding
+}
+, class Tag {
+  confidence: 9.486929
+  tag: blond
+}
+, class Tag {
+  confidence: 9.329352
+  tag: body
+}
+, class Tag {
+  confidence: 9.047826
+  tag: laughing
+}
+, class Tag {
+  confidence: 8.898115
+  tag: business
+}
+, class Tag {
+  confidence: 8.897078
+  tag: lips
+}
+, class Tag {
+  confidence: 8.832989
+  tag: teen
+}
+, class Tag {
+  confidence: 8.801683
+  tag: sensuality
+}
+, class Tag {
+  confidence: 8.778234
+  tag: joy
+}
+, class Tag {
+  confidence: 8.574608
+  tag: lovely
+}
+, class Tag {
+  confidence: 8.439695
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.330092
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.271188
+  tag: brown
+}
+, class Tag {
+  confidence: 7.9677
+  tag: relaxation
+}
+, class Tag {
+  confidence: 7.965721
+  tag: makeup
+}
+, class Tag {
+  confidence: 7.9608674
+  tag: blonde
+}
+, class Tag {
+  confidence: 7.932175
+  tag: emotion
+}
+, class Tag {
+  confidence: 7.9251294
+  tag: health
+}
+, class Tag {
+  confidence: 7.7011113
+  tag: posing
+}
+, class Tag {
+  confidence: 7.6538296
+  tag: kid
+}
+, class Tag {
+  confidence: 7.5881457
+  tag: look
+}
+, class Tag {
+  confidence: 7.2198715
+  tag: relax
+}
+, class Tag {
+  confidence: 7.217758
+  tag: females
+}
+, class Tag {
+  confidence: 7.1977606
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.16592
+  tag: pleasure
+}
+, class Tag {
+  confidence: 7.0879884
+  tag: floor
+}
+, class Tag {
+  confidence: 7.0722384
+  tag: positive
+}
+, class Tag {
+  confidence: 7.0441113
+  tag: single
+}
+, class Tag {
+  confidence: 7.0297647
+  tag: friendly
+}
+, class Tag {
+  confidence: 7.0065846
+  tag: dress
+}
+, class Tag {
+  confidence: 7.005288
+  tag: teenager
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTyRlZUAAAuMRu.jpg
+  tags: [class Tag {
+  confidence: 94.7
+  tag: container ship
+}
+, class Tag {
+  confidence: 76.676315
+  tag: ship
+}
+, class Tag {
+  confidence: 75.75434
+  tag: cargo ship
+}
+, class Tag {
+  confidence: 54.22058
+  tag: vessel
+}
+, class Tag {
+  confidence: 34.089462
+  tag: craft
+}
+, class Tag {
+  confidence: 20.404366
+  tag: boat
+}
+, class Tag {
+  confidence: 19.961159
+  tag: sea
+}
+, class Tag {
+  confidence: 18.521177
+  tag: ocean
+}
+, class Tag {
+  confidence: 18.415216
+  tag: water
+}
+, class Tag {
+  confidence: 15.915247
+  tag: city
+}
+, class Tag {
+  confidence: 14.685681
+  tag: sky
+}
+, class Tag {
+  confidence: 12.826151
+  tag: harbor
+}
+, class Tag {
+  confidence: 12.570407
+  tag: transport
+}
+, class Tag {
+  confidence: 12.309355
+  tag: travel
+}
+, class Tag {
+  confidence: 12.214799
+  tag: port
+}
+, class Tag {
+  confidence: 11.295403
+  tag: transportation
+}
+, class Tag {
+  confidence: 10.668593
+  tag: architecture
+}
+, class Tag {
+  confidence: 10.584037
+  tag: cargo
+}
+, class Tag {
+  confidence: 10.509307
+  tag: river
+}
+, class Tag {
+  confidence: 9.2970295
+  tag: bay
+}
+, class Tag {
+  confidence: 9.273477
+  tag: harbour
+}
+, class Tag {
+  confidence: 9.228816
+  tag: landscape
+}
+, class Tag {
+  confidence: 8.944009
+  tag: bridge
+}
+, class Tag {
+  confidence: 8.890675
+  tag: industry
+}
+, class Tag {
+  confidence: 8.521867
+  tag: shipping
+}
+, class Tag {
+  confidence: 8.374058
+  tag: building
+}
+, class Tag {
+  confidence: 8.141221
+  tag: coast
+}
+, class Tag {
+  confidence: 7.9554296
+  tag: sunset
+}
+, class Tag {
+  confidence: 7.642459
+  tag: billboard
+}
+, class Tag {
+  confidence: 7.6137004
+  tag: dock
+}
+, class Tag {
+  confidence: 7.5262985
+  tag: panorama
+}
+, class Tag {
+  confidence: 7.4808145
+  tag: cityscape
+}
+, class Tag {
+  confidence: 7.4546742
+  tag: landmark
+}
+, class Tag {
+  confidence: 7.452869
+  tag: europe
+}
+, class Tag {
+  confidence: 7.4231405
+  tag: freight
+}
+, class Tag {
+  confidence: 7.3527985
+  tag: pier
+}
+, class Tag {
+  confidence: 7.3344526
+  tag: beach
+}
+, class Tag {
+  confidence: 7.233315
+  tag: crane
+}
+, class Tag {
+  confidence: 7.167157
+  tag: summer
+}
+, class Tag {
+  confidence: 7.053884
+  tag: tourism
+}
+]
+}
+]
+  unsuccessful: null
+}

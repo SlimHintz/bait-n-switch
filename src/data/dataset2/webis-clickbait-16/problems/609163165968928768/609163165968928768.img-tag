@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQuqD8UcAA5ctp.jpg
+  tags: [class Tag {
+  confidence: 38.66
+  tag: steel drum
+}
+, class Tag {
+  confidence: 30.928
+  tag: percussion instrument
+}
+, class Tag {
+  confidence: 23.152784
+  tag: musical instrument
+}
+, class Tag {
+  confidence: 21.159016
+  tag: happy
+}
+, class Tag {
+  confidence: 18.847765
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 18.378237
+  tag: person
+}
+, class Tag {
+  confidence: 17.660255
+  tag: people
+}
+, class Tag {
+  confidence: 17.198505
+  tag: man
+}
+, class Tag {
+  confidence: 17.060703
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.146473
+  tag: smile
+}
+, class Tag {
+  confidence: 16.079336
+  tag: portrait
+}
+, class Tag {
+  confidence: 16.027317
+  tag: adult
+}
+, class Tag {
+  confidence: 15.743393
+  tag: home
+}
+, class Tag {
+  confidence: 15.341801
+  tag: smiling
+}
+, class Tag {
+  confidence: 15.180563
+  tag: male
+}
+, class Tag {
+  confidence: 13.799476
+  tag: attractive
+}
+, class Tag {
+  confidence: 13.058434
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.946507
+  tag: holding
+}
+, class Tag {
+  confidence: 11.636648
+  tag: casual
+}
+, class Tag {
+  confidence: 11.467714
+  tag: women
+}
+, class Tag {
+  confidence: 10.401052
+  tag: hand
+}
+, class Tag {
+  confidence: 9.615458
+  tag: sitting
+}
+, class Tag {
+  confidence: 9.41261
+  tag: business
+}
+, class Tag {
+  confidence: 9.228698
+  tag: human
+}
+, class Tag {
+  confidence: 9.194065
+  tag: cheerful
+}
+, class Tag {
+  confidence: 9.18
+  tag: potter's wheel
+}
+, class Tag {
+  confidence: 9.143344
+  tag: indoors
+}
+, class Tag {
+  confidence: 9.102504
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.036599
+  tag: customer
+}
+, class Tag {
+  confidence: 8.821843
+  tag: work
+}
+, class Tag {
+  confidence: 8.755414
+  tag: laptop
+}
+, class Tag {
+  confidence: 8.702682
+  tag: handsome
+}
+, class Tag {
+  confidence: 8.637032
+  tag: face
+}
+, class Tag {
+  confidence: 8.464012
+  tag: standing
+}
+, class Tag {
+  confidence: 8.363846
+  tag: boy
+}
+, class Tag {
+  confidence: 8.190685
+  tag: youth
+}
+, class Tag {
+  confidence: 7.639623
+  tag: men
+}
+, class Tag {
+  confidence: 7.413422
+  tag: food
+}
+, class Tag {
+  confidence: 7.215904
+  tag: success
+}
+, class Tag {
+  confidence: 7.052974
+  tag: working
+}
+, class Tag {
+  confidence: 7.0380397
+  tag: computer
+}
+]
+}
+]
+  unsuccessful: null
+}

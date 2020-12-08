@@ -1,0 +1,88 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHHwGuoWsAAs86j.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: newspaper
+}
+, class Tag {
+  confidence: 24.781273
+  tag: daily
+}
+, class Tag {
+  confidence: 14.724157
+  tag: press
+}
+, class Tag {
+  confidence: 11.787619
+  tag: money
+}
+, class Tag {
+  confidence: 11.571523
+  tag: paper
+}
+, class Tag {
+  confidence: 11.307489
+  tag: print media
+}
+, class Tag {
+  confidence: 10.94088
+  tag: business
+}
+, class Tag {
+  confidence: 10.091735
+  tag: cash
+}
+, class Tag {
+  confidence: 9.987261
+  tag: banking
+}
+, class Tag {
+  confidence: 9.848547
+  tag: currency
+}
+, class Tag {
+  confidence: 9.678381
+  tag: finance
+}
+, class Tag {
+  confidence: 9.203398
+  tag: financial
+}
+, class Tag {
+  confidence: 9.106287
+  tag: bank
+}
+, class Tag {
+  confidence: 8.5984
+  tag: bill
+}
+, class Tag {
+  confidence: 8.379216
+  tag: dollar
+}
+, class Tag {
+  confidence: 8.27787
+  tag: medium
+}
+, class Tag {
+  confidence: 8.093658
+  tag: publication
+}
+, class Tag {
+  confidence: 7.638095
+  tag: text
+}
+, class Tag {
+  confidence: 7.125255
+  tag: letter
+}
+, class Tag {
+  confidence: 7.099512
+  tag: word
+}
+]
+}
+]
+  unsuccessful: null
+}

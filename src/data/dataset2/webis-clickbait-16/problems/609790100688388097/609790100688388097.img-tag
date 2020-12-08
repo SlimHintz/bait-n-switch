@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG0UKCZUIAE6_P9.jpg
+  tags: [class Tag {
+  confidence: 27.891815
+  tag: icon
+}
+, class Tag {
+  confidence: 22.040932
+  tag: symbol
+}
+, class Tag {
+  confidence: 21.557867
+  tag: design
+}
+, class Tag {
+  confidence: 18.45687
+  tag: graphic
+}
+, class Tag {
+  confidence: 17.993477
+  tag: sign
+}
+, class Tag {
+  confidence: 17.888054
+  tag: 3d
+}
+, class Tag {
+  confidence: 16.809586
+  tag: set
+}
+, class Tag {
+  confidence: 16.358768
+  tag: business
+}
+, class Tag {
+  confidence: 15.812491
+  tag: icons
+}
+, class Tag {
+  confidence: 14.831697
+  tag: silhouette
+}
+, class Tag {
+  confidence: 14.177693
+  tag: communication
+}
+, class Tag {
+  confidence: 13.611843
+  tag: cartoon
+}
+, class Tag {
+  confidence: 12.819249
+  tag: black
+}
+, class Tag {
+  confidence: 12.795538
+  tag: web
+}
+, class Tag {
+  confidence: 12.736066
+  tag: internet
+}
+, class Tag {
+  confidence: 12.0796795
+  tag: drawing
+}
+, class Tag {
+  confidence: 12.053502
+  tag: computer
+}
+, class Tag {
+  confidence: 10.811955
+  tag: art
+}
+, class Tag {
+  confidence: 10.558226
+  tag: modern
+}
+, class Tag {
+  confidence: 10.279723
+  tag: connection
+}
+, class Tag {
+  confidence: 9.754795
+  tag: arrow
+}
+, class Tag {
+  confidence: 9.615337
+  tag: object
+}
+, class Tag {
+  confidence: 9.406436
+  tag: global
+}
+, class Tag {
+  confidence: 9.100263
+  tag: equipment
+}
+, class Tag {
+  confidence: 9.096601
+  tag: technology
+}
+, class Tag {
+  confidence: 9.096435
+  tag: button
+}
+, class Tag {
+  confidence: 8.993514
+  tag: shape
+}
+, class Tag {
+  confidence: 8.5280905
+  tag: element
+}
+, class Tag {
+  confidence: 8.423292
+  tag: group
+}
+, class Tag {
+  confidence: 7.616728
+  tag: digital
+}
+, class Tag {
+  confidence: 7.521257
+  tag: world
+}
+, class Tag {
+  confidence: 7.3994474
+  tag: liaison
+}
+, class Tag {
+  confidence: 7.3350124
+  tag: render
+}
+, class Tag {
+  confidence: 7.306228
+  tag: finance
+}
+, class Tag {
+  confidence: 7.202263
+  tag: man
+}
+, class Tag {
+  confidence: 7.1634617
+  tag: logo
+}
+, class Tag {
+  confidence: 7.1027937
+  tag: label
+}
+]
+}
+]
+  unsuccessful: null
+}

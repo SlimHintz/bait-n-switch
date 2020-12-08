@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHd9mQ3WoAAP_lT.jpg
+  tags: [class Tag {
+  confidence: 32.754593
+  tag: symbol
+}
+, class Tag {
+  confidence: 28.706509
+  tag: sign
+}
+, class Tag {
+  confidence: 24.181198
+  tag: icon
+}
+, class Tag {
+  confidence: 23.005182
+  tag: design
+}
+, class Tag {
+  confidence: 22.483091
+  tag: 3d
+}
+, class Tag {
+  confidence: 21.659931
+  tag: capital
+}
+, class Tag {
+  confidence: 19.400354
+  tag: text
+}
+, class Tag {
+  confidence: 15.9086685
+  tag: alphabet
+}
+, class Tag {
+  confidence: 15.049922
+  tag: finance
+}
+, class Tag {
+  confidence: 14.793161
+  tag: business
+}
+, class Tag {
+  confidence: 14.714005
+  tag: set
+}
+, class Tag {
+  confidence: 14.5786085
+  tag: graphic
+}
+, class Tag {
+  confidence: 14.277642
+  tag: font
+}
+, class Tag {
+  confidence: 13.495513
+  tag: percent
+}
+, class Tag {
+  confidence: 12.720982
+  tag: sale
+}
+, class Tag {
+  confidence: 12.601154
+  tag: letter
+}
+, class Tag {
+  confidence: 12.470549
+  tag: letters
+}
+, class Tag {
+  confidence: 11.885154
+  tag: money
+}
+, class Tag {
+  confidence: 11.513953
+  tag: metal
+}
+, class Tag {
+  confidence: 11.4932575
+  tag: collection
+}
+, class Tag {
+  confidence: 11.067425
+  tag: icons
+}
+, class Tag {
+  confidence: 10.907515
+  tag: shopping
+}
+, class Tag {
+  confidence: 10.883827
+  tag: metallic
+}
+, class Tag {
+  confidence: 10.853943
+  tag: reflection
+}
+, class Tag {
+  confidence: 10.794334
+  tag: black
+}
+, class Tag {
+  confidence: 10.6110935
+  tag: price
+}
+, class Tag {
+  confidence: 10.369774
+  tag: buy
+}
+, class Tag {
+  confidence: 9.798361
+  tag: market
+}
+, class Tag {
+  confidence: 9.287202
+  tag: object
+}
+, class Tag {
+  confidence: 9.234529
+  tag: message
+}
+, class Tag {
+  confidence: 9.1118355
+  tag: bright
+}
+, class Tag {
+  confidence: 8.975938
+  tag: discount
+}
+, class Tag {
+  confidence: 8.966777
+  tag: modern
+}
+, class Tag {
+  confidence: 8.94526
+  tag: characters
+}
+, class Tag {
+  confidence: 8.731978
+  tag: retail
+}
+, class Tag {
+  confidence: 8.65127
+  tag: shiny
+}
+, class Tag {
+  confidence: 8.516799
+  tag: simple
+}
+, class Tag {
+  confidence: 8.250651
+  tag: success
+}
+, class Tag {
+  confidence: 8.145147
+  tag: percentage
+}
+, class Tag {
+  confidence: 8.069528
+  tag: typeset
+}
+, class Tag {
+  confidence: 8.055372
+  tag: silver
+}
+, class Tag {
+  confidence: 7.860263
+  tag: type
+}
+, class Tag {
+  confidence: 7.810829
+  tag: word
+}
+, class Tag {
+  confidence: 7.7471004
+  tag: print
+}
+, class Tag {
+  confidence: 7.6998353
+  tag: shop
+}
+, class Tag {
+  confidence: 7.5889173
+  tag: art
+}
+, class Tag {
+  confidence: 7.4854083
+  tag: currency
+}
+, class Tag {
+  confidence: 7.1741447
+  tag: steel
+}
+, class Tag {
+  confidence: 7.1141334
+  tag: purchase
+}
+, class Tag {
+  confidence: 7.038399
+  tag: profit
+}
+]
+}
+]
+  unsuccessful: null
+}

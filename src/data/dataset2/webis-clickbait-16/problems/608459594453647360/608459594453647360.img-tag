@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHGuxt7WgAAELnT.jpg
+  tags: [class Tag {
+  confidence: 39.832546
+  tag: microwave
+}
+, class Tag {
+  confidence: 36.84008
+  tag: oven
+}
+, class Tag {
+  confidence: 34.910786
+  tag: kitchen appliance
+}
+, class Tag {
+  confidence: 25.84
+  tag: home appliance
+}
+, class Tag {
+  confidence: 19.606537
+  tag: electronic equipment
+}
+, class Tag {
+  confidence: 18.247694
+  tag: equipment
+}
+, class Tag {
+  confidence: 18.20103
+  tag: technology
+}
+, class Tag {
+  confidence: 18.059855
+  tag: appliance
+}
+, class Tag {
+  confidence: 13.6435585
+  tag: computer
+}
+, class Tag {
+  confidence: 12.089024
+  tag: stove
+}
+, class Tag {
+  confidence: 11.78
+  tag: radio receiver
+}
+, class Tag {
+  confidence: 11.455838
+  tag: digital
+}
+, class Tag {
+  confidence: 10.790994
+  tag: receiver
+}
+, class Tag {
+  confidence: 10.762645
+  tag: design
+}
+, class Tag {
+  confidence: 10.678875
+  tag: internet
+}
+, class Tag {
+  confidence: 10.48824
+  tag: black
+}
+, class Tag {
+  confidence: 10.483365
+  tag: set
+}
+, class Tag {
+  confidence: 10.439575
+  tag: modern
+}
+, class Tag {
+  confidence: 10.32
+  tag: tape player
+}
+, class Tag {
+  confidence: 10.076214
+  tag: business
+}
+, class Tag {
+  confidence: 9.927206
+  tag: home
+}
+, class Tag {
+  confidence: 9.562832
+  tag: broadcasting
+}
+, class Tag {
+  confidence: 9.22523
+  tag: device
+}
+, class Tag {
+  confidence: 9.05371
+  tag: screen
+}
+, class Tag {
+  confidence: 8.911141
+  tag: display
+}
+, class Tag {
+  confidence: 8.837615
+  tag: web
+}
+, class Tag {
+  confidence: 8.783617
+  tag: laptop
+}
+, class Tag {
+  confidence: 8.693343
+  tag: color
+}
+, class Tag {
+  confidence: 8.492284
+  tag: button
+}
+, class Tag {
+  confidence: 8.3
+  tag: cassette player
+}
+, class Tag {
+  confidence: 8.207602
+  tag: 3d
+}
+, class Tag {
+  confidence: 7.9590864
+  tag: heater
+}
+, class Tag {
+  confidence: 7.688
+  tag: durables
+}
+, class Tag {
+  confidence: 7.5037093
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.183159
+  tag: silver
+}
+, class Tag {
+  confidence: 7.1314363
+  tag: monitor
+}
+, class Tag {
+  confidence: 7.001762
+  tag: close
+}
+]
+}
+]
+  unsuccessful: null
+}

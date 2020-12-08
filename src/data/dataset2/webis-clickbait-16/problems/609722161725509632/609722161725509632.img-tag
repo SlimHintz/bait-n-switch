@@ -1,0 +1,216 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHVM6RzVAAACfbf.jpg
+  tags: [class Tag {
+  confidence: 25.327478
+  tag: people
+}
+, class Tag {
+  confidence: 24.249502
+  tag: person
+}
+, class Tag {
+  confidence: 20.743055
+  tag: man
+}
+, class Tag {
+  confidence: 19.225403
+  tag: male
+}
+, class Tag {
+  confidence: 17.577509
+  tag: sword
+}
+, class Tag {
+  confidence: 17.493658
+  tag: caucasian
+}
+, class Tag {
+  confidence: 15.777842
+  tag: adult
+}
+, class Tag {
+  confidence: 13.36532
+  tag: weapon
+}
+, class Tag {
+  confidence: 13.182098
+  tag: human
+}
+, class Tag {
+  confidence: 12.893219
+  tag: happy
+}
+, class Tag {
+  confidence: 12.7472725
+  tag: silhouette
+}
+, class Tag {
+  confidence: 12.457259
+  tag: competition
+}
+, class Tag {
+  confidence: 12.075235
+  tag: fun
+}
+, class Tag {
+  confidence: 12.019654
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.9591675
+  tag: sport
+}
+, class Tag {
+  confidence: 11.66026
+  tag: casual
+}
+, class Tag {
+  confidence: 11.295179
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.292374
+  tag: muscular
+}
+, class Tag {
+  confidence: 11.086858
+  tag: attractive
+}
+, class Tag {
+  confidence: 11.029241
+  tag: training
+}
+, class Tag {
+  confidence: 11.019188
+  tag: player
+}
+, class Tag {
+  confidence: 10.586873
+  tag: joy
+}
+, class Tag {
+  confidence: 10.44212
+  tag: studio
+}
+, class Tag {
+  confidence: 10.428473
+  tag: skill
+}
+, class Tag {
+  confidence: 10.189103
+  tag: black
+}
+, class Tag {
+  confidence: 10.138569
+  tag: gymnastics
+}
+, class Tag {
+  confidence: 10.127032
+  tag: business
+}
+, class Tag {
+  confidence: 10.029783
+  tag: home
+}
+, class Tag {
+  confidence: 9.605033
+  tag: bright
+}
+, class Tag {
+  confidence: 9.261257
+  tag: art
+}
+, class Tag {
+  confidence: 9.177577
+  tag: smile
+}
+, class Tag {
+  confidence: 9.167265
+  tag: event
+}
+, class Tag {
+  confidence: 9.0391655
+  tag: holding
+}
+, class Tag {
+  confidence: 8.886167
+  tag: roriginal
+}
+, class Tag {
+  confidence: 8.797477
+  tag: indoors
+}
+, class Tag {
+  confidence: 8.448275
+  tag: guy
+}
+, class Tag {
+  confidence: 8.21331
+  tag: suit
+}
+, class Tag {
+  confidence: 8.03216
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.933707
+  tag: boy
+}
+, class Tag {
+  confidence: 7.9285946
+  tag: model
+}
+, class Tag {
+  confidence: 7.848999
+  tag: fight
+}
+, class Tag {
+  confidence: 7.775468
+  tag: professional
+}
+, class Tag {
+  confidence: 7.762166
+  tag: color
+}
+, class Tag {
+  confidence: 7.7620015
+  tag: youth
+}
+, class Tag {
+  confidence: 7.7530704
+  tag: athlete
+}
+, class Tag {
+  confidence: 7.749849
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.5413556
+  tag: 20s
+}
+, class Tag {
+  confidence: 7.52
+  tag: shoe shop
+}
+, class Tag {
+  confidence: 7.390578
+  tag: shop
+}
+, class Tag {
+  confidence: 7.3326573
+  tag: looking
+}
+, class Tag {
+  confidence: 7.110617
+  tag: vibrant
+}
+, class Tag {
+  confidence: 7.022334
+  tag: day
+}
+]
+}
+]
+  unsuccessful: null
+}

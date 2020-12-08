@@ -1,0 +1,276 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeLwuWWgAAqJtA.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: field
+}
+, class Tag {
+  confidence: 81.68815
+  tag: wheat
+}
+, class Tag {
+  confidence: 49.97188
+  tag: cereal
+}
+, class Tag {
+  confidence: 34.899944
+  tag: agriculture
+}
+, class Tag {
+  confidence: 34.87586
+  tag: farm
+}
+, class Tag {
+  confidence: 32.277756
+  tag: rural
+}
+, class Tag {
+  confidence: 31.067764
+  tag: grain
+}
+, class Tag {
+  confidence: 27.530455
+  tag: landscape
+}
+, class Tag {
+  confidence: 26.23704
+  tag: summer
+}
+, class Tag {
+  confidence: 25.088024
+  tag: corn
+}
+, class Tag {
+  confidence: 25.055666
+  tag: plant
+}
+, class Tag {
+  confidence: 25.051456
+  tag: harvest
+}
+, class Tag {
+  confidence: 24.547451
+  tag: crop
+}
+, class Tag {
+  confidence: 24.239956
+  tag: farming
+}
+, class Tag {
+  confidence: 23.830215
+  tag: countryside
+}
+, class Tag {
+  confidence: 23.737875
+  tag: sky
+}
+, class Tag {
+  confidence: 22.566898
+  tag: country
+}
+, class Tag {
+  confidence: 21.127396
+  tag: grass
+}
+, class Tag {
+  confidence: 20.378433
+  tag: season
+}
+, class Tag {
+  confidence: 20.339249
+  tag: straw
+}
+, class Tag {
+  confidence: 19.242607
+  tag: seed
+}
+, class Tag {
+  confidence: 18.57897
+  tag: land
+}
+, class Tag {
+  confidence: 18.398924
+  tag: growth
+}
+, class Tag {
+  confidence: 18.027288
+  tag: cloud
+}
+, class Tag {
+  confidence: 17.423553
+  tag: rye
+}
+, class Tag {
+  confidence: 17.391596
+  tag: grow
+}
+, class Tag {
+  confidence: 17.218906
+  tag: meadow
+}
+, class Tag {
+  confidence: 17.055395
+  tag: bread
+}
+, class Tag {
+  confidence: 16.362623
+  tag: sun
+}
+, class Tag {
+  confidence: 16.01544
+  tag: golden
+}
+, class Tag {
+  confidence: 15.929501
+  tag: natural
+}
+, class Tag {
+  confidence: 15.787043
+  tag: ripe
+}
+, class Tag {
+  confidence: 15.280481
+  tag: yellow
+}
+, class Tag {
+  confidence: 15.12933
+  tag: sunny
+}
+, class Tag {
+  confidence: 14.9618
+  tag: gold
+}
+, class Tag {
+  confidence: 14.918625
+  tag: farmland
+}
+, class Tag {
+  confidence: 13.650885
+  tag: horizon
+}
+, class Tag {
+  confidence: 13.309785
+  tag: autumn
+}
+, class Tag {
+  confidence: 13.304865
+  tag: environment
+}
+, class Tag {
+  confidence: 12.763812
+  tag: spring
+}
+, class Tag {
+  confidence: 12.546727
+  tag: barley
+}
+, class Tag {
+  confidence: 12.334101
+  tag: scene
+}
+, class Tag {
+  confidence: 12.169392
+  tag: agricultural
+}
+, class Tag {
+  confidence: 11.889858
+  tag: food
+}
+, class Tag {
+  confidence: 11.647699
+  tag: stem
+}
+, class Tag {
+  confidence: 11.36956
+  tag: hay
+}
+, class Tag {
+  confidence: 10.783423
+  tag: clouds
+}
+, class Tag {
+  confidence: 10.36092
+  tag: cloudscape
+}
+, class Tag {
+  confidence: 10.231927
+  tag: dry
+}
+, class Tag {
+  confidence: 10.142857
+  tag: sunlight
+}
+, class Tag {
+  confidence: 9.7088585
+  tag: fields
+}
+, class Tag {
+  confidence: 9.6592245
+  tag: day
+}
+, class Tag {
+  confidence: 9.61006
+  tag: outdoor
+}
+, class Tag {
+  confidence: 9.022532
+  tag: harvesting
+}
+, class Tag {
+  confidence: 8.813661
+  tag: cultivate
+}
+, class Tag {
+  confidence: 8.738633
+  tag: ear
+}
+, class Tag {
+  confidence: 8.419037
+  tag: cloudy
+}
+, class Tag {
+  confidence: 8.255672
+  tag: tree
+}
+, class Tag {
+  confidence: 8.1112995
+  tag: outside
+}
+, class Tag {
+  confidence: 8.066363
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.9180555
+  tag: flour
+}
+, class Tag {
+  confidence: 7.8858547
+  tag: close
+}
+, class Tag {
+  confidence: 7.523109
+  tag: weather
+}
+, class Tag {
+  confidence: 7.511561
+  tag: produce
+}
+, class Tag {
+  confidence: 7.4272885
+  tag: plain
+}
+, class Tag {
+  confidence: 7.237094
+  tag: scenery
+}
+, class Tag {
+  confidence: 7.020982
+  tag: bright
+}
+]
+}
+]
+  unsuccessful: null
+}

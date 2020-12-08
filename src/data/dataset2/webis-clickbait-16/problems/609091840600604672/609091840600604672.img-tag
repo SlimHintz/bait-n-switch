@@ -1,0 +1,348 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPtzUIW4AAkqWa.jpg
+  tags: [class Tag {
+  confidence: 46.96383
+  tag: man
+}
+, class Tag {
+  confidence: 40.682846
+  tag: male
+}
+, class Tag {
+  confidence: 31.065556
+  tag: person
+}
+, class Tag {
+  confidence: 30.046104
+  tag: caucasian
+}
+, class Tag {
+  confidence: 28.631947
+  tag: people
+}
+, class Tag {
+  confidence: 27.943329
+  tag: adult
+}
+, class Tag {
+  confidence: 26.138378
+  tag: portrait
+}
+, class Tag {
+  confidence: 25.351547
+  tag: business
+}
+, class Tag {
+  confidence: 24.260948
+  tag: businessman
+}
+, class Tag {
+  confidence: 21.707787
+  tag: office
+}
+, class Tag {
+  confidence: 21.535173
+  tag: happy
+}
+, class Tag {
+  confidence: 20.718397
+  tag: professional
+}
+, class Tag {
+  confidence: 20.182482
+  tag: handsome
+}
+, class Tag {
+  confidence: 18.906702
+  tag: executive
+}
+, class Tag {
+  confidence: 18.48568
+  tag: smiling
+}
+, class Tag {
+  confidence: 18.403637
+  tag: corporate
+}
+, class Tag {
+  confidence: 16.812136
+  tag: suit
+}
+, class Tag {
+  confidence: 16.747738
+  tag: smile
+}
+, class Tag {
+  confidence: 14.726324
+  tag: face
+}
+, class Tag {
+  confidence: 14.455894
+  tag: phone
+}
+, class Tag {
+  confidence: 14.43881
+  tag: men
+}
+, class Tag {
+  confidence: 14.326849
+  tag: casual
+}
+, class Tag {
+  confidence: 13.523639
+  tag: looking
+}
+, class Tag {
+  confidence: 13.329922
+  tag: attractive
+}
+, class Tag {
+  confidence: 13.213748
+  tag: career
+}
+, class Tag {
+  confidence: 12.990516
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.841937
+  tag: occupation
+}
+, class Tag {
+  confidence: 12.667641
+  tag: expression
+}
+, class Tag {
+  confidence: 12.381254
+  tag: work
+}
+, class Tag {
+  confidence: 12.292202
+  tag: standing
+}
+, class Tag {
+  confidence: 12.188509
+  tag: success
+}
+, class Tag {
+  confidence: 12.1346035
+  tag: american
+}
+, class Tag {
+  confidence: 12.016586
+  tag: sitting
+}
+, class Tag {
+  confidence: 11.1866
+  tag: guy
+}
+, class Tag {
+  confidence: 11.130063
+  tag: 20s
+}
+, class Tag {
+  confidence: 10.870476
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.816081
+  tag: holding
+}
+, class Tag {
+  confidence: 10.79403
+  tag: job
+}
+, class Tag {
+  confidence: 10.612059
+  tag: together
+}
+, class Tag {
+  confidence: 10.5863905
+  tag: couple
+}
+, class Tag {
+  confidence: 9.801973
+  tag: employee
+}
+, class Tag {
+  confidence: 9.715645
+  tag: tie
+}
+, class Tag {
+  confidence: 9.7038
+  tag: businesspeople
+}
+, class Tag {
+  confidence: 9.586956
+  tag: manager
+}
+, class Tag {
+  confidence: 9.3812475
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.32162
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 9.315361
+  tag: communication
+}
+, class Tag {
+  confidence: 9.312926
+  tag: laptop
+}
+, class Tag {
+  confidence: 9.287811
+  tag: alone
+}
+, class Tag {
+  confidence: 9.225397
+  tag: studio
+}
+, class Tag {
+  confidence: 8.989281
+  tag: indoors
+}
+, class Tag {
+  confidence: 8.909167
+  tag: old
+}
+, class Tag {
+  confidence: 8.884145
+  tag: vertical
+}
+, class Tag {
+  confidence: 8.854956
+  tag: serious
+}
+, class Tag {
+  confidence: 8.80769
+  tag: talking
+}
+, class Tag {
+  confidence: 8.789968
+  tag: love
+}
+, class Tag {
+  confidence: 8.763687
+  tag: desk
+}
+, class Tag {
+  confidence: 8.627784
+  tag: mature
+}
+, class Tag {
+  confidence: 8.473456
+  tag: hand
+}
+, class Tag {
+  confidence: 8.438607
+  tag: color
+}
+, class Tag {
+  confidence: 8.40307
+  tag: one
+}
+, class Tag {
+  confidence: 8.33255
+  tag: group
+}
+, class Tag {
+  confidence: 8.295378
+  tag: clothing
+}
+, class Tag {
+  confidence: 8.278465
+  tag: european
+}
+, class Tag {
+  confidence: 8.0753145
+  tag: home
+}
+, class Tag {
+  confidence: 7.935018
+  tag: day
+}
+, class Tag {
+  confidence: 7.9113364
+  tag: building
+}
+, class Tag {
+  confidence: 7.888067
+  tag: meeting
+}
+, class Tag {
+  confidence: 7.833214
+  tag: planner
+}
+, class Tag {
+  confidence: 7.794248
+  tag: human
+}
+, class Tag {
+  confidence: 7.7070994
+  tag: black
+}
+, class Tag {
+  confidence: 7.6810837
+  tag: confident
+}
+, class Tag {
+  confidence: 7.666631
+  tag: successful
+}
+, class Tag {
+  confidence: 7.545355
+  tag: team
+}
+, class Tag {
+  confidence: 7.4254065
+  tag: computer
+}
+, class Tag {
+  confidence: 7.394806
+  tag: working
+}
+, class Tag {
+  confidence: 7.2832856
+  tag: boy
+}
+, class Tag {
+  confidence: 7.257311
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.1199923
+  tag: mid adult
+}
+, class Tag {
+  confidence: 7.114505
+  tag: boss
+}
+, class Tag {
+  confidence: 7.0885673
+  tag: confidence
+}
+, class Tag {
+  confidence: 7.071428
+  tag: call
+}
+, class Tag {
+  confidence: 7.069484
+  tag: thinking
+}
+, class Tag {
+  confidence: 7.0679445
+  tag: elderly
+}
+, class Tag {
+  confidence: 7.00696
+  tag: two
+}
+]
+}
+]
+  unsuccessful: null
+}

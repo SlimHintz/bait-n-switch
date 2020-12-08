@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHW8_FRWgAAZx93.png
+  tags: [class Tag {
+  confidence: 18.618269
+  tag: package
+}
+, class Tag {
+  confidence: 14.837221
+  tag: money
+}
+, class Tag {
+  confidence: 14.758212
+  tag: currency
+}
+, class Tag {
+  confidence: 14.070705
+  tag: packet
+}
+, class Tag {
+  confidence: 13.250911
+  tag: finance
+}
+, class Tag {
+  confidence: 12.91603
+  tag: paper
+}
+, class Tag {
+  confidence: 12.882822
+  tag: business
+}
+, class Tag {
+  confidence: 12.050421
+  tag: pop
+}
+, class Tag {
+  confidence: 11.656185
+  tag: cash
+}
+, class Tag {
+  confidence: 11.611783
+  tag: design
+}
+, class Tag {
+  confidence: 11.513538
+  tag: card
+}
+, class Tag {
+  confidence: 11.450844
+  tag: bank
+}
+, class Tag {
+  confidence: 11.417379
+  tag: financial
+}
+, class Tag {
+  confidence: 11.194531
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.004675
+  tag: hand
+}
+, class Tag {
+  confidence: 10.64564
+  tag: color
+}
+, class Tag {
+  confidence: 10.198968
+  tag: savings
+}
+, class Tag {
+  confidence: 9.867727
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.792752
+  tag: wealth
+}
+, class Tag {
+  confidence: 9.6879015
+  tag: sign
+}
+, class Tag {
+  confidence: 9.407903
+  tag: icon
+}
+, class Tag {
+  confidence: 9.323408
+  tag: celebration
+}
+, class Tag {
+  confidence: 8.7607355
+  tag: text
+}
+, class Tag {
+  confidence: 8.730058
+  tag: education
+}
+, class Tag {
+  confidence: 8.724709
+  tag: technology
+}
+, class Tag {
+  confidence: 8.382826
+  tag: investment
+}
+, class Tag {
+  confidence: 8.13082
+  tag: success
+}
+, class Tag {
+  confidence: 7.930547
+  tag: container
+}
+, class Tag {
+  confidence: 7.748143
+  tag: euro
+}
+, class Tag {
+  confidence: 7.7062435
+  tag: decoration
+}
+, class Tag {
+  confidence: 7.666953
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.637588
+  tag: christmas
+}
+, class Tag {
+  confidence: 7.6113925
+  tag: human
+}
+, class Tag {
+  confidence: 7.5624175
+  tag: close
+}
+, class Tag {
+  confidence: 7.5470524
+  tag: banking
+}
+, class Tag {
+  confidence: 7.535699
+  tag: number
+}
+, class Tag {
+  confidence: 7.1612663
+  tag: 3d
+}
+, class Tag {
+  confidence: 7.0376396
+  tag: banknote
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,96 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHfiPXEUYAASp4_.jpg
+  tags: [class Tag {
+  confidence: 13.8344965
+  tag: business
+}
+, class Tag {
+  confidence: 13.266083
+  tag: paper
+}
+, class Tag {
+  confidence: 13.20019
+  tag: home
+}
+, class Tag {
+  confidence: 11.175058
+  tag: computer
+}
+, class Tag {
+  confidence: 10.868877
+  tag: close
+}
+, class Tag {
+  confidence: 10.378726
+  tag: design
+}
+, class Tag {
+  confidence: 10.199736
+  tag: laptop
+}
+, class Tag {
+  confidence: 9.785752
+  tag: modern
+}
+, class Tag {
+  confidence: 9.453799
+  tag: color
+}
+, class Tag {
+  confidence: 9.240171
+  tag: sign
+}
+, class Tag {
+  confidence: 8.661533
+  tag: internet
+}
+, class Tag {
+  confidence: 8.310199
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.299998
+  tag: technology
+}
+, class Tag {
+  confidence: 7.9596734
+  tag: space
+}
+, class Tag {
+  confidence: 7.691645
+  tag: black
+}
+, class Tag {
+  confidence: 7.579372
+  tag: currency
+}
+, class Tag {
+  confidence: 7.4334006
+  tag: conceptual
+}
+, class Tag {
+  confidence: 7.4242415
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.4214807
+  tag: world
+}
+, class Tag {
+  confidence: 7.231828
+  tag: money
+}
+, class Tag {
+  confidence: 7.20878
+  tag: finance
+}
+, class Tag {
+  confidence: 7.0073314
+  tag: communication
+}
+]
+}
+]
+  unsuccessful: null
+}

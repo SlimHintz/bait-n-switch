@@ -1,0 +1,216 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHewk28WsAAiRJl.jpg
+  tags: [class Tag {
+  confidence: 72.48726
+  tag: performance
+}
+, class Tag {
+  confidence: 46.44914
+  tag: stage
+}
+, class Tag {
+  confidence: 40.83344
+  tag: concert
+}
+, class Tag {
+  confidence: 33.179893
+  tag: platform
+}
+, class Tag {
+  confidence: 19.685303
+  tag: cabaret
+}
+, class Tag {
+  confidence: 16.793182
+  tag: people
+}
+, class Tag {
+  confidence: 16.4165
+  tag: spot
+}
+, class Tag {
+  confidence: 15.587343
+  tag: crowd
+}
+, class Tag {
+  confidence: 15.579415
+  tag: person
+}
+, class Tag {
+  confidence: 15.455167
+  tag: silhouette
+}
+, class Tag {
+  confidence: 13.840382
+  tag: lights
+}
+, class Tag {
+  confidence: 13.424517
+  tag: audience
+}
+, class Tag {
+  confidence: 13.203821
+  tag: music
+}
+, class Tag {
+  confidence: 11.82
+  tag: place of business
+}
+, class Tag {
+  confidence: 11.721262
+  tag: cheering
+}
+, class Tag {
+  confidence: 11.514884
+  tag: event
+}
+, class Tag {
+  confidence: 11.511536
+  tag: stadium
+}
+, class Tag {
+  confidence: 11.052077
+  tag: man
+}
+, class Tag {
+  confidence: 11.027596
+  tag: nighttime
+}
+, class Tag {
+  confidence: 11.022165
+  tag: hair
+}
+, class Tag {
+  confidence: 10.858585
+  tag: patriotic
+}
+, class Tag {
+  confidence: 10.742551
+  tag: nation
+}
+, class Tag {
+  confidence: 10.4249115
+  tag: flag
+}
+, class Tag {
+  confidence: 10.340012
+  tag: male
+}
+, class Tag {
+  confidence: 10.226465
+  tag: night
+}
+, class Tag {
+  confidence: 9.715372
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.697827
+  tag: skill
+}
+, class Tag {
+  confidence: 9.6472435
+  tag: guitar
+}
+, class Tag {
+  confidence: 9.505214
+  tag: playing
+}
+, class Tag {
+  confidence: 9.389162
+  tag: player
+}
+, class Tag {
+  confidence: 9.263162
+  tag: light
+}
+, class Tag {
+  confidence: 9.212148
+  tag: roriginal
+}
+, class Tag {
+  confidence: 8.991162
+  tag: black
+}
+, class Tag {
+  confidence: 8.955903
+  tag: musician
+}
+, class Tag {
+  confidence: 8.795643
+  tag: training
+}
+, class Tag {
+  confidence: 8.714585
+  tag: dark
+}
+, class Tag {
+  confidence: 8.537916
+  tag: icon
+}
+, class Tag {
+  confidence: 8.448757
+  tag: muscular
+}
+, class Tag {
+  confidence: 8.345579
+  tag: party
+}
+, class Tag {
+  confidence: 8.140131
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.080121
+  tag: competition
+}
+, class Tag {
+  confidence: 7.991117
+  tag: championship
+}
+, class Tag {
+  confidence: 7.910781
+  tag: match
+}
+, class Tag {
+  confidence: 7.8723593
+  tag: establishment
+}
+, class Tag {
+  confidence: 7.8089523
+  tag: athlete
+}
+, class Tag {
+  confidence: 7.75282
+  tag: field
+}
+, class Tag {
+  confidence: 7.7341814
+  tag: sport
+}
+, class Tag {
+  confidence: 7.6987753
+  tag: musical
+}
+, class Tag {
+  confidence: 7.545192
+  tag: adult
+}
+, class Tag {
+  confidence: 7.451543
+  tag: men
+}
+, class Tag {
+  confidence: 7.1591716
+  tag: team
+}
+, class Tag {
+  confidence: 7.129539
+  tag: band
+}
+]
+}
+]
+  unsuccessful: null
+}

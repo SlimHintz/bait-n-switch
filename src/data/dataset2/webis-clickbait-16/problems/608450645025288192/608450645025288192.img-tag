@@ -1,0 +1,144 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHGlLybW8AAdloC.jpg
+  tags: [class Tag {
+  confidence: 95.02182
+  tag: baseball
+}
+, class Tag {
+  confidence: 53.286304
+  tag: player
+}
+, class Tag {
+  confidence: 46.580635
+  tag: athlete
+}
+, class Tag {
+  confidence: 43.39676
+  tag: ballplayer
+}
+, class Tag {
+  confidence: 34.579857
+  tag: contestant
+}
+, class Tag {
+  confidence: 26.457823
+  tag: person
+}
+, class Tag {
+  confidence: 19.730568
+  tag: ball
+}
+, class Tag {
+  confidence: 16.67938
+  tag: sport
+}
+, class Tag {
+  confidence: 15.990973
+  tag: male
+}
+, class Tag {
+  confidence: 14.469069
+  tag: man
+}
+, class Tag {
+  confidence: 11.851581
+  tag: people
+}
+, class Tag {
+  confidence: 10.9684725
+  tag: fun
+}
+, class Tag {
+  confidence: 10.943914
+  tag: happy
+}
+, class Tag {
+  confidence: 10.77202
+  tag: active
+}
+, class Tag {
+  confidence: 10.686501
+  tag: base
+}
+, class Tag {
+  confidence: 10.258828
+  tag: game
+}
+, class Tag {
+  confidence: 10.026289
+  tag: outdoor
+}
+, class Tag {
+  confidence: 9.61725
+  tag: play
+}
+, class Tag {
+  confidence: 9.383917
+  tag: caucasian
+}
+, class Tag {
+  confidence: 8.977143
+  tag: leisure
+}
+, class Tag {
+  confidence: 8.815897
+  tag: adult
+}
+, class Tag {
+  confidence: 8.804838
+  tag: team
+}
+, class Tag {
+  confidence: 8.781662
+  tag: grass
+}
+, class Tag {
+  confidence: 8.379221
+  tag: field
+}
+, class Tag {
+  confidence: 7.9850388
+  tag: playing
+}
+, class Tag {
+  confidence: 7.9696846
+  tag: summer
+}
+, class Tag {
+  confidence: 7.6111894
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.5286355
+  tag: exercise
+}
+, class Tag {
+  confidence: 7.4403996
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.392
+  tag: baseball equipment
+}
+, class Tag {
+  confidence: 7.388889
+  tag: activity
+}
+, class Tag {
+  confidence: 7.371837
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.2814846
+  tag: recreation
+}
+, class Tag {
+  confidence: 7.0770283
+  tag: healthy
+}
+]
+}
+]
+  unsuccessful: null
+}

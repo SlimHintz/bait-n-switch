@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHV8yfHUEAEbq9b.jpg
+  tags: [class Tag {
+  confidence: 85.092766
+  tag: beard
+}
+, class Tag {
+  confidence: 32.296608
+  tag: man
+}
+, class Tag {
+  confidence: 29.655699
+  tag: face
+}
+, class Tag {
+  confidence: 27.939814
+  tag: portrait
+}
+, class Tag {
+  confidence: 27.520926
+  tag: male
+}
+, class Tag {
+  confidence: 22.947414
+  tag: person
+}
+, class Tag {
+  confidence: 21.981382
+  tag: adult
+}
+, class Tag {
+  confidence: 19.754045
+  tag: head
+}
+, class Tag {
+  confidence: 19.036997
+  tag: caucasian
+}
+, class Tag {
+  confidence: 17.421864
+  tag: eyes
+}
+, class Tag {
+  confidence: 17.113108
+  tag: people
+}
+, class Tag {
+  confidence: 16.629082
+  tag: handsome
+}
+, class Tag {
+  confidence: 16.20211
+  tag: looking
+}
+, class Tag {
+  confidence: 15.983168
+  tag: mustache
+}
+, class Tag {
+  confidence: 15.87026
+  tag: expression
+}
+, class Tag {
+  confidence: 15.629886
+  tag: model
+}
+, class Tag {
+  confidence: 15.477716
+  tag: attractive
+}
+, class Tag {
+  confidence: 14.784406
+  tag: smile
+}
+, class Tag {
+  confidence: 13.454886
+  tag: guy
+}
+, class Tag {
+  confidence: 13.097981
+  tag: happy
+}
+, class Tag {
+  confidence: 13.008664
+  tag: hair
+}
+, class Tag {
+  confidence: 12.75245
+  tag: one
+}
+, class Tag {
+  confidence: 12.642104
+  tag: close
+}
+, class Tag {
+  confidence: 11.407657
+  tag: casual
+}
+, class Tag {
+  confidence: 11.34843
+  tag: look
+}
+, class Tag {
+  confidence: 10.820661
+  tag: human
+}
+, class Tag {
+  confidence: 10.326725
+  tag: serious
+}
+, class Tag {
+  confidence: 10.133475
+  tag: fashion
+}
+, class Tag {
+  confidence: 9.795844
+  tag: friendly
+}
+, class Tag {
+  confidence: 9.44375
+  tag: smiling
+}
+, class Tag {
+  confidence: 9.176757
+  tag: businessman
+}
+, class Tag {
+  confidence: 9.14994
+  tag: youth
+}
+, class Tag {
+  confidence: 8.417433
+  tag: facial
+}
+, class Tag {
+  confidence: 8.11198
+  tag: boy
+}
+, class Tag {
+  confidence: 8.074064
+  tag: confident
+}
+, class Tag {
+  confidence: 7.992002
+  tag: skin
+}
+, class Tag {
+  confidence: 7.9492164
+  tag: men
+}
+, class Tag {
+  confidence: 7.6715665
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.666057
+  tag: studio
+}
+, class Tag {
+  confidence: 7.4260488
+  tag: senior
+}
+, class Tag {
+  confidence: 7.3913226
+  tag: lifestyle
+}
+]
+}
+]
+  unsuccessful: null
+}

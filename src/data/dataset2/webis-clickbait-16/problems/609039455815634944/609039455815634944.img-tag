@@ -1,0 +1,184 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/tweet_video_thumb/CHO-KD4U0AAOLwI.png
+  tags: [class Tag {
+  confidence: 32.62
+  tag: dugong
+}
+, class Tag {
+  confidence: 31.378368
+  tag: scuba diver
+}
+, class Tag {
+  confidence: 29.435333
+  tag: diver
+}
+, class Tag {
+  confidence: 28.700716
+  tag: shark
+}
+, class Tag {
+  confidence: 27.223816
+  tag: swimmer
+}
+, class Tag {
+  confidence: 26.78
+  tag: tiger shark
+}
+, class Tag {
+  confidence: 26.096
+  tag: sea cow
+}
+, class Tag {
+  confidence: 23.45914
+  tag: aqualung
+}
+, class Tag {
+  confidence: 20.558144
+  tag: athlete
+}
+, class Tag {
+  confidence: 20.454002
+  tag: water
+}
+, class Tag {
+  confidence: 19.57054
+  tag: aquatic mammal
+}
+, class Tag {
+  confidence: 18.01575
+  tag: person
+}
+, class Tag {
+  confidence: 17.681734
+  tag: sea
+}
+, class Tag {
+  confidence: 17.492008
+  tag: explorer
+}
+, class Tag {
+  confidence: 17.093037
+  tag: ocean
+}
+, class Tag {
+  confidence: 17.036089
+  tag: swimming
+}
+, class Tag {
+  confidence: 15.991285
+  tag: contestant
+}
+, class Tag {
+  confidence: 13.844855
+  tag: marine
+}
+, class Tag {
+  confidence: 13.0
+  tag: great white shark
+}
+, class Tag {
+  confidence: 12.163537
+  tag: underwater
+}
+, class Tag {
+  confidence: 11.832828
+  tag: fish
+}
+, class Tag {
+  confidence: 11.746896
+  tag: ray
+}
+, class Tag {
+  confidence: 11.558651
+  tag: animal
+}
+, class Tag {
+  confidence: 10.443041
+  tag: sky
+}
+, class Tag {
+  confidence: 10.24
+  tag: electric ray
+}
+, class Tag {
+  confidence: 10.111426
+  tag: diving
+}
+, class Tag {
+  confidence: 9.388699
+  tag: tropical
+}
+, class Tag {
+  confidence: 8.924674
+  tag: reef
+}
+, class Tag {
+  confidence: 8.793341
+  tag: aquatic
+}
+, class Tag {
+  confidence: 8.731566
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.556671
+  tag: life
+}
+, class Tag {
+  confidence: 8.303226
+  tag: bright
+}
+, class Tag {
+  confidence: 8.1999855
+  tag: dive
+}
+, class Tag {
+  confidence: 8.186252
+  tag: sun
+}
+, class Tag {
+  confidence: 7.9205284
+  tag: wet
+}
+, class Tag {
+  confidence: 7.868395
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.832982
+  tag: jellyfish
+}
+, class Tag {
+  confidence: 7.7357464
+  tag: mammal
+}
+, class Tag {
+  confidence: 7.709797
+  tag: light
+}
+, class Tag {
+  confidence: 7.5015764
+  tag: scuba
+}
+, class Tag {
+  confidence: 7.4926834
+  tag: color
+}
+, class Tag {
+  confidence: 7.345134
+  tag: pool
+}
+, class Tag {
+  confidence: 7.2193217
+  tag: deep
+}
+, class Tag {
+  confidence: 7.102826
+  tag: clear
+}
+]
+}
+]
+  unsuccessful: null
+}

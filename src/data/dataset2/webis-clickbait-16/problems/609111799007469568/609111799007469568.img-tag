@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHP_9CQWsAAOq6F.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: mouse
+}
+, class Tag {
+  confidence: 68.838844
+  tag: device
+}
+, class Tag {
+  confidence: 63.35054
+  tag: electronic device
+}
+, class Tag {
+  confidence: 31.20688
+  tag: computer
+}
+, class Tag {
+  confidence: 28.57509
+  tag: technology
+}
+, class Tag {
+  confidence: 25.863764
+  tag: equipment
+}
+, class Tag {
+  confidence: 22.825577
+  tag: internet
+}
+, class Tag {
+  confidence: 20.296387
+  tag: pc
+}
+, class Tag {
+  confidence: 20.24224
+  tag: scroll
+}
+, class Tag {
+  confidence: 20.148373
+  tag: optical
+}
+, class Tag {
+  confidence: 19.907356
+  tag: button
+}
+, class Tag {
+  confidence: 18.717756
+  tag: business
+}
+, class Tag {
+  confidence: 18.399996
+  tag: input
+}
+, class Tag {
+  confidence: 18.023846
+  tag: office
+}
+, class Tag {
+  confidence: 17.341766
+  tag: wheel
+}
+, class Tag {
+  confidence: 17.32919
+  tag: electronics
+}
+, class Tag {
+  confidence: 16.54441
+  tag: click
+}
+, class Tag {
+  confidence: 14.938359
+  tag: hardware
+}
+, class Tag {
+  confidence: 14.9102955
+  tag: connection
+}
+, class Tag {
+  confidence: 13.721531
+  tag: black
+}
+, class Tag {
+  confidence: 13.071698
+  tag: modem
+}
+, class Tag {
+  confidence: 13.002477
+  tag: silver
+}
+, class Tag {
+  confidence: 12.193481
+  tag: cable
+}
+, class Tag {
+  confidence: 12.10202
+  tag: scrolling
+}
+, class Tag {
+  confidence: 12.093273
+  tag: pointer
+}
+, class Tag {
+  confidence: 12.028935
+  tag: object
+}
+, class Tag {
+  confidence: 11.528846
+  tag: work
+}
+, class Tag {
+  confidence: 11.506119
+  tag: modern
+}
+, class Tag {
+  confidence: 10.612479
+  tag: scrollwheel
+}
+, class Tag {
+  confidence: 10.479218
+  tag: electronic equipment
+}
+, class Tag {
+  confidence: 10.206124
+  tag: electronic
+}
+, class Tag {
+  confidence: 9.658956
+  tag: communication
+}
+, class Tag {
+  confidence: 9.610686
+  tag: cord
+}
+, class Tag {
+  confidence: 9.471857
+  tag: pointing
+}
+, class Tag {
+  confidence: 9.453393
+  tag: close
+}
+, class Tag {
+  confidence: 8.392687
+  tag: tool
+}
+, class Tag {
+  confidence: 8.222341
+  tag: tech
+}
+, class Tag {
+  confidence: 8.19319
+  tag: information
+}
+, class Tag {
+  confidence: 8.031821
+  tag: gray
+}
+, class Tag {
+  confidence: 7.9801874
+  tag: part
+}
+, class Tag {
+  confidence: 7.7379203
+  tag: laptop
+}
+, class Tag {
+  confidence: 7.6904817
+  tag: keyboard
+}
+, class Tag {
+  confidence: 7.663691
+  tag: accessory
+}
+, class Tag {
+  confidence: 7.619011
+  tag: web
+}
+, class Tag {
+  confidence: 7.54233
+  tag: wireless
+}
+, class Tag {
+  confidence: 7.4739223
+  tag: wire
+}
+, class Tag {
+  confidence: 7.2759852
+  tag: www
+}
+, class Tag {
+  confidence: 7.150248
+  tag: mice
+}
+, class Tag {
+  confidence: 7.041003
+  tag: digital
+}
+, class Tag {
+  confidence: 7.0018377
+  tag: instrument
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,220 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHLQh89UIAAoamx.png
+  tags: [class Tag {
+  confidence: 39.818348
+  tag: architecture
+}
+, class Tag {
+  confidence: 38.728672
+  tag: building
+}
+, class Tag {
+  confidence: 26.831068
+  tag: travel
+}
+, class Tag {
+  confidence: 26.819723
+  tag: ancient
+}
+, class Tag {
+  confidence: 25.902784
+  tag: church
+}
+, class Tag {
+  confidence: 25.267473
+  tag: old
+}
+, class Tag {
+  confidence: 23.784185
+  tag: landmark
+}
+, class Tag {
+  confidence: 22.774858
+  tag: tourism
+}
+, class Tag {
+  confidence: 22.281631
+  tag: sky
+}
+, class Tag {
+  confidence: 20.958134
+  tag: city
+}
+, class Tag {
+  confidence: 19.502638
+  tag: religion
+}
+, class Tag {
+  confidence: 19.415169
+  tag: culture
+}
+, class Tag {
+  confidence: 18.769154
+  tag: europe
+}
+, class Tag {
+  confidence: 18.72504
+  tag: history
+}
+, class Tag {
+  confidence: 16.99938
+  tag: monument
+}
+, class Tag {
+  confidence: 16.399807
+  tag: temple
+}
+, class Tag {
+  confidence: 16.132256
+  tag: town
+}
+, class Tag {
+  confidence: 15.787635
+  tag: palace
+}
+, class Tag {
+  confidence: 15.51684
+  tag: historical
+}
+, class Tag {
+  confidence: 15.250415
+  tag: structure
+}
+, class Tag {
+  confidence: 15.246717
+  tag: famous
+}
+, class Tag {
+  confidence: 13.471329
+  tag: house
+}
+, class Tag {
+  confidence: 12.270211
+  tag: tourist
+}
+, class Tag {
+  confidence: 12.176787
+  tag: tower
+}
+, class Tag {
+  confidence: 12.084401
+  tag: traditional
+}
+, class Tag {
+  confidence: 12.013522
+  tag: summer
+}
+, class Tag {
+  confidence: 11.976801
+  tag: religious
+}
+, class Tag {
+  confidence: 11.451482
+  tag: medieval
+}
+, class Tag {
+  confidence: 11.35077
+  tag: stone
+}
+, class Tag {
+  confidence: 11.280681
+  tag: roof
+}
+, class Tag {
+  confidence: 10.531569
+  tag: cathedral
+}
+, class Tag {
+  confidence: 9.237561
+  tag: exterior
+}
+, class Tag {
+  confidence: 8.936066
+  tag: park
+}
+, class Tag {
+  confidence: 8.818753
+  tag: asia
+}
+, class Tag {
+  confidence: 8.807523
+  tag: dome
+}
+, class Tag {
+  confidence: 8.7750845
+  tag: holy
+}
+, class Tag {
+  confidence: 8.631692
+  tag: landscape
+}
+, class Tag {
+  confidence: 8.566635
+  tag: wall
+}
+, class Tag {
+  confidence: 8.351753
+  tag: historic
+}
+, class Tag {
+  confidence: 7.8737974
+  tag: faith
+}
+, class Tag {
+  confidence: 7.808
+  tag: place of worship
+}
+, class Tag {
+  confidence: 7.7613096
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.7041736
+  tag: construction
+}
+, class Tag {
+  confidence: 7.681364
+  tag: destination
+}
+, class Tag {
+  confidence: 7.659412
+  tag: water
+}
+, class Tag {
+  confidence: 7.638991
+  tag: place
+}
+, class Tag {
+  confidence: 7.3693895
+  tag: european
+}
+, class Tag {
+  confidence: 7.2603245
+  tag: home
+}
+, class Tag {
+  confidence: 7.2274547
+  tag: asian
+}
+, class Tag {
+  confidence: 7.108175
+  tag: museum
+}
+, class Tag {
+  confidence: 7.0886827
+  tag: buddhism
+}
+, class Tag {
+  confidence: 7.0703793
+  tag: past
+}
+, class Tag {
+  confidence: 7.039733
+  tag: christian
+}
+]
+}
+]
+  unsuccessful: null
+}

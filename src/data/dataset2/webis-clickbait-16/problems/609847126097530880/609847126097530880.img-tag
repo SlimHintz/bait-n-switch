@@ -1,0 +1,132 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHacut5WEAAq9yX.jpg
+  tags: [class Tag {
+  confidence: 54.45174
+  tag: serviceman
+}
+, class Tag {
+  confidence: 40.73109
+  tag: soldier
+}
+, class Tag {
+  confidence: 27.230442
+  tag: man
+}
+, class Tag {
+  confidence: 25.261074
+  tag: worker
+}
+, class Tag {
+  confidence: 23.390884
+  tag: person
+}
+, class Tag {
+  confidence: 20.36
+  tag: assault rifle
+}
+, class Tag {
+  confidence: 20.36
+  tag: automatic firearm
+}
+, class Tag {
+  confidence: 18.803402
+  tag: male
+}
+, class Tag {
+  confidence: 16.288
+  tag: automatic rifle
+}
+, class Tag {
+  confidence: 14.943432
+  tag: weapon
+}
+, class Tag {
+  confidence: 13.227636
+  tag: people
+}
+, class Tag {
+  confidence: 13.05225
+  tag: laborer
+}
+, class Tag {
+  confidence: 12.947505
+  tag: machine gun
+}
+, class Tag {
+  confidence: 12.652838
+  tag: gun
+}
+, class Tag {
+  confidence: 12.333006
+  tag: uniform
+}
+, class Tag {
+  confidence: 12.216
+  tag: autoloader
+}
+, class Tag {
+  confidence: 11.758328
+  tag: military
+}
+, class Tag {
+  confidence: 10.606883
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.367201
+  tag: caucasian
+}
+, class Tag {
+  confidence: 10.114905
+  tag: work
+}
+, class Tag {
+  confidence: 9.959282
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.880604
+  tag: private
+}
+, class Tag {
+  confidence: 9.719942
+  tag: men
+}
+, class Tag {
+  confidence: 9.691638
+  tag: protection
+}
+, class Tag {
+  confidence: 9.561381
+  tag: helmet
+}
+, class Tag {
+  confidence: 8.817878
+  tag: army
+}
+, class Tag {
+  confidence: 8.576911
+  tag: human
+}
+, class Tag {
+  confidence: 8.424599
+  tag: safety
+}
+, class Tag {
+  confidence: 8.084297
+  tag: adult
+}
+, class Tag {
+  confidence: 8.0231495
+  tag: war
+}
+, class Tag {
+  confidence: 7.1310916
+  tag: lifestyle
+}
+]
+}
+]
+  unsuccessful: null
+}

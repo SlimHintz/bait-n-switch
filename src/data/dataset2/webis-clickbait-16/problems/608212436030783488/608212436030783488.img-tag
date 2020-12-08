@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHDN_NAW0AAVVTm.jpg
+  tags: [class Tag {
+  confidence: 19.835106
+  tag: design
+}
+, class Tag {
+  confidence: 18.640217
+  tag: light
+}
+, class Tag {
+  confidence: 16.570515
+  tag: 3d
+}
+, class Tag {
+  confidence: 15.245114
+  tag: color
+}
+, class Tag {
+  confidence: 14.5732565
+  tag: graphic
+}
+, class Tag {
+  confidence: 13.381458
+  tag: art
+}
+, class Tag {
+  confidence: 13.344547
+  tag: pattern
+}
+, class Tag {
+  confidence: 13.292345
+  tag: digital
+}
+, class Tag {
+  confidence: 13.098478
+  tag: texture
+}
+, class Tag {
+  confidence: 12.75717
+  tag: space
+}
+, class Tag {
+  confidence: 12.500005
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 11.8550625
+  tag: business
+}
+, class Tag {
+  confidence: 11.489504
+  tag: modern
+}
+, class Tag {
+  confidence: 10.942848
+  tag: bright
+}
+, class Tag {
+  confidence: 10.83127
+  tag: colorful
+}
+, class Tag {
+  confidence: 10.160577
+  tag: technology
+}
+, class Tag {
+  confidence: 10.084237
+  tag: curtain
+}
+, class Tag {
+  confidence: 10.083251
+  tag: shiny
+}
+, class Tag {
+  confidence: 10.053287
+  tag: motion
+}
+, class Tag {
+  confidence: 9.307658
+  tag: yellow
+}
+, class Tag {
+  confidence: 8.764611
+  tag: computer
+}
+, class Tag {
+  confidence: 8.606906
+  tag: black
+}
+, class Tag {
+  confidence: 8.347001
+  tag: sign
+}
+, class Tag {
+  confidence: 8.307647
+  tag: furnishing
+}
+, class Tag {
+  confidence: 8.303994
+  tag: data
+}
+, class Tag {
+  confidence: 8.291209
+  tag: fractal
+}
+, class Tag {
+  confidence: 8.136705
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.791814
+  tag: artistic
+}
+, class Tag {
+  confidence: 7.7573113
+  tag: web
+}
+, class Tag {
+  confidence: 7.7033587
+  tag: internet
+}
+, class Tag {
+  confidence: 7.581873
+  tag: dark
+}
+, class Tag {
+  confidence: 7.43854
+  tag: backdrop
+}
+, class Tag {
+  confidence: 7.395839
+  tag: blind
+}
+, class Tag {
+  confidence: 7.337101
+  tag: futuristic
+}
+, class Tag {
+  confidence: 7.2926297
+  tag: lines
+}
+, class Tag {
+  confidence: 7.1278844
+  tag: decoration
+}
+, class Tag {
+  confidence: 7.1154113
+  tag: render
+}
+, class Tag {
+  confidence: 7.011976
+  tag: wave
+}
+]
+}
+]
+  unsuccessful: null
+}

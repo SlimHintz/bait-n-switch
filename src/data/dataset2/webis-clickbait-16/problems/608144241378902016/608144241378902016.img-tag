@@ -1,0 +1,212 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHCP9yAXAAAjsaZ.jpg
+  tags: [class Tag {
+  confidence: 30.466799
+  tag: computer
+}
+, class Tag {
+  confidence: 20.50036
+  tag: internet
+}
+, class Tag {
+  confidence: 18.472286
+  tag: screen
+}
+, class Tag {
+  confidence: 17.775682
+  tag: business
+}
+, class Tag {
+  confidence: 17.33067
+  tag: technology
+}
+, class Tag {
+  confidence: 16.015265
+  tag: web
+}
+, class Tag {
+  confidence: 15.52868
+  tag: design
+}
+, class Tag {
+  confidence: 14.888451
+  tag: display
+}
+, class Tag {
+  confidence: 14.482745
+  tag: modern
+}
+, class Tag {
+  confidence: 13.936617
+  tag: laptop
+}
+, class Tag {
+  confidence: 13.505032
+  tag: communication
+}
+, class Tag {
+  confidence: 12.94075
+  tag: icon
+}
+, class Tag {
+  confidence: 12.191218
+  tag: black
+}
+, class Tag {
+  confidence: 11.16447
+  tag: monitor
+}
+, class Tag {
+  confidence: 11.105052
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.06161
+  tag: button
+}
+, class Tag {
+  confidence: 10.637096
+  tag: 3d
+}
+, class Tag {
+  confidence: 10.098841
+  tag: mobile
+}
+, class Tag {
+  confidence: 10.058986
+  tag: keyboard
+}
+, class Tag {
+  confidence: 10.0292
+  tag: finance
+}
+, class Tag {
+  confidence: 9.879262
+  tag: vending machine
+}
+, class Tag {
+  confidence: 9.739213
+  tag: device
+}
+, class Tag {
+  confidence: 9.436295
+  tag: digital
+}
+, class Tag {
+  confidence: 9.400267
+  tag: equipment
+}
+, class Tag {
+  confidence: 9.224383
+  tag: shiny
+}
+, class Tag {
+  confidence: 9.123315
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.024077
+  tag: machine
+}
+, class Tag {
+  confidence: 8.927984
+  tag: sign
+}
+, class Tag {
+  confidence: 8.766115
+  tag: information
+}
+, class Tag {
+  confidence: 8.497655
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.462272
+  tag: home
+}
+, class Tag {
+  confidence: 8.427787
+  tag: set
+}
+, class Tag {
+  confidence: 8.400344
+  tag: buy
+}
+, class Tag {
+  confidence: 8.364127
+  tag: electronic
+}
+, class Tag {
+  confidence: 8.354486
+  tag: company
+}
+, class Tag {
+  confidence: 8.186864
+  tag: connection
+}
+, class Tag {
+  confidence: 8.1784315
+  tag: data
+}
+, class Tag {
+  confidence: 7.9499173
+  tag: office
+}
+, class Tag {
+  confidence: 7.9182262
+  tag: personal digital assistant
+}
+, class Tag {
+  confidence: 7.9016404
+  tag: slot machine
+}
+, class Tag {
+  confidence: 7.8044634
+  tag: paper
+}
+, class Tag {
+  confidence: 7.7656107
+  tag: render
+}
+, class Tag {
+  confidence: 7.7406154
+  tag: money
+}
+, class Tag {
+  confidence: 7.708491
+  tag: work
+}
+, class Tag {
+  confidence: 7.6751633
+  tag: color
+}
+, class Tag {
+  confidence: 7.6015487
+  tag: card
+}
+, class Tag {
+  confidence: 7.536315
+  tag: commerce
+}
+, class Tag {
+  confidence: 7.508144
+  tag: economy
+}
+, class Tag {
+  confidence: 7.4806423
+  tag: network
+}
+, class Tag {
+  confidence: 7.367233
+  tag: shopping
+}
+, class Tag {
+  confidence: 7.291608
+  tag: house
+}
+]
+}
+]
+  unsuccessful: null
+}

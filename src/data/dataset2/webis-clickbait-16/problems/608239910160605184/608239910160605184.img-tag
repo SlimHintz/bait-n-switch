@@ -1,0 +1,384 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHDm-GoUAAA4XVW.jpg
+  tags: [class Tag {
+  confidence: 41.829132
+  tag: grass
+}
+, class Tag {
+  confidence: 41.278873
+  tag: sky
+}
+, class Tag {
+  confidence: 39.82759
+  tag: meadow
+}
+, class Tag {
+  confidence: 34.133114
+  tag: summer
+}
+, class Tag {
+  confidence: 29.257767
+  tag: field
+}
+, class Tag {
+  confidence: 27.89212
+  tag: spring
+}
+, class Tag {
+  confidence: 27.690363
+  tag: outdoor
+}
+, class Tag {
+  confidence: 27.106174
+  tag: happy
+}
+, class Tag {
+  confidence: 25.4009
+  tag: freedom
+}
+, class Tag {
+  confidence: 25.393402
+  tag: happiness
+}
+, class Tag {
+  confidence: 24.92886
+  tag: landscape
+}
+, class Tag {
+  confidence: 23.866716
+  tag: people
+}
+, class Tag {
+  confidence: 23.516512
+  tag: sun
+}
+, class Tag {
+  confidence: 23.213583
+  tag: outdoors
+}
+, class Tag {
+  confidence: 22.57841
+  tag: joy
+}
+, class Tag {
+  confidence: 21.283041
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 20.812931
+  tag: clouds
+}
+, class Tag {
+  confidence: 19.686943
+  tag: person
+}
+, class Tag {
+  confidence: 19.363611
+  tag: man
+}
+, class Tag {
+  confidence: 18.637465
+  tag: fun
+}
+, class Tag {
+  confidence: 17.492443
+  tag: cloud
+}
+, class Tag {
+  confidence: 17.452715
+  tag: adult
+}
+, class Tag {
+  confidence: 16.802713
+  tag: healthy
+}
+, class Tag {
+  confidence: 16.7449
+  tag: sunny
+}
+, class Tag {
+  confidence: 16.624416
+  tag: day
+}
+, class Tag {
+  confidence: 16.581955
+  tag: park
+}
+, class Tag {
+  confidence: 16.331934
+  tag: male
+}
+, class Tag {
+  confidence: 16.012293
+  tag: active
+}
+, class Tag {
+  confidence: 15.882969
+  tag: environment
+}
+, class Tag {
+  confidence: 15.347601
+  tag: natural
+}
+, class Tag {
+  confidence: 15.187304
+  tag: outside
+}
+, class Tag {
+  confidence: 14.604723
+  tag: rural
+}
+, class Tag {
+  confidence: 14.323179
+  tag: countryside
+}
+, class Tag {
+  confidence: 14.264235
+  tag: season
+}
+, class Tag {
+  confidence: 14.053857
+  tag: horizon
+}
+, class Tag {
+  confidence: 13.993629
+  tag: grassland
+}
+, class Tag {
+  confidence: 13.950384
+  tag: lawn
+}
+, class Tag {
+  confidence: 13.737723
+  tag: smiling
+}
+, class Tag {
+  confidence: 13.302094
+  tag: family
+}
+, class Tag {
+  confidence: 13.039773
+  tag: country
+}
+, class Tag {
+  confidence: 12.560051
+  tag: tree
+}
+, class Tag {
+  confidence: 12.461313
+  tag: kid
+}
+, class Tag {
+  confidence: 12.44757
+  tag: leisure
+}
+, class Tag {
+  confidence: 12.412307
+  tag: child
+}
+, class Tag {
+  confidence: 12.120248
+  tag: smile
+}
+, class Tag {
+  confidence: 11.68449
+  tag: activity
+}
+, class Tag {
+  confidence: 11.622438
+  tag: parent
+}
+, class Tag {
+  confidence: 11.549578
+  tag: life
+}
+, class Tag {
+  confidence: 11.415257
+  tag: boy
+}
+, class Tag {
+  confidence: 11.346635
+  tag: vitality
+}
+, class Tag {
+  confidence: 11.295884
+  tag: cloudy
+}
+, class Tag {
+  confidence: 11.261309
+  tag: vacation
+}
+, class Tag {
+  confidence: 10.96384
+  tag: weather
+}
+, class Tag {
+  confidence: 10.82545
+  tag: relaxation
+}
+, class Tag {
+  confidence: 10.102594
+  tag: plant
+}
+, class Tag {
+  confidence: 9.94255
+  tag: scenery
+}
+, class Tag {
+  confidence: 9.926905
+  tag: cheerful
+}
+, class Tag {
+  confidence: 9.8689575
+  tag: together
+}
+, class Tag {
+  confidence: 9.8399105
+  tag: flower
+}
+, class Tag {
+  confidence: 9.823166
+  tag: couple
+}
+, class Tag {
+  confidence: 9.822949
+  tag: carefree
+}
+, class Tag {
+  confidence: 9.554042
+  tag: mother
+}
+, class Tag {
+  confidence: 9.531553
+  tag: hill
+}
+, class Tag {
+  confidence: 9.477637
+  tag: action
+}
+, class Tag {
+  confidence: 9.387533
+  tag: two
+}
+, class Tag {
+  confidence: 9.365117
+  tag: relax
+}
+, class Tag {
+  confidence: 9.34434
+  tag: land
+}
+, class Tag {
+  confidence: 8.775279
+  tag: casual
+}
+, class Tag {
+  confidence: 8.772228
+  tag: youth
+}
+, class Tag {
+  confidence: 8.712653
+  tag: idyllic
+}
+, class Tag {
+  confidence: 8.693039
+  tag: free
+}
+, class Tag {
+  confidence: 8.683085
+  tag: enjoyment
+}
+, class Tag {
+  confidence: 8.551598
+  tag: human
+}
+, class Tag {
+  confidence: 8.476659
+  tag: sport
+}
+, class Tag {
+  confidence: 8.053741
+  tag: love
+}
+, class Tag {
+  confidence: 8.053029
+  tag: father
+}
+, class Tag {
+  confidence: 8.012137
+  tag: clear
+}
+, class Tag {
+  confidence: 7.957753
+  tag: pasture
+}
+, class Tag {
+  confidence: 7.8082867
+  tag: energy
+}
+, class Tag {
+  confidence: 7.704722
+  tag: health
+}
+, class Tag {
+  confidence: 7.6902375
+  tag: caucasian
+}
+, class Tag {
+  confidence: 7.686438
+  tag: exercise
+}
+, class Tag {
+  confidence: 7.6430793
+  tag: success
+}
+, class Tag {
+  confidence: 7.487811
+  tag: color
+}
+, class Tag {
+  confidence: 7.483313
+  tag: childhood
+}
+, class Tag {
+  confidence: 7.40052
+  tag: cute
+}
+, class Tag {
+  confidence: 7.3661766
+  tag: sunlight
+}
+, class Tag {
+  confidence: 7.349351
+  tag: trees
+}
+, class Tag {
+  confidence: 7.2883906
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.235355
+  tag: scenic
+}
+, class Tag {
+  confidence: 7.225987
+  tag: agriculture
+}
+, class Tag {
+  confidence: 7.155741
+  tag: scene
+}
+, class Tag {
+  confidence: 7.1440706
+  tag: son
+}
+, class Tag {
+  confidence: 7.079286
+  tag: enjoying
+}
+]
+}
+]
+  unsuccessful: null
+}

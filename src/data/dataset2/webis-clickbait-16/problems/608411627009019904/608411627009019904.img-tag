@@ -1,0 +1,296 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHGDIl4WoAAw39h.jpg
+  tags: [class Tag {
+  confidence: 32.82091
+  tag: people
+}
+, class Tag {
+  confidence: 26.050594
+  tag: man
+}
+, class Tag {
+  confidence: 24.962927
+  tag: group
+}
+, class Tag {
+  confidence: 23.001974
+  tag: male
+}
+, class Tag {
+  confidence: 21.99397
+  tag: happy
+}
+, class Tag {
+  confidence: 21.264269
+  tag: smiling
+}
+, class Tag {
+  confidence: 21.045698
+  tag: caucasian
+}
+, class Tag {
+  confidence: 20.980953
+  tag: crowd
+}
+, class Tag {
+  confidence: 20.64075
+  tag: person
+}
+, class Tag {
+  confidence: 19.435211
+  tag: classroom
+}
+, class Tag {
+  confidence: 18.682438
+  tag: adult
+}
+, class Tag {
+  confidence: 17.797161
+  tag: class
+}
+, class Tag {
+  confidence: 17.694794
+  tag: together
+}
+, class Tag {
+  confidence: 17.629383
+  tag: smile
+}
+, class Tag {
+  confidence: 16.564302
+  tag: student
+}
+, class Tag {
+  confidence: 16.077602
+  tag: women
+}
+, class Tag {
+  confidence: 15.899997
+  tag: men
+}
+, class Tag {
+  confidence: 14.959568
+  tag: casual
+}
+, class Tag {
+  confidence: 14.916234
+  tag: room
+}
+, class Tag {
+  confidence: 14.484834
+  tag: child
+}
+, class Tag {
+  confidence: 14.29355
+  tag: team
+}
+, class Tag {
+  confidence: 14.224728
+  tag: fun
+}
+, class Tag {
+  confidence: 14.141128
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.036486
+  tag: portrait
+}
+, class Tag {
+  confidence: 13.155559
+  tag: attractive
+}
+, class Tag {
+  confidence: 13.07226
+  tag: friends
+}
+, class Tag {
+  confidence: 12.969033
+  tag: boy
+}
+, class Tag {
+  confidence: 12.702415
+  tag: children
+}
+, class Tag {
+  confidence: 12.44675
+  tag: schoolchild
+}
+, class Tag {
+  confidence: 12.225946
+  tag: happiness
+}
+, class Tag {
+  confidence: 12.191847
+  tag: cheerful
+}
+, class Tag {
+  confidence: 12.103053
+  tag: 20s
+}
+, class Tag {
+  confidence: 11.835385
+  tag: girls
+}
+, class Tag {
+  confidence: 10.875095
+  tag: family
+}
+, class Tag {
+  confidence: 10.85382
+  tag: business
+}
+, class Tag {
+  confidence: 10.764969
+  tag: color
+}
+, class Tag {
+  confidence: 10.724417
+  tag: education
+}
+, class Tag {
+  confidence: 9.86137
+  tag: females
+}
+, class Tag {
+  confidence: 9.8553095
+  tag: adults
+}
+, class Tag {
+  confidence: 9.545678
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.132146
+  tag: asian
+}
+, class Tag {
+  confidence: 9.112953
+  tag: colour
+}
+, class Tag {
+  confidence: 8.945521
+  tag: youth
+}
+, class Tag {
+  confidence: 8.784296
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 8.686918
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.659934
+  tag: businessman
+}
+, class Tag {
+  confidence: 8.553128
+  tag: job
+}
+, class Tag {
+  confidence: 8.488122
+  tag: diversity
+}
+, class Tag {
+  confidence: 8.414752
+  tag: couple
+}
+, class Tag {
+  confidence: 8.260428
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.249671
+  tag: home
+}
+, class Tag {
+  confidence: 8.137332
+  tag: teamwork
+}
+, class Tag {
+  confidence: 8.13438
+  tag: friendship
+}
+, class Tag {
+  confidence: 8.112
+  tag: enrollee
+}
+, class Tag {
+  confidence: 8.108992
+  tag: camera
+}
+, class Tag {
+  confidence: 8.063894
+  tag: teen
+}
+, class Tag {
+  confidence: 7.9625673
+  tag: laptop
+}
+, class Tag {
+  confidence: 7.9002957
+  tag: school
+}
+, class Tag {
+  confidence: 7.809954
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.7454433
+  tag: looking
+}
+, class Tag {
+  confidence: 7.7340665
+  tag: classmates
+}
+, class Tag {
+  confidence: 7.7321887
+  tag: working
+}
+, class Tag {
+  confidence: 7.6810303
+  tag: indoors
+}
+, class Tag {
+  confidence: 7.678902
+  tag: caucasian appearance
+}
+, class Tag {
+  confidence: 7.675135
+  tag: computer
+}
+, class Tag {
+  confidence: 7.564833
+  tag: cute
+}
+, class Tag {
+  confidence: 7.4298353
+  tag: meeting
+}
+, class Tag {
+  confidence: 7.3638268
+  tag: kids
+}
+, class Tag {
+  confidence: 7.3292165
+  tag: two
+}
+, class Tag {
+  confidence: 7.3248215
+  tag: african
+}
+, class Tag {
+  confidence: 7.3012266
+  tag: chinese
+}
+, class Tag {
+  confidence: 7.0488977
+  tag: office
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,224 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHHU_toWMAAL470.jpg
+  tags: [class Tag {
+  confidence: 74.17293
+  tag: sculpture
+}
+, class Tag {
+  confidence: 68.67062
+  tag: statue
+}
+, class Tag {
+  confidence: 24.395529
+  tag: monument
+}
+, class Tag {
+  confidence: 23.089638
+  tag: stone
+}
+, class Tag {
+  confidence: 20.4233
+  tag: art
+}
+, class Tag {
+  confidence: 20.159456
+  tag: religion
+}
+, class Tag {
+  confidence: 17.89432
+  tag: culture
+}
+, class Tag {
+  confidence: 17.59787
+  tag: ancient
+}
+, class Tag {
+  confidence: 16.143778
+  tag: memorial
+}
+, class Tag {
+  confidence: 15.706343
+  tag: landmark
+}
+, class Tag {
+  confidence: 14.992143
+  tag: history
+}
+, class Tag {
+  confidence: 14.576608
+  tag: old
+}
+, class Tag {
+  confidence: 14.360227
+  tag: travel
+}
+, class Tag {
+  confidence: 14.132354
+  tag: architecture
+}
+, class Tag {
+  confidence: 13.5241165
+  tag: tourism
+}
+, class Tag {
+  confidence: 13.511151
+  tag: sky
+}
+, class Tag {
+  confidence: 13.410006
+  tag: asia
+}
+, class Tag {
+  confidence: 13.045518
+  tag: europe
+}
+, class Tag {
+  confidence: 12.425873
+  tag: bronze
+}
+, class Tag {
+  confidence: 11.839454
+  tag: religious
+}
+, class Tag {
+  confidence: 11.687661
+  tag: city
+}
+, class Tag {
+  confidence: 11.625233
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.40956
+  tag: pray
+}
+, class Tag {
+  confidence: 11.400253
+  tag: buddhism
+}
+, class Tag {
+  confidence: 11.140738
+  tag: asian
+}
+, class Tag {
+  confidence: 10.771933
+  tag: figure
+}
+, class Tag {
+  confidence: 10.665832
+  tag: buddha
+}
+, class Tag {
+  confidence: 10.541159
+  tag: tourist
+}
+, class Tag {
+  confidence: 10.309274
+  tag: antique
+}
+, class Tag {
+  confidence: 10.276062
+  tag: temple
+}
+, class Tag {
+  confidence: 9.980374
+  tag: angel
+}
+, class Tag {
+  confidence: 9.976937
+  tag: historic
+}
+, class Tag {
+  confidence: 9.68297
+  tag: spiritual
+}
+, class Tag {
+  confidence: 9.640482
+  tag: italy
+}
+, class Tag {
+  confidence: 9.53765
+  tag: holy
+}
+, class Tag {
+  confidence: 8.958661
+  tag: horse
+}
+, class Tag {
+  confidence: 8.895774
+  tag: prayer
+}
+, class Tag {
+  confidence: 8.804284
+  tag: thailand
+}
+, class Tag {
+  confidence: 8.731145
+  tag: detail
+}
+, class Tag {
+  confidence: 8.3020935
+  tag: peace
+}
+, class Tag {
+  confidence: 8.28992
+  tag: heritage
+}
+, class Tag {
+  confidence: 8.260726
+  tag: buddhist
+}
+, class Tag {
+  confidence: 8.2531185
+  tag: elephant
+}
+, class Tag {
+  confidence: 8.128288
+  tag: god
+}
+, class Tag {
+  confidence: 8.011261
+  tag: france
+}
+, class Tag {
+  confidence: 7.932732
+  tag: face
+}
+, class Tag {
+  confidence: 7.765527
+  tag: famous
+}
+, class Tag {
+  confidence: 7.7381816
+  tag: square
+}
+, class Tag {
+  confidence: 7.409313
+  tag: palace
+}
+, class Tag {
+  confidence: 7.258141
+  tag: meditation
+}
+, class Tag {
+  confidence: 7.254449
+  tag: faith
+}
+, class Tag {
+  confidence: 7.2127466
+  tag: attraction
+}
+, class Tag {
+  confidence: 7.1199374
+  tag: historical
+}
+, class Tag {
+  confidence: 7.106551
+  tag: traditional
+}
+]
+}
+]
+  unsuccessful: null
+}

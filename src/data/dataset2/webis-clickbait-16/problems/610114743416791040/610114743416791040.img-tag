@@ -1,0 +1,212 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeQIEoWoAMmjpK.jpg
+  tags: [class Tag {
+  confidence: 34.102646
+  tag: uniform
+}
+, class Tag {
+  confidence: 30.752283
+  tag: man
+}
+, class Tag {
+  confidence: 25.005936
+  tag: person
+}
+, class Tag {
+  confidence: 22.264778
+  tag: male
+}
+, class Tag {
+  confidence: 21.785782
+  tag: people
+}
+, class Tag {
+  confidence: 19.35422
+  tag: serviceman
+}
+, class Tag {
+  confidence: 18.047403
+  tag: adult
+}
+, class Tag {
+  confidence: 18.012062
+  tag: caucasian
+}
+, class Tag {
+  confidence: 15.998945
+  tag: soldier
+}
+, class Tag {
+  confidence: 15.755497
+  tag: worker
+}
+, class Tag {
+  confidence: 15.209404
+  tag: portrait
+}
+, class Tag {
+  confidence: 14.545349
+  tag: clothing
+}
+, class Tag {
+  confidence: 12.931871
+  tag: work
+}
+, class Tag {
+  confidence: 12.900551
+  tag: business
+}
+, class Tag {
+  confidence: 12.806033
+  tag: outdoors
+}
+, class Tag {
+  confidence: 12.72147
+  tag: men
+}
+, class Tag {
+  confidence: 12.718227
+  tag: hat
+}
+, class Tag {
+  confidence: 12.639362
+  tag: pedestrian
+}
+, class Tag {
+  confidence: 12.620268
+  tag: helmet
+}
+, class Tag {
+  confidence: 11.60158
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.597067
+  tag: holding
+}
+, class Tag {
+  confidence: 11.037951
+  tag: suit
+}
+, class Tag {
+  confidence: 10.782347
+  tag: standing
+}
+, class Tag {
+  confidence: 10.65186
+  tag: smile
+}
+, class Tag {
+  confidence: 10.243205
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.140599
+  tag: businessman
+}
+, class Tag {
+  confidence: 10.100731
+  tag: happy
+}
+, class Tag {
+  confidence: 9.937689
+  tag: couple
+}
+, class Tag {
+  confidence: 9.887851
+  tag: looking
+}
+, class Tag {
+  confidence: 9.79093
+  tag: crowd
+}
+, class Tag {
+  confidence: 9.706754
+  tag: professional
+}
+, class Tag {
+  confidence: 9.547328
+  tag: protection
+}
+, class Tag {
+  confidence: 9.442105
+  tag: team
+}
+, class Tag {
+  confidence: 8.542723
+  tag: job
+}
+, class Tag {
+  confidence: 8.494667
+  tag: group
+}
+, class Tag {
+  confidence: 8.331354
+  tag: american
+}
+, class Tag {
+  confidence: 8.307413
+  tag: women
+}
+, class Tag {
+  confidence: 8.18167
+  tag: walking
+}
+, class Tag {
+  confidence: 8.124204
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.012009
+  tag: occupation
+}
+, class Tag {
+  confidence: 8.0
+  tag: military uniform
+}
+, class Tag {
+  confidence: 7.9684315
+  tag: street
+}
+, class Tag {
+  confidence: 7.955362
+  tag: human
+}
+, class Tag {
+  confidence: 7.902793
+  tag: one
+}
+, class Tag {
+  confidence: 7.8324676
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.6316876
+  tag: model
+}
+, class Tag {
+  confidence: 7.447551
+  tag: casual
+}
+, class Tag {
+  confidence: 7.2772326
+  tag: guy
+}
+, class Tag {
+  confidence: 7.2038426
+  tag: child
+}
+, class Tag {
+  confidence: 7.1758084
+  tag: emotion
+}
+, class Tag {
+  confidence: 7.1474257
+  tag: cheerful
+}
+]
+}
+]
+  unsuccessful: null
+}

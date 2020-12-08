@@ -1,0 +1,60 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHVkvGYUsAAzazJ.png
+  tags: [class Tag {
+  confidence: 100.0
+  tag: tattoo
+}
+, class Tag {
+  confidence: 73.51487
+  tag: design
+}
+, class Tag {
+  confidence: 58.275993
+  tag: decoration
+}
+, class Tag {
+  confidence: 12.375437
+  tag: body
+}
+, class Tag {
+  confidence: 11.708309
+  tag: skin
+}
+, class Tag {
+  confidence: 10.087797
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.886335
+  tag: hand
+}
+, class Tag {
+  confidence: 8.198032
+  tag: lady
+}
+, class Tag {
+  confidence: 8.076871
+  tag: adult
+}
+, class Tag {
+  confidence: 8.000509
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.384366
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.3543854
+  tag: people
+}
+, class Tag {
+  confidence: 7.0502896
+  tag: women
+}
+]
+}
+]
+  unsuccessful: null
+}

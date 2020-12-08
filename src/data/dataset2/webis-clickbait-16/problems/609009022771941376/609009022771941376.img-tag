@@ -1,0 +1,288 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOh4UZUUAE840d.jpg
+  tags: [class Tag {
+  confidence: 30.2741
+  tag: man
+}
+, class Tag {
+  confidence: 26.80137
+  tag: male
+}
+, class Tag {
+  confidence: 24.571625
+  tag: person
+}
+, class Tag {
+  confidence: 22.90651
+  tag: people
+}
+, class Tag {
+  confidence: 22.896688
+  tag: caucasian
+}
+, class Tag {
+  confidence: 22.259392
+  tag: adult
+}
+, class Tag {
+  confidence: 18.086203
+  tag: happy
+}
+, class Tag {
+  confidence: 17.701982
+  tag: sport
+}
+, class Tag {
+  confidence: 17.022911
+  tag: portrait
+}
+, class Tag {
+  confidence: 16.800882
+  tag: hat
+}
+, class Tag {
+  confidence: 16.428556
+  tag: smile
+}
+, class Tag {
+  confidence: 15.850752
+  tag: player
+}
+, class Tag {
+  confidence: 13.77733
+  tag: boy
+}
+, class Tag {
+  confidence: 13.684834
+  tag: back
+}
+, class Tag {
+  confidence: 13.550095
+  tag: smiling
+}
+, class Tag {
+  confidence: 13.098795
+  tag: child
+}
+, class Tag {
+  confidence: 12.785987
+  tag: athlete
+}
+, class Tag {
+  confidence: 12.231743
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.937992
+  tag: attractive
+}
+, class Tag {
+  confidence: 11.646379
+  tag: fun
+}
+, class Tag {
+  confidence: 11.515323
+  tag: baseball
+}
+, class Tag {
+  confidence: 11.407953
+  tag: healthy
+}
+, class Tag {
+  confidence: 11.368135
+  tag: cute
+}
+, class Tag {
+  confidence: 11.275172
+  tag: occupation
+}
+, class Tag {
+  confidence: 11.266226
+  tag: one
+}
+, class Tag {
+  confidence: 10.476103
+  tag: professional
+}
+, class Tag {
+  confidence: 10.238802
+  tag: active
+}
+, class Tag {
+  confidence: 9.967221
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.895567
+  tag: combatant
+}
+, class Tag {
+  confidence: 9.791958
+  tag: rival
+}
+, class Tag {
+  confidence: 9.739349
+  tag: business
+}
+, class Tag {
+  confidence: 9.570765
+  tag: work
+}
+, class Tag {
+  confidence: 9.53418
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.501117
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.450986
+  tag: face
+}
+, class Tag {
+  confidence: 9.348763
+  tag: family
+}
+, class Tag {
+  confidence: 9.338736
+  tag: kid
+}
+, class Tag {
+  confidence: 9.039325
+  tag: ballplayer
+}
+, class Tag {
+  confidence: 8.739372
+  tag: playing
+}
+, class Tag {
+  confidence: 8.732424
+  tag: studio
+}
+, class Tag {
+  confidence: 8.714908
+  tag: human
+}
+, class Tag {
+  confidence: 8.682109
+  tag: lady
+}
+, class Tag {
+  confidence: 8.632276
+  tag: clothing
+}
+, class Tag {
+  confidence: 8.606901
+  tag: worker
+}
+, class Tag {
+  confidence: 8.572127
+  tag: job
+}
+, class Tag {
+  confidence: 8.507684
+  tag: standing
+}
+, class Tag {
+  confidence: 8.4998455
+  tag: looking
+}
+, class Tag {
+  confidence: 8.340889
+  tag: hair
+}
+, class Tag {
+  confidence: 8.28474
+  tag: black
+}
+, class Tag {
+  confidence: 8.149269
+  tag: grass
+}
+, class Tag {
+  confidence: 8.027985
+  tag: joy
+}
+, class Tag {
+  confidence: 8.027827
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.973774
+  tag: hand
+}
+, class Tag {
+  confidence: 7.7888994
+  tag: childhood
+}
+, class Tag {
+  confidence: 7.6818633
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.591501
+  tag: builder
+}
+, class Tag {
+  confidence: 7.510479
+  tag: outside
+}
+, class Tag {
+  confidence: 7.455961
+  tag: uniform
+}
+, class Tag {
+  confidence: 7.3654127
+  tag: shirt
+}
+, class Tag {
+  confidence: 7.316336
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.2940264
+  tag: mature
+}
+, class Tag {
+  confidence: 7.282677
+  tag: holding
+}
+, class Tag {
+  confidence: 7.271695
+  tag: fit
+}
+, class Tag {
+  confidence: 7.2400503
+  tag: health
+}
+, class Tag {
+  confidence: 7.197445
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.173608
+  tag: success
+}
+, class Tag {
+  confidence: 7.1658072
+  tag: sexy
+}
+, class Tag {
+  confidence: 7.108382
+  tag: team
+}
+, class Tag {
+  confidence: 7.072088
+  tag: summer
+}
+, class Tag {
+  confidence: 7.0607715
+  tag: activity
+}
+]
+}
+]
+  unsuccessful: null
+}

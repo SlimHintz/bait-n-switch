@@ -1,0 +1,148 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHXqPf4XAAELq_9.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: map
+}
+, class Tag {
+  confidence: 100.0
+  tag: representation
+}
+, class Tag {
+  confidence: 27.978836
+  tag: geography
+}
+, class Tag {
+  confidence: 22.681072
+  tag: country
+}
+, class Tag {
+  confidence: 17.683834
+  tag: atlas
+}
+, class Tag {
+  confidence: 17.632092
+  tag: world
+}
+, class Tag {
+  confidence: 16.967937
+  tag: boundary
+}
+, class Tag {
+  confidence: 16.677736
+  tag: nation
+}
+, class Tag {
+  confidence: 16.390392
+  tag: continent
+}
+, class Tag {
+  confidence: 14.796143
+  tag: travel
+}
+, class Tag {
+  confidence: 14.2695055
+  tag: earth
+}
+, class Tag {
+  confidence: 12.796084
+  tag: europe
+}
+, class Tag {
+  confidence: 12.15243
+  tag: state
+}
+, class Tag {
+  confidence: 11.709816
+  tag: cartography
+}
+, class Tag {
+  confidence: 11.635313
+  tag: global
+}
+, class Tag {
+  confidence: 11.205573
+  tag: globe
+}
+, class Tag {
+  confidence: 11.149479
+  tag: land
+}
+, class Tag {
+  confidence: 10.60284
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.039737
+  tag: national
+}
+, class Tag {
+  confidence: 9.531793
+  tag: design
+}
+, class Tag {
+  confidence: 9.383865
+  tag: south
+}
+, class Tag {
+  confidence: 9.352099
+  tag: planet
+}
+, class Tag {
+  confidence: 9.316607
+  tag: asia
+}
+, class Tag {
+  confidence: 9.263589
+  tag: flag
+}
+, class Tag {
+  confidence: 9.134379
+  tag: city
+}
+, class Tag {
+  confidence: 9.003221
+  tag: countries
+}
+, class Tag {
+  confidence: 8.568454
+  tag: north
+}
+, class Tag {
+  confidence: 8.542031
+  tag: america
+}
+, class Tag {
+  confidence: 8.318337
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.230191
+  tag: silhouette
+}
+, class Tag {
+  confidence: 8.063042
+  tag: border
+}
+, class Tag {
+  confidence: 7.94945
+  tag: color
+}
+, class Tag {
+  confidence: 7.4637465
+  tag: ocean
+}
+, class Tag {
+  confidence: 7.379036
+  tag: east
+}
+, class Tag {
+  confidence: 7.116264
+  tag: chart
+}
+]
+}
+]
+  unsuccessful: null
+}

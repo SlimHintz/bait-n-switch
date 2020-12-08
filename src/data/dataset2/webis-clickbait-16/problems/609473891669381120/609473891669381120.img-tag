@@ -1,0 +1,268 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/tweet_video_thumb/CHVCmBEUEAERXcA.png
+  tags: [class Tag {
+  confidence: 48.1748
+  tag: sky
+}
+, class Tag {
+  confidence: 37.32358
+  tag: clouds
+}
+, class Tag {
+  confidence: 29.38001
+  tag: cloud
+}
+, class Tag {
+  confidence: 28.746662
+  tag: weather
+}
+, class Tag {
+  confidence: 27.385681
+  tag: air
+}
+, class Tag {
+  confidence: 24.740503
+  tag: cloudy
+}
+, class Tag {
+  confidence: 23.489956
+  tag: heaven
+}
+, class Tag {
+  confidence: 22.759651
+  tag: clear
+}
+, class Tag {
+  confidence: 22.719187
+  tag: space
+}
+, class Tag {
+  confidence: 22.662434
+  tag: cloudscape
+}
+, class Tag {
+  confidence: 22.577635
+  tag: day
+}
+, class Tag {
+  confidence: 22.132267
+  tag: light
+}
+, class Tag {
+  confidence: 21.355667
+  tag: summer
+}
+, class Tag {
+  confidence: 21.095625
+  tag: fluffy
+}
+, class Tag {
+  confidence: 20.747744
+  tag: outdoors
+}
+, class Tag {
+  confidence: 20.168196
+  tag: sun
+}
+, class Tag {
+  confidence: 20.010258
+  tag: climate
+}
+, class Tag {
+  confidence: 19.564716
+  tag: high
+}
+, class Tag {
+  confidence: 19.430761
+  tag: sunlight
+}
+, class Tag {
+  confidence: 18.811125
+  tag: azure
+}
+, class Tag {
+  confidence: 18.039999
+  tag: bright
+}
+, class Tag {
+  confidence: 17.846718
+  tag: atmosphere
+}
+, class Tag {
+  confidence: 17.387194
+  tag: sunny
+}
+, class Tag {
+  confidence: 17.217436
+  tag: environment
+}
+, class Tag {
+  confidence: 16.46148
+  tag: meteorology
+}
+, class Tag {
+  confidence: 15.576332
+  tag: spring
+}
+, class Tag {
+  confidence: 15.464567
+  tag: overcast
+}
+, class Tag {
+  confidence: 15.2884655
+  tag: landscape
+}
+, class Tag {
+  confidence: 15.09083
+  tag: color
+}
+, class Tag {
+  confidence: 14.98979
+  tag: aircraft
+}
+, class Tag {
+  confidence: 14.813407
+  tag: wind
+}
+, class Tag {
+  confidence: 14.013381
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 12.069865
+  tag: flagpole
+}
+, class Tag {
+  confidence: 12.006566
+  tag: freedom
+}
+, class Tag {
+  confidence: 11.94394
+  tag: peace
+}
+, class Tag {
+  confidence: 11.8806095
+  tag: parachute
+}
+, class Tag {
+  confidence: 11.495906
+  tag: season
+}
+, class Tag {
+  confidence: 11.348534
+  tag: travel
+}
+, class Tag {
+  confidence: 10.441483
+  tag: stratosphere
+}
+, class Tag {
+  confidence: 10.332827
+  tag: heavens
+}
+, class Tag {
+  confidence: 10.244594
+  tag: skies
+}
+, class Tag {
+  confidence: 10.039753
+  tag: scenics
+}
+, class Tag {
+  confidence: 9.887927
+  tag: scenic
+}
+, class Tag {
+  confidence: 9.799983
+  tag: scene
+}
+, class Tag {
+  confidence: 9.788685
+  tag: fly
+}
+, class Tag {
+  confidence: 9.732967
+  tag: flag
+}
+, class Tag {
+  confidence: 9.641837
+  tag: nobody
+}
+, class Tag {
+  confidence: 9.5894
+  tag: puffy
+}
+, class Tag {
+  confidence: 9.38367
+  tag: outdoor
+}
+, class Tag {
+  confidence: 9.082755
+  tag: flying
+}
+, class Tag {
+  confidence: 8.832
+  tag: rescue equipment
+}
+, class Tag {
+  confidence: 8.70269
+  tag: tranquil
+}
+, class Tag {
+  confidence: 8.655811
+  tag: moisture
+}
+, class Tag {
+  confidence: 8.452548
+  tag: texture
+}
+, class Tag {
+  confidence: 8.40571
+  tag: seasonal
+}
+, class Tag {
+  confidence: 8.047307
+  tag: sign
+}
+, class Tag {
+  confidence: 8.007018
+  tag: clean
+}
+, class Tag {
+  confidence: 7.989268
+  tag: staff
+}
+, class Tag {
+  confidence: 7.547812
+  tag: equipment
+}
+, class Tag {
+  confidence: 7.403338
+  tag: paradise
+}
+, class Tag {
+  confidence: 7.370649
+  tag: horizontal
+}
+, class Tag {
+  confidence: 7.3155093
+  tag: water
+}
+, class Tag {
+  confidence: 7.260055
+  tag: balloon
+}
+, class Tag {
+  confidence: 7.119932
+  tag: open
+}
+, class Tag {
+  confidence: 7.000756
+  tag: natural
+}
+]
+}
+]
+  unsuccessful: null
+}

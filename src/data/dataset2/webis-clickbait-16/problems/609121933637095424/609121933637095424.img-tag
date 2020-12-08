@@ -1,0 +1,332 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQJK9wWsAAXK0T.jpg
+  tags: [class Tag {
+  confidence: 34.15872
+  tag: adult
+}
+, class Tag {
+  confidence: 32.870228
+  tag: people
+}
+, class Tag {
+  confidence: 30.387758
+  tag: man
+}
+, class Tag {
+  confidence: 28.29899
+  tag: caucasian
+}
+, class Tag {
+  confidence: 25.977438
+  tag: male
+}
+, class Tag {
+  confidence: 25.68761
+  tag: couple
+}
+, class Tag {
+  confidence: 24.719212
+  tag: happy
+}
+, class Tag {
+  confidence: 22.287094
+  tag: love
+}
+, class Tag {
+  confidence: 21.537205
+  tag: smiling
+}
+, class Tag {
+  confidence: 21.513437
+  tag: person
+}
+, class Tag {
+  confidence: 20.997656
+  tag: attractive
+}
+, class Tag {
+  confidence: 20.762218
+  tag: portrait
+}
+, class Tag {
+  confidence: 20.412455
+  tag: smile
+}
+, class Tag {
+  confidence: 20.14194
+  tag: pretty
+}
+, class Tag {
+  confidence: 20.101007
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 19.63464
+  tag: women
+}
+, class Tag {
+  confidence: 18.848408
+  tag: lady
+}
+, class Tag {
+  confidence: 18.758274
+  tag: friends
+}
+, class Tag {
+  confidence: 18.217052
+  tag: fun
+}
+, class Tag {
+  confidence: 17.64425
+  tag: two
+}
+, class Tag {
+  confidence: 16.130724
+  tag: friendship
+}
+, class Tag {
+  confidence: 16.075119
+  tag: together
+}
+, class Tag {
+  confidence: 15.694317
+  tag: sitting
+}
+, class Tag {
+  confidence: 15.606555
+  tag: happiness
+}
+, class Tag {
+  confidence: 15.194867
+  tag: hair
+}
+, class Tag {
+  confidence: 15.12363
+  tag: face
+}
+, class Tag {
+  confidence: 13.393759
+  tag: men
+}
+, class Tag {
+  confidence: 13.277026
+  tag: drunkard
+}
+, class Tag {
+  confidence: 13.273021
+  tag: handsome
+}
+, class Tag {
+  confidence: 13.2610235
+  tag: casual
+}
+, class Tag {
+  confidence: 13.117148
+  tag: blond
+}
+, class Tag {
+  confidence: 12.620069
+  tag: group
+}
+, class Tag {
+  confidence: 12.493308
+  tag: expression
+}
+, class Tag {
+  confidence: 12.235173
+  tag: friend
+}
+, class Tag {
+  confidence: 12.12503
+  tag: holding
+}
+, class Tag {
+  confidence: 11.869537
+  tag: fashion
+}
+, class Tag {
+  confidence: 11.757806
+  tag: wine
+}
+, class Tag {
+  confidence: 11.603616
+  tag: model
+}
+, class Tag {
+  confidence: 11.60202
+  tag: buddy
+}
+, class Tag {
+  confidence: 11.531592
+  tag: girls
+}
+, class Tag {
+  confidence: 11.507881
+  tag: home
+}
+, class Tag {
+  confidence: 11.248026
+  tag: indoors
+}
+, class Tag {
+  confidence: 11.201079
+  tag: cute
+}
+, class Tag {
+  confidence: 11.161215
+  tag: relationship
+}
+, class Tag {
+  confidence: 10.936783
+  tag: youth
+}
+, class Tag {
+  confidence: 10.765063
+  tag: black
+}
+, class Tag {
+  confidence: 10.630978
+  tag: romantic
+}
+, class Tag {
+  confidence: 10.460809
+  tag: husband
+}
+, class Tag {
+  confidence: 10.456996
+  tag: sexy
+}
+, class Tag {
+  confidence: 10.373667
+  tag: wife
+}
+, class Tag {
+  confidence: 10.353064
+  tag: laughing
+}
+, class Tag {
+  confidence: 10.332969
+  tag: looking
+}
+, class Tag {
+  confidence: 9.801899
+  tag: drink
+}
+, class Tag {
+  confidence: 9.77691
+  tag: romance
+}
+, class Tag {
+  confidence: 9.733345
+  tag: family
+}
+, class Tag {
+  confidence: 9.726122
+  tag: cheerful
+}
+, class Tag {
+  confidence: 9.611062
+  tag: brunette
+}
+, class Tag {
+  confidence: 9.441374
+  tag: togetherness
+}
+, class Tag {
+  confidence: 9.215093
+  tag: emotion
+}
+, class Tag {
+  confidence: 9.086452
+  tag: human
+}
+, class Tag {
+  confidence: 8.914852
+  tag: glamour
+}
+, class Tag {
+  confidence: 8.792131
+  tag: girlfriend
+}
+, class Tag {
+  confidence: 8.7613125
+  tag: date
+}
+, class Tag {
+  confidence: 8.583475
+  tag: adults
+}
+, class Tag {
+  confidence: 8.569879
+  tag: party
+}
+, class Tag {
+  confidence: 8.359576
+  tag: dark
+}
+, class Tag {
+  confidence: 8.346877
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.9343457
+  tag: having
+}
+, class Tag {
+  confidence: 7.8394876
+  tag: loving
+}
+, class Tag {
+  confidence: 7.825205
+  tag: laugh
+}
+, class Tag {
+  confidence: 7.818222
+  tag: color
+}
+, class Tag {
+  confidence: 7.61331
+  tag: horizontal
+}
+, class Tag {
+  confidence: 7.581669
+  tag: joy
+}
+, class Tag {
+  confidence: 7.533628
+  tag: sensuality
+}
+, class Tag {
+  confidence: 7.4779954
+  tag: dress
+}
+, class Tag {
+  confidence: 7.370231
+  tag: body
+}
+, class Tag {
+  confidence: 7.0798674
+  tag: eyes
+}
+, class Tag {
+  confidence: 7.0687537
+  tag: dating
+}
+, class Tag {
+  confidence: 7.057046
+  tag: boyfriend
+}
+, class Tag {
+  confidence: 7.0362253
+  tag: hispanic
+}
+, class Tag {
+  confidence: 7.0008817
+  tag: glass
+}
+]
+}
+]
+  unsuccessful: null
+}

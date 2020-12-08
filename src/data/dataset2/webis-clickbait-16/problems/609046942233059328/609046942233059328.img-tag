@@ -1,0 +1,156 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPE92aUUAA2i7q.jpg
+  tags: [class Tag {
+  confidence: 34.726826
+  tag: cartoon
+}
+, class Tag {
+  confidence: 22.220968
+  tag: drawing
+}
+, class Tag {
+  confidence: 20.87194
+  tag: art
+}
+, class Tag {
+  confidence: 16.80334
+  tag: clipart
+}
+, class Tag {
+  confidence: 15.195563
+  tag: clip art
+}
+, class Tag {
+  confidence: 14.9367695
+  tag: fun
+}
+, class Tag {
+  confidence: 13.956788
+  tag: design
+}
+, class Tag {
+  confidence: 12.730876
+  tag: silhouette
+}
+, class Tag {
+  confidence: 12.36305
+  tag: funny
+}
+, class Tag {
+  confidence: 12.004026
+  tag: humor
+}
+, class Tag {
+  confidence: 11.371656
+  tag: children
+}
+, class Tag {
+  confidence: 11.35684
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.189013
+  tag: happy
+}
+, class Tag {
+  confidence: 11.130195
+  tag: childhood
+}
+, class Tag {
+  confidence: 11.079476
+  tag: cheerful
+}
+, class Tag {
+  confidence: 10.939074
+  tag: boy
+}
+, class Tag {
+  confidence: 10.659684
+  tag: man
+}
+, class Tag {
+  confidence: 10.625147
+  tag: people
+}
+, class Tag {
+  confidence: 10.475582
+  tag: graphic
+}
+, class Tag {
+  confidence: 10.389882
+  tag: painting
+}
+, class Tag {
+  confidence: 10.332832
+  tag: animal
+}
+, class Tag {
+  confidence: 9.963227
+  tag: character
+}
+, class Tag {
+  confidence: 9.084846
+  tag: love
+}
+, class Tag {
+  confidence: 8.713545
+  tag: artwork
+}
+, class Tag {
+  confidence: 8.478631
+  tag: icon
+}
+, class Tag {
+  confidence: 8.235587
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.147509
+  tag: card
+}
+, class Tag {
+  confidence: 8.109461
+  tag: kids
+}
+, class Tag {
+  confidence: 7.933068
+  tag: graphics
+}
+, class Tag {
+  confidence: 7.789519
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.64603
+  tag: cute
+}
+, class Tag {
+  confidence: 7.6411495
+  tag: smile
+}
+, class Tag {
+  confidence: 7.4863224
+  tag: humorous
+}
+, class Tag {
+  confidence: 7.390891
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.210725
+  tag: tree
+}
+, class Tag {
+  confidence: 7.1661315
+  tag: person
+}
+, class Tag {
+  confidence: 7.0373135
+  tag: group
+}
+]
+}
+]
+  unsuccessful: null
+}

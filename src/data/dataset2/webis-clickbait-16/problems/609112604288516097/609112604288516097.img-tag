@@ -1,0 +1,152 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQAhrIUYAAVspY.jpg
+  tags: [class Tag {
+  confidence: 52.308285
+  tag: web site
+}
+, class Tag {
+  confidence: 25.847395
+  tag: business
+}
+, class Tag {
+  confidence: 15.552095
+  tag: design
+}
+, class Tag {
+  confidence: 15.295867
+  tag: computer
+}
+, class Tag {
+  confidence: 14.637327
+  tag: internet
+}
+, class Tag {
+  confidence: 14.433003
+  tag: text
+}
+, class Tag {
+  confidence: 14.009977
+  tag: paper
+}
+, class Tag {
+  confidence: 13.440435
+  tag: template
+}
+, class Tag {
+  confidence: 12.678779
+  tag: medium
+}
+, class Tag {
+  confidence: 12.293235
+  tag: corporate
+}
+, class Tag {
+  confidence: 11.50744
+  tag: cash
+}
+, class Tag {
+  confidence: 10.881014
+  tag: money
+}
+, class Tag {
+  confidence: 10.844558
+  tag: graphic
+}
+, class Tag {
+  confidence: 10.515883
+  tag: modern
+}
+, class Tag {
+  confidence: 10.444859
+  tag: web
+}
+, class Tag {
+  confidence: 10.327376
+  tag: letter
+}
+, class Tag {
+  confidence: 10.135574
+  tag: finance
+}
+, class Tag {
+  confidence: 10.009295
+  tag: currency
+}
+, class Tag {
+  confidence: 9.984977
+  tag: newspaper
+}
+, class Tag {
+  confidence: 9.330171
+  tag: bank
+}
+, class Tag {
+  confidence: 9.316813
+  tag: technology
+}
+, class Tag {
+  confidence: 8.9513855
+  tag: blank
+}
+, class Tag {
+  confidence: 8.921901
+  tag: office
+}
+, class Tag {
+  confidence: 8.801588
+  tag: card
+}
+, class Tag {
+  confidence: 8.62642
+  tag: page
+}
+, class Tag {
+  confidence: 8.302678
+  tag: dollar
+}
+, class Tag {
+  confidence: 8.222026
+  tag: cloud
+}
+, class Tag {
+  confidence: 8.215403
+  tag: banking
+}
+, class Tag {
+  confidence: 8.077389
+  tag: work
+}
+, class Tag {
+  confidence: 7.9837737
+  tag: style
+}
+, class Tag {
+  confidence: 7.8661613
+  tag: company
+}
+, class Tag {
+  confidence: 7.8493676
+  tag: icon
+}
+, class Tag {
+  confidence: 7.788619
+  tag: banner
+}
+, class Tag {
+  confidence: 7.3651414
+  tag: element
+}
+, class Tag {
+  confidence: 7.3548737
+  tag: creative
+}
+, class Tag {
+  confidence: 7.101321
+  tag: set
+}
+]
+}
+]
+  unsuccessful: null
+}

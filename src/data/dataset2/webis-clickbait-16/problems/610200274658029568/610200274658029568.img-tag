@@ -1,0 +1,272 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/tweet_video_thumb/CHfYo2wWUAAHi0x.png
+  tags: [class Tag {
+  confidence: 41.092716
+  tag: landscape
+}
+, class Tag {
+  confidence: 36.032436
+  tag: sky
+}
+, class Tag {
+  confidence: 30.705662
+  tag: grass
+}
+, class Tag {
+  confidence: 24.598495
+  tag: clouds
+}
+, class Tag {
+  confidence: 23.814636
+  tag: field
+}
+, class Tag {
+  confidence: 21.236591
+  tag: summer
+}
+, class Tag {
+  confidence: 20.275965
+  tag: land
+}
+, class Tag {
+  confidence: 19.620466
+  tag: tree
+}
+, class Tag {
+  confidence: 19.191769
+  tag: horizon
+}
+, class Tag {
+  confidence: 17.812843
+  tag: outdoors
+}
+, class Tag {
+  confidence: 17.676044
+  tag: cloud
+}
+, class Tag {
+  confidence: 16.824757
+  tag: scenery
+}
+, class Tag {
+  confidence: 16.567091
+  tag: trees
+}
+, class Tag {
+  confidence: 16.51373
+  tag: rural
+}
+, class Tag {
+  confidence: 16.37323
+  tag: scenic
+}
+, class Tag {
+  confidence: 16.086702
+  tag: park
+}
+, class Tag {
+  confidence: 16.081293
+  tag: environment
+}
+, class Tag {
+  confidence: 15.758366
+  tag: outdoor
+}
+, class Tag {
+  confidence: 15.023242
+  tag: hill
+}
+, class Tag {
+  confidence: 14.998607
+  tag: water
+}
+, class Tag {
+  confidence: 14.694446
+  tag: countryside
+}
+, class Tag {
+  confidence: 14.398563
+  tag: meadow
+}
+, class Tag {
+  confidence: 14.298866
+  tag: farm
+}
+, class Tag {
+  confidence: 14.210805
+  tag: country
+}
+, class Tag {
+  confidence: 14.2
+  tag: mobile home
+}
+, class Tag {
+  confidence: 13.812965
+  tag: spring
+}
+, class Tag {
+  confidence: 13.446477
+  tag: cloudy
+}
+, class Tag {
+  confidence: 13.404732
+  tag: mountain
+}
+, class Tag {
+  confidence: 13.10698
+  tag: sunny
+}
+, class Tag {
+  confidence: 12.848291
+  tag: travel
+}
+, class Tag {
+  confidence: 12.575318
+  tag: day
+}
+, class Tag {
+  confidence: 11.305137
+  tag: trailer
+}
+, class Tag {
+  confidence: 11.1731415
+  tag: housing
+}
+, class Tag {
+  confidence: 10.532526
+  tag: lake
+}
+, class Tag {
+  confidence: 10.340968
+  tag: sea
+}
+, class Tag {
+  confidence: 10.330611
+  tag: season
+}
+, class Tag {
+  confidence: 10.0881605
+  tag: natural
+}
+, class Tag {
+  confidence: 10.081699
+  tag: tourism
+}
+, class Tag {
+  confidence: 9.975585
+  tag: forest
+}
+, class Tag {
+  confidence: 9.900395
+  tag: sun
+}
+, class Tag {
+  confidence: 9.86
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 9.3278
+  tag: agriculture
+}
+, class Tag {
+  confidence: 9.261319
+  tag: clear
+}
+, class Tag {
+  confidence: 9.239843
+  tag: scene
+}
+, class Tag {
+  confidence: 8.991378
+  tag: beach
+}
+, class Tag {
+  confidence: 8.968298
+  tag: structure
+}
+, class Tag {
+  confidence: 8.964586
+  tag: freedom
+}
+, class Tag {
+  confidence: 8.793518
+  tag: ocean
+}
+, class Tag {
+  confidence: 8.725333
+  tag: sunlight
+}
+, class Tag {
+  confidence: 8.675318
+  tag: fields
+}
+, class Tag {
+  confidence: 8.400125
+  tag: idyllic
+}
+, class Tag {
+  confidence: 8.390155
+  tag: wilderness
+}
+, class Tag {
+  confidence: 8.248626
+  tag: mountains
+}
+, class Tag {
+  confidence: 7.9897594
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.9765296
+  tag: coast
+}
+, class Tag {
+  confidence: 7.8453417
+  tag: river
+}
+, class Tag {
+  confidence: 7.8270698
+  tag: plant
+}
+, class Tag {
+  confidence: 7.810557
+  tag: sand
+}
+, class Tag {
+  confidence: 7.722462
+  tag: outside
+}
+, class Tag {
+  confidence: 7.6905446
+  tag: wild
+}
+, class Tag {
+  confidence: 7.362207
+  tag: peaceful
+}
+, class Tag {
+  confidence: 7.3158283
+  tag: weather
+}
+, class Tag {
+  confidence: 7.2918963
+  tag: peace
+}
+, class Tag {
+  confidence: 7.288602
+  tag: national
+}
+, class Tag {
+  confidence: 7.265307
+  tag: road
+}
+, class Tag {
+  confidence: 7.1094775
+  tag: reflection
+}
+]
+}
+]
+  unsuccessful: null
+}

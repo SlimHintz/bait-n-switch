@@ -1,0 +1,256 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHGVx5hWgAAYAU6.jpg
+  tags: [class Tag {
+  confidence: 25.951778
+  tag: adult
+}
+, class Tag {
+  confidence: 24.227205
+  tag: caucasian
+}
+, class Tag {
+  confidence: 23.076485
+  tag: people
+}
+, class Tag {
+  confidence: 22.701246
+  tag: happy
+}
+, class Tag {
+  confidence: 22.05969
+  tag: attractive
+}
+, class Tag {
+  confidence: 21.764307
+  tag: portrait
+}
+, class Tag {
+  confidence: 19.964375
+  tag: smiling
+}
+, class Tag {
+  confidence: 18.879013
+  tag: smile
+}
+, class Tag {
+  confidence: 18.75037
+  tag: man
+}
+, class Tag {
+  confidence: 17.936987
+  tag: person
+}
+, class Tag {
+  confidence: 17.341314
+  tag: pretty
+}
+, class Tag {
+  confidence: 16.590391
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 15.896089
+  tag: fashion
+}
+, class Tag {
+  confidence: 15.82672
+  tag: male
+}
+, class Tag {
+  confidence: 15.601854
+  tag: face
+}
+, class Tag {
+  confidence: 14.344114
+  tag: model
+}
+, class Tag {
+  confidence: 14.302869
+  tag: brunette
+}
+, class Tag {
+  confidence: 13.915642
+  tag: casual
+}
+, class Tag {
+  confidence: 13.393072
+  tag: clothing
+}
+, class Tag {
+  confidence: 13.331175
+  tag: happiness
+}
+, class Tag {
+  confidence: 12.399075
+  tag: abaya
+}
+, class Tag {
+  confidence: 12.31154
+  tag: business
+}
+, class Tag {
+  confidence: 12.227526
+  tag: women
+}
+, class Tag {
+  confidence: 12.175223
+  tag: hair
+}
+, class Tag {
+  confidence: 11.679339
+  tag: looking
+}
+, class Tag {
+  confidence: 11.583719
+  tag: indoor
+}
+, class Tag {
+  confidence: 11.108094
+  tag: couple
+}
+, class Tag {
+  confidence: 11.072206
+  tag: sexy
+}
+, class Tag {
+  confidence: 10.659736
+  tag: home
+}
+, class Tag {
+  confidence: 10.621446
+  tag: handsome
+}
+, class Tag {
+  confidence: 10.483279
+  tag: day
+}
+, class Tag {
+  confidence: 10.271821
+  tag: hand
+}
+, class Tag {
+  confidence: 10.062309
+  tag: professional
+}
+, class Tag {
+  confidence: 10.007213
+  tag: expression
+}
+, class Tag {
+  confidence: 9.86403
+  tag: robe
+}
+, class Tag {
+  confidence: 9.809185
+  tag: suit
+}
+, class Tag {
+  confidence: 9.695305
+  tag: lady
+}
+, class Tag {
+  confidence: 9.534617
+  tag: one
+}
+, class Tag {
+  confidence: 9.307218
+  tag: sitting
+}
+, class Tag {
+  confidence: 9.2388935
+  tag: love
+}
+, class Tag {
+  confidence: 9.052884
+  tag: dress
+}
+, class Tag {
+  confidence: 8.993606
+  tag: holding
+}
+, class Tag {
+  confidence: 8.745934
+  tag: together
+}
+, class Tag {
+  confidence: 8.5
+  tag: oboe
+}
+, class Tag {
+  confidence: 8.2982025
+  tag: studio
+}
+, class Tag {
+  confidence: 8.2774
+  tag: wife
+}
+, class Tag {
+  confidence: 8.268681
+  tag: garment
+}
+, class Tag {
+  confidence: 8.009228
+  tag: black
+}
+, class Tag {
+  confidence: 7.9275556
+  tag: indoors
+}
+, class Tag {
+  confidence: 7.8719144
+  tag: boy
+}
+, class Tag {
+  confidence: 7.7912374
+  tag: men
+}
+, class Tag {
+  confidence: 7.7766733
+  tag: work
+}
+, class Tag {
+  confidence: 7.763924
+  tag: eyes
+}
+, class Tag {
+  confidence: 7.641679
+  tag: clothes
+}
+, class Tag {
+  confidence: 7.6101127
+  tag: females
+}
+, class Tag {
+  confidence: 7.6002064
+  tag: friends
+}
+, class Tag {
+  confidence: 7.57942
+  tag: friendship
+}
+, class Tag {
+  confidence: 7.404569
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.2868843
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.236473
+  tag: romance
+}
+, class Tag {
+  confidence: 7.2095604
+  tag: glamour
+}
+, class Tag {
+  confidence: 7.153065
+  tag: celebration
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHbVWzRWEAAEery.jpg
+  tags: [class Tag {
+  confidence: 33.495365
+  tag: hand
+}
+, class Tag {
+  confidence: 18.668936
+  tag: skin
+}
+, class Tag {
+  confidence: 17.598772
+  tag: people
+}
+, class Tag {
+  confidence: 17.18976
+  tag: adult
+}
+, class Tag {
+  confidence: 16.525425
+  tag: person
+}
+, class Tag {
+  confidence: 15.813701
+  tag: caucasian
+}
+, class Tag {
+  confidence: 14.204572
+  tag: hands
+}
+, class Tag {
+  confidence: 13.209089
+  tag: attractive
+}
+, class Tag {
+  confidence: 12.985608
+  tag: holding
+}
+, class Tag {
+  confidence: 12.631129
+  tag: human
+}
+, class Tag {
+  confidence: 12.221975
+  tag: work
+}
+, class Tag {
+  confidence: 12.159601
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.077848
+  tag: man
+}
+, class Tag {
+  confidence: 11.552379
+  tag: device
+}
+, class Tag {
+  confidence: 11.272398
+  tag: close
+}
+, class Tag {
+  confidence: 10.994623
+  tag: finger
+}
+, class Tag {
+  confidence: 10.814128
+  tag: business
+}
+, class Tag {
+  confidence: 10.7406435
+  tag: communication
+}
+, class Tag {
+  confidence: 10.510181
+  tag: lighter
+}
+, class Tag {
+  confidence: 10.393881
+  tag: body
+}
+, class Tag {
+  confidence: 10.119928
+  tag: health
+}
+, class Tag {
+  confidence: 10.0589485
+  tag: male
+}
+, class Tag {
+  confidence: 9.942718
+  tag: care
+}
+, class Tag {
+  confidence: 9.836194
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.250118
+  tag: face
+}
+, class Tag {
+  confidence: 9.209204
+  tag: black
+}
+, class Tag {
+  confidence: 9.206745
+  tag: student
+}
+, class Tag {
+  confidence: 9.089645
+  tag: lady
+}
+, class Tag {
+  confidence: 8.909547
+  tag: healthcare
+}
+, class Tag {
+  confidence: 8.884475
+  tag: happy
+}
+, class Tag {
+  confidence: 8.6127615
+  tag: smile
+}
+, class Tag {
+  confidence: 8.168423
+  tag: medical
+}
+, class Tag {
+  confidence: 7.738691
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.535061
+  tag: success
+}
+, class Tag {
+  confidence: 7.5027895
+  tag: technology
+}
+, class Tag {
+  confidence: 7.4163995
+  tag: looking
+}
+, class Tag {
+  confidence: 7.320539
+  tag: women
+}
+, class Tag {
+  confidence: 7.2953854
+  tag: model
+}
+, class Tag {
+  confidence: 7.2741704
+  tag: medicine
+}
+, class Tag {
+  confidence: 7.0423985
+  tag: studio
+}
+]
+}
+]
+  unsuccessful: null
+}

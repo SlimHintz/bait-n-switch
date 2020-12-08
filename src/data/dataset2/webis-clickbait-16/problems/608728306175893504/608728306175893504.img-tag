@@ -1,0 +1,88 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKjKzbW4AAKI7f.jpg
+  tags: [class Tag {
+  confidence: 14.759104
+  tag: refrigerator
+}
+, class Tag {
+  confidence: 11.515875
+  tag: design
+}
+, class Tag {
+  confidence: 11.515234
+  tag: color
+}
+, class Tag {
+  confidence: 11.152
+  tag: white goods
+}
+, class Tag {
+  confidence: 11.129608
+  tag: business
+}
+, class Tag {
+  confidence: 10.958364
+  tag: paper towel
+}
+, class Tag {
+  confidence: 10.077281
+  tag: black
+}
+, class Tag {
+  confidence: 9.925871
+  tag: home
+}
+, class Tag {
+  confidence: 9.325384
+  tag: towel
+}
+, class Tag {
+  confidence: 8.894554
+  tag: clean
+}
+, class Tag {
+  confidence: 8.721973
+  tag: interior
+}
+, class Tag {
+  confidence: 8.518548
+  tag: paper
+}
+, class Tag {
+  confidence: 8.364
+  tag: home appliance
+}
+, class Tag {
+  confidence: 8.35989
+  tag: space
+}
+, class Tag {
+  confidence: 8.002779
+  tag: art
+}
+, class Tag {
+  confidence: 7.8065405
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.489895
+  tag: close
+}
+, class Tag {
+  confidence: 7.4736285
+  tag: man
+}
+, class Tag {
+  confidence: 7.4686003
+  tag: water
+}
+, class Tag {
+  confidence: 7.191917
+  tag: computer
+}
+]
+}
+]
+  unsuccessful: null
+}

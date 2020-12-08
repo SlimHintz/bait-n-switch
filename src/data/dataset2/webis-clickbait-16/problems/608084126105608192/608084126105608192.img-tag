@@ -1,0 +1,132 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAJ3dYU8AAG2W5.png
+  tags: [class Tag {
+  confidence: 26.144802
+  tag: paper
+}
+, class Tag {
+  confidence: 24.904345
+  tag: document
+}
+, class Tag {
+  confidence: 22.585194
+  tag: window
+}
+, class Tag {
+  confidence: 19.925434
+  tag: business
+}
+, class Tag {
+  confidence: 17.45696
+  tag: design
+}
+, class Tag {
+  confidence: 16.766504
+  tag: writing
+}
+, class Tag {
+  confidence: 14.786407
+  tag: pen
+}
+, class Tag {
+  confidence: 12.626517
+  tag: office
+}
+, class Tag {
+  confidence: 12.380915
+  tag: computer
+}
+, class Tag {
+  confidence: 12.326542
+  tag: black
+}
+, class Tag {
+  confidence: 12.239799
+  tag: text
+}
+, class Tag {
+  confidence: 11.116826
+  tag: art
+}
+, class Tag {
+  confidence: 10.691497
+  tag: graphic
+}
+, class Tag {
+  confidence: 10.504652
+  tag: blank
+}
+, class Tag {
+  confidence: 10.4937105
+  tag: notebook
+}
+, class Tag {
+  confidence: 10.4861355
+  tag: page
+}
+, class Tag {
+  confidence: 10.389721
+  tag: letter
+}
+, class Tag {
+  confidence: 10.109902
+  tag: frame
+}
+, class Tag {
+  confidence: 10.097555
+  tag: texture
+}
+, class Tag {
+  confidence: 9.698935
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.964178
+  tag: finance
+}
+, class Tag {
+  confidence: 8.797375
+  tag: note
+}
+, class Tag {
+  confidence: 8.575287
+  tag: element
+}
+, class Tag {
+  confidence: 8.084963
+  tag: internet
+}
+, class Tag {
+  confidence: 7.90527
+  tag: modern
+}
+, class Tag {
+  confidence: 7.726169
+  tag: technology
+}
+, class Tag {
+  confidence: 7.6122756
+  tag: education
+}
+, class Tag {
+  confidence: 7.512662
+  tag: pattern
+}
+, class Tag {
+  confidence: 7.479173
+  tag: detail
+}
+, class Tag {
+  confidence: 7.411531
+  tag: web
+}
+, class Tag {
+  confidence: 7.151913
+  tag: book
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,244 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHMIAbMVIAAMYED.jpg
+  tags: [class Tag {
+  confidence: 54.758915
+  tag: ball
+}
+, class Tag {
+  confidence: 52.181602
+  tag: volleyball
+}
+, class Tag {
+  confidence: 41.148
+  tag: game equipment
+}
+, class Tag {
+  confidence: 25.916021
+  tag: equipment
+}
+, class Tag {
+  confidence: 21.282831
+  tag: person
+}
+, class Tag {
+  confidence: 19.856308
+  tag: people
+}
+, class Tag {
+  confidence: 18.976828
+  tag: basketball
+}
+, class Tag {
+  confidence: 18.377
+  tag: sport
+}
+, class Tag {
+  confidence: 17.55093
+  tag: player
+}
+, class Tag {
+  confidence: 17.34297
+  tag: adult
+}
+, class Tag {
+  confidence: 16.981106
+  tag: gymnastics
+}
+, class Tag {
+  confidence: 15.844779
+  tag: man
+}
+, class Tag {
+  confidence: 15.3057165
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 14.704
+  tag: basketball equipment
+}
+, class Tag {
+  confidence: 14.623883
+  tag: male
+}
+, class Tag {
+  confidence: 13.050798
+  tag: beach
+}
+, class Tag {
+  confidence: 12.934986
+  tag: exercise
+}
+, class Tag {
+  confidence: 12.692831
+  tag: sexy
+}
+, class Tag {
+  confidence: 12.490275
+  tag: fun
+}
+, class Tag {
+  confidence: 11.936528
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.756528
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.557367
+  tag: fitness
+}
+, class Tag {
+  confidence: 11.073462
+  tag: summer
+}
+, class Tag {
+  confidence: 10.13287
+  tag: healthy
+}
+, class Tag {
+  confidence: 10.018692
+  tag: happy
+}
+, class Tag {
+  confidence: 9.808463
+  tag: athlete
+}
+, class Tag {
+  confidence: 9.7380905
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.628156
+  tag: training
+}
+, class Tag {
+  confidence: 9.571298
+  tag: smile
+}
+, class Tag {
+  confidence: 9.3894825
+  tag: active
+}
+, class Tag {
+  confidence: 9.039536
+  tag: body
+}
+, class Tag {
+  confidence: 8.887096
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.74677
+  tag: competition
+}
+, class Tag {
+  confidence: 8.727425
+  tag: playing
+}
+, class Tag {
+  confidence: 8.442673
+  tag: sand
+}
+, class Tag {
+  confidence: 8.283596
+  tag: women
+}
+, class Tag {
+  confidence: 8.143652
+  tag: action
+}
+, class Tag {
+  confidence: 8.123752
+  tag: sky
+}
+, class Tag {
+  confidence: 8.094674
+  tag: baseball
+}
+, class Tag {
+  confidence: 8.008713
+  tag: human
+}
+, class Tag {
+  confidence: 7.9221873
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.9066625
+  tag: one
+}
+, class Tag {
+  confidence: 7.748494
+  tag: match
+}
+, class Tag {
+  confidence: 7.667488
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.512282
+  tag: slim
+}
+, class Tag {
+  confidence: 7.447986
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.3509703
+  tag: blond
+}
+, class Tag {
+  confidence: 7.3436213
+  tag: joy
+}
+, class Tag {
+  confidence: 7.3356514
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.3188634
+  tag: team
+}
+, class Tag {
+  confidence: 7.203453
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.182919
+  tag: boy
+}
+, class Tag {
+  confidence: 7.178287
+  tag: health
+}
+, class Tag {
+  confidence: 7.1640472
+  tag: shorts
+}
+, class Tag {
+  confidence: 7.16
+  tag: balance beam
+}
+, class Tag {
+  confidence: 7.134153
+  tag: water
+}
+, class Tag {
+  confidence: 7.1007123
+  tag: exercising
+}
+, class Tag {
+  confidence: 7.084442
+  tag: model
+}
+, class Tag {
+  confidence: 7.0192723
+  tag: muscular
+}
+]
+}
+]
+  unsuccessful: null
+}

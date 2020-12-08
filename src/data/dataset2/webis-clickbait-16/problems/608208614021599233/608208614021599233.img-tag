@@ -1,0 +1,268 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHDF6XnVIAA277H.jpg
+  tags: [class Tag {
+  confidence: 24.28173
+  tag: signboard
+}
+, class Tag {
+  confidence: 22.742855
+  tag: display
+}
+, class Tag {
+  confidence: 20.191938
+  tag: billboard
+}
+, class Tag {
+  confidence: 17.804436
+  tag: monitor
+}
+, class Tag {
+  confidence: 15.8362
+  tag: computer
+}
+, class Tag {
+  confidence: 14.781487
+  tag: symbol
+}
+, class Tag {
+  confidence: 13.79245
+  tag: icon
+}
+, class Tag {
+  confidence: 13.3978195
+  tag: design
+}
+, class Tag {
+  confidence: 12.909176
+  tag: screen
+}
+, class Tag {
+  confidence: 12.815006
+  tag: silhouette
+}
+, class Tag {
+  confidence: 12.733332
+  tag: flag
+}
+, class Tag {
+  confidence: 12.201869
+  tag: television
+}
+, class Tag {
+  confidence: 12.035226
+  tag: sport
+}
+, class Tag {
+  confidence: 11.754003
+  tag: audience
+}
+, class Tag {
+  confidence: 11.721449
+  tag: business
+}
+, class Tag {
+  confidence: 11.626439
+  tag: internet
+}
+, class Tag {
+  confidence: 11.613746
+  tag: patriotic
+}
+, class Tag {
+  confidence: 11.58965
+  tag: match
+}
+, class Tag {
+  confidence: 11.496949
+  tag: technology
+}
+, class Tag {
+  confidence: 11.489642
+  tag: nation
+}
+, class Tag {
+  confidence: 11.421669
+  tag: sky
+}
+, class Tag {
+  confidence: 11.248469
+  tag: player
+}
+, class Tag {
+  confidence: 11.087269
+  tag: lights
+}
+, class Tag {
+  confidence: 11.071425
+  tag: event
+}
+, class Tag {
+  confidence: 11.039175
+  tag: competition
+}
+, class Tag {
+  confidence: 11.005289
+  tag: laptop
+}
+, class Tag {
+  confidence: 10.864095
+  tag: stadium
+}
+, class Tag {
+  confidence: 10.810234
+  tag: equipment
+}
+, class Tag {
+  confidence: 10.775402
+  tag: crowd
+}
+, class Tag {
+  confidence: 10.722201
+  tag: muscular
+}
+, class Tag {
+  confidence: 10.637819
+  tag: field
+}
+, class Tag {
+  confidence: 10.630446
+  tag: athlete
+}
+, class Tag {
+  confidence: 10.436883
+  tag: liquid crystal display
+}
+, class Tag {
+  confidence: 10.1104765
+  tag: roriginal
+}
+, class Tag {
+  confidence: 10.046596
+  tag: championship
+}
+, class Tag {
+  confidence: 10.031319
+  tag: publication
+}
+, class Tag {
+  confidence: 9.90375
+  tag: skill
+}
+, class Tag {
+  confidence: 9.689307
+  tag: bright
+}
+, class Tag {
+  confidence: 9.684463
+  tag: structure
+}
+, class Tag {
+  confidence: 9.66399
+  tag: training
+}
+, class Tag {
+  confidence: 9.643978
+  tag: modern
+}
+, class Tag {
+  confidence: 9.639621
+  tag: notebook
+}
+, class Tag {
+  confidence: 9.633107
+  tag: black
+}
+, class Tag {
+  confidence: 9.111854
+  tag: panel
+}
+, class Tag {
+  confidence: 8.969109
+  tag: pc
+}
+, class Tag {
+  confidence: 8.907404
+  tag: blank
+}
+, class Tag {
+  confidence: 8.812014
+  tag: shiny
+}
+, class Tag {
+  confidence: 8.659624
+  tag: space
+}
+, class Tag {
+  confidence: 8.559383
+  tag: global
+}
+, class Tag {
+  confidence: 8.537005
+  tag: person
+}
+, class Tag {
+  confidence: 8.486322
+  tag: people
+}
+, class Tag {
+  confidence: 8.472822
+  tag: cheering
+}
+, class Tag {
+  confidence: 8.45147
+  tag: nighttime
+}
+, class Tag {
+  confidence: 8.284173
+  tag: man
+}
+, class Tag {
+  confidence: 8.232322
+  tag: vibrant
+}
+, class Tag {
+  confidence: 8.10376
+  tag: work
+}
+, class Tag {
+  confidence: 7.924276
+  tag: light
+}
+, class Tag {
+  confidence: 7.7849336
+  tag: frame
+}
+, class Tag {
+  confidence: 7.7524433
+  tag: team
+}
+, class Tag {
+  confidence: 7.6606703
+  tag: office
+}
+, class Tag {
+  confidence: 7.5737267
+  tag: lcd
+}
+, class Tag {
+  confidence: 7.379242
+  tag: desktop
+}
+, class Tag {
+  confidence: 7.2615614
+  tag: keyboard
+}
+, class Tag {
+  confidence: 7.246316
+  tag: industry
+}
+, class Tag {
+  confidence: 7.164294
+  tag: glowing
+}
+]
+}
+]
+  unsuccessful: null
+}

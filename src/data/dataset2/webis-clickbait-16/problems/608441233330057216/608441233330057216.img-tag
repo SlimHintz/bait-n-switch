@@ -1,0 +1,180 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHGeE8HWgAAwjqI.jpg
+  tags: [class Tag {
+  confidence: 65.79312
+  tag: watch
+}
+, class Tag {
+  confidence: 45.535244
+  tag: compass
+}
+, class Tag {
+  confidence: 31.36
+  tag: magnetic compass
+}
+, class Tag {
+  confidence: 30.688
+  tag: navigational instrument
+}
+, class Tag {
+  confidence: 26.771778
+  tag: clock
+}
+, class Tag {
+  confidence: 24.355112
+  tag: instrument
+}
+, class Tag {
+  confidence: 23.68874
+  tag: time
+}
+, class Tag {
+  confidence: 20.374784
+  tag: device
+}
+, class Tag {
+  confidence: 14.742469
+  tag: currency
+}
+, class Tag {
+  confidence: 14.10673
+  tag: money
+}
+, class Tag {
+  confidence: 14.00812
+  tag: business
+}
+, class Tag {
+  confidence: 13.969518
+  tag: old
+}
+, class Tag {
+  confidence: 12.964484
+  tag: case
+}
+, class Tag {
+  confidence: 12.7745905
+  tag: gold
+}
+, class Tag {
+  confidence: 12.465463
+  tag: silver
+}
+, class Tag {
+  confidence: 11.528775
+  tag: timer
+}
+, class Tag {
+  confidence: 11.524438
+  tag: hand
+}
+, class Tag {
+  confidence: 11.032607
+  tag: cash
+}
+, class Tag {
+  confidence: 10.875763
+  tag: finance
+}
+, class Tag {
+  confidence: 10.648073
+  tag: coin
+}
+, class Tag {
+  confidence: 10.416839
+  tag: antique
+}
+, class Tag {
+  confidence: 10.277771
+  tag: minute
+}
+, class Tag {
+  confidence: 10.077293
+  tag: financial
+}
+, class Tag {
+  confidence: 9.592005
+  tag: number
+}
+, class Tag {
+  confidence: 9.425286
+  tag: metal
+}
+, class Tag {
+  confidence: 9.010493
+  tag: banking
+}
+, class Tag {
+  confidence: 8.882627
+  tag: vintage
+}
+, class Tag {
+  confidence: 8.7823105
+  tag: bank
+}
+, class Tag {
+  confidence: 8.756448
+  tag: retro
+}
+, class Tag {
+  confidence: 8.337184
+  tag: closeup
+}
+, class Tag {
+  confidence: 8.223526
+  tag: hours
+}
+, class Tag {
+  confidence: 8.211264
+  tag: close
+}
+, class Tag {
+  confidence: 8.177336
+  tag: europe
+}
+, class Tag {
+  confidence: 8.044566
+  tag: hour
+}
+, class Tag {
+  confidence: 8.002646
+  tag: object
+}
+, class Tag {
+  confidence: 7.9208584
+  tag: measurement
+}
+, class Tag {
+  confidence: 7.907708
+  tag: success
+}
+, class Tag {
+  confidence: 7.6186676
+  tag: investment
+}
+, class Tag {
+  confidence: 7.577365
+  tag: minutes
+}
+, class Tag {
+  confidence: 7.4920087
+  tag: second
+}
+, class Tag {
+  confidence: 7.2342863
+  tag: buckle
+}
+, class Tag {
+  confidence: 7.103606
+  tag: measure
+}
+, class Tag {
+  confidence: 7.0526843
+  tag: black
+}
+]
+}
+]
+  unsuccessful: null
+}

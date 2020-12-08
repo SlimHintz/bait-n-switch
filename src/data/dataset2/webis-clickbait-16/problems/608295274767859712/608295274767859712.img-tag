@@ -1,0 +1,292 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHEZVC9UYAAanv9.jpg
+  tags: [class Tag {
+  confidence: 26.695478
+  tag: people
+}
+, class Tag {
+  confidence: 25.508673
+  tag: happy
+}
+, class Tag {
+  confidence: 24.049963
+  tag: caucasian
+}
+, class Tag {
+  confidence: 23.532757
+  tag: man
+}
+, class Tag {
+  confidence: 23.34267
+  tag: adult
+}
+, class Tag {
+  confidence: 22.247997
+  tag: person
+}
+, class Tag {
+  confidence: 21.564991
+  tag: portrait
+}
+, class Tag {
+  confidence: 21.01152
+  tag: smiling
+}
+, class Tag {
+  confidence: 20.134018
+  tag: male
+}
+, class Tag {
+  confidence: 19.677935
+  tag: casual
+}
+, class Tag {
+  confidence: 19.297749
+  tag: happiness
+}
+, class Tag {
+  confidence: 18.563282
+  tag: smile
+}
+, class Tag {
+  confidence: 17.554537
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.669671
+  tag: women
+}
+, class Tag {
+  confidence: 14.50207
+  tag: child
+}
+, class Tag {
+  confidence: 13.368599
+  tag: children
+}
+, class Tag {
+  confidence: 13.211592
+  tag: attractive
+}
+, class Tag {
+  confidence: 12.863958
+  tag: boy
+}
+, class Tag {
+  confidence: 12.192146
+  tag: holding
+}
+, class Tag {
+  confidence: 12.1579485
+  tag: together
+}
+, class Tag {
+  confidence: 12.134373
+  tag: outdoors
+}
+, class Tag {
+  confidence: 11.951227
+  tag: business
+}
+, class Tag {
+  confidence: 11.766415
+  tag: expression
+}
+, class Tag {
+  confidence: 11.465238
+  tag: family
+}
+, class Tag {
+  confidence: 11.281715
+  tag: couple
+}
+, class Tag {
+  confidence: 11.136616
+  tag: looking
+}
+, class Tag {
+  confidence: 10.702174
+  tag: clothing
+}
+, class Tag {
+  confidence: 10.572545
+  tag: cheerful
+}
+, class Tag {
+  confidence: 10.273155
+  tag: schoolchild
+}
+, class Tag {
+  confidence: 10.069136
+  tag: laptop
+}
+, class Tag {
+  confidence: 10.006449
+  tag: relaxing
+}
+, class Tag {
+  confidence: 9.712105
+  tag: indoors
+}
+, class Tag {
+  confidence: 9.534907
+  tag: men
+}
+, class Tag {
+  confidence: 9.515217
+  tag: fun
+}
+, class Tag {
+  confidence: 9.420098
+  tag: youth
+}
+, class Tag {
+  confidence: 9.418997
+  tag: home
+}
+, class Tag {
+  confidence: 8.93496
+  tag: working
+}
+, class Tag {
+  confidence: 8.870731
+  tag: technology
+}
+, class Tag {
+  confidence: 8.656912
+  tag: walking
+}
+, class Tag {
+  confidence: 8.621877
+  tag: mobile
+}
+, class Tag {
+  confidence: 8.584105
+  tag: friends
+}
+, class Tag {
+  confidence: 8.517366
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.485901
+  tag: teen
+}
+, class Tag {
+  confidence: 8.44873
+  tag: communication
+}
+, class Tag {
+  confidence: 8.448411
+  tag: fashion
+}
+, class Tag {
+  confidence: 8.446205
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.440889
+  tag: leisure
+}
+, class Tag {
+  confidence: 8.369893
+  tag: student
+}
+, class Tag {
+  confidence: 8.350154
+  tag: color
+}
+, class Tag {
+  confidence: 8.248831
+  tag: businessman
+}
+, class Tag {
+  confidence: 8.243434
+  tag: group
+}
+, class Tag {
+  confidence: 8.201568
+  tag: job
+}
+, class Tag {
+  confidence: 8.085135
+  tag: computer
+}
+, class Tag {
+  confidence: 7.9568815
+  tag: love
+}
+, class Tag {
+  confidence: 7.9123883
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.7473483
+  tag: studio
+}
+, class Tag {
+  confidence: 7.742031
+  tag: kids
+}
+, class Tag {
+  confidence: 7.70907
+  tag: mother
+}
+, class Tag {
+  confidence: 7.642936
+  tag: 20s
+}
+, class Tag {
+  confidence: 7.56
+  tag: young person
+}
+, class Tag {
+  confidence: 7.5577035
+  tag: phone
+}
+, class Tag {
+  confidence: 7.283965
+  tag: face
+}
+, class Tag {
+  confidence: 7.1816616
+  tag: work
+}
+, class Tag {
+  confidence: 7.1554933
+  tag: colour
+}
+, class Tag {
+  confidence: 7.129136
+  tag: bags
+}
+, class Tag {
+  confidence: 7.1259212
+  tag: sitting
+}
+, class Tag {
+  confidence: 7.0837874
+  tag: professional
+}
+, class Tag {
+  confidence: 7.06494
+  tag: father
+}
+, class Tag {
+  confidence: 7.04156
+  tag: looking camera
+}
+, class Tag {
+  confidence: 7.0397835
+  tag: son
+}
+, class Tag {
+  confidence: 7.0267863
+  tag: confidence
+}
+]
+}
+]
+  unsuccessful: null
+}

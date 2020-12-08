@@ -1,0 +1,248 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_19gqUkAEfV-Y.jpg
+  tags: [class Tag {
+  confidence: 37.23345
+  tag: sky
+}
+, class Tag {
+  confidence: 26.826654
+  tag: sun
+}
+, class Tag {
+  confidence: 22.56457
+  tag: cloud
+}
+, class Tag {
+  confidence: 21.169113
+  tag: clouds
+}
+, class Tag {
+  confidence: 18.940819
+  tag: air
+}
+, class Tag {
+  confidence: 18.84554
+  tag: heaven
+}
+, class Tag {
+  confidence: 18.356491
+  tag: space
+}
+, class Tag {
+  confidence: 17.958595
+  tag: weather
+}
+, class Tag {
+  confidence: 17.755888
+  tag: landscape
+}
+, class Tag {
+  confidence: 17.663937
+  tag: cloudy
+}
+, class Tag {
+  confidence: 17.61492
+  tag: summer
+}
+, class Tag {
+  confidence: 16.831852
+  tag: light
+}
+, class Tag {
+  confidence: 16.263805
+  tag: clear
+}
+, class Tag {
+  confidence: 16.170439
+  tag: sunny
+}
+, class Tag {
+  confidence: 16.117361
+  tag: environment
+}
+, class Tag {
+  confidence: 14.996039
+  tag: sunlight
+}
+, class Tag {
+  confidence: 14.6703
+  tag: bright
+}
+, class Tag {
+  confidence: 14.053884
+  tag: silhouette
+}
+, class Tag {
+  confidence: 13.91886
+  tag: day
+}
+, class Tag {
+  confidence: 13.864701
+  tag: outdoors
+}
+, class Tag {
+  confidence: 13.701845
+  tag: high
+}
+, class Tag {
+  confidence: 13.644786
+  tag: color
+}
+, class Tag {
+  confidence: 13.476979
+  tag: cloudscape
+}
+, class Tag {
+  confidence: 12.338205
+  tag: spring
+}
+, class Tag {
+  confidence: 12.303568
+  tag: season
+}
+, class Tag {
+  confidence: 12.017197
+  tag: freedom
+}
+, class Tag {
+  confidence: 11.581388
+  tag: design
+}
+, class Tag {
+  confidence: 11.525666
+  tag: travel
+}
+, class Tag {
+  confidence: 10.797823
+  tag: outdoor
+}
+, class Tag {
+  confidence: 10.082375
+  tag: horizon
+}
+, class Tag {
+  confidence: 9.808284
+  tag: scenic
+}
+, class Tag {
+  confidence: 9.604918
+  tag: fly
+}
+, class Tag {
+  confidence: 9.240447
+  tag: scenery
+}
+, class Tag {
+  confidence: 9.105444
+  tag: hope
+}
+, class Tag {
+  confidence: 9.076942
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.95821
+  tag: reflection
+}
+, class Tag {
+  confidence: 8.672292
+  tag: jet
+}
+, class Tag {
+  confidence: 8.586619
+  tag: field
+}
+, class Tag {
+  confidence: 8.509461
+  tag: peace
+}
+, class Tag {
+  confidence: 8.500895
+  tag: success
+}
+, class Tag {
+  confidence: 8.422026
+  tag: star
+}
+, class Tag {
+  confidence: 8.357719
+  tag: black
+}
+, class Tag {
+  confidence: 8.348489
+  tag: concepts
+}
+, class Tag {
+  confidence: 8.264934
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 8.18545
+  tag: atmosphere
+}
+, class Tag {
+  confidence: 8.177833
+  tag: business
+}
+, class Tag {
+  confidence: 8.014606
+  tag: life
+}
+, class Tag {
+  confidence: 7.9471393
+  tag: wind
+}
+, class Tag {
+  confidence: 7.623883
+  tag: person
+}
+, class Tag {
+  confidence: 7.579533
+  tag: open
+}
+, class Tag {
+  confidence: 7.5619984
+  tag: meadow
+}
+, class Tag {
+  confidence: 7.3115706
+  tag: happy
+}
+, class Tag {
+  confidence: 7.300498
+  tag: grass
+}
+, class Tag {
+  confidence: 7.291773
+  tag: outside
+}
+, class Tag {
+  confidence: 7.179864
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 7.163285
+  tag: scenics
+}
+, class Tag {
+  confidence: 7.1518135
+  tag: climate
+}
+, class Tag {
+  confidence: 7.0850005
+  tag: flying
+}
+, class Tag {
+  confidence: 7.0787416
+  tag: dark
+}
+, class Tag {
+  confidence: 7.050828
+  tag: sunshine
+}
+]
+}
+]
+  unsuccessful: null
+}

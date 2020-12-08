@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdLBPaUwAAahfL.jpg
+  tags: [class Tag {
+  confidence: 23.200996
+  tag: collection
+}
+, class Tag {
+  confidence: 15.896744
+  tag: magazine
+}
+, class Tag {
+  confidence: 15.193187
+  tag: shop
+}
+, class Tag {
+  confidence: 14.84
+  tag: shoe shop
+}
+, class Tag {
+  confidence: 14.620319
+  tag: art
+}
+, class Tag {
+  confidence: 14.195881
+  tag: design
+}
+, class Tag {
+  confidence: 13.910289
+  tag: money
+}
+, class Tag {
+  confidence: 13.678979
+  tag: comic book
+}
+, class Tag {
+  confidence: 13.659909
+  tag: business
+}
+, class Tag {
+  confidence: 13.027763
+  tag: currency
+}
+, class Tag {
+  confidence: 11.691733
+  tag: cash
+}
+, class Tag {
+  confidence: 11.597953
+  tag: drawing
+}
+, class Tag {
+  confidence: 10.953387
+  tag: finance
+}
+, class Tag {
+  confidence: 10.726104
+  tag: cartoon
+}
+, class Tag {
+  confidence: 10.469245
+  tag: graphic
+}
+, class Tag {
+  confidence: 10.454127
+  tag: text
+}
+, class Tag {
+  confidence: 9.777059
+  tag: conceptual
+}
+, class Tag {
+  confidence: 9.200308
+  tag: bank
+}
+, class Tag {
+  confidence: 9.157028
+  tag: financial
+}
+, class Tag {
+  confidence: 8.904
+  tag: mercantile establishment
+}
+, class Tag {
+  confidence: 8.857725
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.848921
+  tag: bill
+}
+, class Tag {
+  confidence: 8.843041
+  tag: icon
+}
+, class Tag {
+  confidence: 8.768359
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.643699
+  tag: banking
+}
+, class Tag {
+  confidence: 8.633599
+  tag: card
+}
+, class Tag {
+  confidence: 8.62148
+  tag: culture
+}
+, class Tag {
+  confidence: 8.590551
+  tag: color
+}
+, class Tag {
+  confidence: 8.041541
+  tag: paper
+}
+, class Tag {
+  confidence: 7.9088526
+  tag: pattern
+}
+, class Tag {
+  confidence: 7.890084
+  tag: dollar
+}
+, class Tag {
+  confidence: 7.6215706
+  tag: wealth
+}
+, class Tag {
+  confidence: 7.587864
+  tag: style
+}
+, class Tag {
+  confidence: 7.4950314
+  tag: black
+}
+, class Tag {
+  confidence: 7.4156876
+  tag: boy
+}
+, class Tag {
+  confidence: 7.3280716
+  tag: face
+}
+, class Tag {
+  confidence: 7.299989
+  tag: pay
+}
+, class Tag {
+  confidence: 7.2797766
+  tag: light
+}
+, class Tag {
+  confidence: 7.1366477
+  tag: happy
+}
+, class Tag {
+  confidence: 7.096156
+  tag: economy
+}
+, class Tag {
+  confidence: 7.0502105
+  tag: child
+}
+]
+}
+]
+  unsuccessful: null
+}

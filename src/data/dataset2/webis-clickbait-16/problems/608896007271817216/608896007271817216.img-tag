@@ -1,0 +1,164 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHM4VByU0AENo85.jpg
+  tags: [class Tag {
+  confidence: 23.620123
+  tag: sky
+}
+, class Tag {
+  confidence: 19.004505
+  tag: summer
+}
+, class Tag {
+  confidence: 17.697104
+  tag: outdoors
+}
+, class Tag {
+  confidence: 14.832321
+  tag: outdoor
+}
+, class Tag {
+  confidence: 14.2680025
+  tag: park
+}
+, class Tag {
+  confidence: 14.112454
+  tag: landscape
+}
+, class Tag {
+  confidence: 13.836242
+  tag: travel
+}
+, class Tag {
+  confidence: 13.457599
+  tag: vacation
+}
+, class Tag {
+  confidence: 12.952843
+  tag: people
+}
+, class Tag {
+  confidence: 12.474165
+  tag: water
+}
+, class Tag {
+  confidence: 12.192978
+  tag: grass
+}
+, class Tag {
+  confidence: 11.979062
+  tag: happy
+}
+, class Tag {
+  confidence: 11.54803
+  tag: meadow
+}
+, class Tag {
+  confidence: 11.390853
+  tag: spring
+}
+, class Tag {
+  confidence: 10.955042
+  tag: sun
+}
+, class Tag {
+  confidence: 10.932768
+  tag: man
+}
+, class Tag {
+  confidence: 10.5278845
+  tag: mountain
+}
+, class Tag {
+  confidence: 10.360088
+  tag: tourism
+}
+, class Tag {
+  confidence: 10.06754
+  tag: day
+}
+, class Tag {
+  confidence: 10.0513315
+  tag: smile
+}
+, class Tag {
+  confidence: 9.804317
+  tag: person
+}
+, class Tag {
+  confidence: 9.533191
+  tag: rock
+}
+, class Tag {
+  confidence: 9.485327
+  tag: cloud
+}
+, class Tag {
+  confidence: 8.820814
+  tag: male
+}
+, class Tag {
+  confidence: 8.557258
+  tag: natural
+}
+, class Tag {
+  confidence: 8.48999
+  tag: beach
+}
+, class Tag {
+  confidence: 8.355753
+  tag: lake
+}
+, class Tag {
+  confidence: 8.279201
+  tag: environment
+}
+, class Tag {
+  confidence: 8.191139
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.112492
+  tag: trees
+}
+, class Tag {
+  confidence: 8.089742
+  tag: river
+}
+, class Tag {
+  confidence: 7.9734306
+  tag: outside
+}
+, class Tag {
+  confidence: 7.9324236
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.895669
+  tag: forest
+}
+, class Tag {
+  confidence: 7.6559057
+  tag: field
+}
+, class Tag {
+  confidence: 7.5416155
+  tag: fun
+}
+, class Tag {
+  confidence: 7.4281526
+  tag: scenery
+}
+, class Tag {
+  confidence: 7.151706
+  tag: life
+}
+, class Tag {
+  confidence: 7.1365256
+  tag: sunny
+}
+]
+}
+]
+  unsuccessful: null
+}

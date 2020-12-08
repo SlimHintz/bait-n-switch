@@ -1,0 +1,140 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKFxJFUUAA5zCk.jpg
+  tags: [class Tag {
+  confidence: 66.48709
+  tag: sign
+}
+, class Tag {
+  confidence: 38.763325
+  tag: signboard
+}
+, class Tag {
+  confidence: 25.144981
+  tag: street sign
+}
+, class Tag {
+  confidence: 23.681576
+  tag: sky
+}
+, class Tag {
+  confidence: 20.606413
+  tag: communication
+}
+, class Tag {
+  confidence: 16.36036
+  tag: billboard
+}
+, class Tag {
+  confidence: 15.591121
+  tag: road
+}
+, class Tag {
+  confidence: 13.383193
+  tag: structure
+}
+, class Tag {
+  confidence: 12.867517
+  tag: street
+}
+, class Tag {
+  confidence: 12.360611
+  tag: travel
+}
+, class Tag {
+  confidence: 12.105539
+  tag: city
+}
+, class Tag {
+  confidence: 11.745323
+  tag: warning
+}
+, class Tag {
+  confidence: 11.329173
+  tag: board
+}
+, class Tag {
+  confidence: 9.957759
+  tag: urban
+}
+, class Tag {
+  confidence: 9.313525
+  tag: black
+}
+, class Tag {
+  confidence: 9.300757
+  tag: light
+}
+, class Tag {
+  confidence: 9.266813
+  tag: cloud
+}
+, class Tag {
+  confidence: 8.954594
+  tag: information
+}
+, class Tag {
+  confidence: 8.8856125
+  tag: danger
+}
+, class Tag {
+  confidence: 8.539435
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.217245
+  tag: building
+}
+, class Tag {
+  confidence: 7.8961854
+  tag: post
+}
+, class Tag {
+  confidence: 7.8149414
+  tag: sun
+}
+, class Tag {
+  confidence: 7.805282
+  tag: landscape
+}
+, class Tag {
+  confidence: 7.8045726
+  tag: way
+}
+, class Tag {
+  confidence: 7.7697754
+  tag: arrow
+}
+, class Tag {
+  confidence: 7.764999
+  tag: traffic
+}
+, class Tag {
+  confidence: 7.6808686
+  tag: summer
+}
+, class Tag {
+  confidence: 7.596656
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.327004
+  tag: newspaper
+}
+, class Tag {
+  confidence: 7.236476
+  tag: notice
+}
+, class Tag {
+  confidence: 7.1669416
+  tag: business
+}
+, class Tag {
+  confidence: 7.030541
+  tag: sunny
+}
+]
+}
+]
+  unsuccessful: null
+}

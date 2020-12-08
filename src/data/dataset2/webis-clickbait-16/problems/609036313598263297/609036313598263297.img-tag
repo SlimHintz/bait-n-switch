@@ -1,0 +1,220 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHO7TMKVAAAiWLj.jpg
+  tags: [class Tag {
+  confidence: 38.723473
+  tag: city
+}
+, class Tag {
+  confidence: 36.832634
+  tag: road
+}
+, class Tag {
+  confidence: 34.394325
+  tag: highway
+}
+, class Tag {
+  confidence: 22.408522
+  tag: architecture
+}
+, class Tag {
+  confidence: 22.185349
+  tag: building
+}
+, class Tag {
+  confidence: 20.968195
+  tag: urban
+}
+, class Tag {
+  confidence: 20.569275
+  tag: sky
+}
+, class Tag {
+  confidence: 18.961773
+  tag: traffic
+}
+, class Tag {
+  confidence: 18.32126
+  tag: travel
+}
+, class Tag {
+  confidence: 16.995632
+  tag: landscape
+}
+, class Tag {
+  confidence: 16.580463
+  tag: way
+}
+, class Tag {
+  confidence: 14.784979
+  tag: landmark
+}
+, class Tag {
+  confidence: 14.526662
+  tag: night
+}
+, class Tag {
+  confidence: 14.3013525
+  tag: aerial
+}
+, class Tag {
+  confidence: 13.829513
+  tag: cityscape
+}
+, class Tag {
+  confidence: 13.65672
+  tag: car
+}
+, class Tag {
+  confidence: 13.591815
+  tag: network
+}
+, class Tag {
+  confidence: 13.480239
+  tag: street
+}
+, class Tag {
+  confidence: 13.395126
+  tag: europe
+}
+, class Tag {
+  confidence: 13.126671
+  tag: transportation
+}
+, class Tag {
+  confidence: 11.864675
+  tag: tourism
+}
+, class Tag {
+  confidence: 11.6675
+  tag: water
+}
+, class Tag {
+  confidence: 10.627704
+  tag: sea
+}
+, class Tag {
+  confidence: 10.582241
+  tag: skyline
+}
+, class Tag {
+  confidence: 10.465866
+  tag: system
+}
+, class Tag {
+  confidence: 10.393402
+  tag: intersection
+}
+, class Tag {
+  confidence: 10.381161
+  tag: lights
+}
+, class Tag {
+  confidence: 9.968788
+  tag: downtown
+}
+, class Tag {
+  confidence: 9.829083
+  tag: scenic
+}
+, class Tag {
+  confidence: 9.778657
+  tag: buildings
+}
+, class Tag {
+  confidence: 9.457097
+  tag: transport
+}
+, class Tag {
+  confidence: 9.330584
+  tag: sunset
+}
+, class Tag {
+  confidence: 8.991597
+  tag: bridge
+}
+, class Tag {
+  confidence: 8.772898
+  tag: town
+}
+, class Tag {
+  confidence: 8.729297
+  tag: speed
+}
+, class Tag {
+  confidence: 8.549068
+  tag: cars
+}
+, class Tag {
+  confidence: 8.51887
+  tag: scenery
+}
+, class Tag {
+  confidence: 8.454383
+  tag: tower
+}
+, class Tag {
+  confidence: 8.128193
+  tag: scene
+}
+, class Tag {
+  confidence: 8.061507
+  tag: evening
+}
+, class Tag {
+  confidence: 8.04775
+  tag: construction
+}
+, class Tag {
+  confidence: 8.026152
+  tag: light
+}
+, class Tag {
+  confidence: 7.9335227
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.9185324
+  tag: america
+}
+, class Tag {
+  confidence: 7.89903
+  tag: usa
+}
+, class Tag {
+  confidence: 7.775431
+  tag: house
+}
+, class Tag {
+  confidence: 7.766882
+  tag: ocean
+}
+, class Tag {
+  confidence: 7.683524
+  tag: trees
+}
+, class Tag {
+  confidence: 7.411051
+  tag: capital
+}
+, class Tag {
+  confidence: 7.399096
+  tag: panorama
+}
+, class Tag {
+  confidence: 7.2667336
+  tag: famous
+}
+, class Tag {
+  confidence: 7.1669135
+  tag: old
+}
+, class Tag {
+  confidence: 7.0292144
+  tag: summer
+}
+]
+}
+]
+  unsuccessful: null
+}

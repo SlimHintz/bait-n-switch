@@ -1,0 +1,184 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHBiibjUYAA3FAr.png
+  tags: [class Tag {
+  confidence: 27.293873
+  tag: man
+}
+, class Tag {
+  confidence: 25.398994
+  tag: fishing
+}
+, class Tag {
+  confidence: 19.822906
+  tag: male
+}
+, class Tag {
+  confidence: 16.118551
+  tag: sea
+}
+, class Tag {
+  confidence: 16.023462
+  tag: outdoor
+}
+, class Tag {
+  confidence: 15.795969
+  tag: people
+}
+, class Tag {
+  confidence: 15.152905
+  tag: silhouette
+}
+, class Tag {
+  confidence: 14.710621
+  tag: person
+}
+, class Tag {
+  confidence: 14.643129
+  tag: adult
+}
+, class Tag {
+  confidence: 13.490456
+  tag: water
+}
+, class Tag {
+  confidence: 13.449803
+  tag: fisherman
+}
+, class Tag {
+  confidence: 12.874542
+  tag: ocean
+}
+, class Tag {
+  confidence: 12.847151
+  tag: outdoors
+}
+, class Tag {
+  confidence: 12.700442
+  tag: sky
+}
+, class Tag {
+  confidence: 11.412314
+  tag: summer
+}
+, class Tag {
+  confidence: 11.192947
+  tag: alone
+}
+, class Tag {
+  confidence: 11.160349
+  tag: reel
+}
+, class Tag {
+  confidence: 10.921332
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.266418
+  tag: caucasian
+}
+, class Tag {
+  confidence: 10.176893
+  tag: happy
+}
+, class Tag {
+  confidence: 9.890912
+  tag: vacation
+}
+, class Tag {
+  confidence: 9.881037
+  tag: one
+}
+, class Tag {
+  confidence: 9.701147
+  tag: sun
+}
+, class Tag {
+  confidence: 9.501358
+  tag: freedom
+}
+, class Tag {
+  confidence: 9.469564
+  tag: active
+}
+, class Tag {
+  confidence: 9.444311
+  tag: sport
+}
+, class Tag {
+  confidence: 9.251526
+  tag: business
+}
+, class Tag {
+  confidence: 8.781792
+  tag: beach
+}
+, class Tag {
+  confidence: 8.685657
+  tag: recreation
+}
+, class Tag {
+  confidence: 8.412609
+  tag: boy
+}
+, class Tag {
+  confidence: 8.402332
+  tag: fun
+}
+, class Tag {
+  confidence: 8.140552
+  tag: broom
+}
+, class Tag {
+  confidence: 8.077574
+  tag: winter
+}
+, class Tag {
+  confidence: 7.992565
+  tag: joy
+}
+, class Tag {
+  confidence: 7.7760854
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.598347
+  tag: landscape
+}
+, class Tag {
+  confidence: 7.5627975
+  tag: sitting
+}
+, class Tag {
+  confidence: 7.508553
+  tag: outside
+}
+, class Tag {
+  confidence: 7.4810824
+  tag: rock
+}
+, class Tag {
+  confidence: 7.4272165
+  tag: cloud
+}
+, class Tag {
+  confidence: 7.355002
+  tag: relax
+}
+, class Tag {
+  confidence: 7.3467455
+  tag: human
+}
+, class Tag {
+  confidence: 7.322323
+  tag: hand
+}
+, class Tag {
+  confidence: 7.2706394
+  tag: fly
+}
+]
+}
+]
+  unsuccessful: null
+}

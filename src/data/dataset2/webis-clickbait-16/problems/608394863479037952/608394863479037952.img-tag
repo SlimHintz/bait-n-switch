@@ -1,0 +1,116 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHFsvjZXAAAJTiO.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: truck
+}
+, class Tag {
+  confidence: 84.84
+  tag: garbage truck
+}
+, class Tag {
+  confidence: 71.55321
+  tag: motor vehicle
+}
+, class Tag {
+  confidence: 29.06
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 22.694033
+  tag: vehicle
+}
+, class Tag {
+  confidence: 20.534353
+  tag: transportation
+}
+, class Tag {
+  confidence: 17.922737
+  tag: road
+}
+, class Tag {
+  confidence: 16.58749
+  tag: car
+}
+, class Tag {
+  confidence: 15.364288
+  tag: transport
+}
+, class Tag {
+  confidence: 14.845986
+  tag: automobile
+}
+, class Tag {
+  confidence: 14.3178625
+  tag: tow truck
+}
+, class Tag {
+  confidence: 12.371651
+  tag: auto
+}
+, class Tag {
+  confidence: 10.147279
+  tag: driving
+}
+, class Tag {
+  confidence: 9.979255
+  tag: trailer truck
+}
+, class Tag {
+  confidence: 9.424599
+  tag: travel
+}
+, class Tag {
+  confidence: 9.351771
+  tag: drive
+}
+, class Tag {
+  confidence: 8.861223
+  tag: street
+}
+, class Tag {
+  confidence: 8.61661
+  tag: industry
+}
+, class Tag {
+  confidence: 8.534419
+  tag: speed
+}
+, class Tag {
+  confidence: 8.04176
+  tag: highway
+}
+, class Tag {
+  confidence: 7.8691053
+  tag: city
+}
+, class Tag {
+  confidence: 7.692609
+  tag: urban
+}
+, class Tag {
+  confidence: 7.6794267
+  tag: golfcart
+}
+, class Tag {
+  confidence: 7.471736
+  tag: industrial
+}
+, class Tag {
+  confidence: 7.395285
+  tag: traffic
+}
+, class Tag {
+  confidence: 7.1321964
+  tag: old
+}
+, class Tag {
+  confidence: 7.026115
+  tag: delivery
+}
+]
+}
+]
+  unsuccessful: null
+}

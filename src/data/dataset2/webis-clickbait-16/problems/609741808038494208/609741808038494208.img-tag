@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTGgvgUYAAEYRi.jpg
+  tags: [class Tag {
+  confidence: 26.724144
+  tag: business
+}
+, class Tag {
+  confidence: 17.394693
+  tag: medium
+}
+, class Tag {
+  confidence: 17.240496
+  tag: computer
+}
+, class Tag {
+  confidence: 16.694954
+  tag: technology
+}
+, class Tag {
+  confidence: 14.71016
+  tag: finance
+}
+, class Tag {
+  confidence: 13.921487
+  tag: laptop
+}
+, class Tag {
+  confidence: 13.664138
+  tag: internet
+}
+, class Tag {
+  confidence: 12.796139
+  tag: paper
+}
+, class Tag {
+  confidence: 12.428641
+  tag: money
+}
+, class Tag {
+  confidence: 11.787505
+  tag: success
+}
+, class Tag {
+  confidence: 11.275455
+  tag: communication
+}
+, class Tag {
+  confidence: 11.010717
+  tag: happy
+}
+, class Tag {
+  confidence: 10.586727
+  tag: currency
+}
+, class Tag {
+  confidence: 9.9196415
+  tag: cash
+}
+, class Tag {
+  confidence: 9.7268715
+  tag: smile
+}
+, class Tag {
+  confidence: 9.286335
+  tag: corporate
+}
+, class Tag {
+  confidence: 9.262654
+  tag: buy
+}
+, class Tag {
+  confidence: 9.204474
+  tag: economy
+}
+, class Tag {
+  confidence: 8.952739
+  tag: holding
+}
+, class Tag {
+  confidence: 8.913015
+  tag: sign
+}
+, class Tag {
+  confidence: 8.905667
+  tag: financial
+}
+, class Tag {
+  confidence: 8.868788
+  tag: people
+}
+, class Tag {
+  confidence: 8.804736
+  tag: modern
+}
+, class Tag {
+  confidence: 8.595337
+  tag: american
+}
+, class Tag {
+  confidence: 8.526857
+  tag: design
+}
+, class Tag {
+  confidence: 8.491014
+  tag: home
+}
+, class Tag {
+  confidence: 8.483024
+  tag: black
+}
+, class Tag {
+  confidence: 8.354052
+  tag: banking
+}
+, class Tag {
+  confidence: 8.177313
+  tag: hand
+}
+, class Tag {
+  confidence: 8.128578
+  tag: bank
+}
+, class Tag {
+  confidence: 8.108637
+  tag: wealth
+}
+, class Tag {
+  confidence: 8.076148
+  tag: man
+}
+, class Tag {
+  confidence: 8.019094
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.9981723
+  tag: close
+}
+, class Tag {
+  confidence: 7.95615
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.8606505
+  tag: male
+}
+, class Tag {
+  confidence: 7.7994566
+  tag: person
+}
+, class Tag {
+  confidence: 7.693221
+  tag: color
+}
+, class Tag {
+  confidence: 7.628266
+  tag: web
+}
+, class Tag {
+  confidence: 7.621254
+  tag: mobile
+}
+, class Tag {
+  confidence: 7.6031995
+  tag: drive
+}
+, class Tag {
+  confidence: 7.523768
+  tag: company
+}
+, class Tag {
+  confidence: 7.518637
+  tag: notebook
+}
+, class Tag {
+  confidence: 7.489508
+  tag: investment
+}
+, class Tag {
+  confidence: 7.4775567
+  tag: car
+}
+, class Tag {
+  confidence: 7.4599895
+  tag: sale
+}
+, class Tag {
+  confidence: 7.4460363
+  tag: safety
+}
+, class Tag {
+  confidence: 7.320286
+  tag: travel
+}
+, class Tag {
+  confidence: 7.1239767
+  tag: new
+}
+, class Tag {
+  confidence: 7.0832477
+  tag: 3d
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,312 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_cyAUUkAEqFMX.jpg
+  tags: [class Tag {
+  confidence: 36.857613
+  tag: helmet
+}
+, class Tag {
+  confidence: 23.1537
+  tag: 3d
+}
+, class Tag {
+  confidence: 22.97795
+  tag: headlight
+}
+, class Tag {
+  confidence: 21.73576
+  tag: metal
+}
+, class Tag {
+  confidence: 20.494873
+  tag: technology
+}
+, class Tag {
+  confidence: 18.608099
+  tag: icon
+}
+, class Tag {
+  confidence: 17.769018
+  tag: symbol
+}
+, class Tag {
+  confidence: 15.806078
+  tag: sign
+}
+, class Tag {
+  confidence: 15.332141
+  tag: internet
+}
+, class Tag {
+  confidence: 15.249817
+  tag: equipment
+}
+, class Tag {
+  confidence: 15.167838
+  tag: button
+}
+, class Tag {
+  confidence: 14.9366665
+  tag: business
+}
+, class Tag {
+  confidence: 14.782572
+  tag: hardware
+}
+, class Tag {
+  confidence: 14.01192
+  tag: round
+}
+, class Tag {
+  confidence: 13.809808
+  tag: industry
+}
+, class Tag {
+  confidence: 13.081669
+  tag: push
+}
+, class Tag {
+  confidence: 12.923975
+  tag: electronic
+}
+, class Tag {
+  confidence: 12.732158
+  tag: launch
+}
+, class Tag {
+  confidence: 12.590013
+  tag: screw
+}
+, class Tag {
+  confidence: 12.53746
+  tag: end
+}
+, class Tag {
+  confidence: 12.534762
+  tag: click
+}
+, class Tag {
+  confidence: 12.514324
+  tag: press
+}
+, class Tag {
+  confidence: 12.496335
+  tag: technical
+}
+, class Tag {
+  confidence: 12.418417
+  tag: design
+}
+, class Tag {
+  confidence: 12.329122
+  tag: connect
+}
+, class Tag {
+  confidence: 12.326319
+  tag: control
+}
+, class Tag {
+  confidence: 12.270409
+  tag: pc
+}
+, class Tag {
+  confidence: 12.070355
+  tag: key
+}
+, class Tag {
+  confidence: 11.79925
+  tag: switch
+}
+, class Tag {
+  confidence: 11.72932
+  tag: start
+}
+, class Tag {
+  confidence: 11.727637
+  tag: danger
+}
+, class Tag {
+  confidence: 11.690946
+  tag: peace
+}
+, class Tag {
+  confidence: 11.687794
+  tag: off
+}
+, class Tag {
+  confidence: 11.651264
+  tag: stop
+}
+, class Tag {
+  confidence: 11.581633
+  tag: energy
+}
+, class Tag {
+  confidence: 11.404852
+  tag: electricity
+}
+, class Tag {
+  confidence: 11.337762
+  tag: keyboard
+}
+, class Tag {
+  confidence: 11.107306
+  tag: nuke
+}
+, class Tag {
+  confidence: 11.075422
+  tag: vehicle
+}
+, class Tag {
+  confidence: 11.042302
+  tag: platform
+}
+, class Tag {
+  confidence: 11.003177
+  tag: nuclear
+}
+, class Tag {
+  confidence: 10.971591
+  tag: rectangle
+}
+, class Tag {
+  confidence: 10.962715
+  tag: hazard
+}
+, class Tag {
+  confidence: 10.928102
+  tag: active
+}
+, class Tag {
+  confidence: 10.927354
+  tag: alert
+}
+, class Tag {
+  confidence: 10.893017
+  tag: attention
+}
+, class Tag {
+  confidence: 10.844673
+  tag: run
+}
+, class Tag {
+  confidence: 10.801452
+  tag: war
+}
+, class Tag {
+  confidence: 10.795194
+  tag: emergency
+}
+, class Tag {
+  confidence: 10.775684
+  tag: risk
+}
+, class Tag {
+  confidence: 10.769456
+  tag: warning
+}
+, class Tag {
+  confidence: 10.367421
+  tag: art
+}
+, class Tag {
+  confidence: 9.89868
+  tag: world
+}
+, class Tag {
+  confidence: 9.839266
+  tag: crash helmet
+}
+, class Tag {
+  confidence: 9.602366
+  tag: light
+}
+, class Tag {
+  confidence: 9.453958
+  tag: car
+}
+, class Tag {
+  confidence: 9.314603
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.044359
+  tag: digital
+}
+, class Tag {
+  confidence: 8.931095
+  tag: steel
+}
+, class Tag {
+  confidence: 8.923338
+  tag: computer
+}
+, class Tag {
+  confidence: 8.739087
+  tag: motion
+}
+, class Tag {
+  confidence: 8.530282
+  tag: speed
+}
+, class Tag {
+  confidence: 8.464327
+  tag: sport
+}
+, class Tag {
+  confidence: 8.309725
+  tag: transportation
+}
+, class Tag {
+  confidence: 8.1929
+  tag: render
+}
+, class Tag {
+  confidence: 8.130227
+  tag: automobile
+}
+, class Tag {
+  confidence: 8.117295
+  tag: auto
+}
+, class Tag {
+  confidence: 7.94035
+  tag: globe
+}
+, class Tag {
+  confidence: 7.915676
+  tag: ellipse
+}
+, class Tag {
+  confidence: 7.795388
+  tag: earth
+}
+, class Tag {
+  confidence: 7.677315
+  tag: backdrop
+}
+, class Tag {
+  confidence: 7.502805
+  tag: object
+}
+, class Tag {
+  confidence: 7.477834
+  tag: reflection
+}
+, class Tag {
+  confidence: 7.321817
+  tag: three dimensional
+}
+, class Tag {
+  confidence: 7.271701
+  tag: planet
+}
+, class Tag {
+  confidence: 7.0071473
+  tag: plastic
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHDtBLZVIAA6LNe.jpg
+  tags: [class Tag {
+  confidence: 69.28139
+  tag: window
+}
+, class Tag {
+  confidence: 17.411657
+  tag: computer
+}
+, class Tag {
+  confidence: 17.157372
+  tag: design
+}
+, class Tag {
+  confidence: 15.75178
+  tag: business
+}
+, class Tag {
+  confidence: 14.7766905
+  tag: web site
+}
+, class Tag {
+  confidence: 14.184376
+  tag: display
+}
+, class Tag {
+  confidence: 14.179223
+  tag: blank
+}
+, class Tag {
+  confidence: 13.2501135
+  tag: internet
+}
+, class Tag {
+  confidence: 12.898051
+  tag: web
+}
+, class Tag {
+  confidence: 12.7366295
+  tag: modern
+}
+, class Tag {
+  confidence: 11.971734
+  tag: rule
+}
+, class Tag {
+  confidence: 11.464271
+  tag: paper
+}
+, class Tag {
+  confidence: 11.146546
+  tag: sign
+}
+, class Tag {
+  confidence: 10.963421
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.760066
+  tag: frame
+}
+, class Tag {
+  confidence: 9.616
+  tag: measuring stick
+}
+, class Tag {
+  confidence: 9.418618
+  tag: technology
+}
+, class Tag {
+  confidence: 9.312041
+  tag: digital
+}
+, class Tag {
+  confidence: 9.039793
+  tag: information
+}
+, class Tag {
+  confidence: 8.992194
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.992157
+  tag: set
+}
+, class Tag {
+  confidence: 8.906523
+  tag: screen
+}
+, class Tag {
+  confidence: 8.835056
+  tag: black
+}
+, class Tag {
+  confidence: 8.789532
+  tag: office
+}
+, class Tag {
+  confidence: 8.748214
+  tag: icon
+}
+, class Tag {
+  confidence: 8.57993
+  tag: communication
+}
+, class Tag {
+  confidence: 8.571083
+  tag: text
+}
+, class Tag {
+  confidence: 8.568036
+  tag: template
+}
+, class Tag {
+  confidence: 8.508671
+  tag: monitor
+}
+, class Tag {
+  confidence: 8.13672
+  tag: space
+}
+, class Tag {
+  confidence: 7.961319
+  tag: art
+}
+, class Tag {
+  confidence: 7.7445045
+  tag: page
+}
+, class Tag {
+  confidence: 7.742646
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.549593
+  tag: element
+}
+, class Tag {
+  confidence: 7.348085
+  tag: website
+}
+, class Tag {
+  confidence: 7.210923
+  tag: measuring instrument
+}
+, class Tag {
+  confidence: 7.1001935
+  tag: empty
+}
+, class Tag {
+  confidence: 7.0268965
+  tag: www
+}
+]
+}
+]
+  unsuccessful: null
+}

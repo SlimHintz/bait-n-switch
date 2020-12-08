@@ -1,0 +1,228 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHerZ9lXAAASLOu.jpg
+  tags: [class Tag {
+  confidence: 36.697784
+  tag: medium
+}
+, class Tag {
+  confidence: 26.620958
+  tag: business
+}
+, class Tag {
+  confidence: 18.647436
+  tag: happy
+}
+, class Tag {
+  confidence: 17.249746
+  tag: smile
+}
+, class Tag {
+  confidence: 16.274754
+  tag: people
+}
+, class Tag {
+  confidence: 15.233185
+  tag: smiling
+}
+, class Tag {
+  confidence: 14.73538
+  tag: caucasian
+}
+, class Tag {
+  confidence: 14.305484
+  tag: adult
+}
+, class Tag {
+  confidence: 14.199604
+  tag: attractive
+}
+, class Tag {
+  confidence: 13.570426
+  tag: money
+}
+, class Tag {
+  confidence: 13.542205
+  tag: finance
+}
+, class Tag {
+  confidence: 13.403011
+  tag: casual
+}
+, class Tag {
+  confidence: 13.294633
+  tag: person
+}
+, class Tag {
+  confidence: 13.201635
+  tag: computer
+}
+, class Tag {
+  confidence: 12.933075
+  tag: cash
+}
+, class Tag {
+  confidence: 12.615875
+  tag: male
+}
+, class Tag {
+  confidence: 11.992933
+  tag: currency
+}
+, class Tag {
+  confidence: 11.770087
+  tag: paper
+}
+, class Tag {
+  confidence: 11.731338
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.045544
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.816647
+  tag: man
+}
+, class Tag {
+  confidence: 10.768913
+  tag: newspaper
+}
+, class Tag {
+  confidence: 10.763886
+  tag: banking
+}
+, class Tag {
+  confidence: 10.724762
+  tag: executive
+}
+, class Tag {
+  confidence: 10.621494
+  tag: office
+}
+, class Tag {
+  confidence: 10.560444
+  tag: laptop
+}
+, class Tag {
+  confidence: 10.356962
+  tag: work
+}
+, class Tag {
+  confidence: 10.04646
+  tag: group
+}
+, class Tag {
+  confidence: 9.962665
+  tag: corporate
+}
+, class Tag {
+  confidence: 9.819929
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 9.475455
+  tag: working
+}
+, class Tag {
+  confidence: 9.312973
+  tag: american
+}
+, class Tag {
+  confidence: 8.998426
+  tag: bank
+}
+, class Tag {
+  confidence: 8.972647
+  tag: financial
+}
+, class Tag {
+  confidence: 8.823144
+  tag: job
+}
+, class Tag {
+  confidence: 8.813273
+  tag: success
+}
+, class Tag {
+  confidence: 8.661223
+  tag: looking
+}
+, class Tag {
+  confidence: 8.613481
+  tag: technology
+}
+, class Tag {
+  confidence: 8.321731
+  tag: cute
+}
+, class Tag {
+  confidence: 8.131225
+  tag: hand
+}
+, class Tag {
+  confidence: 8.034928
+  tag: banknote
+}
+, class Tag {
+  confidence: 8.015061
+  tag: text
+}
+, class Tag {
+  confidence: 7.888418
+  tag: women
+}
+, class Tag {
+  confidence: 7.865316
+  tag: model
+}
+, class Tag {
+  confidence: 7.8413258
+  tag: press
+}
+, class Tag {
+  confidence: 7.7765684
+  tag: home
+}
+, class Tag {
+  confidence: 7.70522
+  tag: shirt
+}
+, class Tag {
+  confidence: 7.682809
+  tag: internet
+}
+, class Tag {
+  confidence: 7.6803937
+  tag: dollar
+}
+, class Tag {
+  confidence: 7.598124
+  tag: studio
+}
+, class Tag {
+  confidence: 7.5948224
+  tag: 20s
+}
+, class Tag {
+  confidence: 7.469915
+  tag: team
+}
+, class Tag {
+  confidence: 7.126649
+  tag: face
+}
+, class Tag {
+  confidence: 7.082038
+  tag: bill
+}
+, class Tag {
+  confidence: 7.0730658
+  tag: professional
+}
+]
+}
+]
+  unsuccessful: null
+}

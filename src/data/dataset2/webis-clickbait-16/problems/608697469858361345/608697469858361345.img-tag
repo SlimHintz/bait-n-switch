@@ -1,0 +1,140 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKHELPWgAEh4H-.jpg
+  tags: [class Tag {
+  confidence: 13.217111
+  tag: outdoors
+}
+, class Tag {
+  confidence: 12.867187
+  tag: summer
+}
+, class Tag {
+  confidence: 12.220775
+  tag: travel
+}
+, class Tag {
+  confidence: 12.058714
+  tag: people
+}
+, class Tag {
+  confidence: 11.88261
+  tag: man
+}
+, class Tag {
+  confidence: 11.211234
+  tag: person
+}
+, class Tag {
+  confidence: 11.051602
+  tag: happy
+}
+, class Tag {
+  confidence: 10.551688
+  tag: male
+}
+, class Tag {
+  confidence: 10.377167
+  tag: sky
+}
+, class Tag {
+  confidence: 9.952468
+  tag: sun
+}
+, class Tag {
+  confidence: 9.647347
+  tag: adult
+}
+, class Tag {
+  confidence: 9.113373
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.077448
+  tag: day
+}
+, class Tag {
+  confidence: 9.056182
+  tag: grass
+}
+, class Tag {
+  confidence: 8.937639
+  tag: business
+}
+, class Tag {
+  confidence: 8.90922
+  tag: outdoor
+}
+, class Tag {
+  confidence: 8.658197
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.646671
+  tag: water
+}
+, class Tag {
+  confidence: 8.524017
+  tag: black
+}
+, class Tag {
+  confidence: 8.354386
+  tag: sidewalk
+}
+, class Tag {
+  confidence: 8.319035
+  tag: car
+}
+, class Tag {
+  confidence: 8.100313
+  tag: city
+}
+, class Tag {
+  confidence: 7.9832783
+  tag: transportation
+}
+, class Tag {
+  confidence: 7.8212404
+  tag: landscape
+}
+, class Tag {
+  confidence: 7.808507
+  tag: smile
+}
+, class Tag {
+  confidence: 7.726318
+  tag: outside
+}
+, class Tag {
+  confidence: 7.4477725
+  tag: caucasian
+}
+, class Tag {
+  confidence: 7.4265566
+  tag: street
+}
+, class Tag {
+  confidence: 7.35427
+  tag: copy space
+}
+, class Tag {
+  confidence: 7.34
+  tag: parking meter
+}
+, class Tag {
+  confidence: 7.2570643
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.230553
+  tag: color
+}
+, class Tag {
+  confidence: 7.1956105
+  tag: tourism
+}
+]
+}
+]
+  unsuccessful: null
+}

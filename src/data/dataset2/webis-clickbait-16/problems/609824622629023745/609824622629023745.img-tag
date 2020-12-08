@@ -1,0 +1,232 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHaHROEUAAA9kb5.jpg
+  tags: [class Tag {
+  confidence: 25.387638
+  tag: person
+}
+, class Tag {
+  confidence: 24.870245
+  tag: ball
+}
+, class Tag {
+  confidence: 22.480604
+  tag: people
+}
+, class Tag {
+  confidence: 22.452568
+  tag: male
+}
+, class Tag {
+  confidence: 21.302835
+  tag: man
+}
+, class Tag {
+  confidence: 20.66496
+  tag: player
+}
+, class Tag {
+  confidence: 16.947063
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.665228
+  tag: sport
+}
+, class Tag {
+  confidence: 16.474113
+  tag: adult
+}
+, class Tag {
+  confidence: 12.896
+  tag: game equipment
+}
+, class Tag {
+  confidence: 12.492932
+  tag: skate
+}
+, class Tag {
+  confidence: 12.276489
+  tag: boy
+}
+, class Tag {
+  confidence: 12.08005
+  tag: human
+}
+, class Tag {
+  confidence: 11.915283
+  tag: happy
+}
+, class Tag {
+  confidence: 11.695813
+  tag: athlete
+}
+, class Tag {
+  confidence: 11.658738
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.629302
+  tag: silhouette
+}
+, class Tag {
+  confidence: 10.762043
+  tag: smile
+}
+, class Tag {
+  confidence: 10.474511
+  tag: competition
+}
+, class Tag {
+  confidence: 10.372791
+  tag: black
+}
+, class Tag {
+  confidence: 10.212312
+  tag: child
+}
+, class Tag {
+  confidence: 10.009777
+  tag: foot
+}
+, class Tag {
+  confidence: 9.8536
+  tag: men
+}
+, class Tag {
+  confidence: 9.737037
+  tag: fun
+}
+, class Tag {
+  confidence: 9.548063
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.449075
+  tag: studio
+}
+, class Tag {
+  confidence: 9.432337
+  tag: fashion
+}
+, class Tag {
+  confidence: 9.387164
+  tag: kick
+}
+, class Tag {
+  confidence: 9.313568
+  tag: equipment
+}
+, class Tag {
+  confidence: 9.299148
+  tag: standing
+}
+, class Tag {
+  confidence: 9.268042
+  tag: business
+}
+, class Tag {
+  confidence: 9.065961
+  tag: professional
+}
+, class Tag {
+  confidence: 8.840967
+  tag: exercise
+}
+, class Tag {
+  confidence: 8.521175
+  tag: body
+}
+, class Tag {
+  confidence: 8.41248
+  tag: muscular
+}
+, class Tag {
+  confidence: 8.410385
+  tag: women
+}
+, class Tag {
+  confidence: 8.384263
+  tag: model
+}
+, class Tag {
+  confidence: 8.286619
+  tag: cute
+}
+, class Tag {
+  confidence: 8.272726
+  tag: work
+}
+, class Tag {
+  confidence: 8.208934
+  tag: training
+}
+, class Tag {
+  confidence: 8.178992
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.161015
+  tag: guy
+}
+, class Tag {
+  confidence: 7.9942713
+  tag: fitness
+}
+, class Tag {
+  confidence: 7.8507805
+  tag: posing
+}
+, class Tag {
+  confidence: 7.7435656
+  tag: gymnastics
+}
+, class Tag {
+  confidence: 7.6419344
+  tag: shoot
+}
+, class Tag {
+  confidence: 7.599323
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.594791
+  tag: soccer
+}
+, class Tag {
+  confidence: 7.555674
+  tag: casual
+}
+, class Tag {
+  confidence: 7.4075503
+  tag: legs
+}
+, class Tag {
+  confidence: 7.3030496
+  tag: action
+}
+, class Tag {
+  confidence: 7.2505894
+  tag: health
+}
+, class Tag {
+  confidence: 7.171288
+  tag: pose
+}
+, class Tag {
+  confidence: 7.1417003
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.090356
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.03963
+  tag: kid
+}
+]
+}
+]
+  unsuccessful: null
+}

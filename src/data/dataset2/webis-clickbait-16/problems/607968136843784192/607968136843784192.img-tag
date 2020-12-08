@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_t3xpU8AEIeIK.jpg
+  tags: [class Tag {
+  confidence: 26.563763
+  tag: man
+}
+, class Tag {
+  confidence: 22.63571
+  tag: adult
+}
+, class Tag {
+  confidence: 21.336765
+  tag: male
+}
+, class Tag {
+  confidence: 18.916082
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.583536
+  tag: people
+}
+, class Tag {
+  confidence: 17.078615
+  tag: person
+}
+, class Tag {
+  confidence: 16.44617
+  tag: attractive
+}
+, class Tag {
+  confidence: 15.936207
+  tag: portrait
+}
+, class Tag {
+  confidence: 13.973741
+  tag: combatant
+}
+, class Tag {
+  confidence: 12.743475
+  tag: sexy
+}
+, class Tag {
+  confidence: 11.774731
+  tag: happy
+}
+, class Tag {
+  confidence: 11.700147
+  tag: hat
+}
+, class Tag {
+  confidence: 11.579711
+  tag: clothing
+}
+, class Tag {
+  confidence: 11.379879
+  tag: black
+}
+, class Tag {
+  confidence: 11.23992
+  tag: studio
+}
+, class Tag {
+  confidence: 11.230687
+  tag: face
+}
+, class Tag {
+  confidence: 11.070491
+  tag: pretty
+}
+, class Tag {
+  confidence: 10.757644
+  tag: handsome
+}
+, class Tag {
+  confidence: 10.5428705
+  tag: smile
+}
+, class Tag {
+  confidence: 10.180386
+  tag: hair
+}
+, class Tag {
+  confidence: 9.906587
+  tag: cute
+}
+, class Tag {
+  confidence: 9.854263
+  tag: holding
+}
+, class Tag {
+  confidence: 9.431798
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.7450075
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.73388
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.67714
+  tag: men
+}
+, class Tag {
+  confidence: 8.13674
+  tag: body
+}
+, class Tag {
+  confidence: 8.095392
+  tag: fun
+}
+, class Tag {
+  confidence: 7.9611344
+  tag: boy
+}
+, class Tag {
+  confidence: 7.9058228
+  tag: helmet
+}
+, class Tag {
+  confidence: 7.8313856
+  tag: professional
+}
+, class Tag {
+  confidence: 7.8237333
+  tag: casual
+}
+, class Tag {
+  confidence: 7.7188387
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.7
+  tag: knee pad
+}
+, class Tag {
+  confidence: 7.598126
+  tag: fit
+}
+, class Tag {
+  confidence: 7.2936215
+  tag: women
+}
+, class Tag {
+  confidence: 7.282414
+  tag: model
+}
+, class Tag {
+  confidence: 7.254694
+  tag: brunette
+}
+, class Tag {
+  confidence: 7.15289
+  tag: work
+}
+, class Tag {
+  confidence: 7.1044445
+  tag: happiness
+}
+]
+}
+]
+  unsuccessful: null
+}

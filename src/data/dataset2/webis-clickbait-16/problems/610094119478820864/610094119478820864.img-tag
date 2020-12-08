@@ -1,0 +1,292 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHd9XleUEAI2R0R.jpg
+  tags: [class Tag {
+  confidence: 43.726982
+  tag: senior
+}
+, class Tag {
+  confidence: 42.691887
+  tag: man
+}
+, class Tag {
+  confidence: 38.62991
+  tag: male
+}
+, class Tag {
+  confidence: 35.02168
+  tag: adult
+}
+, class Tag {
+  confidence: 33.530136
+  tag: elderly
+}
+, class Tag {
+  confidence: 32.739197
+  tag: people
+}
+, class Tag {
+  confidence: 32.368713
+  tag: happy
+}
+, class Tag {
+  confidence: 32.061245
+  tag: mature
+}
+, class Tag {
+  confidence: 29.531853
+  tag: couple
+}
+, class Tag {
+  confidence: 28.994574
+  tag: old
+}
+, class Tag {
+  confidence: 28.285387
+  tag: portrait
+}
+, class Tag {
+  confidence: 26.08798
+  tag: smile
+}
+, class Tag {
+  confidence: 25.99009
+  tag: grandma
+}
+, class Tag {
+  confidence: 25.712006
+  tag: person
+}
+, class Tag {
+  confidence: 24.86687
+  tag: caucasian
+}
+, class Tag {
+  confidence: 23.632454
+  tag: love
+}
+, class Tag {
+  confidence: 23.523882
+  tag: retirement
+}
+, class Tag {
+  confidence: 23.04516
+  tag: retired
+}
+, class Tag {
+  confidence: 22.832134
+  tag: husband
+}
+, class Tag {
+  confidence: 21.024933
+  tag: wife
+}
+, class Tag {
+  confidence: 20.643272
+  tag: happiness
+}
+, class Tag {
+  confidence: 20.126387
+  tag: smiling
+}
+, class Tag {
+  confidence: 20.111826
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 19.407145
+  tag: together
+}
+, class Tag {
+  confidence: 19.075266
+  tag: men
+}
+, class Tag {
+  confidence: 17.809645
+  tag: face
+}
+, class Tag {
+  confidence: 17.501995
+  tag: father
+}
+, class Tag {
+  confidence: 16.715214
+  tag: grandfather
+}
+, class Tag {
+  confidence: 16.357937
+  tag: two
+}
+, class Tag {
+  confidence: 15.916142
+  tag: home
+}
+, class Tag {
+  confidence: 15.787248
+  tag: sitting
+}
+, class Tag {
+  confidence: 15.781768
+  tag: family
+}
+, class Tag {
+  confidence: 14.783444
+  tag: ancestor
+}
+, class Tag {
+  confidence: 14.603286
+  tag: hair
+}
+, class Tag {
+  confidence: 14.318298
+  tag: expression
+}
+, class Tag {
+  confidence: 14.172873
+  tag: romance
+}
+, class Tag {
+  confidence: 13.844823
+  tag: grandmother
+}
+, class Tag {
+  confidence: 13.72345
+  tag: older
+}
+, class Tag {
+  confidence: 12.991164
+  tag: cheerful
+}
+, class Tag {
+  confidence: 12.823226
+  tag: affectionate
+}
+, class Tag {
+  confidence: 12.778042
+  tag: aged
+}
+, class Tag {
+  confidence: 12.707295
+  tag: romantic
+}
+, class Tag {
+  confidence: 12.172521
+  tag: casual
+}
+, class Tag {
+  confidence: 12.005843
+  tag: affection
+}
+, class Tag {
+  confidence: 11.986693
+  tag: women
+}
+, class Tag {
+  confidence: 11.976356
+  tag: handsome
+}
+, class Tag {
+  confidence: 11.332019
+  tag: looking
+}
+, class Tag {
+  confidence: 10.953096
+  tag: loving
+}
+, class Tag {
+  confidence: 10.6054
+  tag: glasses
+}
+, class Tag {
+  confidence: 10.314269
+  tag: gray
+}
+, class Tag {
+  confidence: 10.2972
+  tag: beard
+}
+, class Tag {
+  confidence: 10.283903
+  tag: grey
+}
+, class Tag {
+  confidence: 10.186746
+  tag: holding
+}
+, class Tag {
+  confidence: 9.5433
+  tag: lady
+}
+, class Tag {
+  confidence: 9.461865
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.442692
+  tag: pensioner
+}
+, class Tag {
+  confidence: 9.368845
+  tag: human
+}
+, class Tag {
+  confidence: 9.100116
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.838718
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.49324
+  tag: married
+}
+, class Tag {
+  confidence: 8.337507
+  tag: close
+}
+, class Tag {
+  confidence: 8.144215
+  tag: friendship
+}
+, class Tag {
+  confidence: 7.84677
+  tag: businessman
+}
+, class Tag {
+  confidence: 7.840803
+  tag: citizen
+}
+, class Tag {
+  confidence: 7.7266097
+  tag: closeup
+}
+, class Tag {
+  confidence: 7.714623
+  tag: indoors
+}
+, class Tag {
+  confidence: 7.6325765
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.4587965
+  tag: relationship
+}
+, class Tag {
+  confidence: 7.3176656
+  tag: head
+}
+, class Tag {
+  confidence: 7.157867
+  tag: alone
+}
+, class Tag {
+  confidence: 7.1371713
+  tag: park
+}
+]
+}
+]
+  unsuccessful: null
+}

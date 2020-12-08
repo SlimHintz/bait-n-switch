@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHP8YboXIAArIJm.jpg
+  tags: [class Tag {
+  confidence: 31.903172
+  tag: polish
+}
+, class Tag {
+  confidence: 29.628664
+  tag: makeup
+}
+, class Tag {
+  confidence: 23.479689
+  tag: cosmetic
+}
+, class Tag {
+  confidence: 22.718304
+  tag: writing implement
+}
+, class Tag {
+  confidence: 21.773693
+  tag: crayon
+}
+, class Tag {
+  confidence: 20.785473
+  tag: lipstick
+}
+, class Tag {
+  confidence: 15.211367
+  tag: color
+}
+, class Tag {
+  confidence: 12.81702
+  tag: face
+}
+, class Tag {
+  confidence: 12.160986
+  tag: close
+}
+, class Tag {
+  confidence: 10.836853
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.741826
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.628015
+  tag: health
+}
+, class Tag {
+  confidence: 10.382283
+  tag: shell
+}
+, class Tag {
+  confidence: 10.367458
+  tag: make
+}
+, class Tag {
+  confidence: 10.15482
+  tag: care
+}
+, class Tag {
+  confidence: 9.864201
+  tag: attractive
+}
+, class Tag {
+  confidence: 9.773189
+  tag: eyes
+}
+, class Tag {
+  confidence: 9.560466
+  tag: healthy
+}
+, class Tag {
+  confidence: 9.189255
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.1014595
+  tag: black
+}
+, class Tag {
+  confidence: 9.059195
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.9429655
+  tag: object
+}
+, class Tag {
+  confidence: 8.701222
+  tag: lady
+}
+, class Tag {
+  confidence: 8.514222
+  tag: person
+}
+, class Tag {
+  confidence: 8.49226
+  tag: pen
+}
+, class Tag {
+  confidence: 8.455398
+  tag: people
+}
+, class Tag {
+  confidence: 8.367383
+  tag: cosmetics
+}
+, class Tag {
+  confidence: 8.347805
+  tag: model
+}
+, class Tag {
+  confidence: 8.248023
+  tag: bottle
+}
+, class Tag {
+  confidence: 8.186599
+  tag: skin
+}
+, class Tag {
+  confidence: 8.113249
+  tag: closeup
+}
+, class Tag {
+  confidence: 8.065768
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.932465
+  tag: sexy
+}
+, class Tag {
+  confidence: 7.8562746
+  tag: happy
+}
+, class Tag {
+  confidence: 7.7862396
+  tag: caucasian
+}
+, class Tag {
+  confidence: 7.434449
+  tag: toiletry
+}
+, class Tag {
+  confidence: 7.341769
+  tag: purple
+}
+, class Tag {
+  confidence: 7.2215843
+  tag: yellow
+}
+, class Tag {
+  confidence: 7.045578
+  tag: hair
+}
+, class Tag {
+  confidence: 7.024462
+  tag: food
+}
+]
+}
+]
+  unsuccessful: null
+}

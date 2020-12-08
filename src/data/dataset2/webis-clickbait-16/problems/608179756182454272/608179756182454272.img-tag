@@ -1,0 +1,164 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHCvlY3UcAA4E0y.jpg
+  tags: [class Tag {
+  confidence: 24.628706
+  tag: man
+}
+, class Tag {
+  confidence: 22.792686
+  tag: people
+}
+, class Tag {
+  confidence: 22.084486
+  tag: person
+}
+, class Tag {
+  confidence: 20.65369
+  tag: male
+}
+, class Tag {
+  confidence: 18.889254
+  tag: adult
+}
+, class Tag {
+  confidence: 16.944355
+  tag: caucasian
+}
+, class Tag {
+  confidence: 14.115151
+  tag: happy
+}
+, class Tag {
+  confidence: 14.0642395
+  tag: casual
+}
+, class Tag {
+  confidence: 14.03072
+  tag: outdoors
+}
+, class Tag {
+  confidence: 12.830571
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.400304
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.755
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.360026
+  tag: boy
+}
+, class Tag {
+  confidence: 10.180259
+  tag: business
+}
+, class Tag {
+  confidence: 9.840356
+  tag: businessman
+}
+, class Tag {
+  confidence: 9.807161
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.268791
+  tag: trainer
+}
+, class Tag {
+  confidence: 9.080743
+  tag: holding
+}
+, class Tag {
+  confidence: 8.858621
+  tag: standing
+}
+, class Tag {
+  confidence: 8.659121
+  tag: men
+}
+, class Tag {
+  confidence: 8.5964575
+  tag: outside
+}
+, class Tag {
+  confidence: 8.584545
+  tag: youth
+}
+, class Tag {
+  confidence: 8.550072
+  tag: smile
+}
+, class Tag {
+  confidence: 8.53191
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.504546
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.322953
+  tag: student
+}
+, class Tag {
+  confidence: 8.263196
+  tag: sport
+}
+, class Tag {
+  confidence: 8.254102
+  tag: one
+}
+, class Tag {
+  confidence: 8.106193
+  tag: looking
+}
+, class Tag {
+  confidence: 7.849622
+  tag: sitting
+}
+, class Tag {
+  confidence: 7.4378805
+  tag: copy space
+}
+, class Tag {
+  confidence: 7.412108
+  tag: fun
+}
+, class Tag {
+  confidence: 7.3218246
+  tag: posing
+}
+, class Tag {
+  confidence: 7.266463
+  tag: women
+}
+, class Tag {
+  confidence: 7.174545
+  tag: sky
+}
+, class Tag {
+  confidence: 7.147449
+  tag: work
+}
+, class Tag {
+  confidence: 7.135951
+  tag: weapon
+}
+, class Tag {
+  confidence: 7.05654
+  tag: day
+}
+, class Tag {
+  confidence: 7.00973
+  tag: black
+}
+]
+}
+]
+  unsuccessful: null
+}

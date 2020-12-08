@@ -1,0 +1,176 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQUrRdWgAA90Lv.png
+  tags: [class Tag {
+  confidence: 35.332188
+  tag: building
+}
+, class Tag {
+  confidence: 26.628384
+  tag: architecture
+}
+, class Tag {
+  confidence: 20.448872
+  tag: cinema
+}
+, class Tag {
+  confidence: 19.565731
+  tag: urban
+}
+, class Tag {
+  confidence: 18.556568
+  tag: city
+}
+, class Tag {
+  confidence: 16.809763
+  tag: business
+}
+, class Tag {
+  confidence: 16.662868
+  tag: theater
+}
+, class Tag {
+  confidence: 15.63311
+  tag: structure
+}
+, class Tag {
+  confidence: 14.923963
+  tag: house
+}
+, class Tag {
+  confidence: 14.746096
+  tag: modern
+}
+, class Tag {
+  confidence: 12.650452
+  tag: window
+}
+, class Tag {
+  confidence: 12.1766405
+  tag: sky
+}
+, class Tag {
+  confidence: 11.645394
+  tag: gate
+}
+, class Tag {
+  confidence: 11.508959
+  tag: light
+}
+, class Tag {
+  confidence: 11.014403
+  tag: construction
+}
+, class Tag {
+  confidence: 10.810907
+  tag: old
+}
+, class Tag {
+  confidence: 10.727655
+  tag: design
+}
+, class Tag {
+  confidence: 10.402607
+  tag: wall
+}
+, class Tag {
+  confidence: 10.306955
+  tag: home
+}
+, class Tag {
+  confidence: 10.056443
+  tag: travel
+}
+, class Tag {
+  confidence: 9.650462
+  tag: lights
+}
+, class Tag {
+  confidence: 9.383162
+  tag: glass
+}
+, class Tag {
+  confidence: 9.260517
+  tag: tower
+}
+, class Tag {
+  confidence: 9.0777445
+  tag: door
+}
+, class Tag {
+  confidence: 9.065055
+  tag: skyline
+}
+, class Tag {
+  confidence: 8.958939
+  tag: cell
+}
+, class Tag {
+  confidence: 8.948839
+  tag: detail
+}
+, class Tag {
+  confidence: 8.910686
+  tag: high
+}
+, class Tag {
+  confidence: 8.834324
+  tag: town
+}
+, class Tag {
+  confidence: 8.803353
+  tag: exterior
+}
+, class Tag {
+  confidence: 8.738445
+  tag: dark
+}
+, class Tag {
+  confidence: 8.381352
+  tag: tourism
+}
+, class Tag {
+  confidence: 8.320486
+  tag: skyscraper
+}
+, class Tag {
+  confidence: 8.280546
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.200031
+  tag: cityscape
+}
+, class Tag {
+  confidence: 7.974372
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.8341136
+  tag: sunset
+}
+, class Tag {
+  confidence: 7.804408
+  tag: landmark
+}
+, class Tag {
+  confidence: 7.76903
+  tag: office
+}
+, class Tag {
+  confidence: 7.583786
+  tag: 3d
+}
+, class Tag {
+  confidence: 7.519195
+  tag: windows
+}
+, class Tag {
+  confidence: 7.313324
+  tag: evening
+}
+]
+}
+]
+  unsuccessful: null
+}

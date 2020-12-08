@@ -1,0 +1,228 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHEwadEXIAExZao.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: car
+}
+, class Tag {
+  confidence: 58.69986
+  tag: motor vehicle
+}
+, class Tag {
+  confidence: 38.793396
+  tag: vehicle
+}
+, class Tag {
+  confidence: 33.587452
+  tag: minivan
+}
+, class Tag {
+  confidence: 32.444897
+  tag: tire
+}
+, class Tag {
+  confidence: 29.8457
+  tag: automobile
+}
+, class Tag {
+  confidence: 28.588
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 28.187613
+  tag: transportation
+}
+, class Tag {
+  confidence: 28.1
+  tag: beach wagon
+}
+, class Tag {
+  confidence: 27.66181
+  tag: auto
+}
+, class Tag {
+  confidence: 26.304
+  tag: passenger van
+}
+, class Tag {
+  confidence: 22.85054
+  tag: drive
+}
+, class Tag {
+  confidence: 22.423048
+  tag: transport
+}
+, class Tag {
+  confidence: 22.187445
+  tag: speed
+}
+, class Tag {
+  confidence: 20.356346
+  tag: van
+}
+, class Tag {
+  confidence: 19.49542
+  tag: wheel
+}
+, class Tag {
+  confidence: 19.139315
+  tag: luxury
+}
+, class Tag {
+  confidence: 18.55927
+  tag: truck
+}
+, class Tag {
+  confidence: 16.400742
+  tag: road
+}
+, class Tag {
+  confidence: 15.959488
+  tag: hoop
+}
+, class Tag {
+  confidence: 15.886841
+  tag: motor
+}
+, class Tag {
+  confidence: 13.967948
+  tag: fast
+}
+, class Tag {
+  confidence: 12.850226
+  tag: metal
+}
+, class Tag {
+  confidence: 12.546306
+  tag: wheels
+}
+, class Tag {
+  confidence: 12.190521
+  tag: sports car
+}
+, class Tag {
+  confidence: 12.12313
+  tag: driving
+}
+, class Tag {
+  confidence: 11.768048
+  tag: band
+}
+, class Tag {
+  confidence: 11.529548
+  tag: travel
+}
+, class Tag {
+  confidence: 11.412418
+  tag: traffic
+}
+, class Tag {
+  confidence: 11.203222
+  tag: power
+}
+, class Tag {
+  confidence: 10.766922
+  tag: engine
+}
+, class Tag {
+  confidence: 10.493294
+  tag: sport
+}
+, class Tag {
+  confidence: 10.197405
+  tag: cars
+}
+, class Tag {
+  confidence: 9.803752
+  tag: limousine
+}
+, class Tag {
+  confidence: 9.729761
+  tag: bumper
+}
+, class Tag {
+  confidence: 9.599796
+  tag: street
+}
+, class Tag {
+  confidence: 9.583068
+  tag: new
+}
+, class Tag {
+  confidence: 9.449302
+  tag: design
+}
+, class Tag {
+  confidence: 9.2044935
+  tag: light
+}
+, class Tag {
+  confidence: 8.888339
+  tag: automotive
+}
+, class Tag {
+  confidence: 8.793284
+  tag: model
+}
+, class Tag {
+  confidence: 8.580263
+  tag: expensive
+}
+, class Tag {
+  confidence: 8.517241
+  tag: performance
+}
+, class Tag {
+  confidence: 8.485969
+  tag: highway
+}
+, class Tag {
+  confidence: 8.4539175
+  tag: black
+}
+, class Tag {
+  confidence: 8.43801
+  tag: shiny
+}
+, class Tag {
+  confidence: 8.16093
+  tag: style
+}
+, class Tag {
+  confidence: 7.873272
+  tag: convertible
+}
+, class Tag {
+  confidence: 7.8453655
+  tag: strip
+}
+, class Tag {
+  confidence: 7.814797
+  tag: race
+}
+, class Tag {
+  confidence: 7.6620045
+  tag: gray
+}
+, class Tag {
+  confidence: 7.6462903
+  tag: suv
+}
+, class Tag {
+  confidence: 7.3149457
+  tag: modern
+}
+, class Tag {
+  confidence: 7.1984396
+  tag: old
+}
+, class Tag {
+  confidence: 7.1538424
+  tag: technology
+}
+]
+}
+]
+  unsuccessful: null
+}

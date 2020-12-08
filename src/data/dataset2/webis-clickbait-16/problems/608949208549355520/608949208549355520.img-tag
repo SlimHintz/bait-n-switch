@@ -1,0 +1,224 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNsFAwWsAAJPni.jpg
+  tags: [class Tag {
+  confidence: 79.628914
+  tag: road
+}
+, class Tag {
+  confidence: 66.91612
+  tag: highway
+}
+, class Tag {
+  confidence: 53.552002
+  tag: expressway
+}
+, class Tag {
+  confidence: 45.003025
+  tag: way
+}
+, class Tag {
+  confidence: 30.241018
+  tag: traffic
+}
+, class Tag {
+  confidence: 30.009289
+  tag: intersection
+}
+, class Tag {
+  confidence: 24.699099
+  tag: transportation
+}
+, class Tag {
+  confidence: 21.460379
+  tag: speed
+}
+, class Tag {
+  confidence: 21.43466
+  tag: transport
+}
+, class Tag {
+  confidence: 20.982975
+  tag: travel
+}
+, class Tag {
+  confidence: 18.000946
+  tag: landscape
+}
+, class Tag {
+  confidence: 17.913715
+  tag: car
+}
+, class Tag {
+  confidence: 17.908627
+  tag: street
+}
+, class Tag {
+  confidence: 16.678286
+  tag: driving
+}
+, class Tag {
+  confidence: 15.849199
+  tag: sky
+}
+, class Tag {
+  confidence: 15.446295
+  tag: drive
+}
+, class Tag {
+  confidence: 15.431982
+  tag: asphalt
+}
+, class Tag {
+  confidence: 15.049656
+  tag: bend
+}
+, class Tag {
+  confidence: 15.0065
+  tag: city
+}
+, class Tag {
+  confidence: 12.50279
+  tag: night
+}
+, class Tag {
+  confidence: 12.183256
+  tag: motion
+}
+, class Tag {
+  confidence: 11.4800205
+  tag: mountains
+}
+, class Tag {
+  confidence: 11.378137
+  tag: vehicle
+}
+, class Tag {
+  confidence: 11.084177
+  tag: fast
+}
+, class Tag {
+  confidence: 11.026858
+  tag: urban
+}
+, class Tag {
+  confidence: 10.743219
+  tag: route
+}
+, class Tag {
+  confidence: 10.561248
+  tag: cars
+}
+, class Tag {
+  confidence: 10.546371
+  tag: movement
+}
+, class Tag {
+  confidence: 9.536659
+  tag: scenic
+}
+, class Tag {
+  confidence: 9.459826
+  tag: light
+}
+, class Tag {
+  confidence: 9.452685
+  tag: lane
+}
+, class Tag {
+  confidence: 9.355
+  tag: sunset
+}
+, class Tag {
+  confidence: 9.315101
+  tag: dusk
+}
+, class Tag {
+  confidence: 9.305014
+  tag: motorway
+}
+, class Tag {
+  confidence: 9.033825
+  tag: journey
+}
+, class Tag {
+  confidence: 8.768733
+  tag: country
+}
+, class Tag {
+  confidence: 8.749374
+  tag: line
+}
+, class Tag {
+  confidence: 8.654399
+  tag: building
+}
+, class Tag {
+  confidence: 8.652395
+  tag: scene
+}
+, class Tag {
+  confidence: 8.644213
+  tag: mountain
+}
+, class Tag {
+  confidence: 8.427858
+  tag: grass
+}
+, class Tag {
+  confidence: 8.103905
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.9961386
+  tag: countryside
+}
+, class Tag {
+  confidence: 7.9731803
+  tag: hill
+}
+, class Tag {
+  confidence: 7.9446664
+  tag: scenery
+}
+, class Tag {
+  confidence: 7.724737
+  tag: blur
+}
+, class Tag {
+  confidence: 7.669966
+  tag: lights
+}
+, class Tag {
+  confidence: 7.608425
+  tag: horizon
+}
+, class Tag {
+  confidence: 7.4908595
+  tag: auto
+}
+, class Tag {
+  confidence: 7.477312
+  tag: architecture
+}
+, class Tag {
+  confidence: 7.430744
+  tag: automobile
+}
+, class Tag {
+  confidence: 7.3928986
+  tag: network
+}
+, class Tag {
+  confidence: 7.08141
+  tag: dark
+}
+, class Tag {
+  confidence: 7.053209
+  tag: summer
+}
+]
+}
+]
+  unsuccessful: null
+}

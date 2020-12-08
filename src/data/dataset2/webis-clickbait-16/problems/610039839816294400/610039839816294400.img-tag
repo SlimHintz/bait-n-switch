@@ -1,0 +1,108 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdL6eNXAAAnodf.jpg
+  tags: [class Tag {
+  confidence: 93.18138
+  tag: marketplace
+}
+, class Tag {
+  confidence: 89.348
+  tag: mercantile establishment
+}
+, class Tag {
+  confidence: 64.588
+  tag: place of business
+}
+, class Tag {
+  confidence: 39.789383
+  tag: establishment
+}
+, class Tag {
+  confidence: 26.533731
+  tag: stall
+}
+, class Tag {
+  confidence: 23.151121
+  tag: grocery store
+}
+, class Tag {
+  confidence: 21.888592
+  tag: shop
+}
+, class Tag {
+  confidence: 18.904993
+  tag: structure
+}
+, class Tag {
+  confidence: 14.796539
+  tag: city
+}
+, class Tag {
+  confidence: 14.52
+  tag: butcher shop
+}
+, class Tag {
+  confidence: 13.593684
+  tag: building
+}
+, class Tag {
+  confidence: 13.283425
+  tag: architecture
+}
+, class Tag {
+  confidence: 12.47505
+  tag: tourism
+}
+, class Tag {
+  confidence: 12.334761
+  tag: travel
+}
+, class Tag {
+  confidence: 12.0527
+  tag: old
+}
+, class Tag {
+  confidence: 11.258294
+  tag: confectionery
+}
+, class Tag {
+  confidence: 8.754963
+  tag: historic
+}
+, class Tag {
+  confidence: 8.591319
+  tag: history
+}
+, class Tag {
+  confidence: 8.575646
+  tag: landmark
+}
+, class Tag {
+  confidence: 8.293322
+  tag: market
+}
+, class Tag {
+  confidence: 7.8857417
+  tag: town
+}
+, class Tag {
+  confidence: 7.8159833
+  tag: ancient
+}
+, class Tag {
+  confidence: 7.6215167
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.274396
+  tag: europe
+}
+, class Tag {
+  confidence: 7.0916944
+  tag: culture
+}
+]
+}
+]
+  unsuccessful: null
+}

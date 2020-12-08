@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHezwXeXAAAmN4N.jpg
+  tags: [class Tag {
+  confidence: 54.26354
+  tag: bully
+}
+, class Tag {
+  confidence: 34.229008
+  tag: man
+}
+, class Tag {
+  confidence: 28.567205
+  tag: male
+}
+, class Tag {
+  confidence: 24.755413
+  tag: person
+}
+, class Tag {
+  confidence: 23.748207
+  tag: portrait
+}
+, class Tag {
+  confidence: 23.173222
+  tag: adult
+}
+, class Tag {
+  confidence: 22.820768
+  tag: caucasian
+}
+, class Tag {
+  confidence: 22.36132
+  tag: face
+}
+, class Tag {
+  confidence: 18.455942
+  tag: people
+}
+, class Tag {
+  confidence: 14.012099
+  tag: handsome
+}
+, class Tag {
+  confidence: 13.875324
+  tag: expression
+}
+, class Tag {
+  confidence: 12.870462
+  tag: hair
+}
+, class Tag {
+  confidence: 12.286617
+  tag: close
+}
+, class Tag {
+  confidence: 12.280876
+  tag: model
+}
+, class Tag {
+  confidence: 12.246143
+  tag: black
+}
+, class Tag {
+  confidence: 12.218982
+  tag: one
+}
+, class Tag {
+  confidence: 11.863582
+  tag: business
+}
+, class Tag {
+  confidence: 11.70926
+  tag: head
+}
+, class Tag {
+  confidence: 11.681854
+  tag: smile
+}
+, class Tag {
+  confidence: 11.638544
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.83943
+  tag: men
+}
+, class Tag {
+  confidence: 10.609314
+  tag: businessman
+}
+, class Tag {
+  confidence: 10.445643
+  tag: happy
+}
+, class Tag {
+  confidence: 10.253376
+  tag: guy
+}
+, class Tag {
+  confidence: 10.232954
+  tag: eyes
+}
+, class Tag {
+  confidence: 9.051172
+  tag: human
+}
+, class Tag {
+  confidence: 9.015924
+  tag: boy
+}
+, class Tag {
+  confidence: 8.930094
+  tag: looking
+}
+, class Tag {
+  confidence: 8.849132
+  tag: professional
+}
+, class Tag {
+  confidence: 8.831841
+  tag: emotion
+}
+, class Tag {
+  confidence: 8.703151
+  tag: alone
+}
+, class Tag {
+  confidence: 8.380123
+  tag: hand
+}
+, class Tag {
+  confidence: 8.227519
+  tag: mature
+}
+, class Tag {
+  confidence: 8.208909
+  tag: casual
+}
+, class Tag {
+  confidence: 8.176498
+  tag: youth
+}
+, class Tag {
+  confidence: 8.144155
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.071131
+  tag: phone
+}
+, class Tag {
+  confidence: 7.47748
+  tag: skin
+}
+, class Tag {
+  confidence: 7.3517723
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.1721563
+  tag: look
+}
+]
+}
+]
+  unsuccessful: null
+}

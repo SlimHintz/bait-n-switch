@@ -1,0 +1,236 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKttP6UwAEz1CH.jpg
+  tags: [class Tag {
+  confidence: 63.386135
+  tag: boat
+}
+, class Tag {
+  confidence: 61.411144
+  tag: canoe
+}
+, class Tag {
+  confidence: 42.352
+  tag: small boat
+}
+, class Tag {
+  confidence: 31.724926
+  tag: paddle
+}
+, class Tag {
+  confidence: 30.931087
+  tag: water
+}
+, class Tag {
+  confidence: 30.072386
+  tag: kayak
+}
+, class Tag {
+  confidence: 28.323381
+  tag: sea
+}
+, class Tag {
+  confidence: 27.732649
+  tag: vessel
+}
+, class Tag {
+  confidence: 26.06174
+  tag: oar
+}
+, class Tag {
+  confidence: 23.525288
+  tag: ocean
+}
+, class Tag {
+  confidence: 23.36378
+  tag: beach
+}
+, class Tag {
+  confidence: 19.463638
+  tag: vacation
+}
+, class Tag {
+  confidence: 18.992992
+  tag: travel
+}
+, class Tag {
+  confidence: 15.919129
+  tag: tropical
+}
+, class Tag {
+  confidence: 15.878025
+  tag: summer
+}
+, class Tag {
+  confidence: 15.761133
+  tag: lake
+}
+, class Tag {
+  confidence: 15.372782
+  tag: outdoor
+}
+, class Tag {
+  confidence: 14.551372
+  tag: sky
+}
+, class Tag {
+  confidence: 14.536929
+  tag: island
+}
+, class Tag {
+  confidence: 14.532836
+  tag: river
+}
+, class Tag {
+  confidence: 14.337521
+  tag: speedboat
+}
+, class Tag {
+  confidence: 14.084863
+  tag: floating
+}
+, class Tag {
+  confidence: 13.90692
+  tag: sand
+}
+, class Tag {
+  confidence: 13.304487
+  tag: coast
+}
+, class Tag {
+  confidence: 13.168596
+  tag: outdoors
+}
+, class Tag {
+  confidence: 13.021312
+  tag: man
+}
+, class Tag {
+  confidence: 12.590038
+  tag: leisure
+}
+, class Tag {
+  confidence: 12.177296
+  tag: motorboat
+}
+, class Tag {
+  confidence: 12.120194
+  tag: tourism
+}
+, class Tag {
+  confidence: 12.034357
+  tag: relax
+}
+, class Tag {
+  confidence: 12.007415
+  tag: landscape
+}
+, class Tag {
+  confidence: 11.951591
+  tag: craft
+}
+, class Tag {
+  confidence: 11.74872
+  tag: holiday
+}
+, class Tag {
+  confidence: 11.2744875
+  tag: swimming
+}
+, class Tag {
+  confidence: 10.699874
+  tag: reflection
+}
+, class Tag {
+  confidence: 10.252479
+  tag: fishing
+}
+, class Tag {
+  confidence: 10.059335
+  tag: recreation
+}
+, class Tag {
+  confidence: 10.015063
+  tag: fun
+}
+, class Tag {
+  confidence: 9.839452
+  tag: resort
+}
+, class Tag {
+  confidence: 9.64402
+  tag: shore
+}
+, class Tag {
+  confidence: 9.438956
+  tag: clouds
+}
+, class Tag {
+  confidence: 8.945552
+  tag: peaceful
+}
+, class Tag {
+  confidence: 8.920818
+  tag: boats
+}
+, class Tag {
+  confidence: 8.899285
+  tag: calm
+}
+, class Tag {
+  confidence: 8.878172
+  tag: sun
+}
+, class Tag {
+  confidence: 8.545485
+  tag: palm
+}
+, class Tag {
+  confidence: 8.505292
+  tag: pool
+}
+, class Tag {
+  confidence: 8.402067
+  tag: scenic
+}
+, class Tag {
+  confidence: 8.401401
+  tag: bay
+}
+, class Tag {
+  confidence: 8.334327
+  tag: outside
+}
+, class Tag {
+  confidence: 8.117365
+  tag: sport
+}
+, class Tag {
+  confidence: 8.029728
+  tag: relaxation
+}
+, class Tag {
+  confidence: 7.8274503
+  tag: ship
+}
+, class Tag {
+  confidence: 7.803978
+  tag: people
+}
+, class Tag {
+  confidence: 7.7113547
+  tag: waves
+}
+, class Tag {
+  confidence: 7.639688
+  tag: male
+}
+, class Tag {
+  confidence: 7.1891456
+  tag: wave
+}
+]
+}
+]
+  unsuccessful: null
+}

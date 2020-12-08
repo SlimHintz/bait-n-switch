@@ -1,0 +1,56 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKtMb3VAAES5dj.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: back
+}
+, class Tag {
+  confidence: 42.813656
+  tag: helmet
+}
+, class Tag {
+  confidence: 31.58
+  tag: football helmet
+}
+, class Tag {
+  confidence: 22.61791
+  tag: football
+}
+, class Tag {
+  confidence: 18.915518
+  tag: headdress
+}
+, class Tag {
+  confidence: 13.734179
+  tag: clothing
+}
+, class Tag {
+  confidence: 8.750188
+  tag: man
+}
+, class Tag {
+  confidence: 8.709754
+  tag: competition
+}
+, class Tag {
+  confidence: 8.698303
+  tag: sport
+}
+, class Tag {
+  confidence: 8.036529
+  tag: ball
+}
+, class Tag {
+  confidence: 7.0579867
+  tag: athlete
+}
+, class Tag {
+  confidence: 7.011139
+  tag: field
+}
+]
+}
+]
+  unsuccessful: null
+}

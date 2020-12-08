@@ -1,0 +1,212 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHX4NijWUAEbJ2n.png
+  tags: [class Tag {
+  confidence: 19.604383
+  tag: person
+}
+, class Tag {
+  confidence: 17.28769
+  tag: business
+}
+, class Tag {
+  confidence: 16.948175
+  tag: male
+}
+, class Tag {
+  confidence: 16.74085
+  tag: adult
+}
+, class Tag {
+  confidence: 14.380378
+  tag: happy
+}
+, class Tag {
+  confidence: 14.043195
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.526093
+  tag: casual
+}
+, class Tag {
+  confidence: 13.498083
+  tag: man
+}
+, class Tag {
+  confidence: 13.117844
+  tag: technology
+}
+, class Tag {
+  confidence: 12.955952
+  tag: people
+}
+, class Tag {
+  confidence: 12.674385
+  tag: attractive
+}
+, class Tag {
+  confidence: 12.058273
+  tag: smile
+}
+, class Tag {
+  confidence: 11.986641
+  tag: hand
+}
+, class Tag {
+  confidence: 11.478338
+  tag: text
+}
+, class Tag {
+  confidence: 11.419713
+  tag: success
+}
+, class Tag {
+  confidence: 11.37772
+  tag: face
+}
+, class Tag {
+  confidence: 11.198329
+  tag: one
+}
+, class Tag {
+  confidence: 11.060022
+  tag: model
+}
+, class Tag {
+  confidence: 10.923298
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.888816
+  tag: design
+}
+, class Tag {
+  confidence: 10.555501
+  tag: newspaper
+}
+, class Tag {
+  confidence: 10.315495
+  tag: paper
+}
+, class Tag {
+  confidence: 10.228657
+  tag: internet
+}
+, class Tag {
+  confidence: 9.937583
+  tag: human
+}
+, class Tag {
+  confidence: 9.680841
+  tag: computer
+}
+, class Tag {
+  confidence: 9.58502
+  tag: smiling
+}
+, class Tag {
+  confidence: 9.52392
+  tag: youth
+}
+, class Tag {
+  confidence: 9.519638
+  tag: notebook
+}
+, class Tag {
+  confidence: 9.345011
+  tag: laptop
+}
+, class Tag {
+  confidence: 9.335656
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.086715
+  tag: conceptual
+}
+, class Tag {
+  confidence: 8.820459
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.728572
+  tag: work
+}
+, class Tag {
+  confidence: 8.723437
+  tag: expression
+}
+, class Tag {
+  confidence: 8.680813
+  tag: press
+}
+, class Tag {
+  confidence: 8.556607
+  tag: head
+}
+, class Tag {
+  confidence: 8.215282
+  tag: working
+}
+, class Tag {
+  confidence: 8.094414
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.054057
+  tag: home
+}
+, class Tag {
+  confidence: 7.939324
+  tag: word
+}
+, class Tag {
+  confidence: 7.923247
+  tag: space
+}
+, class Tag {
+  confidence: 7.9196906
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.685327
+  tag: black
+}
+, class Tag {
+  confidence: 7.6
+  tag: book jacket
+}
+, class Tag {
+  confidence: 7.5835414
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.355118
+  tag: hair
+}
+, class Tag {
+  confidence: 7.3066363
+  tag: boy
+}
+, class Tag {
+  confidence: 7.2605557
+  tag: american
+}
+, class Tag {
+  confidence: 7.222668
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.1908016
+  tag: finance
+}
+, class Tag {
+  confidence: 7.167069
+  tag: professional
+}
+]
+}
+]
+  unsuccessful: null
+}

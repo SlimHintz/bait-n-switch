@@ -1,0 +1,136 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHMCoi-UYAMiQLT.png
+  tags: [class Tag {
+  confidence: 65.26374
+  tag: dog
+}
+, class Tag {
+  confidence: 42.20828
+  tag: canine
+}
+, class Tag {
+  confidence: 34.820145
+  tag: domestic animal
+}
+, class Tag {
+  confidence: 31.258242
+  tag: animal
+}
+, class Tag {
+  confidence: 29.648
+  tag: toy dog
+}
+, class Tag {
+  confidence: 27.84893
+  tag: chihuahua
+}
+, class Tag {
+  confidence: 24.74
+  tag: miniature pinscher
+}
+, class Tag {
+  confidence: 19.780186
+  tag: pinscher
+}
+, class Tag {
+  confidence: 15.600572
+  tag: watchdog
+}
+, class Tag {
+  confidence: 14.76
+  tag: boston bull
+}
+, class Tag {
+  confidence: 14.059167
+  tag: terrier
+}
+, class Tag {
+  confidence: 13.065172
+  tag: hunting dog
+}
+, class Tag {
+  confidence: 11.8302555
+  tag: cute
+}
+, class Tag {
+  confidence: 11.048463
+  tag: black
+}
+, class Tag {
+  confidence: 10.7
+  tag: toy terrier
+}
+, class Tag {
+  confidence: 10.666151
+  tag: pet
+}
+, class Tag {
+  confidence: 10.54
+  tag: italian greyhound
+}
+, class Tag {
+  confidence: 9.286288
+  tag: boxer
+}
+, class Tag {
+  confidence: 8.698885
+  tag: person
+}
+, class Tag {
+  confidence: 8.583217
+  tag: home
+}
+, class Tag {
+  confidence: 8.511299
+  tag: male
+}
+, class Tag {
+  confidence: 8.428853
+  tag: greyhound
+}
+, class Tag {
+  confidence: 8.382743
+  tag: domestic
+}
+, class Tag {
+  confidence: 8.045248
+  tag: fun
+}
+, class Tag {
+  confidence: 8.017165
+  tag: happy
+}
+, class Tag {
+  confidence: 8.014656
+  tag: bulldog
+}
+, class Tag {
+  confidence: 8.004786
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.612174
+  tag: mammal
+}
+, class Tag {
+  confidence: 7.3942704
+  tag: sitting
+}
+, class Tag {
+  confidence: 7.3131533
+  tag: cat
+}
+, class Tag {
+  confidence: 7.259458
+  tag: basenji
+}
+, class Tag {
+  confidence: 7.016945
+  tag: man
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,236 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHRpUl2UEAETv8b.jpg
+  tags: [class Tag {
+  confidence: 82.30275
+  tag: rapeseed
+}
+, class Tag {
+  confidence: 66.36999
+  tag: oilseed
+}
+, class Tag {
+  confidence: 49.03845
+  tag: seed
+}
+, class Tag {
+  confidence: 35.982506
+  tag: dandelion
+}
+, class Tag {
+  confidence: 34.199398
+  tag: field
+}
+, class Tag {
+  confidence: 27.916912
+  tag: herb
+}
+, class Tag {
+  confidence: 27.01748
+  tag: plant
+}
+, class Tag {
+  confidence: 25.928019
+  tag: fruit
+}
+, class Tag {
+  confidence: 24.741804
+  tag: meadow
+}
+, class Tag {
+  confidence: 24.721783
+  tag: sunflower
+}
+, class Tag {
+  confidence: 24.4526
+  tag: summer
+}
+, class Tag {
+  confidence: 24.261335
+  tag: yellow
+}
+, class Tag {
+  confidence: 23.849445
+  tag: grass
+}
+, class Tag {
+  confidence: 23.77445
+  tag: landscape
+}
+, class Tag {
+  confidence: 22.548758
+  tag: rural
+}
+, class Tag {
+  confidence: 22.516916
+  tag: spring
+}
+, class Tag {
+  confidence: 21.674263
+  tag: sky
+}
+, class Tag {
+  confidence: 19.019428
+  tag: agriculture
+}
+, class Tag {
+  confidence: 18.395988
+  tag: farm
+}
+, class Tag {
+  confidence: 18.319826
+  tag: flower
+}
+, class Tag {
+  confidence: 17.765848
+  tag: season
+}
+, class Tag {
+  confidence: 17.150206
+  tag: outdoor
+}
+, class Tag {
+  confidence: 16.821985
+  tag: flowers
+}
+, class Tag {
+  confidence: 14.879157
+  tag: sun
+}
+, class Tag {
+  confidence: 14.370508
+  tag: sunny
+}
+, class Tag {
+  confidence: 13.542396
+  tag: countryside
+}
+, class Tag {
+  confidence: 13.267362
+  tag: country
+}
+, class Tag {
+  confidence: 12.890911
+  tag: horizon
+}
+, class Tag {
+  confidence: 12.541411
+  tag: tree
+}
+, class Tag {
+  confidence: 12.265279
+  tag: clouds
+}
+, class Tag {
+  confidence: 11.721735
+  tag: garden
+}
+, class Tag {
+  confidence: 11.194535
+  tag: natural
+}
+, class Tag {
+  confidence: 10.33563
+  tag: sunlight
+}
+, class Tag {
+  confidence: 10.255888
+  tag: environment
+}
+, class Tag {
+  confidence: 10.1060295
+  tag: floral
+}
+, class Tag {
+  confidence: 10.0047035
+  tag: bright
+}
+, class Tag {
+  confidence: 9.787562
+  tag: scenery
+}
+, class Tag {
+  confidence: 9.69149
+  tag: park
+}
+, class Tag {
+  confidence: 9.476165
+  tag: cloud
+}
+, class Tag {
+  confidence: 9.473834
+  tag: autumn
+}
+, class Tag {
+  confidence: 9.260016
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.156632
+  tag: color
+}
+, class Tag {
+  confidence: 9.14904
+  tag: colorful
+}
+, class Tag {
+  confidence: 9.106113
+  tag: scenic
+}
+, class Tag {
+  confidence: 9.068431
+  tag: flora
+}
+, class Tag {
+  confidence: 8.589424
+  tag: scene
+}
+, class Tag {
+  confidence: 8.343948
+  tag: pasture
+}
+, class Tag {
+  confidence: 8.336823
+  tag: blooming
+}
+, class Tag {
+  confidence: 7.9362555
+  tag: outside
+}
+, class Tag {
+  confidence: 7.7893176
+  tag: weather
+}
+, class Tag {
+  confidence: 7.73277
+  tag: trees
+}
+, class Tag {
+  confidence: 7.6911716
+  tag: clear
+}
+, class Tag {
+  confidence: 7.677239
+  tag: leaf
+}
+, class Tag {
+  confidence: 7.128344
+  tag: land
+}
+, class Tag {
+  confidence: 7.050513
+  tag: day
+}
+, class Tag {
+  confidence: 7.0355864
+  tag: life
+}
+, class Tag {
+  confidence: 7.0324354
+  tag: leisure
+}
+]
+}
+]
+  unsuccessful: null
+}

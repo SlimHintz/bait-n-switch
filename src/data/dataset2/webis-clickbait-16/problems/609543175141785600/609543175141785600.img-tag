@@ -1,0 +1,284 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHWISacUYAA73Bk.jpg
+  tags: [class Tag {
+  confidence: 32.59744
+  tag: sport
+}
+, class Tag {
+  confidence: 24.678658
+  tag: man
+}
+, class Tag {
+  confidence: 23.700216
+  tag: people
+}
+, class Tag {
+  confidence: 21.693733
+  tag: male
+}
+, class Tag {
+  confidence: 21.604656
+  tag: adult
+}
+, class Tag {
+  confidence: 20.47525
+  tag: caucasian
+}
+, class Tag {
+  confidence: 19.497211
+  tag: person
+}
+, class Tag {
+  confidence: 17.988419
+  tag: athlete
+}
+, class Tag {
+  confidence: 16.429447
+  tag: happy
+}
+, class Tag {
+  confidence: 16.385078
+  tag: ball
+}
+, class Tag {
+  confidence: 14.189026
+  tag: game
+}
+, class Tag {
+  confidence: 13.86
+  tag: ping-pong ball
+}
+, class Tag {
+  confidence: 13.1228895
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.851699
+  tag: smile
+}
+, class Tag {
+  confidence: 12.537056
+  tag: smiling
+}
+, class Tag {
+  confidence: 12.238258
+  tag: cute
+}
+, class Tag {
+  confidence: 11.939233
+  tag: fun
+}
+, class Tag {
+  confidence: 11.879199
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.354008
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.284572
+  tag: child
+}
+, class Tag {
+  confidence: 11.190809
+  tag: rival
+}
+, class Tag {
+  confidence: 10.628238
+  tag: activity
+}
+, class Tag {
+  confidence: 10.58689
+  tag: joy
+}
+, class Tag {
+  confidence: 10.485859
+  tag: standing
+}
+, class Tag {
+  confidence: 10.007159
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.772986
+  tag: attractive
+}
+, class Tag {
+  confidence: 9.7532425
+  tag: track
+}
+, class Tag {
+  confidence: 9.721487
+  tag: human
+}
+, class Tag {
+  confidence: 9.694449
+  tag: outdoor
+}
+, class Tag {
+  confidence: 9.675666
+  tag: diversion
+}
+, class Tag {
+  confidence: 9.643922
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.630744
+  tag: boy
+}
+, class Tag {
+  confidence: 9.54283
+  tag: training
+}
+, class Tag {
+  confidence: 9.485413
+  tag: summer
+}
+, class Tag {
+  confidence: 9.460554
+  tag: business
+}
+, class Tag {
+  confidence: 9.431842
+  tag: youth
+}
+, class Tag {
+  confidence: 9.357132
+  tag: health
+}
+, class Tag {
+  confidence: 9.311679
+  tag: exercise
+}
+, class Tag {
+  confidence: 9.270378
+  tag: fitness
+}
+, class Tag {
+  confidence: 9.266813
+  tag: two
+}
+, class Tag {
+  confidence: 9.207375
+  tag: leisure
+}
+, class Tag {
+  confidence: 9.204538
+  tag: grass
+}
+, class Tag {
+  confidence: 9.184161
+  tag: active
+}
+, class Tag {
+  confidence: 9.093894
+  tag: clothing
+}
+, class Tag {
+  confidence: 8.973867
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.962851
+  tag: one
+}
+, class Tag {
+  confidence: 8.736548
+  tag: player
+}
+, class Tag {
+  confidence: 8.7194605
+  tag: casual
+}
+, class Tag {
+  confidence: 8.623512
+  tag: action
+}
+, class Tag {
+  confidence: 8.520848
+  tag: black
+}
+, class Tag {
+  confidence: 8.3616705
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.340786
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.316
+  tag: game equipment
+}
+, class Tag {
+  confidence: 8.283509
+  tag: kid
+}
+, class Tag {
+  confidence: 8.263875
+  tag: looking
+}
+, class Tag {
+  confidence: 7.99264
+  tag: outside
+}
+, class Tag {
+  confidence: 7.977264
+  tag: work
+}
+, class Tag {
+  confidence: 7.93357
+  tag: face
+}
+, class Tag {
+  confidence: 7.805525
+  tag: competition
+}
+, class Tag {
+  confidence: 7.805358
+  tag: sports
+}
+, class Tag {
+  confidence: 7.7261043
+  tag: holding
+}
+, class Tag {
+  confidence: 7.713331
+  tag: lady
+}
+, class Tag {
+  confidence: 7.711028
+  tag: playing
+}
+, class Tag {
+  confidence: 7.5633135
+  tag: family
+}
+, class Tag {
+  confidence: 7.5501237
+  tag: childhood
+}
+, class Tag {
+  confidence: 7.4894767
+  tag: working
+}
+, class Tag {
+  confidence: 7.457921
+  tag: women
+}
+, class Tag {
+  confidence: 7.3167825
+  tag: running
+}
+, class Tag {
+  confidence: 7.050621
+  tag: executive
+}
+]
+}
+]
+  unsuccessful: null
+}

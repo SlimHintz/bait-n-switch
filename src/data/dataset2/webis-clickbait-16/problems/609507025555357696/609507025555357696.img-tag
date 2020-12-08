@@ -1,0 +1,144 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHVjPHfVEAAi7RG.png
+  tags: [class Tag {
+  confidence: 23.296106
+  tag: retriever
+}
+, class Tag {
+  confidence: 18.472221
+  tag: dog
+}
+, class Tag {
+  confidence: 18.470346
+  tag: hunting dog
+}
+, class Tag {
+  confidence: 15.383739
+  tag: animal
+}
+, class Tag {
+  confidence: 15.272018
+  tag: golden retriever
+}
+, class Tag {
+  confidence: 14.074949
+  tag: sporting dog
+}
+, class Tag {
+  confidence: 12.100714
+  tag: grass
+}
+, class Tag {
+  confidence: 12.0784025
+  tag: hound
+}
+, class Tag {
+  confidence: 10.834639
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.820729
+  tag: man
+}
+, class Tag {
+  confidence: 10.798074
+  tag: person
+}
+, class Tag {
+  confidence: 10.777732
+  tag: field
+}
+, class Tag {
+  confidence: 10.27747
+  tag: black
+}
+, class Tag {
+  confidence: 10.244372
+  tag: summer
+}
+, class Tag {
+  confidence: 10.090974
+  tag: happy
+}
+, class Tag {
+  confidence: 9.598227
+  tag: people
+}
+, class Tag {
+  confidence: 9.552908
+  tag: pet
+}
+, class Tag {
+  confidence: 9.501724
+  tag: male
+}
+, class Tag {
+  confidence: 9.3407135
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.285771
+  tag: meadow
+}
+, class Tag {
+  confidence: 8.859949
+  tag: canine
+}
+, class Tag {
+  confidence: 8.82748
+  tag: cute
+}
+, class Tag {
+  confidence: 8.680395
+  tag: spring
+}
+, class Tag {
+  confidence: 8.31736
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.179389
+  tag: english setter
+}
+, class Tag {
+  confidence: 8.175263
+  tag: sunny
+}
+, class Tag {
+  confidence: 7.9359436
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.736864
+  tag: park
+}
+, class Tag {
+  confidence: 7.7
+  tag: bloodhound
+}
+, class Tag {
+  confidence: 7.46
+  tag: saluki
+}
+, class Tag {
+  confidence: 7.451465
+  tag: casual
+}
+, class Tag {
+  confidence: 7.395338
+  tag: day
+}
+, class Tag {
+  confidence: 7.294372
+  tag: relax
+}
+, class Tag {
+  confidence: 7.03228
+  tag: portrait
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,212 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHespj_XAAALQ2T.png
+  tags: [class Tag {
+  confidence: 18.53718
+  tag: food
+}
+, class Tag {
+  confidence: 17.699509
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 17.069092
+  tag: glass
+}
+, class Tag {
+  confidence: 16.709381
+  tag: adult
+}
+, class Tag {
+  confidence: 16.331676
+  tag: beverage
+}
+, class Tag {
+  confidence: 14.861523
+  tag: juice
+}
+, class Tag {
+  confidence: 14.415624
+  tag: healthy
+}
+, class Tag {
+  confidence: 13.991731
+  tag: drink
+}
+, class Tag {
+  confidence: 13.543346
+  tag: health
+}
+, class Tag {
+  confidence: 13.535149
+  tag: bottle
+}
+, class Tag {
+  confidence: 13.293749
+  tag: person
+}
+, class Tag {
+  confidence: 12.957529
+  tag: people
+}
+, class Tag {
+  confidence: 12.8959055
+  tag: hand
+}
+, class Tag {
+  confidence: 12.762435
+  tag: liquid
+}
+, class Tag {
+  confidence: 10.929149
+  tag: close
+}
+, class Tag {
+  confidence: 10.902729
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.519215
+  tag: pill bottle
+}
+, class Tag {
+  confidence: 10.451203
+  tag: caucasian
+}
+, class Tag {
+  confidence: 10.283617
+  tag: face
+}
+, class Tag {
+  confidence: 10.151953
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.913339
+  tag: diet
+}
+, class Tag {
+  confidence: 9.657744
+  tag: cup
+}
+, class Tag {
+  confidence: 9.6119175
+  tag: holding
+}
+, class Tag {
+  confidence: 9.293535
+  tag: meal
+}
+, class Tag {
+  confidence: 9.031345
+  tag: alcohol
+}
+, class Tag {
+  confidence: 8.943989
+  tag: liquor
+}
+, class Tag {
+  confidence: 8.677118
+  tag: body
+}
+, class Tag {
+  confidence: 8.648026
+  tag: fresh
+}
+, class Tag {
+  confidence: 8.639573
+  tag: happy
+}
+, class Tag {
+  confidence: 8.597897
+  tag: color
+}
+, class Tag {
+  confidence: 8.551302
+  tag: yellow
+}
+, class Tag {
+  confidence: 8.543308
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.460393
+  tag: fruit
+}
+, class Tag {
+  confidence: 8.37116
+  tag: luxury
+}
+, class Tag {
+  confidence: 8.358405
+  tag: closeup
+}
+, class Tag {
+  confidence: 8.242588
+  tag: vegetable
+}
+, class Tag {
+  confidence: 8.178573
+  tag: nutrition
+}
+, class Tag {
+  confidence: 8.130569
+  tag: eating
+}
+, class Tag {
+  confidence: 8.035871
+  tag: container
+}
+, class Tag {
+  confidence: 8.009715
+  tag: man
+}
+, class Tag {
+  confidence: 7.971112
+  tag: water
+}
+, class Tag {
+  confidence: 7.8810477
+  tag: kitchen
+}
+, class Tag {
+  confidence: 7.8677297
+  tag: healthcare
+}
+, class Tag {
+  confidence: 7.819373
+  tag: women
+}
+, class Tag {
+  confidence: 7.759617
+  tag: reflection
+}
+, class Tag {
+  confidence: 7.6201496
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.570424
+  tag: life
+}
+, class Tag {
+  confidence: 7.388778
+  tag: black
+}
+, class Tag {
+  confidence: 7.0630593
+  tag: medicine
+}
+, class Tag {
+  confidence: 7.0385523
+  tag: home
+}
+, class Tag {
+  confidence: 7.011796
+  tag: vessel
+}
+]
+}
+]
+  unsuccessful: null
+}

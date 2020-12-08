@@ -1,0 +1,20 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNiNtZWMAAHnJC.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: brambling
+}
+, class Tag {
+  confidence: 100.0
+  tag: finch
+}
+, class Tag {
+  confidence: 41.09979
+  tag: bird
+}
+]
+}
+]
+  unsuccessful: null
+}

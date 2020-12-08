@@ -1,0 +1,252 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/tweet_video_thumb/CHJWCQSWcAAsRGw.png
+  tags: [class Tag {
+  confidence: 26.02372
+  tag: attractive
+}
+, class Tag {
+  confidence: 25.132914
+  tag: sexy
+}
+, class Tag {
+  confidence: 24.392723
+  tag: person
+}
+, class Tag {
+  confidence: 24.243292
+  tag: fashion
+}
+, class Tag {
+  confidence: 23.937115
+  tag: happy
+}
+, class Tag {
+  confidence: 22.066488
+  tag: dancer
+}
+, class Tag {
+  confidence: 21.89444
+  tag: pretty
+}
+, class Tag {
+  confidence: 21.779942
+  tag: caucasian
+}
+, class Tag {
+  confidence: 20.638325
+  tag: smiling
+}
+, class Tag {
+  confidence: 20.48434
+  tag: people
+}
+, class Tag {
+  confidence: 19.712889
+  tag: dress
+}
+, class Tag {
+  confidence: 19.321827
+  tag: adult
+}
+, class Tag {
+  confidence: 18.479473
+  tag: glamour
+}
+, class Tag {
+  confidence: 18.276203
+  tag: smile
+}
+, class Tag {
+  confidence: 17.995087
+  tag: model
+}
+, class Tag {
+  confidence: 17.931292
+  tag: lady
+}
+, class Tag {
+  confidence: 17.550251
+  tag: portrait
+}
+, class Tag {
+  confidence: 16.55091
+  tag: women
+}
+, class Tag {
+  confidence: 16.045732
+  tag: fun
+}
+, class Tag {
+  confidence: 14.6845875
+  tag: costume
+}
+, class Tag {
+  confidence: 14.354212
+  tag: hair
+}
+, class Tag {
+  confidence: 14.3162365
+  tag: brunette
+}
+, class Tag {
+  confidence: 13.95873
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 13.89136
+  tag: youth
+}
+, class Tag {
+  confidence: 13.550276
+  tag: joy
+}
+, class Tag {
+  confidence: 13.351813
+  tag: happiness
+}
+, class Tag {
+  confidence: 13.1847105
+  tag: performer
+}
+, class Tag {
+  confidence: 13.0014105
+  tag: face
+}
+, class Tag {
+  confidence: 12.238707
+  tag: girls
+}
+, class Tag {
+  confidence: 12.154306
+  tag: celebration
+}
+, class Tag {
+  confidence: 11.712573
+  tag: human
+}
+, class Tag {
+  confidence: 11.401064
+  tag: blond
+}
+, class Tag {
+  confidence: 11.115231
+  tag: cheerful
+}
+, class Tag {
+  confidence: 11.087688
+  tag: cute
+}
+, class Tag {
+  confidence: 10.97139
+  tag: body
+}
+, class Tag {
+  confidence: 10.889304
+  tag: one
+}
+, class Tag {
+  confidence: 10.760276
+  tag: expression
+}
+, class Tag {
+  confidence: 10.643057
+  tag: pose
+}
+, class Tag {
+  confidence: 10.508832
+  tag: posing
+}
+, class Tag {
+  confidence: 9.968343
+  tag: love
+}
+, class Tag {
+  confidence: 9.613071
+  tag: black
+}
+, class Tag {
+  confidence: 9.403297
+  tag: man
+}
+, class Tag {
+  confidence: 9.400253
+  tag: style
+}
+, class Tag {
+  confidence: 9.339287
+  tag: sitting
+}
+, class Tag {
+  confidence: 9.023455
+  tag: studio
+}
+, class Tag {
+  confidence: 8.664066
+  tag: entertainer
+}
+, class Tag {
+  confidence: 8.663623
+  tag: dancing
+}
+, class Tag {
+  confidence: 8.574906
+  tag: dance
+}
+, class Tag {
+  confidence: 8.539487
+  tag: home
+}
+, class Tag {
+  confidence: 8.475638
+  tag: legs
+}
+, class Tag {
+  confidence: 8.414192
+  tag: skin
+}
+, class Tag {
+  confidence: 8.35254
+  tag: blonde
+}
+, class Tag {
+  confidence: 8.265723
+  tag: wedding
+}
+, class Tag {
+  confidence: 8.261262
+  tag: child
+}
+, class Tag {
+  confidence: 8.1366
+  tag: traditional
+}
+, class Tag {
+  confidence: 7.973383
+  tag: standing
+}
+, class Tag {
+  confidence: 7.783821
+  tag: bride
+}
+, class Tag {
+  confidence: 7.6339607
+  tag: females
+}
+, class Tag {
+  confidence: 7.499542
+  tag: holding
+}
+, class Tag {
+  confidence: 7.4866295
+  tag: sensual
+}
+, class Tag {
+  confidence: 7.4243793
+  tag: gorgeous
+}
+]
+}
+]
+  unsuccessful: null
+}

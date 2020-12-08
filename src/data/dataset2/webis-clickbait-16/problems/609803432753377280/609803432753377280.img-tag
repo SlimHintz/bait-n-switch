@@ -1,0 +1,192 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYHHKLUwAEg8p9.jpg
+  tags: [class Tag {
+  confidence: 30.965712
+  tag: building
+}
+, class Tag {
+  confidence: 27.483606
+  tag: architecture
+}
+, class Tag {
+  confidence: 25.789843
+  tag: house
+}
+, class Tag {
+  confidence: 20.617134
+  tag: city
+}
+, class Tag {
+  confidence: 19.16917
+  tag: sky
+}
+, class Tag {
+  confidence: 17.850014
+  tag: home
+}
+, class Tag {
+  confidence: 14.001765
+  tag: urban
+}
+, class Tag {
+  confidence: 13.118064
+  tag: window
+}
+, class Tag {
+  confidence: 12.86668
+  tag: residential
+}
+, class Tag {
+  confidence: 12.82692
+  tag: estate
+}
+, class Tag {
+  confidence: 11.544433
+  tag: exterior
+}
+, class Tag {
+  confidence: 11.408484
+  tag: construction
+}
+, class Tag {
+  confidence: 11.044967
+  tag: travel
+}
+, class Tag {
+  confidence: 10.766469
+  tag: modern
+}
+, class Tag {
+  confidence: 10.576077
+  tag: old
+}
+, class Tag {
+  confidence: 10.292417
+  tag: trees
+}
+, class Tag {
+  confidence: 10.2824545
+  tag: roof
+}
+, class Tag {
+  confidence: 10.105103
+  tag: structure
+}
+, class Tag {
+  confidence: 9.976378
+  tag: town
+}
+, class Tag {
+  confidence: 9.912185
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.790731
+  tag: grass
+}
+, class Tag {
+  confidence: 9.525367
+  tag: business
+}
+, class Tag {
+  confidence: 9.226699
+  tag: wall
+}
+, class Tag {
+  confidence: 8.96173
+  tag: summer
+}
+, class Tag {
+  confidence: 8.949311
+  tag: outdoor
+}
+, class Tag {
+  confidence: 8.824428
+  tag: station
+}
+, class Tag {
+  confidence: 8.566398
+  tag: door
+}
+, class Tag {
+  confidence: 8.537338
+  tag: sun
+}
+, class Tag {
+  confidence: 8.524048
+  tag: real
+}
+, class Tag {
+  confidence: 8.5225
+  tag: landscape
+}
+, class Tag {
+  confidence: 8.488379
+  tag: buildings
+}
+, class Tag {
+  confidence: 8.276741
+  tag: street
+}
+, class Tag {
+  confidence: 8.217941
+  tag: color
+}
+, class Tag {
+  confidence: 7.995571
+  tag: tower
+}
+, class Tag {
+  confidence: 7.953106
+  tag: tourism
+}
+, class Tag {
+  confidence: 7.854236
+  tag: property
+}
+, class Tag {
+  confidence: 7.71846
+  tag: concrete
+}
+, class Tag {
+  confidence: 7.7128234
+  tag: luxury
+}
+, class Tag {
+  confidence: 7.4833255
+  tag: place
+}
+, class Tag {
+  confidence: 7.2821836
+  tag: road
+}
+, class Tag {
+  confidence: 7.054103
+  tag: design
+}
+, class Tag {
+  confidence: 7.040902
+  tag: real estate
+}
+, class Tag {
+  confidence: 7.011668
+  tag: residence
+}
+, class Tag {
+  confidence: 7.0052867
+  tag: bright
+}
+, class Tag {
+  confidence: 7.004219
+  tag: day
+}
+, class Tag {
+  confidence: 7.0019517
+  tag: corporate
+}
+]
+}
+]
+  unsuccessful: null
+}

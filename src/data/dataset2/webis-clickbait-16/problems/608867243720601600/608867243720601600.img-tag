@@ -1,0 +1,348 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHMg1MeVIAE_gF1.png
+  tags: [class Tag {
+  confidence: 63.70366
+  tag: city
+}
+, class Tag {
+  confidence: 43.899414
+  tag: waterfront
+}
+, class Tag {
+  confidence: 41.59306
+  tag: marina
+}
+, class Tag {
+  confidence: 34.38662
+  tag: skyline
+}
+, class Tag {
+  confidence: 33.59501
+  tag: architecture
+}
+, class Tag {
+  confidence: 32.97459
+  tag: urban
+}
+, class Tag {
+  confidence: 30.237963
+  tag: cityscape
+}
+, class Tag {
+  confidence: 29.573082
+  tag: water
+}
+, class Tag {
+  confidence: 28.929974
+  tag: building
+}
+, class Tag {
+  confidence: 27.315323
+  tag: boat
+}
+, class Tag {
+  confidence: 26.565756
+  tag: travel
+}
+, class Tag {
+  confidence: 24.972647
+  tag: river
+}
+, class Tag {
+  confidence: 24.524445
+  tag: buildings
+}
+, class Tag {
+  confidence: 23.238237
+  tag: sky
+}
+, class Tag {
+  confidence: 22.282309
+  tag: night
+}
+, class Tag {
+  confidence: 22.224483
+  tag: reflection
+}
+, class Tag {
+  confidence: 20.70998
+  tag: harbor
+}
+, class Tag {
+  confidence: 20.547419
+  tag: manhattan
+}
+, class Tag {
+  confidence: 20.22445
+  tag: tourism
+}
+, class Tag {
+  confidence: 19.932756
+  tag: skyscraper
+}
+, class Tag {
+  confidence: 19.12308
+  tag: downtown
+}
+, class Tag {
+  confidence: 18.574911
+  tag: landmark
+}
+, class Tag {
+  confidence: 17.104282
+  tag: bay
+}
+, class Tag {
+  confidence: 16.769802
+  tag: tower
+}
+, class Tag {
+  confidence: 16.734722
+  tag: port
+}
+, class Tag {
+  confidence: 16.667377
+  tag: sea
+}
+, class Tag {
+  confidence: 16.468164
+  tag: panorama
+}
+, class Tag {
+  confidence: 16.360676
+  tag: europe
+}
+, class Tag {
+  confidence: 16.353426
+  tag: bridge
+}
+, class Tag {
+  confidence: 15.229074
+  tag: modern
+}
+, class Tag {
+  confidence: 15.210013
+  tag: pier
+}
+, class Tag {
+  confidence: 14.363427
+  tag: dock
+}
+, class Tag {
+  confidence: 13.825637
+  tag: landscape
+}
+, class Tag {
+  confidence: 13.764126
+  tag: town
+}
+, class Tag {
+  confidence: 12.8634
+  tag: ocean
+}
+, class Tag {
+  confidence: 12.698998
+  tag: boats
+}
+, class Tag {
+  confidence: 12.61835
+  tag: dubai
+}
+, class Tag {
+  confidence: 11.858883
+  tag: scene
+}
+, class Tag {
+  confidence: 11.650289
+  tag: sunset
+}
+, class Tag {
+  confidence: 11.570042
+  tag: tourist
+}
+, class Tag {
+  confidence: 11.5580845
+  tag: dusk
+}
+, class Tag {
+  confidence: 11.443312
+  tag: old
+}
+, class Tag {
+  confidence: 11.249506
+  tag: business district
+}
+, class Tag {
+  confidence: 11.227852
+  tag: lights
+}
+, class Tag {
+  confidence: 10.9534235
+  tag: harbour
+}
+, class Tag {
+  confidence: 10.935779
+  tag: district
+}
+, class Tag {
+  confidence: 10.74649
+  tag: business
+}
+, class Tag {
+  confidence: 10.717482
+  tag: ship
+}
+, class Tag {
+  confidence: 10.6968775
+  tag: capital
+}
+, class Tag {
+  confidence: 10.52729
+  tag: evening
+}
+, class Tag {
+  confidence: 10.436661
+  tag: structure
+}
+, class Tag {
+  confidence: 10.243248
+  tag: construction
+}
+, class Tag {
+  confidence: 10.1848
+  tag: lake
+}
+, class Tag {
+  confidence: 10.128728
+  tag: day
+}
+, class Tag {
+  confidence: 9.998986
+  tag: house
+}
+, class Tag {
+  confidence: 9.9848385
+  tag: coast
+}
+, class Tag {
+  confidence: 9.847195
+  tag: center
+}
+, class Tag {
+  confidence: 9.781133
+  tag: vacation
+}
+, class Tag {
+  confidence: 9.761248
+  tag: scenic
+}
+, class Tag {
+  confidence: 9.751154
+  tag: summer
+}
+, class Tag {
+  confidence: 9.585683
+  tag: street
+}
+, class Tag {
+  confidence: 9.5440445
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.277894
+  tag: yacht
+}
+, class Tag {
+  confidence: 9.214485
+  tag: light
+}
+, class Tag {
+  confidence: 9.197469
+  tag: london
+}
+, class Tag {
+  confidence: 8.676152
+  tag: clouds
+}
+, class Tag {
+  confidence: 8.5938635
+  tag: financial
+}
+, class Tag {
+  confidence: 8.490209
+  tag: wharf
+}
+, class Tag {
+  confidence: 8.402961
+  tag: office
+}
+, class Tag {
+  confidence: 8.271633
+  tag: illuminated
+}
+, class Tag {
+  confidence: 8.207335
+  tag: england
+}
+, class Tag {
+  confidence: 8.185118
+  tag: hotel
+}
+, class Tag {
+  confidence: 8.140498
+  tag: mediterranean
+}
+, class Tag {
+  confidence: 8.108623
+  tag: tall
+}
+, class Tag {
+  confidence: 8.046066
+  tag: famous
+}
+, class Tag {
+  confidence: 8.031763
+  tag: destination
+}
+, class Tag {
+  confidence: 7.718016
+  tag: transportation
+}
+, class Tag {
+  confidence: 7.6002207
+  tag: skyscrapers
+}
+, class Tag {
+  confidence: 7.519162
+  tag: tour
+}
+, class Tag {
+  confidence: 7.4772654
+  tag: panoramic
+}
+, class Tag {
+  confidence: 7.423536
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.371205
+  tag: apartment
+}
+, class Tag {
+  confidence: 7.3350716
+  tag: industry
+}
+, class Tag {
+  confidence: 7.294949
+  tag: coastline
+}
+, class Tag {
+  confidence: 7.076457
+  tag: transport
+}
+]
+}
+]
+  unsuccessful: null
+}

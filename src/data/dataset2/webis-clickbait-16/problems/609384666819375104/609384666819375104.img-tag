@@ -1,0 +1,132 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHT37PsUkAEPslT.png
+  tags: [class Tag {
+  confidence: 50.6394
+  tag: aqualung
+}
+, class Tag {
+  confidence: 39.637897
+  tag: scuba diver
+}
+, class Tag {
+  confidence: 36.81228
+  tag: diver
+}
+, class Tag {
+  confidence: 25.777529
+  tag: swimmer
+}
+, class Tag {
+  confidence: 22.69143
+  tag: person
+}
+, class Tag {
+  confidence: 21.951693
+  tag: explorer
+}
+, class Tag {
+  confidence: 19.541475
+  tag: athlete
+}
+, class Tag {
+  confidence: 18.660551
+  tag: sea
+}
+, class Tag {
+  confidence: 17.307184
+  tag: swimming
+}
+, class Tag {
+  confidence: 17.057642
+  tag: water
+}
+, class Tag {
+  confidence: 15.941675
+  tag: ocean
+}
+, class Tag {
+  confidence: 14.708626
+  tag: contestant
+}
+, class Tag {
+  confidence: 14.306996
+  tag: snorkel
+}
+, class Tag {
+  confidence: 11.79471
+  tag: summer
+}
+, class Tag {
+  confidence: 11.12071
+  tag: marine
+}
+, class Tag {
+  confidence: 11.074323
+  tag: sky
+}
+, class Tag {
+  confidence: 10.35184
+  tag: vacation
+}
+, class Tag {
+  confidence: 10.229117
+  tag: underwater
+}
+, class Tag {
+  confidence: 10.123431
+  tag: fun
+}
+, class Tag {
+  confidence: 10.065607
+  tag: diving
+}
+, class Tag {
+  confidence: 9.731543
+  tag: tropical
+}
+, class Tag {
+  confidence: 9.312
+  tag: breathing device
+}
+, class Tag {
+  confidence: 8.532855
+  tag: beach
+}
+, class Tag {
+  confidence: 8.129439
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.0954075
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.9648314
+  tag: male
+}
+, class Tag {
+  confidence: 7.9598556
+  tag: travel
+}
+, class Tag {
+  confidence: 7.906559
+  tag: people
+}
+, class Tag {
+  confidence: 7.5518694
+  tag: reef
+}
+, class Tag {
+  confidence: 7.5210977
+  tag: man
+}
+, class Tag {
+  confidence: 7.256257
+  tag: adult
+}
+]
+}
+]
+  unsuccessful: null
+}

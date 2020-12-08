@@ -1,0 +1,340 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHfF__0WEAAJcnO.png
+  tags: [class Tag {
+  confidence: 41.62204
+  tag: child
+}
+, class Tag {
+  confidence: 27.734173
+  tag: happy
+}
+, class Tag {
+  confidence: 25.442593
+  tag: kid
+}
+, class Tag {
+  confidence: 24.59982
+  tag: cute
+}
+, class Tag {
+  confidence: 23.466608
+  tag: boy
+}
+, class Tag {
+  confidence: 23.268997
+  tag: person
+}
+, class Tag {
+  confidence: 22.845781
+  tag: caucasian
+}
+, class Tag {
+  confidence: 22.78749
+  tag: area
+}
+, class Tag {
+  confidence: 22.531523
+  tag: fun
+}
+, class Tag {
+  confidence: 22.413954
+  tag: people
+}
+, class Tag {
+  confidence: 20.7094
+  tag: smile
+}
+, class Tag {
+  confidence: 20.704649
+  tag: childhood
+}
+, class Tag {
+  confidence: 20.619013
+  tag: little
+}
+, class Tag {
+  confidence: 20.330168
+  tag: park
+}
+, class Tag {
+  confidence: 19.477268
+  tag: happiness
+}
+, class Tag {
+  confidence: 19.406858
+  tag: joy
+}
+, class Tag {
+  confidence: 17.71421
+  tag: outdoor
+}
+, class Tag {
+  confidence: 17.350224
+  tag: grass
+}
+, class Tag {
+  confidence: 17.172495
+  tag: smiling
+}
+, class Tag {
+  confidence: 17.07878
+  tag: children
+}
+, class Tag {
+  confidence: 17.069069
+  tag: outdoors
+}
+, class Tag {
+  confidence: 16.798172
+  tag: portrait
+}
+, class Tag {
+  confidence: 16.498075
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 16.16728
+  tag: sitting
+}
+, class Tag {
+  confidence: 14.966741
+  tag: together
+}
+, class Tag {
+  confidence: 14.82774
+  tag: face
+}
+, class Tag {
+  confidence: 14.6912365
+  tag: cheerful
+}
+, class Tag {
+  confidence: 14.355366
+  tag: family
+}
+, class Tag {
+  confidence: 14.04
+  tag: resort area
+}
+, class Tag {
+  confidence: 13.747383
+  tag: male
+}
+, class Tag {
+  confidence: 13.02107
+  tag: youth
+}
+, class Tag {
+  confidence: 12.908342
+  tag: girls
+}
+, class Tag {
+  confidence: 12.765821
+  tag: two
+}
+, class Tag {
+  confidence: 12.600918
+  tag: adult
+}
+, class Tag {
+  confidence: 12.5570755
+  tag: baby
+}
+, class Tag {
+  confidence: 12.233696
+  tag: attractive
+}
+, class Tag {
+  confidence: 11.786363
+  tag: man
+}
+, class Tag {
+  confidence: 11.707561
+  tag: summer
+}
+, class Tag {
+  confidence: 11.669338
+  tag: mother
+}
+, class Tag {
+  confidence: 11.568926
+  tag: looking
+}
+, class Tag {
+  confidence: 11.451035
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.145239
+  tag: holding
+}
+, class Tag {
+  confidence: 11.120282
+  tag: day
+}
+, class Tag {
+  confidence: 10.759899
+  tag: adorable
+}
+, class Tag {
+  confidence: 10.2072115
+  tag: toddler
+}
+, class Tag {
+  confidence: 10.133005
+  tag: playful
+}
+, class Tag {
+  confidence: 10.061134
+  tag: kids
+}
+, class Tag {
+  confidence: 10.0401325
+  tag: swing
+}
+, class Tag {
+  confidence: 9.978786
+  tag: outside
+}
+, class Tag {
+  confidence: 9.907432
+  tag: love
+}
+, class Tag {
+  confidence: 9.904311
+  tag: play
+}
+, class Tag {
+  confidence: 9.74963
+  tag: leisure
+}
+, class Tag {
+  confidence: 9.667349
+  tag: blond
+}
+, class Tag {
+  confidence: 9.188699
+  tag: home
+}
+, class Tag {
+  confidence: 9.169422
+  tag: expression
+}
+, class Tag {
+  confidence: 9.070476
+  tag: positive
+}
+, class Tag {
+  confidence: 9.04792
+  tag: emotion
+}
+, class Tag {
+  confidence: 8.983068
+  tag: playing
+}
+, class Tag {
+  confidence: 8.659911
+  tag: couple
+}
+, class Tag {
+  confidence: 8.606342
+  tag: daughter
+}
+, class Tag {
+  confidence: 8.527285
+  tag: son
+}
+, class Tag {
+  confidence: 8.473908
+  tag: casual
+}
+, class Tag {
+  confidence: 8.343641
+  tag: region
+}
+, class Tag {
+  confidence: 8.33443
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.289931
+  tag: life
+}
+, class Tag {
+  confidence: 8.24163
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.128299
+  tag: one
+}
+, class Tag {
+  confidence: 8.0188
+  tag: activity
+}
+, class Tag {
+  confidence: 7.850397
+  tag: women
+}
+, class Tag {
+  confidence: 7.8015876
+  tag: hair
+}
+, class Tag {
+  confidence: 7.767701
+  tag: innocent
+}
+, class Tag {
+  confidence: 7.754309
+  tag: men
+}
+, class Tag {
+  confidence: 7.6812735
+  tag: color
+}
+, class Tag {
+  confidence: 7.638195
+  tag: sit
+}
+, class Tag {
+  confidence: 7.621606
+  tag: sweet
+}
+, class Tag {
+  confidence: 7.556489
+  tag: human
+}
+, class Tag {
+  confidence: 7.532805
+  tag: indian
+}
+, class Tag {
+  confidence: 7.532733
+  tag: friends
+}
+, class Tag {
+  confidence: 7.4306436
+  tag: field
+}
+, class Tag {
+  confidence: 7.424
+  tag: mechanical device
+}
+, class Tag {
+  confidence: 7.3948317
+  tag: tree
+}
+, class Tag {
+  confidence: 7.385951
+  tag: plaything
+}
+, class Tag {
+  confidence: 7.3009505
+  tag: freedom
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQDOSOWsAAnPnv.jpg
+  tags: [class Tag {
+  confidence: 21.379717
+  tag: paper
+}
+, class Tag {
+  confidence: 17.530058
+  tag: document
+}
+, class Tag {
+  confidence: 15.639342
+  tag: grunge
+}
+, class Tag {
+  confidence: 15.290527
+  tag: vintage
+}
+, class Tag {
+  confidence: 15.148958
+  tag: writing
+}
+, class Tag {
+  confidence: 15.094144
+  tag: frame
+}
+, class Tag {
+  confidence: 14.873854
+  tag: texture
+}
+, class Tag {
+  confidence: 13.1
+  tag: book jacket
+}
+, class Tag {
+  confidence: 11.983143
+  tag: old
+}
+, class Tag {
+  confidence: 11.812592
+  tag: card
+}
+, class Tag {
+  confidence: 11.336731
+  tag: business
+}
+, class Tag {
+  confidence: 10.694235
+  tag: design
+}
+, class Tag {
+  confidence: 10.516813
+  tag: page
+}
+, class Tag {
+  confidence: 10.3944235
+  tag: letter
+}
+, class Tag {
+  confidence: 10.211634
+  tag: jacket
+}
+, class Tag {
+  confidence: 9.648852
+  tag: antiquity
+}
+, class Tag {
+  confidence: 9.44351
+  tag: art
+}
+, class Tag {
+  confidence: 9.429732
+  tag: dirty
+}
+, class Tag {
+  confidence: 9.317321
+  tag: retro
+}
+, class Tag {
+  confidence: 9.263335
+  tag: pattern
+}
+, class Tag {
+  confidence: 9.201451
+  tag: bookmark
+}
+, class Tag {
+  confidence: 9.1098175
+  tag: brass
+}
+, class Tag {
+  confidence: 9.077472
+  tag: antique
+}
+, class Tag {
+  confidence: 8.438145
+  tag: text
+}
+, class Tag {
+  confidence: 8.351717
+  tag: textured
+}
+, class Tag {
+  confidence: 8.323912
+  tag: money
+}
+, class Tag {
+  confidence: 8.246354
+  tag: blank
+}
+, class Tag {
+  confidence: 8.085977
+  tag: day
+}
+, class Tag {
+  confidence: 7.9210005
+  tag: currency
+}
+, class Tag {
+  confidence: 7.9078207
+  tag: aged
+}
+, class Tag {
+  confidence: 7.8528204
+  tag: border
+}
+, class Tag {
+  confidence: 7.83941
+  tag: structure
+}
+, class Tag {
+  confidence: 7.722773
+  tag: wrapping
+}
+, class Tag {
+  confidence: 7.5914145
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.530463
+  tag: finance
+}
+, class Tag {
+  confidence: 7.4928136
+  tag: ancient
+}
+, class Tag {
+  confidence: 7.428501
+  tag: drawing
+}
+, class Tag {
+  confidence: 7.299161
+  tag: memorial
+}
+, class Tag {
+  confidence: 7.2157617
+  tag: note
+}
+, class Tag {
+  confidence: 7.1902127
+  tag: book
+}
+]
+}
+]
+  unsuccessful: null
+}

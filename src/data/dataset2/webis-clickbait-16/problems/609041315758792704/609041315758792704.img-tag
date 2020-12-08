@@ -1,0 +1,236 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHO_2XzUUAAyi3N.jpg
+  tags: [class Tag {
+  confidence: 37.90271
+  tag: architecture
+}
+, class Tag {
+  confidence: 35.13262
+  tag: building
+}
+, class Tag {
+  confidence: 34.52232
+  tag: paris
+}
+, class Tag {
+  confidence: 31.233711
+  tag: city
+}
+, class Tag {
+  confidence: 27.77911
+  tag: landmark
+}
+, class Tag {
+  confidence: 27.76577
+  tag: travel
+}
+, class Tag {
+  confidence: 26.80131
+  tag: tower
+}
+, class Tag {
+  confidence: 26.460947
+  tag: sky
+}
+, class Tag {
+  confidence: 26.339666
+  tag: tourism
+}
+, class Tag {
+  confidence: 25.756744
+  tag: europe
+}
+, class Tag {
+  confidence: 25.110416
+  tag: old
+}
+, class Tag {
+  confidence: 24.806356
+  tag: monument
+}
+, class Tag {
+  confidence: 21.294575
+  tag: history
+}
+, class Tag {
+  confidence: 19.450466
+  tag: historic
+}
+, class Tag {
+  confidence: 18.873665
+  tag: famous
+}
+, class Tag {
+  confidence: 17.975956
+  tag: church
+}
+, class Tag {
+  confidence: 16.038584
+  tag: ancient
+}
+, class Tag {
+  confidence: 15.0098
+  tag: culture
+}
+, class Tag {
+  confidence: 14.56006
+  tag: urban
+}
+, class Tag {
+  confidence: 14.507703
+  tag: cathedral
+}
+, class Tag {
+  confidence: 14.296326
+  tag: france
+}
+, class Tag {
+  confidence: 12.708068
+  tag: tourist
+}
+, class Tag {
+  confidence: 12.596777
+  tag: religion
+}
+, class Tag {
+  confidence: 12.531501
+  tag: historical
+}
+, class Tag {
+  confidence: 12.529967
+  tag: cityscape
+}
+, class Tag {
+  confidence: 11.624079
+  tag: river
+}
+, class Tag {
+  confidence: 10.962431
+  tag: capital
+}
+, class Tag {
+  confidence: 10.90725
+  tag: russia
+}
+, class Tag {
+  confidence: 10.730786
+  tag: town
+}
+, class Tag {
+  confidence: 10.3061695
+  tag: stone
+}
+, class Tag {
+  confidence: 10.04164
+  tag: structure
+}
+, class Tag {
+  confidence: 9.926653
+  tag: summer
+}
+, class Tag {
+  confidence: 9.859529
+  tag: place
+}
+, class Tag {
+  confidence: 9.659379
+  tag: landscape
+}
+, class Tag {
+  confidence: 9.546506
+  tag: european
+}
+, class Tag {
+  confidence: 9.390261
+  tag: castle
+}
+, class Tag {
+  confidence: 9.360982
+  tag: dome
+}
+, class Tag {
+  confidence: 9.281224
+  tag: classical
+}
+, class Tag {
+  confidence: 9.187547
+  tag: skyline
+}
+, class Tag {
+  confidence: 9.178953
+  tag: statue
+}
+, class Tag {
+  confidence: 8.95105
+  tag: exterior
+}
+, class Tag {
+  confidence: 8.924509
+  tag: day
+}
+, class Tag {
+  confidence: 8.713915
+  tag: house
+}
+, class Tag {
+  confidence: 8.678647
+  tag: tree
+}
+, class Tag {
+  confidence: 8.670642
+  tag: museum
+}
+, class Tag {
+  confidence: 8.53461
+  tag: christian
+}
+, class Tag {
+  confidence: 8.367239
+  tag: bridge
+}
+, class Tag {
+  confidence: 8.126059
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.9407167
+  tag: art
+}
+, class Tag {
+  confidence: 7.712265
+  tag: london
+}
+, class Tag {
+  confidence: 7.693379
+  tag: sun
+}
+, class Tag {
+  confidence: 7.6873307
+  tag: russian
+}
+, class Tag {
+  confidence: 7.6191845
+  tag: palace
+}
+, class Tag {
+  confidence: 7.579787
+  tag: roof
+}
+, class Tag {
+  confidence: 7.5663013
+  tag: french
+}
+, class Tag {
+  confidence: 7.5610085
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.1449804
+  tag: vacation
+}
+]
+}
+]
+  unsuccessful: null
+}

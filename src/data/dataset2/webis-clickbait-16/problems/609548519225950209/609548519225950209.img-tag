@@ -1,0 +1,232 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTcMh0UMAA7E8p.jpg
+  tags: [class Tag {
+  confidence: 33.31761
+  tag: sky
+}
+, class Tag {
+  confidence: 33.023323
+  tag: landscape
+}
+, class Tag {
+  confidence: 21.984335
+  tag: summer
+}
+, class Tag {
+  confidence: 19.69354
+  tag: water
+}
+, class Tag {
+  confidence: 17.711111
+  tag: travel
+}
+, class Tag {
+  confidence: 16.379274
+  tag: outdoors
+}
+, class Tag {
+  confidence: 16.3741
+  tag: tourism
+}
+, class Tag {
+  confidence: 15.717679
+  tag: scenery
+}
+, class Tag {
+  confidence: 15.520427
+  tag: trees
+}
+, class Tag {
+  confidence: 14.708362
+  tag: tree
+}
+, class Tag {
+  confidence: 14.666858
+  tag: clouds
+}
+, class Tag {
+  confidence: 14.48312
+  tag: scenic
+}
+, class Tag {
+  confidence: 14.414795
+  tag: ocean
+}
+, class Tag {
+  confidence: 14.2746935
+  tag: cloud
+}
+, class Tag {
+  confidence: 14.258981
+  tag: vacation
+}
+, class Tag {
+  confidence: 13.593285
+  tag: park
+}
+, class Tag {
+  confidence: 13.521807
+  tag: sea
+}
+, class Tag {
+  confidence: 13.017603
+  tag: mountain
+}
+, class Tag {
+  confidence: 12.992382
+  tag: day
+}
+, class Tag {
+  confidence: 12.876764
+  tag: environment
+}
+, class Tag {
+  confidence: 12.733247
+  tag: forest
+}
+, class Tag {
+  confidence: 12.703551
+  tag: rock
+}
+, class Tag {
+  confidence: 12.5981
+  tag: lake
+}
+, class Tag {
+  confidence: 12.2499695
+  tag: grass
+}
+, class Tag {
+  confidence: 12.043486
+  tag: outdoor
+}
+, class Tag {
+  confidence: 11.51185
+  tag: stone
+}
+, class Tag {
+  confidence: 11.196347
+  tag: clear
+}
+, class Tag {
+  confidence: 10.992428
+  tag: sun
+}
+, class Tag {
+  confidence: 10.947866
+  tag: color
+}
+, class Tag {
+  confidence: 10.502387
+  tag: sand
+}
+, class Tag {
+  confidence: 10.433054
+  tag: natural
+}
+, class Tag {
+  confidence: 10.367049
+  tag: outside
+}
+, class Tag {
+  confidence: 10.361687
+  tag: hill
+}
+, class Tag {
+  confidence: 10.084812
+  tag: beach
+}
+, class Tag {
+  confidence: 9.92692
+  tag: horizon
+}
+, class Tag {
+  confidence: 9.861985
+  tag: holiday
+}
+, class Tag {
+  confidence: 9.855586
+  tag: bright
+}
+, class Tag {
+  confidence: 9.829616
+  tag: light
+}
+, class Tag {
+  confidence: 9.538192
+  tag: sunny
+}
+, class Tag {
+  confidence: 9.35652
+  tag: mountains
+}
+, class Tag {
+  confidence: 9.305097
+  tag: spring
+}
+, class Tag {
+  confidence: 9.259166
+  tag: weather
+}
+, class Tag {
+  confidence: 8.917153
+  tag: river
+}
+, class Tag {
+  confidence: 8.777838
+  tag: wild
+}
+, class Tag {
+  confidence: 8.459664
+  tag: peaceful
+}
+, class Tag {
+  confidence: 8.249632
+  tag: coast
+}
+, class Tag {
+  confidence: 7.961501
+  tag: high
+}
+, class Tag {
+  confidence: 7.8253508
+  tag: cloudy
+}
+, class Tag {
+  confidence: 7.79977
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.7267227
+  tag: shore
+}
+, class Tag {
+  confidence: 7.57221
+  tag: island
+}
+, class Tag {
+  confidence: 7.4879813
+  tag: morning
+}
+, class Tag {
+  confidence: 7.461136
+  tag: meadow
+}
+, class Tag {
+  confidence: 7.3844404
+  tag: reflection
+}
+, class Tag {
+  confidence: 7.3733516
+  tag: sunlight
+}
+, class Tag {
+  confidence: 7.1717663
+  tag: scene
+}
+]
+}
+]
+  unsuccessful: null
+}

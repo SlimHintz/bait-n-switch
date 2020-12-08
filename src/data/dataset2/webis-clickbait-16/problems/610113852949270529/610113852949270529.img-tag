@@ -1,0 +1,196 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHePUOsWoAAve6W.jpg
+  tags: [class Tag {
+  confidence: 24.899996
+  tag: people
+}
+, class Tag {
+  confidence: 23.373333
+  tag: man
+}
+, class Tag {
+  confidence: 23.15282
+  tag: adult
+}
+, class Tag {
+  confidence: 22.663046
+  tag: person
+}
+, class Tag {
+  confidence: 21.980555
+  tag: male
+}
+, class Tag {
+  confidence: 20.709433
+  tag: caucasian
+}
+, class Tag {
+  confidence: 17.075174
+  tag: happy
+}
+, class Tag {
+  confidence: 15.419792
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.050545
+  tag: portrait
+}
+, class Tag {
+  confidence: 12.781526
+  tag: smiling
+}
+, class Tag {
+  confidence: 12.746231
+  tag: boy
+}
+, class Tag {
+  confidence: 12.020475
+  tag: sport
+}
+, class Tag {
+  confidence: 11.94
+  tag: punching bag
+}
+, class Tag {
+  confidence: 11.840931
+  tag: smile
+}
+, class Tag {
+  confidence: 11.350907
+  tag: holding
+}
+, class Tag {
+  confidence: 11.338486
+  tag: silhouette
+}
+, class Tag {
+  confidence: 11.064687
+  tag: looking
+}
+, class Tag {
+  confidence: 10.623709
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.239795
+  tag: black
+}
+, class Tag {
+  confidence: 10.12123
+  tag: fun
+}
+, class Tag {
+  confidence: 10.038503
+  tag: competition
+}
+, class Tag {
+  confidence: 9.622257
+  tag: one
+}
+, class Tag {
+  confidence: 9.358585
+  tag: youth
+}
+, class Tag {
+  confidence: 9.099293
+  tag: joy
+}
+, class Tag {
+  confidence: 9.0982275
+  tag: child
+}
+, class Tag {
+  confidence: 9.094367
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.852894
+  tag: standing
+}
+, class Tag {
+  confidence: 8.846412
+  tag: body
+}
+, class Tag {
+  confidence: 8.581857
+  tag: casual
+}
+, class Tag {
+  confidence: 8.525427
+  tag: player
+}
+, class Tag {
+  confidence: 8.307898
+  tag: sportswear
+}
+, class Tag {
+  confidence: 8.3020935
+  tag: hand
+}
+, class Tag {
+  confidence: 8.284381
+  tag: fitness
+}
+, class Tag {
+  confidence: 8.163666
+  tag: health
+}
+, class Tag {
+  confidence: 7.9997673
+  tag: women
+}
+, class Tag {
+  confidence: 7.9336705
+  tag: american
+}
+, class Tag {
+  confidence: 7.9249783
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.917204
+  tag: business
+}
+, class Tag {
+  confidence: 7.866988
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.682301
+  tag: training
+}
+, class Tag {
+  confidence: 7.655972
+  tag: sign
+}
+, class Tag {
+  confidence: 7.5048423
+  tag: exercise
+}
+, class Tag {
+  confidence: 7.3377047
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.238422
+  tag: hair
+}
+, class Tag {
+  confidence: 7.164
+  tag: game equipment
+}
+, class Tag {
+  confidence: 7.0981245
+  tag: men
+}
+, class Tag {
+  confidence: 7.0112677
+  tag: exercising
+}
+]
+}
+]
+  unsuccessful: null
+}

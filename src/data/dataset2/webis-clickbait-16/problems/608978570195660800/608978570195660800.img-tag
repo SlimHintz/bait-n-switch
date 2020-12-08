@@ -1,0 +1,296 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/tweet_video_thumb/CHOGl6AUAAIjHGY.png
+  tags: [class Tag {
+  confidence: 38.181587
+  tag: ball
+}
+, class Tag {
+  confidence: 33.028156
+  tag: player
+}
+, class Tag {
+  confidence: 27.578583
+  tag: person
+}
+, class Tag {
+  confidence: 24.423256
+  tag: people
+}
+, class Tag {
+  confidence: 23.585283
+  tag: sport
+}
+, class Tag {
+  confidence: 23.116
+  tag: game equipment
+}
+, class Tag {
+  confidence: 22.535997
+  tag: athlete
+}
+, class Tag {
+  confidence: 20.375648
+  tag: man
+}
+, class Tag {
+  confidence: 20.248394
+  tag: adult
+}
+, class Tag {
+  confidence: 19.03674
+  tag: male
+}
+, class Tag {
+  confidence: 18.50562
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.090868
+  tag: volleyball
+}
+, class Tag {
+  confidence: 15.296012
+  tag: contestant
+}
+, class Tag {
+  confidence: 15.166756
+  tag: equipment
+}
+, class Tag {
+  confidence: 13.854358
+  tag: competition
+}
+, class Tag {
+  confidence: 13.594177
+  tag: body
+}
+, class Tag {
+  confidence: 13.336075
+  tag: training
+}
+, class Tag {
+  confidence: 12.124691
+  tag: gymnastics
+}
+, class Tag {
+  confidence: 12.089767
+  tag: jump
+}
+, class Tag {
+  confidence: 11.805347
+  tag: fun
+}
+, class Tag {
+  confidence: 11.467953
+  tag: playing
+}
+, class Tag {
+  confidence: 11.293988
+  tag: match
+}
+, class Tag {
+  confidence: 11.24066
+  tag: basketball
+}
+, class Tag {
+  confidence: 11.147827
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.865505
+  tag: action
+}
+, class Tag {
+  confidence: 10.825017
+  tag: exercise
+}
+, class Tag {
+  confidence: 10.750982
+  tag: fitness
+}
+, class Tag {
+  confidence: 10.493248
+  tag: posing
+}
+, class Tag {
+  confidence: 10.313516
+  tag: boy
+}
+, class Tag {
+  confidence: 10.016831
+  tag: model
+}
+, class Tag {
+  confidence: 9.924428
+  tag: baseball
+}
+, class Tag {
+  confidence: 9.903634
+  tag: active
+}
+, class Tag {
+  confidence: 9.801419
+  tag: child
+}
+, class Tag {
+  confidence: 9.734439
+  tag: happy
+}
+, class Tag {
+  confidence: 9.421355
+  tag: healthy
+}
+, class Tag {
+  confidence: 9.357422
+  tag: women
+}
+, class Tag {
+  confidence: 9.100464
+  tag: pose
+}
+, class Tag {
+  confidence: 9.001051
+  tag: studio
+}
+, class Tag {
+  confidence: 8.98168
+  tag: human
+}
+, class Tag {
+  confidence: 8.938673
+  tag: championship
+}
+, class Tag {
+  confidence: 8.927755
+  tag: black
+}
+, class Tag {
+  confidence: 8.9160795
+  tag: game
+}
+, class Tag {
+  confidence: 8.816487
+  tag: muscular
+}
+, class Tag {
+  confidence: 8.691414
+  tag: health
+}
+, class Tag {
+  confidence: 8.664744
+  tag: youth
+}
+, class Tag {
+  confidence: 8.61614
+  tag: combatant
+}
+, class Tag {
+  confidence: 8.565466
+  tag: play
+}
+, class Tag {
+  confidence: 8.481514
+  tag: cute
+}
+, class Tag {
+  confidence: 8.429882
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.370187
+  tag: handsome
+}
+, class Tag {
+  confidence: 8.28698
+  tag: field
+}
+, class Tag {
+  confidence: 8.205853
+  tag: kid
+}
+, class Tag {
+  confidence: 8.13535
+  tag: kick
+}
+, class Tag {
+  confidence: 7.8440785
+  tag: summer
+}
+, class Tag {
+  confidence: 7.824757
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.744
+  tag: basketball equipment
+}
+, class Tag {
+  confidence: 7.722889
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.716516
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.6417475
+  tag: hand
+}
+, class Tag {
+  confidence: 7.572307
+  tag: team
+}
+, class Tag {
+  confidence: 7.5362678
+  tag: activity
+}
+, class Tag {
+  confidence: 7.5158634
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.440677
+  tag: standing
+}
+, class Tag {
+  confidence: 7.408508
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.29603
+  tag: portrait
+}
+, class Tag {
+  confidence: 7.2700033
+  tag: men
+}
+, class Tag {
+  confidence: 7.2536697
+  tag: smile
+}
+, class Tag {
+  confidence: 7.2325444
+  tag: face
+}
+, class Tag {
+  confidence: 7.211397
+  tag: skill
+}
+, class Tag {
+  confidence: 7.1593456
+  tag: motion
+}
+, class Tag {
+  confidence: 7.0653963
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.0109353
+  tag: one
+}
+]
+}
+]
+  unsuccessful: null
+}

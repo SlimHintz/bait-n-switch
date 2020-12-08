@@ -1,0 +1,200 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHHNAVhWkAAT-FA.jpg
+  tags: [class Tag {
+  confidence: 18.751713
+  tag: business
+}
+, class Tag {
+  confidence: 17.906889
+  tag: design
+}
+, class Tag {
+  confidence: 17.131424
+  tag: set
+}
+, class Tag {
+  confidence: 16.766956
+  tag: puzzle
+}
+, class Tag {
+  confidence: 16.109804
+  tag: icon
+}
+, class Tag {
+  confidence: 16.105263
+  tag: sign
+}
+, class Tag {
+  confidence: 14.483338
+  tag: symbol
+}
+, class Tag {
+  confidence: 14.026781
+  tag: web
+}
+, class Tag {
+  confidence: 13.975088
+  tag: graphic
+}
+, class Tag {
+  confidence: 13.837558
+  tag: paper
+}
+, class Tag {
+  confidence: 13.740918
+  tag: color
+}
+, class Tag {
+  confidence: 13.182613
+  tag: internet
+}
+, class Tag {
+  confidence: 11.69984
+  tag: art
+}
+, class Tag {
+  confidence: 11.110151
+  tag: money
+}
+, class Tag {
+  confidence: 10.850701
+  tag: 3d
+}
+, class Tag {
+  confidence: 10.590997
+  tag: information
+}
+, class Tag {
+  confidence: 10.359525
+  tag: office
+}
+, class Tag {
+  confidence: 10.271889
+  tag: finance
+}
+, class Tag {
+  confidence: 10.243248
+  tag: icons
+}
+, class Tag {
+  confidence: 9.796974
+  tag: success
+}
+, class Tag {
+  confidence: 9.322958
+  tag: card
+}
+, class Tag {
+  confidence: 9.027044
+  tag: element
+}
+, class Tag {
+  confidence: 8.99553
+  tag: modern
+}
+, class Tag {
+  confidence: 8.940219
+  tag: house
+}
+, class Tag {
+  confidence: 8.803162
+  tag: computer
+}
+, class Tag {
+  confidence: 8.678508
+  tag: website
+}
+, class Tag {
+  confidence: 8.675139
+  tag: plan
+}
+, class Tag {
+  confidence: 8.633066
+  tag: drawing
+}
+, class Tag {
+  confidence: 8.54319
+  tag: page
+}
+, class Tag {
+  confidence: 8.532447
+  tag: pattern
+}
+, class Tag {
+  confidence: 8.52765
+  tag: day
+}
+, class Tag {
+  confidence: 8.426952
+  tag: communication
+}
+, class Tag {
+  confidence: 8.381471
+  tag: toy
+}
+, class Tag {
+  confidence: 8.327627
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.24
+  tag: workweek
+}
+, class Tag {
+  confidence: 8.134607
+  tag: fun
+}
+, class Tag {
+  confidence: 8.044041
+  tag: button
+}
+, class Tag {
+  confidence: 7.961553
+  tag: calendar
+}
+, class Tag {
+  confidence: 7.950359
+  tag: cube
+}
+, class Tag {
+  confidence: 7.935966
+  tag: home
+}
+, class Tag {
+  confidence: 7.915546
+  tag: numbers
+}
+, class Tag {
+  confidence: 7.877186
+  tag: mail
+}
+, class Tag {
+  confidence: 7.8304625
+  tag: word
+}
+, class Tag {
+  confidence: 7.530662
+  tag: retro
+}
+, class Tag {
+  confidence: 7.3093805
+  tag: game
+}
+, class Tag {
+  confidence: 7.2338915
+  tag: education
+}
+, class Tag {
+  confidence: 7.107918
+  tag: email
+}
+, class Tag {
+  confidence: 7.0200005
+  tag: play
+}
+]
+}
+]
+  unsuccessful: null
+}

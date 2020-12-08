@@ -1,0 +1,228 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTtbQjVAAEa7f0.png
+  tags: [class Tag {
+  confidence: 21.811375
+  tag: pool
+}
+, class Tag {
+  confidence: 20.166002
+  tag: home
+}
+, class Tag {
+  confidence: 17.526829
+  tag: person
+}
+, class Tag {
+  confidence: 16.921322
+  tag: people
+}
+, class Tag {
+  confidence: 15.579812
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.670798
+  tag: water
+}
+, class Tag {
+  confidence: 14.022019
+  tag: relax
+}
+, class Tag {
+  confidence: 13.971917
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.9724655
+  tag: adult
+}
+, class Tag {
+  confidence: 12.73373
+  tag: smile
+}
+, class Tag {
+  confidence: 12.159453
+  tag: health
+}
+, class Tag {
+  confidence: 12.061918
+  tag: vacation
+}
+, class Tag {
+  confidence: 12.053696
+  tag: attractive
+}
+, class Tag {
+  confidence: 11.954924
+  tag: happy
+}
+, class Tag {
+  confidence: 11.728477
+  tag: excavation
+}
+, class Tag {
+  confidence: 11.661359
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.502589
+  tag: vessel
+}
+, class Tag {
+  confidence: 11.487211
+  tag: summer
+}
+, class Tag {
+  confidence: 11.443382
+  tag: sea
+}
+, class Tag {
+  confidence: 11.299416
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.203582
+  tag: holiday
+}
+, class Tag {
+  confidence: 11.012121
+  tag: beach
+}
+, class Tag {
+  confidence: 10.940864
+  tag: healthy
+}
+, class Tag {
+  confidence: 10.765593
+  tag: house
+}
+, class Tag {
+  confidence: 10.685711
+  tag: sky
+}
+, class Tag {
+  confidence: 10.398829
+  tag: relaxing
+}
+, class Tag {
+  confidence: 10.239314
+  tag: relaxation
+}
+, class Tag {
+  confidence: 10.044145
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.3106
+  tag: indoors
+}
+, class Tag {
+  confidence: 9.297324
+  tag: body
+}
+, class Tag {
+  confidence: 9.167934
+  tag: bathtub
+}
+, class Tag {
+  confidence: 9.069749
+  tag: casual
+}
+, class Tag {
+  confidence: 9.065573
+  tag: outside
+}
+, class Tag {
+  confidence: 9.049836
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.98
+  tag: resort hotel
+}
+, class Tag {
+  confidence: 8.64308
+  tag: one
+}
+, class Tag {
+  confidence: 8.393058
+  tag: apartment
+}
+, class Tag {
+  confidence: 8.293879
+  tag: luxury
+}
+, class Tag {
+  confidence: 8.204005
+  tag: skin
+}
+, class Tag {
+  confidence: 8.167972
+  tag: life
+}
+, class Tag {
+  confidence: 7.7755795
+  tag: interior
+}
+, class Tag {
+  confidence: 7.7144513
+  tag: model
+}
+, class Tag {
+  confidence: 7.422797
+  tag: modern
+}
+, class Tag {
+  confidence: 7.2780643
+  tag: indoor
+}
+, class Tag {
+  confidence: 7.225627
+  tag: room
+}
+, class Tag {
+  confidence: 7.2121415
+  tag: tub
+}
+, class Tag {
+  confidence: 7.175824
+  tag: ocean
+}
+, class Tag {
+  confidence: 7.1711273
+  tag: travel
+}
+, class Tag {
+  confidence: 7.17002
+  tag: fun
+}
+, class Tag {
+  confidence: 7.124368
+  tag: domestic
+}
+, class Tag {
+  confidence: 7.1141424
+  tag: tranquil
+}
+, class Tag {
+  confidence: 7.078197
+  tag: spa
+}
+, class Tag {
+  confidence: 7.0597
+  tag: computer
+}
+, class Tag {
+  confidence: 7.037145
+  tag: women
+}
+, class Tag {
+  confidence: 7.003468
+  tag: face
+}
+]
+}
+]
+  unsuccessful: null
+}

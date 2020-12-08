@@ -1,0 +1,236 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHN-fx5WMAAzFBJ.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: hamburger
+}
+, class Tag {
+  confidence: 96.796074
+  tag: cheeseburger
+}
+, class Tag {
+  confidence: 85.01425
+  tag: sandwich
+}
+, class Tag {
+  confidence: 40.87695
+  tag: snack food
+}
+, class Tag {
+  confidence: 34.069675
+  tag: meal
+}
+, class Tag {
+  confidence: 33.579773
+  tag: lunch
+}
+, class Tag {
+  confidence: 33.22506
+  tag: food
+}
+, class Tag {
+  confidence: 32.529053
+  tag: bread
+}
+, class Tag {
+  confidence: 30.23549
+  tag: dinner
+}
+, class Tag {
+  confidence: 30.083815
+  tag: dish
+}
+, class Tag {
+  confidence: 27.09077
+  tag: cheese
+}
+, class Tag {
+  confidence: 26.79759
+  tag: lettuce
+}
+, class Tag {
+  confidence: 25.976887
+  tag: tomato
+}
+, class Tag {
+  confidence: 25.716236
+  tag: meat
+}
+, class Tag {
+  confidence: 24.735617
+  tag: snack
+}
+, class Tag {
+  confidence: 24.142008
+  tag: bun
+}
+, class Tag {
+  confidence: 23.25097
+  tag: delicious
+}
+, class Tag {
+  confidence: 21.173422
+  tag: tasty
+}
+, class Tag {
+  confidence: 21.161615
+  tag: fast
+}
+, class Tag {
+  confidence: 20.313938
+  tag: beef
+}
+, class Tag {
+  confidence: 20.11009
+  tag: burger
+}
+, class Tag {
+  confidence: 18.427061
+  tag: plate
+}
+, class Tag {
+  confidence: 17.391417
+  tag: diet
+}
+, class Tag {
+  confidence: 16.124025
+  tag: onion
+}
+, class Tag {
+  confidence: 16.091259
+  tag: restaurant
+}
+, class Tag {
+  confidence: 15.184803
+  tag: eating
+}
+, class Tag {
+  confidence: 14.6021805
+  tag: fresh
+}
+, class Tag {
+  confidence: 14.518303
+  tag: grilled
+}
+, class Tag {
+  confidence: 14.443496
+  tag: vegetable
+}
+, class Tag {
+  confidence: 14.41564
+  tag: unhealthy
+}
+, class Tag {
+  confidence: 14.2856
+  tag: gourmet
+}
+, class Tag {
+  confidence: 14.026724
+  tag: sesame
+}
+, class Tag {
+  confidence: 12.888463
+  tag: cuisine
+}
+, class Tag {
+  confidence: 12.694109
+  tag: healthy
+}
+, class Tag {
+  confidence: 12.331561
+  tag: fat
+}
+, class Tag {
+  confidence: 12.094627
+  tag: breakfast
+}
+, class Tag {
+  confidence: 11.567458
+  tag: nutrition
+}
+, class Tag {
+  confidence: 11.05805
+  tag: vegetables
+}
+, class Tag {
+  confidence: 10.922323
+  tag: eat
+}
+, class Tag {
+  confidence: 10.865571
+  tag: cooked
+}
+, class Tag {
+  confidence: 10.606092
+  tag: fried
+}
+, class Tag {
+  confidence: 10.159156
+  tag: ham
+}
+, class Tag {
+  confidence: 9.843087
+  tag: brown
+}
+, class Tag {
+  confidence: 9.837085
+  tag: slice
+}
+, class Tag {
+  confidence: 9.292552
+  tag: closeup
+}
+, class Tag {
+  confidence: 8.744661
+  tag: cheddar
+}
+, class Tag {
+  confidence: 8.669391
+  tag: sauce
+}
+, class Tag {
+  confidence: 8.5610485
+  tag: seed
+}
+, class Tag {
+  confidence: 8.233092
+  tag: calories
+}
+, class Tag {
+  confidence: 8.127077
+  tag: cooking
+}
+, class Tag {
+  confidence: 7.9756227
+  tag: health
+}
+, class Tag {
+  confidence: 7.9427967
+  tag: diner
+}
+, class Tag {
+  confidence: 7.575779
+  tag: junk
+}
+, class Tag {
+  confidence: 7.5259295
+  tag: american
+}
+, class Tag {
+  confidence: 7.3925467
+  tag: close
+}
+, class Tag {
+  confidence: 7.1094522
+  tag: appetizer
+}
+, class Tag {
+  confidence: 7.1024113
+  tag: juicy
+}
+]
+}
+]
+  unsuccessful: null
+}

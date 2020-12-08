@@ -1,0 +1,240 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeB74PUAAA9f-3.jpg
+  tags: [class Tag {
+  confidence: 28.898478
+  tag: man
+}
+, class Tag {
+  confidence: 24.002552
+  tag: golfer
+}
+, class Tag {
+  confidence: 23.260122
+  tag: people
+}
+, class Tag {
+  confidence: 23.00635
+  tag: male
+}
+, class Tag {
+  confidence: 22.515915
+  tag: player
+}
+, class Tag {
+  confidence: 21.766802
+  tag: person
+}
+, class Tag {
+  confidence: 20.353037
+  tag: sport
+}
+, class Tag {
+  confidence: 18.807238
+  tag: adult
+}
+, class Tag {
+  confidence: 18.377256
+  tag: bearskin
+}
+, class Tag {
+  confidence: 18.266548
+  tag: hat
+}
+, class Tag {
+  confidence: 16.492884
+  tag: happy
+}
+, class Tag {
+  confidence: 15.821063
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.789099
+  tag: standing
+}
+, class Tag {
+  confidence: 12.6128025
+  tag: boy
+}
+, class Tag {
+  confidence: 12.025189
+  tag: clothing
+}
+, class Tag {
+  confidence: 11.916635
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.507972
+  tag: contestant
+}
+, class Tag {
+  confidence: 11.3645
+  tag: leisure
+}
+, class Tag {
+  confidence: 11.356639
+  tag: family
+}
+, class Tag {
+  confidence: 11.293329
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.009095
+  tag: headdress
+}
+, class Tag {
+  confidence: 10.911039
+  tag: rival
+}
+, class Tag {
+  confidence: 10.306693
+  tag: men
+}
+, class Tag {
+  confidence: 10.06829
+  tag: fun
+}
+, class Tag {
+  confidence: 10.018724
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.943849
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.877501
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.874639
+  tag: child
+}
+, class Tag {
+  confidence: 9.873102
+  tag: grass
+}
+, class Tag {
+  confidence: 9.481993
+  tag: business
+}
+, class Tag {
+  confidence: 9.201087
+  tag: smile
+}
+, class Tag {
+  confidence: 9.180439
+  tag: holding
+}
+, class Tag {
+  confidence: 9.141566
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.071592
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.976469
+  tag: looking
+}
+, class Tag {
+  confidence: 8.75142
+  tag: professional
+}
+, class Tag {
+  confidence: 8.749414
+  tag: youth
+}
+, class Tag {
+  confidence: 8.403368
+  tag: businessman
+}
+, class Tag {
+  confidence: 8.158206
+  tag: golf
+}
+, class Tag {
+  confidence: 8.136205
+  tag: women
+}
+, class Tag {
+  confidence: 8.045095
+  tag: love
+}
+, class Tag {
+  confidence: 7.918564
+  tag: mother
+}
+, class Tag {
+  confidence: 7.787321
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.7867894
+  tag: exercise
+}
+, class Tag {
+  confidence: 7.7849474
+  tag: joy
+}
+, class Tag {
+  confidence: 7.6968784
+  tag: team
+}
+, class Tag {
+  confidence: 7.6235003
+  tag: health
+}
+, class Tag {
+  confidence: 7.6108665
+  tag: group
+}
+, class Tag {
+  confidence: 7.5300198
+  tag: kid
+}
+, class Tag {
+  confidence: 7.4849987
+  tag: couple
+}
+, class Tag {
+  confidence: 7.3642616
+  tag: torch
+}
+, class Tag {
+  confidence: 7.3423886
+  tag: innocent
+}
+, class Tag {
+  confidence: 7.297421
+  tag: son
+}
+, class Tag {
+  confidence: 7.253519
+  tag: club
+}
+, class Tag {
+  confidence: 7.2318215
+  tag: sky
+}
+, class Tag {
+  confidence: 7.226221
+  tag: play
+}
+, class Tag {
+  confidence: 7.1766763
+  tag: human
+}
+, class Tag {
+  confidence: 7.112884
+  tag: hand
+}
+]
+}
+]
+  unsuccessful: null
+}

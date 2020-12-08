@@ -1,0 +1,204 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeQqSQWEAAMxVj.jpg
+  tags: [class Tag {
+  confidence: 31.414513
+  tag: black
+}
+, class Tag {
+  confidence: 27.397217
+  tag: portrait
+}
+, class Tag {
+  confidence: 25.911507
+  tag: man
+}
+, class Tag {
+  confidence: 25.758472
+  tag: face
+}
+, class Tag {
+  confidence: 24.19454
+  tag: people
+}
+, class Tag {
+  confidence: 23.875296
+  tag: adult
+}
+, class Tag {
+  confidence: 23.785667
+  tag: person
+}
+, class Tag {
+  confidence: 21.759989
+  tag: male
+}
+, class Tag {
+  confidence: 20.927189
+  tag: astronaut
+}
+, class Tag {
+  confidence: 20.600498
+  tag: african
+}
+, class Tag {
+  confidence: 20.279455
+  tag: hair
+}
+, class Tag {
+  confidence: 19.638626
+  tag: attractive
+}
+, class Tag {
+  confidence: 17.48697
+  tag: expression
+}
+, class Tag {
+  confidence: 16.591843
+  tag: smile
+}
+, class Tag {
+  confidence: 16.495155
+  tag: happy
+}
+, class Tag {
+  confidence: 14.619214
+  tag: eyes
+}
+, class Tag {
+  confidence: 13.92899
+  tag: pretty
+}
+, class Tag {
+  confidence: 13.914101
+  tag: youth
+}
+, class Tag {
+  confidence: 13.15272
+  tag: handsome
+}
+, class Tag {
+  confidence: 13.145197
+  tag: smiling
+}
+, class Tag {
+  confidence: 12.870871
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.856954
+  tag: model
+}
+, class Tag {
+  confidence: 12.431181
+  tag: casual
+}
+, class Tag {
+  confidence: 11.888576
+  tag: american
+}
+, class Tag {
+  confidence: 11.630422
+  tag: professional
+}
+, class Tag {
+  confidence: 11.230488
+  tag: lady
+}
+, class Tag {
+  confidence: 11.161532
+  tag: boy
+}
+, class Tag {
+  confidence: 10.318575
+  tag: looking
+}
+, class Tag {
+  confidence: 9.995979
+  tag: business
+}
+, class Tag {
+  confidence: 9.972612
+  tag: head
+}
+, class Tag {
+  confidence: 9.268008
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.202826
+  tag: cute
+}
+, class Tag {
+  confidence: 9.048121
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.82224
+  tag: men
+}
+, class Tag {
+  confidence: 8.798126
+  tag: women
+}
+, class Tag {
+  confidence: 8.558661
+  tag: teenager
+}
+, class Tag {
+  confidence: 8.461348
+  tag: human
+}
+, class Tag {
+  confidence: 8.29468
+  tag: one
+}
+, class Tag {
+  confidence: 7.88
+  tag: neck brace
+}
+, class Tag {
+  confidence: 7.872589
+  tag: teen
+}
+, class Tag {
+  confidence: 7.747546
+  tag: holding
+}
+, class Tag {
+  confidence: 7.7296467
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.6070504
+  tag: businessman
+}
+, class Tag {
+  confidence: 7.527414
+  tag: native
+}
+, class Tag {
+  confidence: 7.4766164
+  tag: brunette
+}
+, class Tag {
+  confidence: 7.2807193
+  tag: sitting
+}
+, class Tag {
+  confidence: 7.2695093
+  tag: nose
+}
+, class Tag {
+  confidence: 7.133622
+  tag: guy
+}
+, class Tag {
+  confidence: 7.1173797
+  tag: lips
+}
+]
+}
+]
+  unsuccessful: null
+}

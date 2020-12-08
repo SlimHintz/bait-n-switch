@@ -1,0 +1,344 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHVTk8xUwAEaVzP.png
+  tags: [class Tag {
+  confidence: 32.320145
+  tag: person
+}
+, class Tag {
+  confidence: 25.04842
+  tag: people
+}
+, class Tag {
+  confidence: 22.494877
+  tag: man
+}
+, class Tag {
+  confidence: 22.035765
+  tag: crowd
+}
+, class Tag {
+  confidence: 21.056791
+  tag: lights
+}
+, class Tag {
+  confidence: 20.623213
+  tag: audience
+}
+, class Tag {
+  confidence: 20.51726
+  tag: stadium
+}
+, class Tag {
+  confidence: 20.386045
+  tag: silhouette
+}
+, class Tag {
+  confidence: 19.531673
+  tag: patriotic
+}
+, class Tag {
+  confidence: 19.32296
+  tag: nation
+}
+, class Tag {
+  confidence: 18.751612
+  tag: flag
+}
+, class Tag {
+  confidence: 18.582695
+  tag: skill
+}
+, class Tag {
+  confidence: 18.171097
+  tag: cheering
+}
+, class Tag {
+  confidence: 17.005705
+  tag: event
+}
+, class Tag {
+  confidence: 16.404554
+  tag: nighttime
+}
+, class Tag {
+  confidence: 16.14061
+  tag: competition
+}
+, class Tag {
+  confidence: 16.044783
+  tag: muscular
+}
+, class Tag {
+  confidence: 16.033688
+  tag: male
+}
+, class Tag {
+  confidence: 15.65898
+  tag: training
+}
+, class Tag {
+  confidence: 15.636121
+  tag: player
+}
+, class Tag {
+  confidence: 15.518842
+  tag: disk jockey
+}
+, class Tag {
+  confidence: 15.423493
+  tag: championship
+}
+, class Tag {
+  confidence: 15.289385
+  tag: adult
+}
+, class Tag {
+  confidence: 15.268438
+  tag: match
+}
+, class Tag {
+  confidence: 15.0719
+  tag: athlete
+}
+, class Tag {
+  confidence: 14.96268
+  tag: stage
+}
+, class Tag {
+  confidence: 14.776519
+  tag: icon
+}
+, class Tag {
+  confidence: 14.640918
+  tag: hair
+}
+, class Tag {
+  confidence: 14.5056715
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.812641
+  tag: field
+}
+, class Tag {
+  confidence: 13.789883
+  tag: sport
+}
+, class Tag {
+  confidence: 13.63302
+  tag: bright
+}
+, class Tag {
+  confidence: 13.315303
+  tag: symbol
+}
+, class Tag {
+  confidence: 12.963744
+  tag: roriginal
+}
+, class Tag {
+  confidence: 12.53196
+  tag: music
+}
+, class Tag {
+  confidence: 12.416
+  tag: broadcaster
+}
+, class Tag {
+  confidence: 12.263507
+  tag: vibrant
+}
+, class Tag {
+  confidence: 11.940471
+  tag: team
+}
+, class Tag {
+  confidence: 11.387287
+  tag: face
+}
+, class Tag {
+  confidence: 11.009389
+  tag: work
+}
+, class Tag {
+  confidence: 10.793911
+  tag: design
+}
+, class Tag {
+  confidence: 10.73187
+  tag: platform
+}
+, class Tag {
+  confidence: 10.7027445
+  tag: park
+}
+, class Tag {
+  confidence: 10.5924425
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.339498
+  tag: business
+}
+, class Tag {
+  confidence: 10.325442
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.109559
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.09998
+  tag: fashion
+}
+, class Tag {
+  confidence: 9.932457
+  tag: one
+}
+, class Tag {
+  confidence: 9.7928
+  tag: casual
+}
+, class Tag {
+  confidence: 9.758252
+  tag: youth
+}
+, class Tag {
+  confidence: 9.684889
+  tag: vivid
+}
+, class Tag {
+  confidence: 9.492514
+  tag: smile
+}
+, class Tag {
+  confidence: 9.418278
+  tag: kick
+}
+, class Tag {
+  confidence: 9.400328
+  tag: pass
+}
+, class Tag {
+  confidence: 9.375295
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.357116
+  tag: shoot
+}
+, class Tag {
+  confidence: 9.319037
+  tag: soccer
+}
+, class Tag {
+  confidence: 9.307831
+  tag: communicator
+}
+, class Tag {
+  confidence: 9.280596
+  tag: goal
+}
+, class Tag {
+  confidence: 9.184079
+  tag: ball
+}
+, class Tag {
+  confidence: 8.988427
+  tag: glowing
+}
+, class Tag {
+  confidence: 8.7385845
+  tag: human
+}
+, class Tag {
+  confidence: 8.698256
+  tag: light
+}
+, class Tag {
+  confidence: 8.627153
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.511539
+  tag: night
+}
+, class Tag {
+  confidence: 8.48945
+  tag: happy
+}
+, class Tag {
+  confidence: 8.411609
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.334626
+  tag: black
+}
+, class Tag {
+  confidence: 8.237492
+  tag: party
+}
+, class Tag {
+  confidence: 8.100178
+  tag: occupation
+}
+, class Tag {
+  confidence: 7.9923077
+  tag: hand
+}
+, class Tag {
+  confidence: 7.9740467
+  tag: machinist
+}
+, class Tag {
+  confidence: 7.799549
+  tag: versus
+}
+, class Tag {
+  confidence: 7.787775
+  tag: fun
+}
+, class Tag {
+  confidence: 7.6390343
+  tag: shiny
+}
+, class Tag {
+  confidence: 7.5995
+  tag: football
+}
+, class Tag {
+  confidence: 7.5451097
+  tag: hands
+}
+, class Tag {
+  confidence: 7.3367133
+  tag: stretcher
+}
+, class Tag {
+  confidence: 7.313017
+  tag: dark
+}
+, class Tag {
+  confidence: 7.2014675
+  tag: entertainment
+}
+, class Tag {
+  confidence: 7.0919685
+  tag: businessman
+}
+, class Tag {
+  confidence: 7.03185
+  tag: billboard
+}
+, class Tag {
+  confidence: 7.00856
+  tag: computer
+}
+]
+}
+]
+  unsuccessful: null
+}

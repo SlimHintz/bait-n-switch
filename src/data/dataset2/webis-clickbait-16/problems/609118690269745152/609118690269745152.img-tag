@@ -1,0 +1,196 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQDSwBUUAE0pTE.png
+  tags: [class Tag {
+  confidence: 97.126045
+  tag: surgeon
+}
+, class Tag {
+  confidence: 83.63017
+  tag: doctor
+}
+, class Tag {
+  confidence: 46.47653
+  tag: medical practitioner
+}
+, class Tag {
+  confidence: 34.86
+  tag: health professional
+}
+, class Tag {
+  confidence: 24.16812
+  tag: adult
+}
+, class Tag {
+  confidence: 23.3611
+  tag: medical
+}
+, class Tag {
+  confidence: 21.052765
+  tag: healthcare
+}
+, class Tag {
+  confidence: 21.044249
+  tag: hospital
+}
+, class Tag {
+  confidence: 19.55356
+  tag: professional
+}
+, class Tag {
+  confidence: 18.695389
+  tag: man
+}
+, class Tag {
+  confidence: 17.705631
+  tag: medicine
+}
+, class Tag {
+  confidence: 17.174902
+  tag: people
+}
+, class Tag {
+  confidence: 16.300982
+  tag: male
+}
+, class Tag {
+  confidence: 16.04
+  tag: oxygen mask
+}
+, class Tag {
+  confidence: 15.6883
+  tag: clinic
+}
+, class Tag {
+  confidence: 15.479769
+  tag: uniform
+}
+, class Tag {
+  confidence: 15.046515
+  tag: nurse
+}
+, class Tag {
+  confidence: 14.678818
+  tag: health
+}
+, class Tag {
+  confidence: 13.030791
+  tag: person
+}
+, class Tag {
+  confidence: 12.969382
+  tag: work
+}
+, class Tag {
+  confidence: 12.832
+  tag: breathing device
+}
+, class Tag {
+  confidence: 12.644021
+  tag: patient
+}
+, class Tag {
+  confidence: 12.501262
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.163541
+  tag: stethoscope
+}
+, class Tag {
+  confidence: 11.348979
+  tag: working
+}
+, class Tag {
+  confidence: 11.193196
+  tag: care
+}
+, class Tag {
+  confidence: 11.160341
+  tag: job
+}
+, class Tag {
+  confidence: 10.34046
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.119941
+  tag: physician
+}
+, class Tag {
+  confidence: 9.543171
+  tag: surgery
+}
+, class Tag {
+  confidence: 9.224549
+  tag: device
+}
+, class Tag {
+  confidence: 9.042852
+  tag: laboratory
+}
+, class Tag {
+  confidence: 8.862936
+  tag: smile
+}
+, class Tag {
+  confidence: 8.785793
+  tag: illness
+}
+, class Tag {
+  confidence: 8.695591
+  tag: business
+}
+, class Tag {
+  confidence: 8.409291
+  tag: treatment
+}
+, class Tag {
+  confidence: 8.406578
+  tag: occupation
+}
+, class Tag {
+  confidence: 8.202234
+  tag: examination
+}
+, class Tag {
+  confidence: 7.9341083
+  tag: disease
+}
+, class Tag {
+  confidence: 7.907788
+  tag: happy
+}
+, class Tag {
+  confidence: 7.8843102
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.8460975
+  tag: practitioner
+}
+, class Tag {
+  confidence: 7.6708097
+  tag: science
+}
+, class Tag {
+  confidence: 7.1009607
+  tag: human
+}
+, class Tag {
+  confidence: 7.0603333
+  tag: operation
+}
+, class Tag {
+  confidence: 7.026912
+  tag: profession
+}
+, class Tag {
+  confidence: 7.0132403
+  tag: exam
+}
+]
+}
+]
+  unsuccessful: null
+}

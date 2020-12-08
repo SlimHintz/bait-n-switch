@@ -1,0 +1,212 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHEO_y8UAAA8McN.jpg
+  tags: [class Tag {
+  confidence: 22.430641
+  tag: car
+}
+, class Tag {
+  confidence: 21.54
+  tag: car mirror
+}
+, class Tag {
+  confidence: 21.499565
+  tag: person
+}
+, class Tag {
+  confidence: 20.459385
+  tag: mirror
+}
+, class Tag {
+  confidence: 17.434978
+  tag: people
+}
+, class Tag {
+  confidence: 16.58233
+  tag: camera
+}
+, class Tag {
+  confidence: 16.167667
+  tag: adult
+}
+, class Tag {
+  confidence: 15.280422
+  tag: equipment
+}
+, class Tag {
+  confidence: 14.943726
+  tag: man
+}
+, class Tag {
+  confidence: 14.62
+  tag: television camera
+}
+, class Tag {
+  confidence: 13.450962
+  tag: aviator
+}
+, class Tag {
+  confidence: 12.900884
+  tag: reflector
+}
+, class Tag {
+  confidence: 12.643893
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.4558935
+  tag: vehicle
+}
+, class Tag {
+  confidence: 12.059928
+  tag: hand
+}
+, class Tag {
+  confidence: 11.877392
+  tag: transportation
+}
+, class Tag {
+  confidence: 11.696
+  tag: television equipment
+}
+, class Tag {
+  confidence: 11.1984415
+  tag: automobile
+}
+, class Tag {
+  confidence: 10.849716
+  tag: smile
+}
+, class Tag {
+  confidence: 10.215541
+  tag: happy
+}
+, class Tag {
+  confidence: 10.195005
+  tag: drive
+}
+, class Tag {
+  confidence: 9.8376045
+  tag: business
+}
+, class Tag {
+  confidence: 9.799471
+  tag: driver
+}
+, class Tag {
+  confidence: 9.791151
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.714905
+  tag: male
+}
+, class Tag {
+  confidence: 9.580589
+  tag: face
+}
+, class Tag {
+  confidence: 9.488
+  tag: photographic equipment
+}
+, class Tag {
+  confidence: 9.340151
+  tag: black
+}
+, class Tag {
+  confidence: 9.3184395
+  tag: women
+}
+, class Tag {
+  confidence: 9.278444
+  tag: technology
+}
+, class Tag {
+  confidence: 9.053848
+  tag: communication
+}
+, class Tag {
+  confidence: 9.025189
+  tag: attractive
+}
+, class Tag {
+  confidence: 9.013152
+  tag: road
+}
+, class Tag {
+  confidence: 8.904836
+  tag: driving
+}
+, class Tag {
+  confidence: 8.771345
+  tag: electronic equipment
+}
+, class Tag {
+  confidence: 8.6090145
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.579277
+  tag: hands
+}
+, class Tag {
+  confidence: 8.396213
+  tag: portrait
+}
+, class Tag {
+  confidence: 8.370421
+  tag: phone
+}
+, class Tag {
+  confidence: 8.097582
+  tag: control panel
+}
+, class Tag {
+  confidence: 7.996821
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.92933
+  tag: hair
+}
+, class Tag {
+  confidence: 7.64764
+  tag: human
+}
+, class Tag {
+  confidence: 7.6324725
+  tag: transport
+}
+, class Tag {
+  confidence: 7.5860767
+  tag: one
+}
+, class Tag {
+  confidence: 7.556595
+  tag: sport
+}
+, class Tag {
+  confidence: 7.4612055
+  tag: businessman
+}
+, class Tag {
+  confidence: 7.3892136
+  tag: travel
+}
+, class Tag {
+  confidence: 7.3805466
+  tag: fun
+}
+, class Tag {
+  confidence: 7.1633153
+  tag: professional
+}
+, class Tag {
+  confidence: 7.010963
+  tag: limousine
+}
+]
+}
+]
+  unsuccessful: null
+}

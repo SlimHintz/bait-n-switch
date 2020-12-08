@@ -1,0 +1,36 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHLl9nVWQAAZtj2.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: koala
+}
+, class Tag {
+  confidence: 30.085678
+  tag: mammal
+}
+, class Tag {
+  confidence: 10.713601
+  tag: mongoose
+}
+, class Tag {
+  confidence: 9.694933
+  tag: wallaby
+}
+, class Tag {
+  confidence: 8.6
+  tag: fox squirrel
+}
+, class Tag {
+  confidence: 8.576
+  tag: viverrine
+}
+, class Tag {
+  confidence: 7.745543
+  tag: kangaroo
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdEYNqWIAAObkx.jpg
+  tags: [class Tag {
+  confidence: 32.55076
+  tag: pinwheel
+}
+, class Tag {
+  confidence: 24.974977
+  tag: wheel
+}
+, class Tag {
+  confidence: 17.6272
+  tag: machine
+}
+, class Tag {
+  confidence: 16.835957
+  tag: decoration
+}
+, class Tag {
+  confidence: 15.861081
+  tag: colorful
+}
+, class Tag {
+  confidence: 15.590543
+  tag: color
+}
+, class Tag {
+  confidence: 14.58399
+  tag: celebration
+}
+, class Tag {
+  confidence: 14.034565
+  tag: christmas
+}
+, class Tag {
+  confidence: 12.821923
+  tag: design
+}
+, class Tag {
+  confidence: 12.417208
+  tag: yellow
+}
+, class Tag {
+  confidence: 12.32
+  tag: mechanical device
+}
+, class Tag {
+  confidence: 12.187926
+  tag: graphic
+}
+, class Tag {
+  confidence: 11.795841
+  tag: art
+}
+, class Tag {
+  confidence: 11.093371
+  tag: 3d
+}
+, class Tag {
+  confidence: 10.6006565
+  tag: ribbon
+}
+, class Tag {
+  confidence: 10.487503
+  tag: holiday
+}
+, class Tag {
+  confidence: 9.954297
+  tag: colors
+}
+, class Tag {
+  confidence: 9.767065
+  tag: shape
+}
+, class Tag {
+  confidence: 9.689151
+  tag: symbol
+}
+, class Tag {
+  confidence: 9.044302
+  tag: texture
+}
+, class Tag {
+  confidence: 8.964384
+  tag: colourful
+}
+, class Tag {
+  confidence: 8.709528
+  tag: bright
+}
+, class Tag {
+  confidence: 8.654606
+  tag: decorative
+}
+, class Tag {
+  confidence: 8.606847
+  tag: flower
+}
+, class Tag {
+  confidence: 8.560045
+  tag: star
+}
+, class Tag {
+  confidence: 8.468364
+  tag: fun
+}
+, class Tag {
+  confidence: 8.416182
+  tag: gifts
+}
+, class Tag {
+  confidence: 8.324318
+  tag: shiny
+}
+, class Tag {
+  confidence: 8.290503
+  tag: ornament
+}
+, class Tag {
+  confidence: 8.25781
+  tag: party
+}
+, class Tag {
+  confidence: 7.8804793
+  tag: orange
+}
+, class Tag {
+  confidence: 7.86
+  tag: resort area
+}
+, class Tag {
+  confidence: 7.6806073
+  tag: pattern
+}
+, class Tag {
+  confidence: 7.4919934
+  tag: space
+}
+, class Tag {
+  confidence: 7.2698298
+  tag: toy
+}
+, class Tag {
+  confidence: 7.2660856
+  tag: festive
+}
+, class Tag {
+  confidence: 7.051175
+  tag: object
+}
+, class Tag {
+  confidence: 7.050816
+  tag: celebrate
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,192 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHDrTyvUcAEuZhg.jpg
+  tags: [class Tag {
+  confidence: 31.801538
+  tag: man
+}
+, class Tag {
+  confidence: 25.994507
+  tag: male
+}
+, class Tag {
+  confidence: 24.515581
+  tag: people
+}
+, class Tag {
+  confidence: 22.090784
+  tag: person
+}
+, class Tag {
+  confidence: 21.907238
+  tag: caucasian
+}
+, class Tag {
+  confidence: 21.309135
+  tag: adult
+}
+, class Tag {
+  confidence: 17.53895
+  tag: happy
+}
+, class Tag {
+  confidence: 15.891041
+  tag: smiling
+}
+, class Tag {
+  confidence: 14.884982
+  tag: smile
+}
+, class Tag {
+  confidence: 14.542733
+  tag: fun
+}
+, class Tag {
+  confidence: 13.778088
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 13.040792
+  tag: outdoors
+}
+, class Tag {
+  confidence: 12.286584
+  tag: boy
+}
+, class Tag {
+  confidence: 11.317025
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.226973
+  tag: casual
+}
+, class Tag {
+  confidence: 10.949085
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.761288
+  tag: standing
+}
+, class Tag {
+  confidence: 10.44997
+  tag: summer
+}
+, class Tag {
+  confidence: 10.390509
+  tag: expression
+}
+, class Tag {
+  confidence: 10.282318
+  tag: hat
+}
+, class Tag {
+  confidence: 10.225362
+  tag: sky
+}
+, class Tag {
+  confidence: 10.10448
+  tag: holding
+}
+, class Tag {
+  confidence: 10.101684
+  tag: attractive
+}
+, class Tag {
+  confidence: 9.612142
+  tag: youth
+}
+, class Tag {
+  confidence: 9.379582
+  tag: joy
+}
+, class Tag {
+  confidence: 9.377384
+  tag: student
+}
+, class Tag {
+  confidence: 9.288895
+  tag: outdoor
+}
+, class Tag {
+  confidence: 9.17584
+  tag: one
+}
+, class Tag {
+  confidence: 8.8241825
+  tag: outside
+}
+, class Tag {
+  confidence: 8.705141
+  tag: business
+}
+, class Tag {
+  confidence: 8.560868
+  tag: child
+}
+, class Tag {
+  confidence: 8.479946
+  tag: handsome
+}
+, class Tag {
+  confidence: 8.34107
+  tag: looking
+}
+, class Tag {
+  confidence: 8.296448
+  tag: vacation
+}
+, class Tag {
+  confidence: 8.181321
+  tag: model
+}
+, class Tag {
+  confidence: 8.089447
+  tag: face
+}
+, class Tag {
+  confidence: 7.996519
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.835171
+  tag: mature
+}
+, class Tag {
+  confidence: 7.8343883
+  tag: hand
+}
+, class Tag {
+  confidence: 7.7257843
+  tag: sport
+}
+, class Tag {
+  confidence: 7.6931157
+  tag: success
+}
+, class Tag {
+  confidence: 7.6906104
+  tag: teenager
+}
+, class Tag {
+  confidence: 7.650046
+  tag: relaxing
+}
+, class Tag {
+  confidence: 7.282434
+  tag: men
+}
+, class Tag {
+  confidence: 7.180931
+  tag: spring
+}
+, class Tag {
+  confidence: 7.0600286
+  tag: relax
+}
+]
+}
+]
+  unsuccessful: null
+}

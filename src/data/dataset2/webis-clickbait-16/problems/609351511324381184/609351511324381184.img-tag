@@ -1,0 +1,292 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTZZu1UcAAJG4r.jpg
+  tags: [class Tag {
+  confidence: 50.932537
+  tag: helmet
+}
+, class Tag {
+  confidence: 32.605377
+  tag: vehicle
+}
+, class Tag {
+  confidence: 23.378254
+  tag: crash helmet
+}
+, class Tag {
+  confidence: 21.952
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 20.415428
+  tag: bobsled
+}
+, class Tag {
+  confidence: 17.112484
+  tag: sled
+}
+, class Tag {
+  confidence: 15.880861
+  tag: 3d
+}
+, class Tag {
+  confidence: 14.680722
+  tag: war
+}
+, class Tag {
+  confidence: 14.52
+  tag: go-kart
+}
+, class Tag {
+  confidence: 14.165466
+  tag: icon
+}
+, class Tag {
+  confidence: 14.051716
+  tag: metal
+}
+, class Tag {
+  confidence: 14.003953
+  tag: headdress
+}
+, class Tag {
+  confidence: 13.29815
+  tag: symbol
+}
+, class Tag {
+  confidence: 12.9773655
+  tag: sign
+}
+, class Tag {
+  confidence: 12.924072
+  tag: industry
+}
+, class Tag {
+  confidence: 12.590282
+  tag: man
+}
+, class Tag {
+  confidence: 12.445113
+  tag: danger
+}
+, class Tag {
+  confidence: 12.397333
+  tag: active
+}
+, class Tag {
+  confidence: 12.354096
+  tag: hardware
+}
+, class Tag {
+  confidence: 12.311966
+  tag: control
+}
+, class Tag {
+  confidence: 12.287933
+  tag: motorcycle
+}
+, class Tag {
+  confidence: 12.275169
+  tag: conveyance
+}
+, class Tag {
+  confidence: 12.090496
+  tag: key
+}
+, class Tag {
+  confidence: 11.924643
+  tag: launch
+}
+, class Tag {
+  confidence: 11.747579
+  tag: end
+}
+, class Tag {
+  confidence: 11.743312
+  tag: click
+}
+, class Tag {
+  confidence: 11.737226
+  tag: round
+}
+, class Tag {
+  confidence: 11.721648
+  tag: off
+}
+, class Tag {
+  confidence: 11.718718
+  tag: press
+}
+, class Tag {
+  confidence: 11.697046
+  tag: run
+}
+, class Tag {
+  confidence: 11.603871
+  tag: motor vehicle
+}
+, class Tag {
+  confidence: 11.504035
+  tag: pc
+}
+, class Tag {
+  confidence: 11.45352
+  tag: business
+}
+, class Tag {
+  confidence: 11.382215
+  tag: button
+}
+, class Tag {
+  confidence: 11.362755
+  tag: clothing
+}
+, class Tag {
+  confidence: 11.200107
+  tag: nuke
+}
+, class Tag {
+  confidence: 11.134561
+  tag: platform
+}
+, class Tag {
+  confidence: 11.095108
+  tag: nuclear
+}
+, class Tag {
+  confidence: 11.063259
+  tag: rectangle
+}
+, class Tag {
+  confidence: 11.063259
+  tag: switch
+}
+, class Tag {
+  confidence: 11.054309
+  tag: hazard
+}
+, class Tag {
+  confidence: 11.025118
+  tag: screw
+}
+, class Tag {
+  confidence: 11.018652
+  tag: alert
+}
+, class Tag {
+  confidence: 10.99769
+  tag: start
+}
+, class Tag {
+  confidence: 10.984028
+  tag: attention
+}
+, class Tag {
+  confidence: 10.964229
+  tag: peace
+}
+, class Tag {
+  confidence: 10.934485
+  tag: technical
+}
+, class Tag {
+  confidence: 10.924948
+  tag: stop
+}
+, class Tag {
+  confidence: 10.885387
+  tag: emergency
+}
+, class Tag {
+  confidence: 10.865715
+  tag: risk
+}
+, class Tag {
+  confidence: 10.859434
+  tag: warning
+}
+, class Tag {
+  confidence: 10.837973
+  tag: technology
+}
+, class Tag {
+  confidence: 10.793927
+  tag: connect
+}
+, class Tag {
+  confidence: 10.743009
+  tag: push
+}
+, class Tag {
+  confidence: 10.701319
+  tag: electricity
+}
+, class Tag {
+  confidence: 10.630556
+  tag: keyboard
+}
+, class Tag {
+  confidence: 10.615054
+  tag: electronic
+}
+, class Tag {
+  confidence: 10.299232
+  tag: motor scooter
+}
+, class Tag {
+  confidence: 10.294543
+  tag: internet
+}
+, class Tag {
+  confidence: 10.212547
+  tag: energy
+}
+, class Tag {
+  confidence: 9.864265
+  tag: sport
+}
+, class Tag {
+  confidence: 9.77781
+  tag: snowmobile
+}
+, class Tag {
+  confidence: 8.407611
+  tag: equipment
+}
+, class Tag {
+  confidence: 7.9181504
+  tag: person
+}
+, class Tag {
+  confidence: 7.824
+  tag: tracked vehicle
+}
+, class Tag {
+  confidence: 7.5998287
+  tag: art
+}
+, class Tag {
+  confidence: 7.253734
+  tag: speed
+}
+, class Tag {
+  confidence: 7.116652
+  tag: traveler
+}
+, class Tag {
+  confidence: 7.092766
+  tag: fun
+}
+, class Tag {
+  confidence: 7.0664864
+  tag: black
+}
+, class Tag {
+  confidence: 7.0442944
+  tag: world
+}
+]
+}
+]
+  unsuccessful: null
+}

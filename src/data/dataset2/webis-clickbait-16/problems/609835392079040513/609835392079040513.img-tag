@@ -1,0 +1,288 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHU6YthVEAAkyrp.png
+  tags: [class Tag {
+  confidence: 30.709806
+  tag: people
+}
+, class Tag {
+  confidence: 27.126904
+  tag: caucasian
+}
+, class Tag {
+  confidence: 27.019495
+  tag: smile
+}
+, class Tag {
+  confidence: 26.984167
+  tag: adult
+}
+, class Tag {
+  confidence: 26.858988
+  tag: person
+}
+, class Tag {
+  confidence: 26.215033
+  tag: smiling
+}
+, class Tag {
+  confidence: 24.792774
+  tag: happy
+}
+, class Tag {
+  confidence: 23.855736
+  tag: male
+}
+, class Tag {
+  confidence: 22.627268
+  tag: man
+}
+, class Tag {
+  confidence: 22.241852
+  tag: casual
+}
+, class Tag {
+  confidence: 20.725388
+  tag: attractive
+}
+, class Tag {
+  confidence: 19.706339
+  tag: home
+}
+, class Tag {
+  confidence: 19.420721
+  tag: happiness
+}
+, class Tag {
+  confidence: 17.683285
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 17.368814
+  tag: portrait
+}
+, class Tag {
+  confidence: 15.041636
+  tag: pretty
+}
+, class Tag {
+  confidence: 14.997509
+  tag: cheerful
+}
+, class Tag {
+  confidence: 14.90339
+  tag: fun
+}
+, class Tag {
+  confidence: 14.862126
+  tag: sitting
+}
+, class Tag {
+  confidence: 14.381561
+  tag: holding
+}
+, class Tag {
+  confidence: 14.3562765
+  tag: couple
+}
+, class Tag {
+  confidence: 13.410618
+  tag: boy
+}
+, class Tag {
+  confidence: 13.113003
+  tag: expression
+}
+, class Tag {
+  confidence: 12.318417
+  tag: one
+}
+, class Tag {
+  confidence: 12.23663
+  tag: women
+}
+, class Tag {
+  confidence: 11.8555765
+  tag: indoors
+}
+, class Tag {
+  confidence: 10.885234
+  tag: looking
+}
+, class Tag {
+  confidence: 10.714145
+  tag: business
+}
+, class Tag {
+  confidence: 10.692485
+  tag: model
+}
+, class Tag {
+  confidence: 10.683645
+  tag: youth
+}
+, class Tag {
+  confidence: 10.41101
+  tag: cute
+}
+, class Tag {
+  confidence: 10.396504
+  tag: joy
+}
+, class Tag {
+  confidence: 10.17266
+  tag: working
+}
+, class Tag {
+  confidence: 9.744916
+  tag: focus
+}
+, class Tag {
+  confidence: 9.689526
+  tag: day
+}
+, class Tag {
+  confidence: 9.647273
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 9.010791
+  tag: face
+}
+, class Tag {
+  confidence: 8.783944
+  tag: hat
+}
+, class Tag {
+  confidence: 8.761755
+  tag: teenager
+}
+, class Tag {
+  confidence: 8.75458
+  tag: student
+}
+, class Tag {
+  confidence: 8.632551
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.622813
+  tag: blond
+}
+, class Tag {
+  confidence: 8.602172
+  tag: house
+}
+, class Tag {
+  confidence: 8.586275
+  tag: worker
+}
+, class Tag {
+  confidence: 8.321026
+  tag: love
+}
+, class Tag {
+  confidence: 8.294607
+  tag: men
+}
+, class Tag {
+  confidence: 8.145974
+  tag: clothes
+}
+, class Tag {
+  confidence: 8.07502
+  tag: human
+}
+, class Tag {
+  confidence: 7.9365077
+  tag: lady
+}
+, class Tag {
+  confidence: 7.7614346
+  tag: body
+}
+, class Tag {
+  confidence: 7.7196803
+  tag: job
+}
+, class Tag {
+  confidence: 7.685809
+  tag: computer
+}
+, class Tag {
+  confidence: 7.635057
+  tag: interior
+}
+, class Tag {
+  confidence: 7.519097
+  tag: work
+}
+, class Tag {
+  confidence: 7.4133353
+  tag: professional
+}
+, class Tag {
+  confidence: 7.392343
+  tag: mid adult
+}
+, class Tag {
+  confidence: 7.359327
+  tag: studio
+}
+, class Tag {
+  confidence: 7.3560596
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.2825394
+  tag: moving
+}
+, class Tag {
+  confidence: 7.1747646
+  tag: child
+}
+, class Tag {
+  confidence: 7.150329
+  tag: guy
+}
+, class Tag {
+  confidence: 7.102515
+  tag: 20s
+}
+, class Tag {
+  confidence: 7.095039
+  tag: blonde
+}
+, class Tag {
+  confidence: 7.0929832
+  tag: slim
+}
+, class Tag {
+  confidence: 7.0857325
+  tag: success
+}
+, class Tag {
+  confidence: 7.068064
+  tag: emotion
+}
+, class Tag {
+  confidence: 7.0459995
+  tag: friendly
+}
+, class Tag {
+  confidence: 7.031422
+  tag: phone
+}
+, class Tag {
+  confidence: 7.0247054
+  tag: exercise
+}
+, class Tag {
+  confidence: 7.0168886
+  tag: laptop
+}
+]
+}
+]
+  unsuccessful: null
+}

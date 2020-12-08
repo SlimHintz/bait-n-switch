@@ -1,0 +1,280 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHZHMLeUkAE3MRj.jpg
+  tags: [class Tag {
+  confidence: 36.10848
+  tag: carpenter
+}
+, class Tag {
+  confidence: 27.600546
+  tag: man
+}
+, class Tag {
+  confidence: 22.109674
+  tag: male
+}
+, class Tag {
+  confidence: 21.564714
+  tag: worker
+}
+, class Tag {
+  confidence: 21.476585
+  tag: person
+}
+, class Tag {
+  confidence: 21.386623
+  tag: caucasian
+}
+, class Tag {
+  confidence: 21.363506
+  tag: working
+}
+, class Tag {
+  confidence: 20.926903
+  tag: work
+}
+, class Tag {
+  confidence: 20.049133
+  tag: people
+}
+, class Tag {
+  confidence: 18.974575
+  tag: adult
+}
+, class Tag {
+  confidence: 17.682364
+  tag: home
+}
+, class Tag {
+  confidence: 16.696968
+  tag: construction
+}
+, class Tag {
+  confidence: 16.634834
+  tag: education
+}
+, class Tag {
+  confidence: 14.977832
+  tag: student
+}
+, class Tag {
+  confidence: 14.466366
+  tag: business
+}
+, class Tag {
+  confidence: 14.061872
+  tag: professional
+}
+, class Tag {
+  confidence: 13.960788
+  tag: school
+}
+, class Tag {
+  confidence: 13.329251
+  tag: building
+}
+, class Tag {
+  confidence: 13.272419
+  tag: smiling
+}
+, class Tag {
+  confidence: 13.085331
+  tag: job
+}
+, class Tag {
+  confidence: 13.024847
+  tag: smile
+}
+, class Tag {
+  confidence: 12.704263
+  tag: occupation
+}
+, class Tag {
+  confidence: 12.58022
+  tag: sitting
+}
+, class Tag {
+  confidence: 12.153863
+  tag: learning
+}
+, class Tag {
+  confidence: 11.960159
+  tag: house
+}
+, class Tag {
+  confidence: 11.633488
+  tag: happy
+}
+, class Tag {
+  confidence: 11.592327
+  tag: clothing
+}
+, class Tag {
+  confidence: 11.510249
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.44787
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.057345
+  tag: casual
+}
+, class Tag {
+  confidence: 10.859407
+  tag: builder
+}
+, class Tag {
+  confidence: 10.818902
+  tag: books
+}
+, class Tag {
+  confidence: 10.785526
+  tag: knowledge
+}
+, class Tag {
+  confidence: 10.734616
+  tag: repairman
+}
+, class Tag {
+  confidence: 10.666513
+  tag: reading
+}
+, class Tag {
+  confidence: 10.659819
+  tag: indoors
+}
+, class Tag {
+  confidence: 10.398291
+  tag: men
+}
+, class Tag {
+  confidence: 10.285567
+  tag: book
+}
+, class Tag {
+  confidence: 10.184445
+  tag: industry
+}
+, class Tag {
+  confidence: 10.085956
+  tag: industrial
+}
+, class Tag {
+  confidence: 9.961231
+  tag: studying
+}
+, class Tag {
+  confidence: 9.834291
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.312712
+  tag: attractive
+}
+, class Tag {
+  confidence: 9.031415
+  tag: college
+}
+, class Tag {
+  confidence: 9.029501
+  tag: looking
+}
+, class Tag {
+  confidence: 8.917935
+  tag: manager
+}
+, class Tag {
+  confidence: 8.894528
+  tag: study
+}
+, class Tag {
+  confidence: 8.686815
+  tag: teenager
+}
+, class Tag {
+  confidence: 8.597369
+  tag: laptop
+}
+, class Tag {
+  confidence: 8.592618
+  tag: holding
+}
+, class Tag {
+  confidence: 8.555691
+  tag: hand
+}
+, class Tag {
+  confidence: 8.220732
+  tag: women
+}
+, class Tag {
+  confidence: 8.205352
+  tag: table
+}
+, class Tag {
+  confidence: 8.159467
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.158605
+  tag: learn
+}
+, class Tag {
+  confidence: 8.124204
+  tag: repair
+}
+, class Tag {
+  confidence: 8.0875845
+  tag: desk
+}
+, class Tag {
+  confidence: 7.842952
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.6104503
+  tag: office
+}
+, class Tag {
+  confidence: 7.5818243
+  tag: brunette
+}
+, class Tag {
+  confidence: 7.5254955
+  tag: american
+}
+, class Tag {
+  confidence: 7.5116787
+  tag: library
+}
+, class Tag {
+  confidence: 7.4766126
+  tag: university
+}
+, class Tag {
+  confidence: 7.3578286
+  tag: youth
+}
+, class Tag {
+  confidence: 7.334195
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.206241
+  tag: notebook
+}
+, class Tag {
+  confidence: 7.1547327
+  tag: confident
+}
+, class Tag {
+  confidence: 7.0552907
+  tag: cheerful
+}
+]
+}
+]
+  unsuccessful: null
+}

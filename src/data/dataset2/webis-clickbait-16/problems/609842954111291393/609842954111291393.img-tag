@@ -1,0 +1,148 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHY66svUAAARmsu.png
+  tags: [class Tag {
+  confidence: 65.95687
+  tag: basket
+}
+, class Tag {
+  confidence: 47.803043
+  tag: container
+}
+, class Tag {
+  confidence: 43.044205
+  tag: hamper
+}
+, class Tag {
+  confidence: 28.50068
+  tag: crate
+}
+, class Tag {
+  confidence: 27.81674
+  tag: box
+}
+, class Tag {
+  confidence: 13.937025
+  tag: food
+}
+, class Tag {
+  confidence: 12.934805
+  tag: product
+}
+, class Tag {
+  confidence: 12.164819
+  tag: brown
+}
+, class Tag {
+  confidence: 11.095991
+  tag: money
+}
+, class Tag {
+  confidence: 10.982417
+  tag: wicker
+}
+, class Tag {
+  confidence: 10.299888
+  tag: decoration
+}
+, class Tag {
+  confidence: 10.287482
+  tag: stack
+}
+, class Tag {
+  confidence: 10.162672
+  tag: currency
+}
+, class Tag {
+  confidence: 9.952159
+  tag: nobody
+}
+, class Tag {
+  confidence: 9.627013
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.898591
+  tag: gift
+}
+, class Tag {
+  confidence: 8.875497
+  tag: cash
+}
+, class Tag {
+  confidence: 8.772619
+  tag: object
+}
+, class Tag {
+  confidence: 8.552675
+  tag: treasure
+}
+, class Tag {
+  confidence: 8.478897
+  tag: natural
+}
+, class Tag {
+  confidence: 8.35688
+  tag: shopping basket
+}
+, class Tag {
+  confidence: 8.306514
+  tag: finance
+}
+, class Tag {
+  confidence: 8.097441
+  tag: christmas
+}
+, class Tag {
+  confidence: 8.009119
+  tag: bank
+}
+, class Tag {
+  confidence: 7.9822683
+  tag: wealth
+}
+, class Tag {
+  confidence: 7.947254
+  tag: business
+}
+, class Tag {
+  confidence: 7.7940197
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.766952
+  tag: gold
+}
+, class Tag {
+  confidence: 7.6695333
+  tag: paper
+}
+, class Tag {
+  confidence: 7.477401
+  tag: closeup
+}
+, class Tag {
+  confidence: 7.4531393
+  tag: sweet
+}
+, class Tag {
+  confidence: 7.1578035
+  tag: yellow
+}
+, class Tag {
+  confidence: 7.097114
+  tag: close
+}
+, class Tag {
+  confidence: 7.044977
+  tag: wooden
+}
+, class Tag {
+  confidence: 7.0174227
+  tag: celebration
+}
+]
+}
+]
+  unsuccessful: null
+}

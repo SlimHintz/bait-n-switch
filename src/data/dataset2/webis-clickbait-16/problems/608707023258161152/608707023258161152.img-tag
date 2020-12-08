@@ -1,0 +1,92 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJ97etWQAAXexo.jpg
+  tags: [class Tag {
+  confidence: 15.707526
+  tag: business
+}
+, class Tag {
+  confidence: 11.882473
+  tag: 3d
+}
+, class Tag {
+  confidence: 11.08529
+  tag: black
+}
+, class Tag {
+  confidence: 10.330246
+  tag: symbol
+}
+, class Tag {
+  confidence: 9.612981
+  tag: home
+}
+, class Tag {
+  confidence: 8.849484
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.61792
+  tag: sign
+}
+, class Tag {
+  confidence: 8.560787
+  tag: modern
+}
+, class Tag {
+  confidence: 8.529225
+  tag: color
+}
+, class Tag {
+  confidence: 8.401644
+  tag: house
+}
+, class Tag {
+  confidence: 8.378879
+  tag: design
+}
+, class Tag {
+  confidence: 7.948269
+  tag: internet
+}
+, class Tag {
+  confidence: 7.8992457
+  tag: human
+}
+, class Tag {
+  confidence: 7.840166
+  tag: close
+}
+, class Tag {
+  confidence: 7.839783
+  tag: hand
+}
+, class Tag {
+  confidence: 7.7630486
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.58172
+  tag: person
+}
+, class Tag {
+  confidence: 7.4469523
+  tag: interior
+}
+, class Tag {
+  confidence: 7.400026
+  tag: metal
+}
+, class Tag {
+  confidence: 7.1863403
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.0934725
+  tag: people
+}
+]
+}
+]
+  unsuccessful: null
+}

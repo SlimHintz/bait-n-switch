@@ -1,0 +1,120 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOt0gZWsAAdeAH.jpg
+  tags: [class Tag {
+  confidence: 71.2
+  tag: fireboat
+}
+, class Tag {
+  confidence: 62.57432
+  tag: boat
+}
+, class Tag {
+  confidence: 46.02261
+  tag: vessel
+}
+, class Tag {
+  confidence: 27.970573
+  tag: craft
+}
+, class Tag {
+  confidence: 20.850462
+  tag: water
+}
+, class Tag {
+  confidence: 19.82029
+  tag: fountain
+}
+, class Tag {
+  confidence: 17.094828
+  tag: weather
+}
+, class Tag {
+  confidence: 16.73205
+  tag: sky
+}
+, class Tag {
+  confidence: 16.192003
+  tag: sea
+}
+, class Tag {
+  confidence: 15.733865
+  tag: ocean
+}
+, class Tag {
+  confidence: 15.125848
+  tag: vehicle
+}
+, class Tag {
+  confidence: 14.776483
+  tag: structure
+}
+, class Tag {
+  confidence: 12.421374
+  tag: landscape
+}
+, class Tag {
+  confidence: 11.681781
+  tag: reflection
+}
+, class Tag {
+  confidence: 10.517072
+  tag: light
+}
+, class Tag {
+  confidence: 9.666476
+  tag: beach
+}
+, class Tag {
+  confidence: 9.034352
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.123894
+  tag: lake
+}
+, class Tag {
+  confidence: 7.9551716
+  tag: summer
+}
+, class Tag {
+  confidence: 7.86368
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.8448663
+  tag: travel
+}
+, class Tag {
+  confidence: 7.783362
+  tag: night
+}
+, class Tag {
+  confidence: 7.668036
+  tag: tourism
+}
+, class Tag {
+  confidence: 7.455487
+  tag: bay
+}
+, class Tag {
+  confidence: 7.360703
+  tag: day
+}
+, class Tag {
+  confidence: 7.2202725
+  tag: scene
+}
+, class Tag {
+  confidence: 7.1667314
+  tag: wave
+}
+, class Tag {
+  confidence: 7.1502504
+  tag: cloud
+}
+]
+}
+]
+  unsuccessful: null
+}

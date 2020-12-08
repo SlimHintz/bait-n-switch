@@ -1,0 +1,176 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHP6-uiWkAQXZjj.png
+  tags: [class Tag {
+  confidence: 56.565063
+  tag: map
+}
+, class Tag {
+  confidence: 19.518396
+  tag: flag
+}
+, class Tag {
+  confidence: 17.29851
+  tag: representation
+}
+, class Tag {
+  confidence: 16.828445
+  tag: country
+}
+, class Tag {
+  confidence: 14.647752
+  tag: world
+}
+, class Tag {
+  confidence: 14.2531
+  tag: design
+}
+, class Tag {
+  confidence: 13.782389
+  tag: symbol
+}
+, class Tag {
+  confidence: 13.200997
+  tag: geography
+}
+, class Tag {
+  confidence: 13.037366
+  tag: business
+}
+, class Tag {
+  confidence: 12.492173
+  tag: america
+}
+, class Tag {
+  confidence: 12.489894
+  tag: usa
+}
+, class Tag {
+  confidence: 12.2254305
+  tag: nation
+}
+, class Tag {
+  confidence: 11.68355
+  tag: art
+}
+, class Tag {
+  confidence: 11.583922
+  tag: pattern
+}
+, class Tag {
+  confidence: 11.304021
+  tag: texture
+}
+, class Tag {
+  confidence: 10.900298
+  tag: icon
+}
+, class Tag {
+  confidence: 10.615255
+  tag: graphic
+}
+, class Tag {
+  confidence: 10.578029
+  tag: state
+}
+, class Tag {
+  confidence: 10.532096
+  tag: travel
+}
+, class Tag {
+  confidence: 10.10065
+  tag: europe
+}
+, class Tag {
+  confidence: 9.974854
+  tag: global
+}
+, class Tag {
+  confidence: 9.829247
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.79428
+  tag: atlas
+}
+, class Tag {
+  confidence: 9.760829
+  tag: boundary
+}
+, class Tag {
+  confidence: 9.735977
+  tag: continent
+}
+, class Tag {
+  confidence: 9.416589
+  tag: 3d
+}
+, class Tag {
+  confidence: 9.338887
+  tag: official
+}
+, class Tag {
+  confidence: 9.080532
+  tag: sign
+}
+, class Tag {
+  confidence: 8.79392
+  tag: australia
+}
+, class Tag {
+  confidence: 8.772683
+  tag: trade
+}
+, class Tag {
+  confidence: 8.745276
+  tag: paper
+}
+, class Tag {
+  confidence: 8.690895
+  tag: north
+}
+, class Tag {
+  confidence: 8.655977
+  tag: outline
+}
+, class Tag {
+  confidence: 8.523957
+  tag: south
+}
+, class Tag {
+  confidence: 8.494104
+  tag: globe
+}
+, class Tag {
+  confidence: 8.369862
+  tag: africa
+}
+, class Tag {
+  confidence: 8.32903
+  tag: earth
+}
+, class Tag {
+  confidence: 7.900737
+  tag: blank
+}
+, class Tag {
+  confidence: 7.829556
+  tag: international
+}
+, class Tag {
+  confidence: 7.8102007
+  tag: color
+}
+, class Tag {
+  confidence: 7.741157
+  tag: commerce
+}
+, class Tag {
+  confidence: 7.5430946
+  tag: element
+}
+]
+}
+]
+  unsuccessful: null
+}

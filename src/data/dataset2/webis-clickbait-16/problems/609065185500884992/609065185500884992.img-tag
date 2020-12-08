@@ -1,0 +1,296 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPVjx2W8AA8-se.jpg
+  tags: [class Tag {
+  confidence: 37.43625
+  tag: ocean
+}
+, class Tag {
+  confidence: 34.026424
+  tag: water
+}
+, class Tag {
+  confidence: 29.980038
+  tag: sea
+}
+, class Tag {
+  confidence: 28.524387
+  tag: sky
+}
+, class Tag {
+  confidence: 19.53899
+  tag: landscape
+}
+, class Tag {
+  confidence: 19.197027
+  tag: sun
+}
+, class Tag {
+  confidence: 18.088203
+  tag: lake
+}
+, class Tag {
+  confidence: 18.045446
+  tag: clouds
+}
+, class Tag {
+  confidence: 17.979574
+  tag: reflection
+}
+, class Tag {
+  confidence: 17.83098
+  tag: summer
+}
+, class Tag {
+  confidence: 16.341585
+  tag: cloud
+}
+, class Tag {
+  confidence: 16.180609
+  tag: day
+}
+, class Tag {
+  confidence: 16.14
+  tag: red-backed sandpiper
+}
+, class Tag {
+  confidence: 15.49225
+  tag: horizon
+}
+, class Tag {
+  confidence: 15.234043
+  tag: beach
+}
+, class Tag {
+  confidence: 14.709332
+  tag: vacation
+}
+, class Tag {
+  confidence: 14.643947
+  tag: coast
+}
+, class Tag {
+  confidence: 14.248398
+  tag: calm
+}
+, class Tag {
+  confidence: 14.171638
+  tag: wave
+}
+, class Tag {
+  confidence: 13.251011
+  tag: aquatic bird
+}
+, class Tag {
+  confidence: 12.983153
+  tag: travel
+}
+, class Tag {
+  confidence: 12.910072
+  tag: sandpiper
+}
+, class Tag {
+  confidence: 12.654767
+  tag: sunny
+}
+, class Tag {
+  confidence: 12.495386
+  tag: tranquil
+}
+, class Tag {
+  confidence: 12.399605
+  tag: scenery
+}
+, class Tag {
+  confidence: 12.201414
+  tag: cloudy
+}
+, class Tag {
+  confidence: 11.314104
+  tag: scenic
+}
+, class Tag {
+  confidence: 11.273617
+  tag: outdoor
+}
+, class Tag {
+  confidence: 11.161212
+  tag: scene
+}
+, class Tag {
+  confidence: 11.0798235
+  tag: peaceful
+}
+, class Tag {
+  confidence: 11.037244
+  tag: weather
+}
+, class Tag {
+  confidence: 10.472168
+  tag: clear
+}
+, class Tag {
+  confidence: 10.32444
+  tag: natural
+}
+, class Tag {
+  confidence: 10.215986
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.11322
+  tag: sunset
+}
+, class Tag {
+  confidence: 9.9666815
+  tag: sunlight
+}
+, class Tag {
+  confidence: 9.945149
+  tag: seabird
+}
+, class Tag {
+  confidence: 9.676775
+  tag: shorebird
+}
+, class Tag {
+  confidence: 9.676657
+  tag: wild
+}
+, class Tag {
+  confidence: 9.47029
+  tag: relax
+}
+, class Tag {
+  confidence: 9.191182
+  tag: light
+}
+, class Tag {
+  confidence: 9.154232
+  tag: remote
+}
+, class Tag {
+  confidence: 9.111877
+  tag: people
+}
+, class Tag {
+  confidence: 8.928837
+  tag: rock
+}
+, class Tag {
+  confidence: 8.877666
+  tag: cold
+}
+, class Tag {
+  confidence: 8.83558
+  tag: shore
+}
+, class Tag {
+  confidence: 8.758692
+  tag: albatross
+}
+, class Tag {
+  confidence: 8.694883
+  tag: season
+}
+, class Tag {
+  confidence: 8.679702
+  tag: relaxation
+}
+, class Tag {
+  confidence: 8.670649
+  tag: bird
+}
+, class Tag {
+  confidence: 8.623814
+  tag: clean
+}
+, class Tag {
+  confidence: 8.600546
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.487244
+  tag: wet
+}
+, class Tag {
+  confidence: 8.426656
+  tag: goose
+}
+, class Tag {
+  confidence: 8.336001
+  tag: tourism
+}
+, class Tag {
+  confidence: 8.129585
+  tag: stream
+}
+, class Tag {
+  confidence: 8.10707
+  tag: space
+}
+, class Tag {
+  confidence: 8.038146
+  tag: pure
+}
+, class Tag {
+  confidence: 8.002939
+  tag: bright
+}
+, class Tag {
+  confidence: 7.788249
+  tag: pelican
+}
+, class Tag {
+  confidence: 7.710391
+  tag: baikal
+}
+, class Tag {
+  confidence: 7.559436
+  tag: killer whale
+}
+, class Tag {
+  confidence: 7.4526296
+  tag: seascape
+}
+, class Tag {
+  confidence: 7.445737
+  tag: color
+}
+, class Tag {
+  confidence: 7.4446974
+  tag: liquid
+}
+, class Tag {
+  confidence: 7.4342175
+  tag: cloudscape
+}
+, class Tag {
+  confidence: 7.4045534
+  tag: scenics
+}
+, class Tag {
+  confidence: 7.346993
+  tag: spring
+}
+, class Tag {
+  confidence: 7.341208
+  tag: bay
+}
+, class Tag {
+  confidence: 7.2880983
+  tag: tropical
+}
+, class Tag {
+  confidence: 7.2794523
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.240046
+  tag: waves
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,256 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHD29vEWoAINghc.png
+  tags: [class Tag {
+  confidence: 36.71411
+  tag: display
+}
+, class Tag {
+  confidence: 36.68
+  tag: hand-held computer
+}
+, class Tag {
+  confidence: 30.468685
+  tag: technology
+}
+, class Tag {
+  confidence: 29.344
+  tag: portable computer
+}
+, class Tag {
+  confidence: 27.959867
+  tag: computer
+}
+, class Tag {
+  confidence: 23.448965
+  tag: telephone
+}
+, class Tag {
+  confidence: 23.424686
+  tag: screen
+}
+, class Tag {
+  confidence: 22.74593
+  tag: personal computer
+}
+, class Tag {
+  confidence: 22.085135
+  tag: communication
+}
+, class Tag {
+  confidence: 21.77126
+  tag: business
+}
+, class Tag {
+  confidence: 20.656214
+  tag: phone
+}
+, class Tag {
+  confidence: 19.73558
+  tag: personal digital assistant
+}
+, class Tag {
+  confidence: 19.679358
+  tag: mobile
+}
+, class Tag {
+  confidence: 19.643606
+  tag: device
+}
+, class Tag {
+  confidence: 19.456982
+  tag: hand
+}
+, class Tag {
+  confidence: 18.667593
+  tag: electronic
+}
+, class Tag {
+  confidence: 16.194534
+  tag: equipment
+}
+, class Tag {
+  confidence: 15.707824
+  tag: modern
+}
+, class Tag {
+  confidence: 14.979792
+  tag: keyboard
+}
+, class Tag {
+  confidence: 14.870498
+  tag: internet
+}
+, class Tag {
+  confidence: 14.672
+  tag: digital computer
+}
+, class Tag {
+  confidence: 13.973908
+  tag: appliance
+}
+, class Tag {
+  confidence: 13.265366
+  tag: calculator
+}
+, class Tag {
+  confidence: 12.409829
+  tag: close
+}
+, class Tag {
+  confidence: 12.338108
+  tag: digital
+}
+, class Tag {
+  confidence: 12.335707
+  tag: wireless
+}
+, class Tag {
+  confidence: 12.18917
+  tag: office
+}
+, class Tag {
+  confidence: 12.128507
+  tag: cell
+}
+, class Tag {
+  confidence: 11.915442
+  tag: button
+}
+, class Tag {
+  confidence: 11.7561655
+  tag: keypad
+}
+, class Tag {
+  confidence: 11.33442
+  tag: work
+}
+, class Tag {
+  confidence: 11.230907
+  tag: number
+}
+, class Tag {
+  confidence: 10.899088
+  tag: laptop
+}
+, class Tag {
+  confidence: 10.784417
+  tag: data
+}
+, class Tag {
+  confidence: 10.766167
+  tag: connection
+}
+, class Tag {
+  confidence: 10.441075
+  tag: electronics
+}
+, class Tag {
+  confidence: 10.312098
+  tag: finance
+}
+, class Tag {
+  confidence: 10.06418
+  tag: financial
+}
+, class Tag {
+  confidence: 8.928059
+  tag: black
+}
+, class Tag {
+  confidence: 8.608524
+  tag: cellular
+}
+, class Tag {
+  confidence: 8.403955
+  tag: portable
+}
+, class Tag {
+  confidence: 8.399373
+  tag: touch screen
+}
+, class Tag {
+  confidence: 8.378336
+  tag: design
+}
+, class Tag {
+  confidence: 8.305854
+  tag: call
+}
+, class Tag {
+  confidence: 8.29938
+  tag: cellular telephone
+}
+, class Tag {
+  confidence: 8.282638
+  tag: man
+}
+, class Tag {
+  confidence: 8.23502
+  tag: finger
+}
+, class Tag {
+  confidence: 8.226849
+  tag: money
+}
+, class Tag {
+  confidence: 8.12561
+  tag: paper
+}
+, class Tag {
+  confidence: 8.112945
+  tag: buttons
+}
+, class Tag {
+  confidence: 7.8659053
+  tag: remote control
+}
+, class Tag {
+  confidence: 7.8238807
+  tag: lcd
+}
+, class Tag {
+  confidence: 7.6630893
+  tag: information
+}
+, class Tag {
+  confidence: 7.63156
+  tag: talk
+}
+, class Tag {
+  confidence: 7.6263094
+  tag: telecommunication
+}
+, class Tag {
+  confidence: 7.5250273
+  tag: holding
+}
+, class Tag {
+  confidence: 7.5043426
+  tag: communications
+}
+, class Tag {
+  confidence: 7.4781165
+  tag: system
+}
+, class Tag {
+  confidence: 7.474689
+  tag: pc
+}
+, class Tag {
+  confidence: 7.3923426
+  tag: closeup
+}
+, class Tag {
+  confidence: 7.389432
+  tag: banking
+}
+, class Tag {
+  confidence: 7.134991
+  tag: silver
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHXRsJhUcAAw_qp.jpg
+  tags: [class Tag {
+  confidence: 95.78636
+  tag: sign
+}
+, class Tag {
+  confidence: 24.818796
+  tag: road
+}
+, class Tag {
+  confidence: 23.2189
+  tag: board
+}
+, class Tag {
+  confidence: 22.906319
+  tag: street sign
+}
+, class Tag {
+  confidence: 22.08089
+  tag: sky
+}
+, class Tag {
+  confidence: 18.378323
+  tag: street
+}
+, class Tag {
+  confidence: 16.203817
+  tag: information
+}
+, class Tag {
+  confidence: 15.844347
+  tag: warning
+}
+, class Tag {
+  confidence: 15.693999
+  tag: message
+}
+, class Tag {
+  confidence: 15.592083
+  tag: blank
+}
+, class Tag {
+  confidence: 14.705826
+  tag: post
+}
+, class Tag {
+  confidence: 13.69114
+  tag: signpost
+}
+, class Tag {
+  confidence: 13.4484215
+  tag: empty
+}
+, class Tag {
+  confidence: 13.340878
+  tag: notice
+}
+, class Tag {
+  confidence: 13.199417
+  tag: traffic
+}
+, class Tag {
+  confidence: 13.140316
+  tag: communication
+}
+, class Tag {
+  confidence: 12.799197
+  tag: travel
+}
+, class Tag {
+  confidence: 12.606228
+  tag: copyspace
+}
+, class Tag {
+  confidence: 12.584236
+  tag: space
+}
+, class Tag {
+  confidence: 12.102885
+  tag: text
+}
+, class Tag {
+  confidence: 11.965528
+  tag: urban
+}
+, class Tag {
+  confidence: 11.672739
+  tag: direction
+}
+, class Tag {
+  confidence: 11.667478
+  tag: billboard
+}
+, class Tag {
+  confidence: 11.3344965
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.170062
+  tag: business
+}
+, class Tag {
+  confidence: 11.09191
+  tag: clear
+}
+, class Tag {
+  confidence: 10.702982
+  tag: city
+}
+, class Tag {
+  confidence: 10.011243
+  tag: black
+}
+, class Tag {
+  confidence: 9.786106
+  tag: frame
+}
+, class Tag {
+  confidence: 9.290495
+  tag: pole
+}
+, class Tag {
+  confidence: 9.1535635
+  tag: arrow
+}
+, class Tag {
+  confidence: 9.100928
+  tag: success
+}
+, class Tag {
+  confidence: 9.099303
+  tag: way
+}
+, class Tag {
+  confidence: 8.749268
+  tag: danger
+}
+, class Tag {
+  confidence: 8.727124
+  tag: display
+}
+, class Tag {
+  confidence: 8.622551
+  tag: copy space
+}
+, class Tag {
+  confidence: 8.592164
+  tag: design
+}
+, class Tag {
+  confidence: 8.377689
+  tag: caution
+}
+, class Tag {
+  confidence: 8.301907
+  tag: panel
+}
+, class Tag {
+  confidence: 8.23733
+  tag: conceptual
+}
+, class Tag {
+  confidence: 8.141172
+  tag: safety
+}
+, class Tag {
+  confidence: 7.5963173
+  tag: transportation
+}
+, class Tag {
+  confidence: 7.4969115
+  tag: advertisement
+}
+, class Tag {
+  confidence: 7.489857
+  tag: announcement
+}
+, class Tag {
+  confidence: 7.4611874
+  tag: metal
+}
+, class Tag {
+  confidence: 7.458724
+  tag: marketing
+}
+, class Tag {
+  confidence: 7.3659463
+  tag: high
+}
+, class Tag {
+  confidence: 7.2606673
+  tag: yellow
+}
+, class Tag {
+  confidence: 7.1916056
+  tag: building
+}
+, class Tag {
+  confidence: 7.1368666
+  tag: banner
+}
+]
+}
+]
+  unsuccessful: null
+}

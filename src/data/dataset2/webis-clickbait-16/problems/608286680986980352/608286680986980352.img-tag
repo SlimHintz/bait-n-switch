@@ -1,0 +1,108 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHERboZWwAAfAje.png
+  tags: [class Tag {
+  confidence: 11.797166
+  tag: summer
+}
+, class Tag {
+  confidence: 10.665832
+  tag: person
+}
+, class Tag {
+  confidence: 10.4011965
+  tag: sky
+}
+, class Tag {
+  confidence: 10.079443
+  tag: business
+}
+, class Tag {
+  confidence: 9.991027
+  tag: people
+}
+, class Tag {
+  confidence: 9.964405
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.79692
+  tag: grass
+}
+, class Tag {
+  confidence: 9.327146
+  tag: happy
+}
+, class Tag {
+  confidence: 9.067204
+  tag: design
+}
+, class Tag {
+  confidence: 8.88
+  tag: mountain tent
+}
+, class Tag {
+  confidence: 8.75684
+  tag: man
+}
+, class Tag {
+  confidence: 8.474819
+  tag: smile
+}
+, class Tag {
+  confidence: 8.073613
+  tag: structure
+}
+, class Tag {
+  confidence: 7.978041
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.9660554
+  tag: tent
+}
+, class Tag {
+  confidence: 7.8398495
+  tag: home
+}
+, class Tag {
+  confidence: 7.8367286
+  tag: sun
+}
+, class Tag {
+  confidence: 7.757395
+  tag: outside
+}
+, class Tag {
+  confidence: 7.650999
+  tag: internet
+}
+, class Tag {
+  confidence: 7.598975
+  tag: modern
+}
+, class Tag {
+  confidence: 7.381026
+  tag: site
+}
+, class Tag {
+  confidence: 7.359987
+  tag: travel
+}
+, class Tag {
+  confidence: 7.0627027
+  tag: shelter
+}
+, class Tag {
+  confidence: 7.026272
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.020081
+  tag: holiday
+}
+]
+}
+]
+  unsuccessful: null
+}

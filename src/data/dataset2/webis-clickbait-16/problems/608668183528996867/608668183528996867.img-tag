@@ -1,0 +1,248 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJRd-PXIAE0BeP.jpg
+  tags: [class Tag {
+  confidence: 44.62801
+  tag: city
+}
+, class Tag {
+  confidence: 33.00411
+  tag: urban
+}
+, class Tag {
+  confidence: 30.46986
+  tag: architecture
+}
+, class Tag {
+  confidence: 24.68825
+  tag: building
+}
+, class Tag {
+  confidence: 23.745779
+  tag: sky
+}
+, class Tag {
+  confidence: 23.081028
+  tag: cityscape
+}
+, class Tag {
+  confidence: 21.493309
+  tag: skyline
+}
+, class Tag {
+  confidence: 20.32745
+  tag: business
+}
+, class Tag {
+  confidence: 19.513334
+  tag: landmark
+}
+, class Tag {
+  confidence: 17.729362
+  tag: tower
+}
+, class Tag {
+  confidence: 17.441175
+  tag: downtown
+}
+, class Tag {
+  confidence: 16.055403
+  tag: travel
+}
+, class Tag {
+  confidence: 15.250309
+  tag: manhattan
+}
+, class Tag {
+  confidence: 15.234754
+  tag: night
+}
+, class Tag {
+  confidence: 14.771229
+  tag: skyscraper
+}
+, class Tag {
+  confidence: 13.816651
+  tag: landscape
+}
+, class Tag {
+  confidence: 12.014928
+  tag: buildings
+}
+, class Tag {
+  confidence: 11.550821
+  tag: usa
+}
+, class Tag {
+  confidence: 11.413727
+  tag: sunset
+}
+, class Tag {
+  confidence: 11.072572
+  tag: tall
+}
+, class Tag {
+  confidence: 10.919028
+  tag: tourism
+}
+, class Tag {
+  confidence: 10.895966
+  tag: town
+}
+, class Tag {
+  confidence: 10.716171
+  tag: construction
+}
+, class Tag {
+  confidence: 10.682231
+  tag: skyscrapers
+}
+, class Tag {
+  confidence: 10.311036
+  tag: park
+}
+, class Tag {
+  confidence: 10.108449
+  tag: high
+}
+, class Tag {
+  confidence: 10.084238
+  tag: cloud
+}
+, class Tag {
+  confidence: 10.056486
+  tag: famous
+}
+, class Tag {
+  confidence: 9.790831
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.451796
+  tag: new
+}
+, class Tag {
+  confidence: 9.451329
+  tag: panorama
+}
+, class Tag {
+  confidence: 9.407801
+  tag: money
+}
+, class Tag {
+  confidence: 9.305783
+  tag: sun
+}
+, class Tag {
+  confidence: 9.243477
+  tag: lights
+}
+, class Tag {
+  confidence: 9.054499
+  tag: financial
+}
+, class Tag {
+  confidence: 9.006274
+  tag: light
+}
+, class Tag {
+  confidence: 8.957051
+  tag: modern
+}
+, class Tag {
+  confidence: 8.909818
+  tag: house
+}
+, class Tag {
+  confidence: 8.830387
+  tag: office
+}
+, class Tag {
+  confidence: 8.655722
+  tag: scenic
+}
+, class Tag {
+  confidence: 8.654368
+  tag: structure
+}
+, class Tag {
+  confidence: 8.6028385
+  tag: finance
+}
+, class Tag {
+  confidence: 8.521556
+  tag: europe
+}
+, class Tag {
+  confidence: 8.338898
+  tag: cash
+}
+, class Tag {
+  confidence: 8.32999
+  tag: street
+}
+, class Tag {
+  confidence: 8.213101
+  tag: currency
+}
+, class Tag {
+  confidence: 8.147083
+  tag: design
+}
+, class Tag {
+  confidence: 8.065964
+  tag: metropolitan
+}
+, class Tag {
+  confidence: 7.9298983
+  tag: district
+}
+, class Tag {
+  confidence: 7.7747626
+  tag: dusk
+}
+, class Tag {
+  confidence: 7.707005
+  tag: center
+}
+, class Tag {
+  confidence: 7.6795287
+  tag: industry
+}
+, class Tag {
+  confidence: 7.678413
+  tag: bridge
+}
+, class Tag {
+  confidence: 7.5297394
+  tag: clouds
+}
+, class Tag {
+  confidence: 7.4416847
+  tag: america
+}
+, class Tag {
+  confidence: 7.267856
+  tag: scenery
+}
+, class Tag {
+  confidence: 7.2603865
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.1398025
+  tag: american
+}
+, class Tag {
+  confidence: 7.1079884
+  tag: york
+}
+, class Tag {
+  confidence: 7.056298
+  tag: aerial
+}
+]
+}
+]
+  unsuccessful: null
+}

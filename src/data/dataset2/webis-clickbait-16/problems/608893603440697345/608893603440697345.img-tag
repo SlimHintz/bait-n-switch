@@ -1,0 +1,196 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHM5gXEVIAAiwAw.jpg
+  tags: [class Tag {
+  confidence: 38.142612
+  tag: airplane
+}
+, class Tag {
+  confidence: 35.624207
+  tag: aircraft
+}
+, class Tag {
+  confidence: 29.375479
+  tag: sky
+}
+, class Tag {
+  confidence: 22.031906
+  tag: travel
+}
+, class Tag {
+  confidence: 20.052351
+  tag: jet
+}
+, class Tag {
+  confidence: 18.963718
+  tag: airport
+}
+, class Tag {
+  confidence: 16.167986
+  tag: wing
+}
+, class Tag {
+  confidence: 15.945774
+  tag: flight
+}
+, class Tag {
+  confidence: 14.791707
+  tag: transportation
+}
+, class Tag {
+  confidence: 14.41571
+  tag: plane
+}
+, class Tag {
+  confidence: 14.050476
+  tag: flying
+}
+, class Tag {
+  confidence: 13.446811
+  tag: sea
+}
+, class Tag {
+  confidence: 13.441586
+  tag: vacation
+}
+, class Tag {
+  confidence: 13.1291275
+  tag: weapon
+}
+, class Tag {
+  confidence: 13.032368
+  tag: fly
+}
+, class Tag {
+  confidence: 12.481369
+  tag: rocket
+}
+, class Tag {
+  confidence: 11.655181
+  tag: clouds
+}
+, class Tag {
+  confidence: 11.30622
+  tag: airliner
+}
+, class Tag {
+  confidence: 11.271057
+  tag: water
+}
+, class Tag {
+  confidence: 11.228966
+  tag: cloud
+}
+, class Tag {
+  confidence: 11.138977
+  tag: aviation
+}
+, class Tag {
+  confidence: 11.033633
+  tag: sun
+}
+, class Tag {
+  confidence: 10.96342
+  tag: sunset
+}
+, class Tag {
+  confidence: 10.729704
+  tag: ocean
+}
+, class Tag {
+  confidence: 10.369238
+  tag: transport
+}
+, class Tag {
+  confidence: 10.187335
+  tag: landscape
+}
+, class Tag {
+  confidence: 10.1669445
+  tag: silhouette
+}
+, class Tag {
+  confidence: 10.086748
+  tag: vehicle
+}
+, class Tag {
+  confidence: 9.70305
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.495127
+  tag: airfield
+}
+, class Tag {
+  confidence: 9.490782
+  tag: beach
+}
+, class Tag {
+  confidence: 9.358224
+  tag: horizon
+}
+, class Tag {
+  confidence: 9.115295
+  tag: tourism
+}
+, class Tag {
+  confidence: 8.545204
+  tag: aeroplane
+}
+, class Tag {
+  confidence: 8.260376
+  tag: scene
+}
+, class Tag {
+  confidence: 8.192861
+  tag: resort
+}
+, class Tag {
+  confidence: 8.164341
+  tag: sunrise
+}
+, class Tag {
+  confidence: 8.068015
+  tag: leisure
+}
+, class Tag {
+  confidence: 8.02669
+  tag: air
+}
+, class Tag {
+  confidence: 8.019813
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.6335893
+  tag: business
+}
+, class Tag {
+  confidence: 7.6000185
+  tag: sand
+}
+, class Tag {
+  confidence: 7.5137405
+  tag: device
+}
+, class Tag {
+  confidence: 7.2890687
+  tag: relaxation
+}
+, class Tag {
+  confidence: 7.2043734
+  tag: technology
+}
+, class Tag {
+  confidence: 7.1210837
+  tag: summer
+}
+, class Tag {
+  confidence: 7.0553346
+  tag: color
+}
+]
+}
+]
+  unsuccessful: null
+}

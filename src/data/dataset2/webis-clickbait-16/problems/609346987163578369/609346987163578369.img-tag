@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTV2zHWwAA8Fup.jpg
+  tags: [class Tag {
+  confidence: 25.480705
+  tag: person
+}
+, class Tag {
+  confidence: 22.358206
+  tag: people
+}
+, class Tag {
+  confidence: 21.83092
+  tag: man
+}
+, class Tag {
+  confidence: 19.8736
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.742056
+  tag: portrait
+}
+, class Tag {
+  confidence: 17.724045
+  tag: arab
+}
+, class Tag {
+  confidence: 16.95143
+  tag: adult
+}
+, class Tag {
+  confidence: 15.334699
+  tag: male
+}
+, class Tag {
+  confidence: 14.736146
+  tag: outdoors
+}
+, class Tag {
+  confidence: 13.86233
+  tag: face
+}
+, class Tag {
+  confidence: 13.648
+  tag: semite
+}
+, class Tag {
+  confidence: 13.569374
+  tag: happy
+}
+, class Tag {
+  confidence: 13.560263
+  tag: smiling
+}
+, class Tag {
+  confidence: 13.145891
+  tag: binoculars
+}
+, class Tag {
+  confidence: 12.620113
+  tag: smile
+}
+, class Tag {
+  confidence: 11.135689
+  tag: women
+}
+, class Tag {
+  confidence: 10.244521
+  tag: head
+}
+, class Tag {
+  confidence: 10.236
+  tag: white
+}
+, class Tag {
+  confidence: 10.063464
+  tag: fashion
+}
+, class Tag {
+  confidence: 10.039997
+  tag: attractive
+}
+, class Tag {
+  confidence: 9.865191
+  tag: vacation
+}
+, class Tag {
+  confidence: 9.727553
+  tag: casual
+}
+, class Tag {
+  confidence: 9.7170925
+  tag: expression
+}
+, class Tag {
+  confidence: 9.709015
+  tag: hair
+}
+, class Tag {
+  confidence: 9.649433
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.490641
+  tag: leisure
+}
+, class Tag {
+  confidence: 9.193509
+  tag: looking
+}
+, class Tag {
+  confidence: 9.189387
+  tag: african
+}
+, class Tag {
+  confidence: 9.149951
+  tag: optical instrument
+}
+, class Tag {
+  confidence: 9.106178
+  tag: ruler
+}
+, class Tag {
+  confidence: 8.991461
+  tag: professional
+}
+, class Tag {
+  confidence: 8.977548
+  tag: outside
+}
+, class Tag {
+  confidence: 8.857611
+  tag: winter
+}
+, class Tag {
+  confidence: 8.676788
+  tag: lady
+}
+, class Tag {
+  confidence: 8.336647
+  tag: model
+}
+, class Tag {
+  confidence: 8.04172
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.908649
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.744813
+  tag: religion
+}
+, class Tag {
+  confidence: 7.675835
+  tag: brunette
+}
+, class Tag {
+  confidence: 7.571032
+  tag: business
+}
+, class Tag {
+  confidence: 7.506212
+  tag: hands
+}
+, class Tag {
+  confidence: 7.4922295
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.4733777
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.273964
+  tag: instrument
+}
+, class Tag {
+  confidence: 7.2046347
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.192867
+  tag: hat
+}
+, class Tag {
+  confidence: 7.136753
+  tag: relaxing
+}
+, class Tag {
+  confidence: 7.1214867
+  tag: fun
+}
+, class Tag {
+  confidence: 7.0640926
+  tag: businessman
+}
+, class Tag {
+  confidence: 7.0396457
+  tag: summer
+}
+]
+}
+]
+  unsuccessful: null
+}

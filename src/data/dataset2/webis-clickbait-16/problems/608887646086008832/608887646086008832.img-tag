@@ -1,0 +1,180 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHK6Rb_UgAEKLJ8.jpg
+  tags: [class Tag {
+  confidence: 26.21692
+  tag: machine
+}
+, class Tag {
+  confidence: 24.71262
+  tag: slot machine
+}
+, class Tag {
+  confidence: 18.479954
+  tag: device
+}
+, class Tag {
+  confidence: 17.14378
+  tag: person
+}
+, class Tag {
+  confidence: 15.912283
+  tag: slot
+}
+, class Tag {
+  confidence: 15.532369
+  tag: people
+}
+, class Tag {
+  confidence: 15.021355
+  tag: happy
+}
+, class Tag {
+  confidence: 14.918886
+  tag: vending machine
+}
+, class Tag {
+  confidence: 14.483882
+  tag: male
+}
+, class Tag {
+  confidence: 13.9995985
+  tag: smiling
+}
+, class Tag {
+  confidence: 13.857772
+  tag: adult
+}
+, class Tag {
+  confidence: 13.740465
+  tag: man
+}
+, class Tag {
+  confidence: 13.030227
+  tag: attractive
+}
+, class Tag {
+  confidence: 12.2422495
+  tag: home
+}
+, class Tag {
+  confidence: 12.051712
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.831538
+  tag: library
+}
+, class Tag {
+  confidence: 11.766722
+  tag: business
+}
+, class Tag {
+  confidence: 11.572064
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.274986
+  tag: caucasian
+}
+, class Tag {
+  confidence: 10.640925
+  tag: indoors
+}
+, class Tag {
+  confidence: 10.565583
+  tag: smile
+}
+, class Tag {
+  confidence: 10.510612
+  tag: shop
+}
+, class Tag {
+  confidence: 10.438945
+  tag: pretty
+}
+, class Tag {
+  confidence: 10.12
+  tag: cash machine
+}
+, class Tag {
+  confidence: 9.819707
+  tag: hand
+}
+, class Tag {
+  confidence: 9.601791
+  tag: casual
+}
+, class Tag {
+  confidence: 9.580476
+  tag: 20s
+}
+, class Tag {
+  confidence: 9.320284
+  tag: holding
+}
+, class Tag {
+  confidence: 9.145806
+  tag: building
+}
+, class Tag {
+  confidence: 8.841442
+  tag: youth
+}
+, class Tag {
+  confidence: 8.72552
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.692012
+  tag: face
+}
+, class Tag {
+  confidence: 8.119994
+  tag: hairdresser
+}
+, class Tag {
+  confidence: 7.864761
+  tag: color
+}
+, class Tag {
+  confidence: 7.7795815
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.677554
+  tag: looking
+}
+, class Tag {
+  confidence: 7.5653048
+  tag: education
+}
+, class Tag {
+  confidence: 7.5309215
+  tag: hair
+}
+, class Tag {
+  confidence: 7.3081203
+  tag: internet
+}
+, class Tag {
+  confidence: 7.2417884
+  tag: design
+}
+, class Tag {
+  confidence: 7.1543574
+  tag: child
+}
+, class Tag {
+  confidence: 7.0984383
+  tag: shopping
+}
+, class Tag {
+  confidence: 7.093812
+  tag: student
+}
+]
+}
+]
+  unsuccessful: null
+}

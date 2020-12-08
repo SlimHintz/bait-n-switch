@@ -1,0 +1,372 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHZWHPFW8AAvK-D.jpg
+  tags: [class Tag {
+  confidence: 53.605957
+  tag: salad
+}
+, class Tag {
+  confidence: 48.476326
+  tag: vegetable
+}
+, class Tag {
+  confidence: 48.140892
+  tag: food
+}
+, class Tag {
+  confidence: 46.359486
+  tag: meal
+}
+, class Tag {
+  confidence: 46.23437
+  tag: dish
+}
+, class Tag {
+  confidence: 43.898182
+  tag: plate
+}
+, class Tag {
+  confidence: 43.45753
+  tag: dinner
+}
+, class Tag {
+  confidence: 40.781708
+  tag: lunch
+}
+, class Tag {
+  confidence: 33.213844
+  tag: gourmet
+}
+, class Tag {
+  confidence: 32.400684
+  tag: guacamole
+}
+, class Tag {
+  confidence: 29.746527
+  tag: healthy
+}
+, class Tag {
+  confidence: 29.555553
+  tag: restaurant
+}
+, class Tag {
+  confidence: 29.488665
+  tag: cuisine
+}
+, class Tag {
+  confidence: 27.49715
+  tag: meat
+}
+, class Tag {
+  confidence: 27.382717
+  tag: vegetarian
+}
+, class Tag {
+  confidence: 26.331285
+  tag: dip
+}
+, class Tag {
+  confidence: 26.281315
+  tag: delicious
+}
+, class Tag {
+  confidence: 25.907446
+  tag: fresh
+}
+, class Tag {
+  confidence: 24.937246
+  tag: lettuce
+}
+, class Tag {
+  confidence: 23.931396
+  tag: tomato
+}
+, class Tag {
+  confidence: 23.366043
+  tag: nutrition
+}
+, class Tag {
+  confidence: 21.593344
+  tag: onion
+}
+, class Tag {
+  confidence: 21.581152
+  tag: cooking
+}
+, class Tag {
+  confidence: 21.213968
+  tag: eat
+}
+, class Tag {
+  confidence: 21.118767
+  tag: tasty
+}
+, class Tag {
+  confidence: 21.085709
+  tag: diet
+}
+, class Tag {
+  confidence: 20.62559
+  tag: cheese
+}
+, class Tag {
+  confidence: 20.2826
+  tag: pepper
+}
+, class Tag {
+  confidence: 19.933773
+  tag: cooked
+}
+, class Tag {
+  confidence: 19.400465
+  tag: chicken
+}
+, class Tag {
+  confidence: 19.32576
+  tag: appetizer
+}
+, class Tag {
+  confidence: 19.234161
+  tag: vegetables
+}
+, class Tag {
+  confidence: 19.122787
+  tag: bowl
+}
+, class Tag {
+  confidence: 18.238157
+  tag: broccoli
+}
+, class Tag {
+  confidence: 17.799177
+  tag: condiment
+}
+, class Tag {
+  confidence: 16.44162
+  tag: garnish
+}
+, class Tag {
+  confidence: 16.326557
+  tag: eating
+}
+, class Tag {
+  confidence: 16.002306
+  tag: freshness
+}
+, class Tag {
+  confidence: 15.84055
+  tag: sauce
+}
+, class Tag {
+  confidence: 15.661454
+  tag: close
+}
+, class Tag {
+  confidence: 15.383764
+  tag: organic
+}
+, class Tag {
+  confidence: 14.360235
+  tag: snack
+}
+, class Tag {
+  confidence: 13.863483
+  tag: fried
+}
+, class Tag {
+  confidence: 13.721671
+  tag: closeup
+}
+, class Tag {
+  confidence: 13.248903
+  tag: rice
+}
+, class Tag {
+  confidence: 13.163841
+  tag: cook
+}
+, class Tag {
+  confidence: 12.278053
+  tag: parsley
+}
+, class Tag {
+  confidence: 12.148768
+  tag: tomatoes
+}
+, class Tag {
+  confidence: 11.974785
+  tag: oil
+}
+, class Tag {
+  confidence: 11.968
+  tag: flavorer
+}
+, class Tag {
+  confidence: 11.695289
+  tag: leaf
+}
+, class Tag {
+  confidence: 11.606852
+  tag: slice
+}
+, class Tag {
+  confidence: 11.563459
+  tag: olive
+}
+, class Tag {
+  confidence: 11.230094
+  tag: health
+}
+, class Tag {
+  confidence: 10.674729
+  tag: fork
+}
+, class Tag {
+  confidence: 10.643446
+  tag: nutriment
+}
+, class Tag {
+  confidence: 10.530258
+  tag: grilled
+}
+, class Tag {
+  confidence: 10.428297
+  tag: egg
+}
+, class Tag {
+  confidence: 10.366074
+  tag: table
+}
+, class Tag {
+  confidence: 9.969171
+  tag: appetizing
+}
+, class Tag {
+  confidence: 9.912747
+  tag: hot
+}
+, class Tag {
+  confidence: 9.854094
+  tag: potato
+}
+, class Tag {
+  confidence: 9.785379
+  tag: cucumber
+}
+, class Tag {
+  confidence: 9.763777
+  tag: corn
+}
+, class Tag {
+  confidence: 9.7398615
+  tag: prepared
+}
+, class Tag {
+  confidence: 9.612667
+  tag: nutritious
+}
+, class Tag {
+  confidence: 9.569601
+  tag: spice
+}
+, class Tag {
+  confidence: 9.504533
+  tag: herb
+}
+, class Tag {
+  confidence: 9.350983
+  tag: bread
+}
+, class Tag {
+  confidence: 9.289053
+  tag: fish
+}
+, class Tag {
+  confidence: 9.051913
+  tag: spicy
+}
+, class Tag {
+  confidence: 8.993648
+  tag: ingredient
+}
+, class Tag {
+  confidence: 8.900898
+  tag: dining
+}
+, class Tag {
+  confidence: 8.897109
+  tag: asian
+}
+, class Tag {
+  confidence: 8.884385
+  tag: spoon
+}
+, class Tag {
+  confidence: 8.752
+  tag: cruciferous vegetable
+}
+, class Tag {
+  confidence: 8.683931
+  tag: nobody
+}
+, class Tag {
+  confidence: 8.244768
+  tag: basil
+}
+, class Tag {
+  confidence: 8.108759
+  tag: carrot
+}
+, class Tag {
+  confidence: 8.083029
+  tag: seafood
+}
+, class Tag {
+  confidence: 7.948137
+  tag: taste
+}
+, class Tag {
+  confidence: 7.875159
+  tag: glass
+}
+, class Tag {
+  confidence: 7.637735
+  tag: refreshment
+}
+, class Tag {
+  confidence: 7.5653353
+  tag: raw
+}
+, class Tag {
+  confidence: 7.5643234
+  tag: kitchen
+}
+, class Tag {
+  confidence: 7.505112
+  tag: boiled
+}
+, class Tag {
+  confidence: 7.4249825
+  tag: fry
+}
+, class Tag {
+  confidence: 7.383018
+  tag: pasta
+}
+, class Tag {
+  confidence: 7.3785152
+  tag: natural
+}
+, class Tag {
+  confidence: 7.254291
+  tag: beef
+}
+, class Tag {
+  confidence: 7.2240753
+  tag: dieting
+}
+]
+}
+]
+  unsuccessful: null
+}

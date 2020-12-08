@@ -1,0 +1,144 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNXV_AWsAE8kHn.jpg
+  tags: [class Tag {
+  confidence: 26.606327
+  tag: glass
+}
+, class Tag {
+  confidence: 17.16144
+  tag: food
+}
+, class Tag {
+  confidence: 16.322018
+  tag: drink
+}
+, class Tag {
+  confidence: 13.923773
+  tag: healthy
+}
+, class Tag {
+  confidence: 13.725323
+  tag: cream
+}
+, class Tag {
+  confidence: 13.024859
+  tag: close
+}
+, class Tag {
+  confidence: 12.081016
+  tag: beverage
+}
+, class Tag {
+  confidence: 12.071945
+  tag: cup
+}
+, class Tag {
+  confidence: 11.186173
+  tag: container
+}
+, class Tag {
+  confidence: 10.985848
+  tag: fresh
+}
+, class Tag {
+  confidence: 10.897314
+  tag: yellow
+}
+, class Tag {
+  confidence: 10.802558
+  tag: liquid
+}
+, class Tag {
+  confidence: 10.512073
+  tag: health
+}
+, class Tag {
+  confidence: 10.039057
+  tag: meal
+}
+, class Tag {
+  confidence: 9.916321
+  tag: fruit
+}
+, class Tag {
+  confidence: 9.617846
+  tag: beer glass
+}
+, class Tag {
+  confidence: 9.614607
+  tag: eating
+}
+, class Tag {
+  confidence: 9.55016
+  tag: hand
+}
+, class Tag {
+  confidence: 9.143709
+  tag: alcohol
+}
+, class Tag {
+  confidence: 8.931875
+  tag: nutrition
+}
+, class Tag {
+  confidence: 8.79023
+  tag: flower
+}
+, class Tag {
+  confidence: 8.538133
+  tag: object
+}
+, class Tag {
+  confidence: 8.538119
+  tag: diet
+}
+, class Tag {
+  confidence: 8.477898
+  tag: black
+}
+, class Tag {
+  confidence: 8.430527
+  tag: closeup
+}
+, class Tag {
+  confidence: 8.277906
+  tag: snack
+}
+, class Tag {
+  confidence: 7.661326
+  tag: cold
+}
+, class Tag {
+  confidence: 7.6588025
+  tag: drinking
+}
+, class Tag {
+  confidence: 7.6136565
+  tag: life
+}
+, class Tag {
+  confidence: 7.4756618
+  tag: water
+}
+, class Tag {
+  confidence: 7.253592
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.20738
+  tag: color
+}
+, class Tag {
+  confidence: 7.109184
+  tag: natural
+}
+, class Tag {
+  confidence: 7.00607
+  tag: beer
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,180 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHbJpFqUkAAPtle.jpg
+  tags: [class Tag {
+  confidence: 86.57101
+  tag: player
+}
+, class Tag {
+  confidence: 59.85344
+  tag: contestant
+}
+, class Tag {
+  confidence: 56.72291
+  tag: baseball
+}
+, class Tag {
+  confidence: 48.89635
+  tag: ballplayer
+}
+, class Tag {
+  confidence: 45.073124
+  tag: athlete
+}
+, class Tag {
+  confidence: 42.480133
+  tag: person
+}
+, class Tag {
+  confidence: 25.496641
+  tag: ball
+}
+, class Tag {
+  confidence: 19.718128
+  tag: sport
+}
+, class Tag {
+  confidence: 18.949545
+  tag: male
+}
+, class Tag {
+  confidence: 17.569658
+  tag: man
+}
+, class Tag {
+  confidence: 16.77616
+  tag: people
+}
+, class Tag {
+  confidence: 12.876938
+  tag: happy
+}
+, class Tag {
+  confidence: 12.597581
+  tag: active
+}
+, class Tag {
+  confidence: 12.422516
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.182728
+  tag: tennis
+}
+, class Tag {
+  confidence: 12.094978
+  tag: adult
+}
+, class Tag {
+  confidence: 11.654065
+  tag: grass
+}
+, class Tag {
+  confidence: 10.925432
+  tag: fun
+}
+, class Tag {
+  confidence: 10.428938
+  tag: game
+}
+, class Tag {
+  confidence: 9.886964
+  tag: play
+}
+, class Tag {
+  confidence: 9.882039
+  tag: smile
+}
+, class Tag {
+  confidence: 9.792136
+  tag: playing
+}
+, class Tag {
+  confidence: 9.499763
+  tag: outdoor
+}
+, class Tag {
+  confidence: 9.37853
+  tag: team
+}
+, class Tag {
+  confidence: 9.29909
+  tag: field
+}
+, class Tag {
+  confidence: 8.801282
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.772875
+  tag: exercise
+}
+, class Tag {
+  confidence: 8.717201
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.62265
+  tag: activity
+}
+, class Tag {
+  confidence: 8.408966
+  tag: summer
+}
+, class Tag {
+  confidence: 8.219873
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.204095
+  tag: men
+}
+, class Tag {
+  confidence: 8.134028
+  tag: sports
+}
+, class Tag {
+  confidence: 8.068415
+  tag: athletic
+}
+, class Tag {
+  confidence: 8.027627
+  tag: recreation
+}
+, class Tag {
+  confidence: 7.966037
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.891216
+  tag: portrait
+}
+, class Tag {
+  confidence: 7.7605495
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.5642643
+  tag: outside
+}
+, class Tag {
+  confidence: 7.4778695
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.4364867
+  tag: base
+}
+, class Tag {
+  confidence: 7.1239347
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.088066
+  tag: park
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,192 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdPrRJWIAAUwxF.jpg
+  tags: [class Tag {
+  confidence: 40.71088
+  tag: web site
+}
+, class Tag {
+  confidence: 22.678535
+  tag: business
+}
+, class Tag {
+  confidence: 20.864218
+  tag: design
+}
+, class Tag {
+  confidence: 19.505342
+  tag: publication
+}
+, class Tag {
+  confidence: 16.186981
+  tag: computer
+}
+, class Tag {
+  confidence: 15.980902
+  tag: template
+}
+, class Tag {
+  confidence: 13.892183
+  tag: internet
+}
+, class Tag {
+  confidence: 13.768638
+  tag: text
+}
+, class Tag {
+  confidence: 13.509919
+  tag: graphic
+}
+, class Tag {
+  confidence: 13.398893
+  tag: web
+}
+, class Tag {
+  confidence: 13.367504
+  tag: blank
+}
+, class Tag {
+  confidence: 13.345055
+  tag: world wide web
+}
+, class Tag {
+  confidence: 12.236311
+  tag: frame
+}
+, class Tag {
+  confidence: 12.159401
+  tag: corporate
+}
+, class Tag {
+  confidence: 11.700594
+  tag: creative
+}
+, class Tag {
+  confidence: 11.474169
+  tag: element
+}
+, class Tag {
+  confidence: 11.16677
+  tag: card
+}
+, class Tag {
+  confidence: 10.865625
+  tag: art
+}
+, class Tag {
+  confidence: 10.839845
+  tag: banner
+}
+, class Tag {
+  confidence: 10.766627
+  tag: digital
+}
+, class Tag {
+  confidence: 10.588079
+  tag: icon
+}
+, class Tag {
+  confidence: 10.540511
+  tag: style
+}
+, class Tag {
+  confidence: 10.395729
+  tag: menu
+}
+, class Tag {
+  confidence: 10.314644
+  tag: technology
+}
+, class Tag {
+  confidence: 10.049199
+  tag: money
+}
+, class Tag {
+  confidence: 9.816239
+  tag: magazine
+}
+, class Tag {
+  confidence: 9.630324
+  tag: symbol
+}
+, class Tag {
+  confidence: 9.294086
+  tag: modern
+}
+, class Tag {
+  confidence: 9.2928705
+  tag: set
+}
+, class Tag {
+  confidence: 9.266655
+  tag: paper
+}
+, class Tag {
+  confidence: 9.024906
+  tag: sign
+}
+, class Tag {
+  confidence: 8.9099865
+  tag: box
+}
+, class Tag {
+  confidence: 8.867652
+  tag: page
+}
+, class Tag {
+  confidence: 8.698421
+  tag: letter
+}
+, class Tag {
+  confidence: 8.52813
+  tag: cash
+}
+, class Tag {
+  confidence: 8.48491
+  tag: layout
+}
+, class Tag {
+  confidence: 8.1156025
+  tag: company
+}
+, class Tag {
+  confidence: 7.5640607
+  tag: identity
+}
+, class Tag {
+  confidence: 7.4484687
+  tag: software
+}
+, class Tag {
+  confidence: 7.403319
+  tag: empty
+}
+, class Tag {
+  confidence: 7.3060045
+  tag: finance
+}
+, class Tag {
+  confidence: 7.2583513
+  tag: medium
+}
+, class Tag {
+  confidence: 7.249088
+  tag: communication
+}
+, class Tag {
+  confidence: 7.218246
+  tag: cover
+}
+, class Tag {
+  confidence: 7.17139
+  tag: commerce
+}
+, class Tag {
+  confidence: 7.0777974
+  tag: light
+}
+]
+}
+]
+  unsuccessful: null
+}

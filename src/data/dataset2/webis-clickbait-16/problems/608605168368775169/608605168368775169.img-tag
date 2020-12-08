@@ -1,0 +1,308 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHIy0-YUIAEmLYW.jpg
+  tags: [class Tag {
+  confidence: 42.666103
+  tag: child
+}
+, class Tag {
+  confidence: 33.138523
+  tag: cute
+}
+, class Tag {
+  confidence: 30.12729
+  tag: kid
+}
+, class Tag {
+  confidence: 28.404348
+  tag: face
+}
+, class Tag {
+  confidence: 27.325706
+  tag: person
+}
+, class Tag {
+  confidence: 26.98847
+  tag: portrait
+}
+, class Tag {
+  confidence: 26.765423
+  tag: little
+}
+, class Tag {
+  confidence: 26.165176
+  tag: hair
+}
+, class Tag {
+  confidence: 25.281979
+  tag: childhood
+}
+, class Tag {
+  confidence: 23.685137
+  tag: happy
+}
+, class Tag {
+  confidence: 23.146381
+  tag: smile
+}
+, class Tag {
+  confidence: 22.910433
+  tag: people
+}
+, class Tag {
+  confidence: 22.677515
+  tag: expression
+}
+, class Tag {
+  confidence: 21.523056
+  tag: pretty
+}
+, class Tag {
+  confidence: 21.421034
+  tag: happiness
+}
+, class Tag {
+  confidence: 21.31945
+  tag: eyes
+}
+, class Tag {
+  confidence: 20.065506
+  tag: one
+}
+, class Tag {
+  confidence: 18.93984
+  tag: smiling
+}
+, class Tag {
+  confidence: 17.994097
+  tag: baby
+}
+, class Tag {
+  confidence: 17.067768
+  tag: looking
+}
+, class Tag {
+  confidence: 17.021416
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.843576
+  tag: boy
+}
+, class Tag {
+  confidence: 16.145803
+  tag: adorable
+}
+, class Tag {
+  confidence: 15.789525
+  tag: attractive
+}
+, class Tag {
+  confidence: 15.027695
+  tag: children
+}
+, class Tag {
+  confidence: 14.931979
+  tag: fun
+}
+, class Tag {
+  confidence: 14.90134
+  tag: youth
+}
+, class Tag {
+  confidence: 13.778113
+  tag: joy
+}
+, class Tag {
+  confidence: 13.556014
+  tag: cheerful
+}
+, class Tag {
+  confidence: 13.165178
+  tag: blond
+}
+, class Tag {
+  confidence: 12.660608
+  tag: emotion
+}
+, class Tag {
+  confidence: 12.423924
+  tag: girls
+}
+, class Tag {
+  confidence: 12.242882
+  tag: adult
+}
+, class Tag {
+  confidence: 12.225752
+  tag: toddler
+}
+, class Tag {
+  confidence: 12.196932
+  tag: hat
+}
+, class Tag {
+  confidence: 12.119068
+  tag: look
+}
+, class Tag {
+  confidence: 12.092057
+  tag: sweet
+}
+, class Tag {
+  confidence: 11.920454
+  tag: human
+}
+, class Tag {
+  confidence: 11.869147
+  tag: hand
+}
+, class Tag {
+  confidence: 11.040796
+  tag: hands
+}
+, class Tag {
+  confidence: 10.59312
+  tag: family
+}
+, class Tag {
+  confidence: 10.126431
+  tag: joyful
+}
+, class Tag {
+  confidence: 10.038258
+  tag: skin
+}
+, class Tag {
+  confidence: 10.011675
+  tag: playing
+}
+, class Tag {
+  confidence: 9.728748
+  tag: infant
+}
+, class Tag {
+  confidence: 9.452608
+  tag: sitting
+}
+, class Tag {
+  confidence: 9.433442
+  tag: kids
+}
+, class Tag {
+  confidence: 9.316681
+  tag: color
+}
+, class Tag {
+  confidence: 9.228996
+  tag: head
+}
+, class Tag {
+  confidence: 9.108534
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.719633
+  tag: model
+}
+, class Tag {
+  confidence: 8.68391
+  tag: home
+}
+, class Tag {
+  confidence: 8.61786
+  tag: casual
+}
+, class Tag {
+  confidence: 8.578282
+  tag: play
+}
+, class Tag {
+  confidence: 8.520915
+  tag: bonnet
+}
+, class Tag {
+  confidence: 8.360003
+  tag: long
+}
+, class Tag {
+  confidence: 8.219906
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.196745
+  tag: braid
+}
+, class Tag {
+  confidence: 8.083676
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.9333067
+  tag: love
+}
+, class Tag {
+  confidence: 7.906887
+  tag: innocence
+}
+, class Tag {
+  confidence: 7.8783255
+  tag: daughter
+}
+, class Tag {
+  confidence: 7.8242264
+  tag: only
+}
+, class Tag {
+  confidence: 7.789623
+  tag: life
+}
+, class Tag {
+  confidence: 7.7795615
+  tag: playful
+}
+, class Tag {
+  confidence: 7.714727
+  tag: studio
+}
+, class Tag {
+  confidence: 7.7034516
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.636171
+  tag: care
+}
+, class Tag {
+  confidence: 7.608047
+  tag: blonde
+}
+, class Tag {
+  confidence: 7.5786376
+  tag: funny
+}
+, class Tag {
+  confidence: 7.531925
+  tag: teenager
+}
+, class Tag {
+  confidence: 7.506266
+  tag: dress
+}
+, class Tag {
+  confidence: 7.380284
+  tag: lovely
+}
+, class Tag {
+  confidence: 7.116427
+  tag: offspring
+}
+, class Tag {
+  confidence: 7.0555177
+  tag: outside
+}
+]
+}
+]
+  unsuccessful: null
+}

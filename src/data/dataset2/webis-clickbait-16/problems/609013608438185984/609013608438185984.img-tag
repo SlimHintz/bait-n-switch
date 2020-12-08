@@ -1,0 +1,272 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOE6ZxWQAAVYin.jpg
+  tags: [class Tag {
+  confidence: 27.574959
+  tag: design
+}
+, class Tag {
+  confidence: 25.329233
+  tag: graphic
+}
+, class Tag {
+  confidence: 23.779192
+  tag: internet
+}
+, class Tag {
+  confidence: 23.455723
+  tag: business
+}
+, class Tag {
+  confidence: 21.634966
+  tag: icon
+}
+, class Tag {
+  confidence: 21.524889
+  tag: element
+}
+, class Tag {
+  confidence: 19.935211
+  tag: symbol
+}
+, class Tag {
+  confidence: 19.700285
+  tag: set
+}
+, class Tag {
+  confidence: 19.480787
+  tag: black
+}
+, class Tag {
+  confidence: 19.261898
+  tag: collection
+}
+, class Tag {
+  confidence: 19.215792
+  tag: sign
+}
+, class Tag {
+  confidence: 18.72783
+  tag: collage
+}
+, class Tag {
+  confidence: 18.558819
+  tag: art
+}
+, class Tag {
+  confidence: 18.131557
+  tag: conceptual
+}
+, class Tag {
+  confidence: 17.795206
+  tag: advertising
+}
+, class Tag {
+  confidence: 17.002241
+  tag: advertise
+}
+, class Tag {
+  confidence: 16.864521
+  tag: advertisement
+}
+, class Tag {
+  confidence: 16.859282
+  tag: data
+}
+, class Tag {
+  confidence: 16.7217
+  tag: artwork
+}
+, class Tag {
+  confidence: 16.588816
+  tag: idea
+}
+, class Tag {
+  confidence: 16.424759
+  tag: information
+}
+, class Tag {
+  confidence: 16.277977
+  tag: creative
+}
+, class Tag {
+  confidence: 16.241535
+  tag: association
+}
+, class Tag {
+  confidence: 16.019316
+  tag: decorative
+}
+, class Tag {
+  confidence: 15.3134365
+  tag: associated
+}
+, class Tag {
+  confidence: 15.260072
+  tag: definition
+}
+, class Tag {
+  confidence: 15.194448
+  tag: clipart
+}
+, class Tag {
+  confidence: 14.600409
+  tag: copy
+}
+, class Tag {
+  confidence: 14.528667
+  tag: decor
+}
+, class Tag {
+  confidence: 14.478522
+  tag: decoration
+}
+, class Tag {
+  confidence: 14.439274
+  tag: button
+}
+, class Tag {
+  confidence: 14.258753
+  tag: backdrop
+}
+, class Tag {
+  confidence: 14.212322
+  tag: brochure
+}
+, class Tag {
+  confidence: 14.149827
+  tag: carpet
+}
+, class Tag {
+  confidence: 14.08966
+  tag: cloud
+}
+, class Tag {
+  confidence: 13.930116
+  tag: computer
+}
+, class Tag {
+  confidence: 13.594292
+  tag: modern
+}
+, class Tag {
+  confidence: 13.585308
+  tag: composition
+}
+, class Tag {
+  confidence: 13.527246
+  tag: cover
+}
+, class Tag {
+  confidence: 12.622816
+  tag: icons
+}
+, class Tag {
+  confidence: 12.323981
+  tag: web
+}
+, class Tag {
+  confidence: 11.605863
+  tag: letter
+}
+, class Tag {
+  confidence: 10.563057
+  tag: global
+}
+, class Tag {
+  confidence: 10.506134
+  tag: keywords
+}
+, class Tag {
+  confidence: 10.014214
+  tag: finance
+}
+, class Tag {
+  confidence: 9.593636
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.295851
+  tag: mix
+}
+, class Tag {
+  confidence: 9.19195
+  tag: money
+}
+, class Tag {
+  confidence: 9.079037
+  tag: buttons
+}
+, class Tag {
+  confidence: 8.994263
+  tag: pattern
+}
+, class Tag {
+  confidence: 8.909293
+  tag: communication
+}
+, class Tag {
+  confidence: 8.797294
+  tag: color
+}
+, class Tag {
+  confidence: 8.653482
+  tag: group
+}
+, class Tag {
+  confidence: 8.538167
+  tag: text
+}
+, class Tag {
+  confidence: 8.250155
+  tag: circle
+}
+, class Tag {
+  confidence: 8.235865
+  tag: round
+}
+, class Tag {
+  confidence: 7.9254503
+  tag: earth
+}
+, class Tag {
+  confidence: 7.624421
+  tag: home
+}
+, class Tag {
+  confidence: 7.581334
+  tag: more
+}
+, class Tag {
+  confidence: 7.5523553
+  tag: mosaic
+}
+, class Tag {
+  confidence: 7.5095963
+  tag: email
+}
+, class Tag {
+  confidence: 7.407244
+  tag: human
+}
+, class Tag {
+  confidence: 7.3809257
+  tag: mail
+}
+, class Tag {
+  confidence: 7.2472596
+  tag: company
+}
+, class Tag {
+  confidence: 7.131528
+  tag: elements
+}
+, class Tag {
+  confidence: 7.0633106
+  tag: digital
+}
+]
+}
+]
+  unsuccessful: null
+}

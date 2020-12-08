@@ -1,0 +1,108 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/tweet_video_thumb/CHTrmfXUwAIR0SV.png
+  tags: [class Tag {
+  confidence: 30.963902
+  tag: mammal
+}
+, class Tag {
+  confidence: 26.420288
+  tag: animal
+}
+, class Tag {
+  confidence: 18.744392
+  tag: elephant
+}
+, class Tag {
+  confidence: 17.1368
+  tag: cat
+}
+, class Tag {
+  confidence: 15.203547
+  tag: cute
+}
+, class Tag {
+  confidence: 12.837108
+  tag: domestic
+}
+, class Tag {
+  confidence: 12.3128605
+  tag: animals
+}
+, class Tag {
+  confidence: 11.960831
+  tag: feline
+}
+, class Tag {
+  confidence: 10.56
+  tag: young
+}
+, class Tag {
+  confidence: 10.521868
+  tag: baby
+}
+, class Tag {
+  confidence: 10.142061
+  tag: wild
+}
+, class Tag {
+  confidence: 9.74573
+  tag: kitten
+}
+, class Tag {
+  confidence: 9.345035
+  tag: fur
+}
+, class Tag {
+  confidence: 8.839387
+  tag: wildlife
+}
+, class Tag {
+  confidence: 8.783375
+  tag: pets
+}
+, class Tag {
+  confidence: 8.268152
+  tag: eye
+}
+, class Tag {
+  confidence: 8.1312
+  tag: happy
+}
+, class Tag {
+  confidence: 8.0
+  tag: egyptian cat
+}
+, class Tag {
+  confidence: 7.781235
+  tag: head
+}
+, class Tag {
+  confidence: 7.670722
+  tag: pet
+}
+, class Tag {
+  confidence: 7.434737
+  tag: black
+}
+, class Tag {
+  confidence: 7.4088597
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.3702717
+  tag: hair
+}
+, class Tag {
+  confidence: 7.1671634
+  tag: grass
+}
+, class Tag {
+  confidence: 7.028314
+  tag: water
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,356 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHdno83WoAAk68T.png
+  tags: [class Tag {
+  confidence: 49.66714
+  tag: icon
+}
+, class Tag {
+  confidence: 48.732353
+  tag: set
+}
+, class Tag {
+  confidence: 40.64273
+  tag: web
+}
+, class Tag {
+  confidence: 39.613804
+  tag: internet
+}
+, class Tag {
+  confidence: 34.780365
+  tag: icons
+}
+, class Tag {
+  confidence: 33.463318
+  tag: symbol
+}
+, class Tag {
+  confidence: 33.02216
+  tag: design
+}
+, class Tag {
+  confidence: 31.940918
+  tag: business
+}
+, class Tag {
+  confidence: 29.903051
+  tag: sign
+}
+, class Tag {
+  confidence: 26.042242
+  tag: button
+}
+, class Tag {
+  confidence: 25.609095
+  tag: graphic
+}
+, class Tag {
+  confidence: 24.47467
+  tag: computer
+}
+, class Tag {
+  confidence: 23.523306
+  tag: website
+}
+, class Tag {
+  confidence: 18.897972
+  tag: collection
+}
+, class Tag {
+  confidence: 17.006443
+  tag: site
+}
+, class Tag {
+  confidence: 16.13113
+  tag: information
+}
+, class Tag {
+  confidence: 15.982441
+  tag: communication
+}
+, class Tag {
+  confidence: 15.974093
+  tag: clip
+}
+, class Tag {
+  confidence: 15.36759
+  tag: office
+}
+, class Tag {
+  confidence: 14.909196
+  tag: technology
+}
+, class Tag {
+  confidence: 14.334581
+  tag: buttons
+}
+, class Tag {
+  confidence: 14.017948
+  tag: house
+}
+, class Tag {
+  confidence: 13.817026
+  tag: cloud
+}
+, class Tag {
+  confidence: 13.335914
+  tag: element
+}
+, class Tag {
+  confidence: 12.79768
+  tag: color
+}
+, class Tag {
+  confidence: 12.774922
+  tag: art
+}
+, class Tag {
+  confidence: 12.587721
+  tag: arrow
+}
+, class Tag {
+  confidence: 12.276699
+  tag: letter
+}
+, class Tag {
+  confidence: 11.855997
+  tag: mail
+}
+, class Tag {
+  confidence: 11.738974
+  tag: word
+}
+, class Tag {
+  confidence: 11.714293
+  tag: clock
+}
+, class Tag {
+  confidence: 11.592834
+  tag: notebook
+}
+, class Tag {
+  confidence: 11.404906
+  tag: phone
+}
+, class Tag {
+  confidence: 11.393148
+  tag: modern
+}
+, class Tag {
+  confidence: 11.125433
+  tag: email
+}
+, class Tag {
+  confidence: 11.007717
+  tag: tag
+}
+, class Tag {
+  confidence: 10.964334
+  tag: monitor
+}
+, class Tag {
+  confidence: 10.947127
+  tag: menu
+}
+, class Tag {
+  confidence: 10.946664
+  tag: mouse
+}
+, class Tag {
+  confidence: 10.534932
+  tag: home
+}
+, class Tag {
+  confidence: 10.434441
+  tag: data
+}
+, class Tag {
+  confidence: 10.277699
+  tag: definition
+}
+, class Tag {
+  confidence: 10.233667
+  tag: folder
+}
+, class Tag {
+  confidence: 10.159928
+  tag: search
+}
+, class Tag {
+  confidence: 9.965021
+  tag: series
+}
+, class Tag {
+  confidence: 9.933863
+  tag: style
+}
+, class Tag {
+  confidence: 9.892902
+  tag: economics
+}
+, class Tag {
+  confidence: 9.809613
+  tag: shop
+}
+, class Tag {
+  confidence: 9.753697
+  tag: network
+}
+, class Tag {
+  confidence: 9.740678
+  tag: globe
+}
+, class Tag {
+  confidence: 9.650012
+  tag: note
+}
+, class Tag {
+  confidence: 9.57676
+  tag: shopping
+}
+, class Tag {
+  confidence: 9.318678
+  tag: conceptual
+}
+, class Tag {
+  confidence: 9.245104
+  tag: orange
+}
+, class Tag {
+  confidence: 9.226063
+  tag: calendar
+}
+, class Tag {
+  confidence: 9.171262
+  tag: speaker
+}
+, class Tag {
+  confidence: 9.075246
+  tag: money
+}
+, class Tag {
+  confidence: 9.048089
+  tag: finance
+}
+, class Tag {
+  confidence: 8.993804
+  tag: basket
+}
+, class Tag {
+  confidence: 8.767618
+  tag: clipart
+}
+, class Tag {
+  confidence: 8.481603
+  tag: equipment
+}
+, class Tag {
+  confidence: 8.451514
+  tag: icon set
+}
+, class Tag {
+  confidence: 8.448324
+  tag: calculator
+}
+, class Tag {
+  confidence: 8.426175
+  tag: printer
+}
+, class Tag {
+  confidence: 8.333349
+  tag: pictogram
+}
+, class Tag {
+  confidence: 8.303082
+  tag: interface
+}
+, class Tag {
+  confidence: 8.269126
+  tag: chart
+}
+, class Tag {
+  confidence: 8.168679
+  tag: www
+}
+, class Tag {
+  confidence: 8.138037
+  tag: media
+}
+, class Tag {
+  confidence: 8.10247
+  tag: bag
+}
+, class Tag {
+  confidence: 8.034674
+  tag: industry
+}
+, class Tag {
+  confidence: 7.961876
+  tag: elements
+}
+, class Tag {
+  confidence: 7.805891
+  tag: global
+}
+, class Tag {
+  confidence: 7.530169
+  tag: colors
+}
+, class Tag {
+  confidence: 7.4937906
+  tag: tags
+}
+, class Tag {
+  confidence: 7.490938
+  tag: tagcloud
+}
+, class Tag {
+  confidence: 7.4892693
+  tag: wordcloud
+}
+, class Tag {
+  confidence: 7.3832474
+  tag: cd
+}
+, class Tag {
+  confidence: 7.3776493
+  tag: file
+}
+, class Tag {
+  confidence: 7.3410263
+  tag: video
+}
+, class Tag {
+  confidence: 7.330186
+  tag: collage
+}
+, class Tag {
+  confidence: 7.3031483
+  tag: online
+}
+, class Tag {
+  confidence: 7.27579
+  tag: symbols
+}
+, class Tag {
+  confidence: 7.2683644
+  tag: card
+}
+, class Tag {
+  confidence: 7.2031717
+  tag: mobile
+}
+, class Tag {
+  confidence: 7.1092134
+  tag: page
+}
+, class Tag {
+  confidence: 7.027884
+  tag: book
+}
+]
+}
+]
+  unsuccessful: null
+}

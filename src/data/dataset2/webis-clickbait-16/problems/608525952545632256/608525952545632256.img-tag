@@ -1,0 +1,112 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHHmnTsW4AEA3XJ.png
+  tags: [class Tag {
+  confidence: 14.940126
+  tag: person
+}
+, class Tag {
+  confidence: 13.4919195
+  tag: male
+}
+, class Tag {
+  confidence: 13.119521
+  tag: happy
+}
+, class Tag {
+  confidence: 12.35257
+  tag: people
+}
+, class Tag {
+  confidence: 12.095212
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.502554
+  tag: man
+}
+, class Tag {
+  confidence: 10.933828
+  tag: home
+}
+, class Tag {
+  confidence: 10.499185
+  tag: adult
+}
+, class Tag {
+  confidence: 10.203435
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.525316
+  tag: hands
+}
+, class Tag {
+  confidence: 9.364127
+  tag: cute
+}
+, class Tag {
+  confidence: 9.360161
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.311931
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.726485
+  tag: casual
+}
+, class Tag {
+  confidence: 8.498096
+  tag: weimaraner
+}
+, class Tag {
+  confidence: 8.471948
+  tag: joy
+}
+, class Tag {
+  confidence: 8.404881
+  tag: color
+}
+, class Tag {
+  confidence: 8.017307
+  tag: face
+}
+, class Tag {
+  confidence: 8.013969
+  tag: business
+}
+, class Tag {
+  confidence: 7.9692903
+  tag: piglet
+}
+, class Tag {
+  confidence: 7.7192073
+  tag: hand
+}
+, class Tag {
+  confidence: 7.457612
+  tag: summer
+}
+, class Tag {
+  confidence: 7.448684
+  tag: portrait
+}
+, class Tag {
+  confidence: 7.111227
+  tag: expression
+}
+, class Tag {
+  confidence: 7.0800214
+  tag: studio
+}
+, class Tag {
+  confidence: 7.0792007
+  tag: human
+}
+]
+}
+]
+  unsuccessful: null
+}

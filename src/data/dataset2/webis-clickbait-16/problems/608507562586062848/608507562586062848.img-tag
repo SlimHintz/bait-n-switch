@@ -1,0 +1,176 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHHaZ1_UIAA0iEF.jpg
+  tags: [class Tag {
+  confidence: 19.949818
+  tag: barrier
+}
+, class Tag {
+  confidence: 18.546745
+  tag: sky
+}
+, class Tag {
+  confidence: 16.704561
+  tag: building
+}
+, class Tag {
+  confidence: 16.480095
+  tag: travel
+}
+, class Tag {
+  confidence: 14.395539
+  tag: water
+}
+, class Tag {
+  confidence: 12.986611
+  tag: architecture
+}
+, class Tag {
+  confidence: 12.631921
+  tag: modern
+}
+, class Tag {
+  confidence: 12.463652
+  tag: city
+}
+, class Tag {
+  confidence: 12.389162
+  tag: sea
+}
+, class Tag {
+  confidence: 11.615653
+  tag: urban
+}
+, class Tag {
+  confidence: 11.506895
+  tag: railing
+}
+, class Tag {
+  confidence: 11.388351
+  tag: window
+}
+, class Tag {
+  confidence: 11.087393
+  tag: landscape
+}
+, class Tag {
+  confidence: 10.237566
+  tag: house
+}
+, class Tag {
+  confidence: 10.056994
+  tag: tourism
+}
+, class Tag {
+  confidence: 10.034318
+  tag: business
+}
+, class Tag {
+  confidence: 9.913782
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.417601
+  tag: vacation
+}
+, class Tag {
+  confidence: 9.32656
+  tag: structure
+}
+, class Tag {
+  confidence: 9.279307
+  tag: turnstile
+}
+, class Tag {
+  confidence: 9.027661
+  tag: gate
+}
+, class Tag {
+  confidence: 9.020516
+  tag: design
+}
+, class Tag {
+  confidence: 8.887845
+  tag: light
+}
+, class Tag {
+  confidence: 8.795498
+  tag: ocean
+}
+, class Tag {
+  confidence: 8.721823
+  tag: support
+}
+, class Tag {
+  confidence: 8.460319
+  tag: scene
+}
+, class Tag {
+  confidence: 8.436575
+  tag: cloud
+}
+, class Tag {
+  confidence: 8.383226
+  tag: summer
+}
+, class Tag {
+  confidence: 8.365113
+  tag: day
+}
+, class Tag {
+  confidence: 8.358419
+  tag: people
+}
+, class Tag {
+  confidence: 8.328749
+  tag: construction
+}
+, class Tag {
+  confidence: 8.218166
+  tag: outdoor
+}
+, class Tag {
+  confidence: 8.00186
+  tag: tourist
+}
+, class Tag {
+  confidence: 7.7833333
+  tag: home
+}
+, class Tag {
+  confidence: 7.779025
+  tag: sun
+}
+, class Tag {
+  confidence: 7.694787
+  tag: concrete
+}
+, class Tag {
+  confidence: 7.6479344
+  tag: life
+}
+, class Tag {
+  confidence: 7.58989
+  tag: cityscape
+}
+, class Tag {
+  confidence: 7.5203643
+  tag: relax
+}
+, class Tag {
+  confidence: 7.3929663
+  tag: old
+}
+, class Tag {
+  confidence: 7.208723
+  tag: color
+}
+, class Tag {
+  confidence: 7.173655
+  tag: pattern
+}
+]
+}
+]
+  unsuccessful: null
+}

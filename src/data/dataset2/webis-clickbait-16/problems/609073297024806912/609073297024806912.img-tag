@@ -1,0 +1,128 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPc76HUgAA4-qX.jpg
+  tags: [class Tag {
+  confidence: 34.661938
+  tag: sign
+}
+, class Tag {
+  confidence: 25.43595
+  tag: symbol
+}
+, class Tag {
+  confidence: 18.574894
+  tag: design
+}
+, class Tag {
+  confidence: 18.468752
+  tag: icon
+}
+, class Tag {
+  confidence: 15.43777
+  tag: graphic
+}
+, class Tag {
+  confidence: 13.866608
+  tag: text
+}
+, class Tag {
+  confidence: 13.75484
+  tag: business
+}
+, class Tag {
+  confidence: 12.424833
+  tag: 3d
+}
+, class Tag {
+  confidence: 11.784149
+  tag: web
+}
+, class Tag {
+  confidence: 11.538605
+  tag: information
+}
+, class Tag {
+  confidence: 11.020707
+  tag: communication
+}
+, class Tag {
+  confidence: 10.197553
+  tag: letter
+}
+, class Tag {
+  confidence: 9.422087
+  tag: set
+}
+, class Tag {
+  confidence: 9.419077
+  tag: card
+}
+, class Tag {
+  confidence: 9.174731
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.0912895
+  tag: plate
+}
+, class Tag {
+  confidence: 8.857802
+  tag: art
+}
+, class Tag {
+  confidence: 8.77061
+  tag: word
+}
+, class Tag {
+  confidence: 8.746313
+  tag: black
+}
+, class Tag {
+  confidence: 8.427081
+  tag: modern
+}
+, class Tag {
+  confidence: 8.345674
+  tag: element
+}
+, class Tag {
+  confidence: 8.325395
+  tag: collection
+}
+, class Tag {
+  confidence: 8.090899
+  tag: new
+}
+, class Tag {
+  confidence: 8.055699
+  tag: headline
+}
+, class Tag {
+  confidence: 7.8196306
+  tag: internet
+}
+, class Tag {
+  confidence: 7.7592263
+  tag: company
+}
+, class Tag {
+  confidence: 7.7580576
+  tag: shield
+}
+, class Tag {
+  confidence: 7.5568395
+  tag: technology
+}
+, class Tag {
+  confidence: 7.344847
+  tag: creative
+}
+, class Tag {
+  confidence: 7.176279
+  tag: notice
+}
+]
+}
+]
+  unsuccessful: null
+}

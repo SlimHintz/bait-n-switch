@@ -1,0 +1,136 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOz-XxUgAEe4GO.jpg
+  tags: [class Tag {
+  confidence: 15.878694
+  tag: business
+}
+, class Tag {
+  confidence: 14.783096
+  tag: person
+}
+, class Tag {
+  confidence: 13.354136
+  tag: cockpit
+}
+, class Tag {
+  confidence: 12.769296
+  tag: people
+}
+, class Tag {
+  confidence: 12.045762
+  tag: man
+}
+, class Tag {
+  confidence: 11.819371
+  tag: happy
+}
+, class Tag {
+  confidence: 10.696683
+  tag: male
+}
+, class Tag {
+  confidence: 10.570086
+  tag: smile
+}
+, class Tag {
+  confidence: 10.267039
+  tag: black
+}
+, class Tag {
+  confidence: 9.525217
+  tag: technology
+}
+, class Tag {
+  confidence: 9.449012
+  tag: caucasian
+}
+, class Tag {
+  confidence: 9.188674
+  tag: design
+}
+, class Tag {
+  confidence: 9.035795
+  tag: hand
+}
+, class Tag {
+  confidence: 8.549051
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.320092
+  tag: sky
+}
+, class Tag {
+  confidence: 8.064488
+  tag: computer
+}
+, class Tag {
+  confidence: 7.9592185
+  tag: adult
+}
+, class Tag {
+  confidence: 7.9104156
+  tag: face
+}
+, class Tag {
+  confidence: 7.8919435
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.8679814
+  tag: hands
+}
+, class Tag {
+  confidence: 7.7491207
+  tag: internet
+}
+, class Tag {
+  confidence: 7.658694
+  tag: communication
+}
+, class Tag {
+  confidence: 7.430967
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.4039874
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.302864
+  tag: graphic
+}
+, class Tag {
+  confidence: 7.2340975
+  tag: 3d
+}
+, class Tag {
+  confidence: 7.2211814
+  tag: home
+}
+, class Tag {
+  confidence: 7.1723056
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.1128025
+  tag: space
+}
+, class Tag {
+  confidence: 7.0328665
+  tag: expression
+}
+, class Tag {
+  confidence: 7.0229106
+  tag: water
+}
+, class Tag {
+  confidence: 7.0096607
+  tag: glass
+}
+]
+}
+]
+  unsuccessful: null
+}

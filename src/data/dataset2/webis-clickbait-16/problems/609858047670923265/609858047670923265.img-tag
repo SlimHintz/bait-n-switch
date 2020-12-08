@@ -1,0 +1,196 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHamqaXWsAA28tv.jpg
+  tags: [class Tag {
+  confidence: 25.92801
+  tag: person
+}
+, class Tag {
+  confidence: 24.857193
+  tag: man
+}
+, class Tag {
+  confidence: 20.334396
+  tag: people
+}
+, class Tag {
+  confidence: 19.65219
+  tag: male
+}
+, class Tag {
+  confidence: 18.023556
+  tag: portrait
+}
+, class Tag {
+  confidence: 17.116014
+  tag: outdoors
+}
+, class Tag {
+  confidence: 16.775503
+  tag: adult
+}
+, class Tag {
+  confidence: 16.074482
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.071201
+  tag: serviceman
+}
+, class Tag {
+  confidence: 14.464871
+  tag: happy
+}
+, class Tag {
+  confidence: 12.553072
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.26567
+  tag: smile
+}
+, class Tag {
+  confidence: 11.541209
+  tag: outside
+}
+, class Tag {
+  confidence: 11.253377
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.152664
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.7344055
+  tag: casual
+}
+, class Tag {
+  confidence: 10.158721
+  tag: looking
+}
+, class Tag {
+  confidence: 10.000383
+  tag: summer
+}
+, class Tag {
+  confidence: 9.997755
+  tag: business
+}
+, class Tag {
+  confidence: 9.868344
+  tag: worker
+}
+, class Tag {
+  confidence: 9.778629
+  tag: sky
+}
+, class Tag {
+  confidence: 9.776097
+  tag: soldier
+}
+, class Tag {
+  confidence: 9.588491
+  tag: human
+}
+, class Tag {
+  confidence: 9.491838
+  tag: helmet
+}
+, class Tag {
+  confidence: 9.310754
+  tag: women
+}
+, class Tag {
+  confidence: 8.706671
+  tag: standing
+}
+, class Tag {
+  confidence: 8.692732
+  tag: couple
+}
+, class Tag {
+  confidence: 8.423791
+  tag: work
+}
+, class Tag {
+  confidence: 8.188123
+  tag: outdoor
+}
+, class Tag {
+  confidence: 8.117529
+  tag: suit
+}
+, class Tag {
+  confidence: 8.047508
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.9647455
+  tag: family
+}
+, class Tag {
+  confidence: 7.950961
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.764081
+  tag: men
+}
+, class Tag {
+  confidence: 7.728424
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.6606445
+  tag: uniform
+}
+, class Tag {
+  confidence: 7.652368
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.635352
+  tag: day
+}
+, class Tag {
+  confidence: 7.543904
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.5037403
+  tag: three
+}
+, class Tag {
+  confidence: 7.452616
+  tag: child
+}
+, class Tag {
+  confidence: 7.395665
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.370686
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.2863536
+  tag: active
+}
+, class Tag {
+  confidence: 7.2643514
+  tag: businessman
+}
+, class Tag {
+  confidence: 7.1247063
+  tag: model
+}
+, class Tag {
+  confidence: 7.083764
+  tag: private
+}
+]
+}
+]
+  unsuccessful: null
+}

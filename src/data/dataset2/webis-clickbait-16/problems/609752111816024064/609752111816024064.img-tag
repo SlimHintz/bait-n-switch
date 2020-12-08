@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHY91PbUsAId_Fl.jpg
+  tags: [class Tag {
+  confidence: 22.985409
+  tag: happy
+}
+, class Tag {
+  confidence: 19.46421
+  tag: man
+}
+, class Tag {
+  confidence: 19.20734
+  tag: person
+}
+, class Tag {
+  confidence: 18.51258
+  tag: people
+}
+, class Tag {
+  confidence: 18.478775
+  tag: male
+}
+, class Tag {
+  confidence: 18.16562
+  tag: adult
+}
+, class Tag {
+  confidence: 17.595478
+  tag: smile
+}
+, class Tag {
+  confidence: 15.479338
+  tag: caucasian
+}
+, class Tag {
+  confidence: 15.16792
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 15.094941
+  tag: business
+}
+, class Tag {
+  confidence: 14.652499
+  tag: bench
+}
+, class Tag {
+  confidence: 14.458538
+  tag: portrait
+}
+, class Tag {
+  confidence: 13.836021
+  tag: smiling
+}
+, class Tag {
+  confidence: 12.800748
+  tag: attractive
+}
+, class Tag {
+  confidence: 12.396686
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.657936
+  tag: outdoors
+}
+, class Tag {
+  confidence: 11.335688
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.248663
+  tag: casual
+}
+, class Tag {
+  confidence: 10.496005
+  tag: sitting
+}
+, class Tag {
+  confidence: 9.873182
+  tag: looking
+}
+, class Tag {
+  confidence: 9.591462
+  tag: expression
+}
+, class Tag {
+  confidence: 9.529635
+  tag: travel
+}
+, class Tag {
+  confidence: 9.308584
+  tag: human
+}
+, class Tag {
+  confidence: 9.113401
+  tag: working
+}
+, class Tag {
+  confidence: 8.857223
+  tag: home
+}
+, class Tag {
+  confidence: 8.808706
+  tag: youth
+}
+, class Tag {
+  confidence: 8.613219
+  tag: fashion
+}
+, class Tag {
+  confidence: 8.549887
+  tag: holding
+}
+, class Tag {
+  confidence: 8.510611
+  tag: sky
+}
+, class Tag {
+  confidence: 8.10202
+  tag: face
+}
+, class Tag {
+  confidence: 8.090207
+  tag: men
+}
+, class Tag {
+  confidence: 7.8433046
+  tag: relax
+}
+, class Tag {
+  confidence: 7.7512174
+  tag: lady
+}
+, class Tag {
+  confidence: 7.7480564
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.717931
+  tag: laptop
+}
+, class Tag {
+  confidence: 7.6828227
+  tag: success
+}
+, class Tag {
+  confidence: 7.341528
+  tag: work
+}
+, class Tag {
+  confidence: 7.281524
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.2350106
+  tag: professional
+}
+, class Tag {
+  confidence: 7.1091065
+  tag: resting
+}
+, class Tag {
+  confidence: 7.0047874
+  tag: color
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,284 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHEO_hAWcAA2U7y.png
+  tags: [class Tag {
+  confidence: 35.94224
+  tag: caucasian
+}
+, class Tag {
+  confidence: 35.52335
+  tag: adult
+}
+, class Tag {
+  confidence: 34.1898
+  tag: attractive
+}
+, class Tag {
+  confidence: 27.86365
+  tag: pretty
+}
+, class Tag {
+  confidence: 25.621944
+  tag: portrait
+}
+, class Tag {
+  confidence: 25.55477
+  tag: smile
+}
+, class Tag {
+  confidence: 25.496706
+  tag: person
+}
+, class Tag {
+  confidence: 25.266151
+  tag: happy
+}
+, class Tag {
+  confidence: 23.848257
+  tag: people
+}
+, class Tag {
+  confidence: 22.19674
+  tag: face
+}
+, class Tag {
+  confidence: 21.48659
+  tag: model
+}
+, class Tag {
+  confidence: 19.976833
+  tag: casual
+}
+, class Tag {
+  confidence: 19.905874
+  tag: expression
+}
+, class Tag {
+  confidence: 19.570578
+  tag: happiness
+}
+, class Tag {
+  confidence: 17.052717
+  tag: hair
+}
+, class Tag {
+  confidence: 16.486017
+  tag: smiling
+}
+, class Tag {
+  confidence: 16.408758
+  tag: brunette
+}
+, class Tag {
+  confidence: 16.349375
+  tag: women
+}
+, class Tag {
+  confidence: 15.762439
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 15.711953
+  tag: studio
+}
+, class Tag {
+  confidence: 15.30545
+  tag: cheerful
+}
+, class Tag {
+  confidence: 15.147372
+  tag: youth
+}
+, class Tag {
+  confidence: 15.005578
+  tag: fashion
+}
+, class Tag {
+  confidence: 14.839031
+  tag: cute
+}
+, class Tag {
+  confidence: 14.776116
+  tag: one
+}
+, class Tag {
+  confidence: 14.71161
+  tag: holding
+}
+, class Tag {
+  confidence: 13.630738
+  tag: sitting
+}
+, class Tag {
+  confidence: 13.556306
+  tag: looking
+}
+, class Tag {
+  confidence: 13.104314
+  tag: lady
+}
+, class Tag {
+  confidence: 13.094894
+  tag: fun
+}
+, class Tag {
+  confidence: 12.968487
+  tag: sexy
+}
+, class Tag {
+  confidence: 12.573134
+  tag: blond
+}
+, class Tag {
+  confidence: 12.265151
+  tag: man
+}
+, class Tag {
+  confidence: 12.252783
+  tag: male
+}
+, class Tag {
+  confidence: 12.021364
+  tag: hand
+}
+, class Tag {
+  confidence: 11.827152
+  tag: handsome
+}
+, class Tag {
+  confidence: 10.894267
+  tag: leisure
+}
+, class Tag {
+  confidence: 10.819206
+  tag: clothing
+}
+, class Tag {
+  confidence: 10.598057
+  tag: coat
+}
+, class Tag {
+  confidence: 10.327642
+  tag: 20s
+}
+, class Tag {
+  confidence: 9.838993
+  tag: indoors
+}
+, class Tag {
+  confidence: 9.461659
+  tag: teen
+}
+, class Tag {
+  confidence: 9.392883
+  tag: head
+}
+, class Tag {
+  confidence: 9.349481
+  tag: relax
+}
+, class Tag {
+  confidence: 9.297357
+  tag: child
+}
+, class Tag {
+  confidence: 9.280077
+  tag: human
+}
+, class Tag {
+  confidence: 9.241094
+  tag: business
+}
+, class Tag {
+  confidence: 9.047516
+  tag: body
+}
+, class Tag {
+  confidence: 8.999328
+  tag: fur coat
+}
+, class Tag {
+  confidence: 8.863519
+  tag: eyes
+}
+, class Tag {
+  confidence: 8.600728
+  tag: positive
+}
+, class Tag {
+  confidence: 8.573807
+  tag: emotion
+}
+, class Tag {
+  confidence: 8.534028
+  tag: joy
+}
+, class Tag {
+  confidence: 8.51075
+  tag: relaxation
+}
+, class Tag {
+  confidence: 8.472102
+  tag: alone
+}
+, class Tag {
+  confidence: 8.436859
+  tag: pose
+}
+, class Tag {
+  confidence: 8.210222
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.128969
+  tag: boy
+}
+, class Tag {
+  confidence: 8.011301
+  tag: professional
+}
+, class Tag {
+  confidence: 7.7962117
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.660275
+  tag: teenager
+}
+, class Tag {
+  confidence: 7.5761595
+  tag: girls
+}
+, class Tag {
+  confidence: 7.5304627
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.478428
+  tag: color
+}
+, class Tag {
+  confidence: 7.3924522
+  tag: standing
+}
+, class Tag {
+  confidence: 7.2902083
+  tag: american
+}
+, class Tag {
+  confidence: 7.217211
+  tag: day
+}
+, class Tag {
+  confidence: 7.099523
+  tag: skin
+}
+, class Tag {
+  confidence: 7.0770345
+  tag: only
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,124 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHG4nMqWMAEU1VF.jpg
+  tags: [class Tag {
+  confidence: 76.93943
+  tag: stereo
+}
+, class Tag {
+  confidence: 64.7255
+  tag: ipod
+}
+, class Tag {
+  confidence: 45.66459
+  tag: electronic equipment
+}
+, class Tag {
+  confidence: 41.449566
+  tag: modem
+}
+, class Tag {
+  confidence: 28.785843
+  tag: equipment
+}
+, class Tag {
+  confidence: 25.88827
+  tag: audio system
+}
+, class Tag {
+  confidence: 19.811373
+  tag: technology
+}
+, class Tag {
+  confidence: 16.599018
+  tag: computer
+}
+, class Tag {
+  confidence: 13.050602
+  tag: electronic
+}
+, class Tag {
+  confidence: 11.29213
+  tag: digital
+}
+, class Tag {
+  confidence: 11.143551
+  tag: black
+}
+, class Tag {
+  confidence: 10.158318
+  tag: business
+}
+, class Tag {
+  confidence: 10.098279
+  tag: communication
+}
+, class Tag {
+  confidence: 9.5873375
+  tag: internet
+}
+, class Tag {
+  confidence: 9.475219
+  tag: button
+}
+, class Tag {
+  confidence: 9.317993
+  tag: modern
+}
+, class Tag {
+  confidence: 8.958878
+  tag: silver
+}
+, class Tag {
+  confidence: 8.950818
+  tag: information
+}
+, class Tag {
+  confidence: 8.92332
+  tag: screen
+}
+, class Tag {
+  confidence: 8.854105
+  tag: keyboard
+}
+, class Tag {
+  confidence: 8.563857
+  tag: data
+}
+, class Tag {
+  confidence: 8.484083
+  tag: music
+}
+, class Tag {
+  confidence: 8.156219
+  tag: office
+}
+, class Tag {
+  confidence: 8.060322
+  tag: entertainment
+}
+, class Tag {
+  confidence: 7.518752
+  tag: laptop
+}
+, class Tag {
+  confidence: 7.464863
+  tag: phone
+}
+, class Tag {
+  confidence: 7.3929005
+  tag: plastic
+}
+, class Tag {
+  confidence: 7.0948834
+  tag: sound
+}
+, class Tag {
+  confidence: 7.067664
+  tag: display
+}
+]
+}
+]
+  unsuccessful: null
+}

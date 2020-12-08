@@ -1,0 +1,88 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJD1jfW4AIv8Nn.jpg
+  tags: [class Tag {
+  confidence: 25.608868
+  tag: skeleton
+}
+, class Tag {
+  confidence: 10.696204
+  tag: technology
+}
+, class Tag {
+  confidence: 10.1960745
+  tag: network
+}
+, class Tag {
+  confidence: 9.751301
+  tag: travel
+}
+, class Tag {
+  confidence: 9.507215
+  tag: modern
+}
+, class Tag {
+  confidence: 9.208619
+  tag: bicycle
+}
+, class Tag {
+  confidence: 8.955859
+  tag: close
+}
+, class Tag {
+  confidence: 8.907119
+  tag: business
+}
+, class Tag {
+  confidence: 8.846962
+  tag: steel
+}
+, class Tag {
+  confidence: 8.499035
+  tag: design
+}
+, class Tag {
+  confidence: 8.244991
+  tag: transportation
+}
+, class Tag {
+  confidence: 8.200716
+  tag: vehicle
+}
+, class Tag {
+  confidence: 8.188207
+  tag: equipment
+}
+, class Tag {
+  confidence: 7.995779
+  tag: black
+}
+, class Tag {
+  confidence: 7.768381
+  tag: motorcycle
+}
+, class Tag {
+  confidence: 7.698422
+  tag: color
+}
+, class Tag {
+  confidence: 7.616
+  tag: wheeled vehicle
+}
+, class Tag {
+  confidence: 7.48
+  tag: bicycle-built-for-two
+}
+, class Tag {
+  confidence: 7.371595
+  tag: metal
+}
+, class Tag {
+  confidence: 7.224273
+  tag: system
+}
+]
+}
+]
+  unsuccessful: null
+}

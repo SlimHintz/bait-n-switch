@@ -1,0 +1,256 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTz5n6UsAE0viP.png
+  tags: [class Tag {
+  confidence: 28.5736
+  tag: web site
+}
+, class Tag {
+  confidence: 26.992706
+  tag: design
+}
+, class Tag {
+  confidence: 26.91608
+  tag: window
+}
+, class Tag {
+  confidence: 23.85752
+  tag: graphic
+}
+, class Tag {
+  confidence: 23.396183
+  tag: web
+}
+, class Tag {
+  confidence: 20.045456
+  tag: business
+}
+, class Tag {
+  confidence: 17.974386
+  tag: frame
+}
+, class Tag {
+  confidence: 17.804836
+  tag: template
+}
+, class Tag {
+  confidence: 16.69637
+  tag: icon
+}
+, class Tag {
+  confidence: 16.621084
+  tag: element
+}
+, class Tag {
+  confidence: 16.41906
+  tag: internet
+}
+, class Tag {
+  confidence: 16.393896
+  tag: text
+}
+, class Tag {
+  confidence: 15.466172
+  tag: letterhead
+}
+, class Tag {
+  confidence: 15.319097
+  tag: blank
+}
+, class Tag {
+  confidence: 15.195102
+  tag: website
+}
+, class Tag {
+  confidence: 15.108063
+  tag: paper
+}
+, class Tag {
+  confidence: 14.870342
+  tag: banner
+}
+, class Tag {
+  confidence: 14.814356
+  tag: sign
+}
+, class Tag {
+  confidence: 14.630947
+  tag: corporate
+}
+, class Tag {
+  confidence: 14.491601
+  tag: set
+}
+, class Tag {
+  confidence: 14.363213
+  tag: card
+}
+, class Tag {
+  confidence: 14.096808
+  tag: modern
+}
+, class Tag {
+  confidence: 13.326497
+  tag: symbol
+}
+, class Tag {
+  confidence: 12.538913
+  tag: identity
+}
+, class Tag {
+  confidence: 12.07219
+  tag: creative
+}
+, class Tag {
+  confidence: 12.024454
+  tag: page
+}
+, class Tag {
+  confidence: 11.9843235
+  tag: letter
+}
+, class Tag {
+  confidence: 11.849133
+  tag: art
+}
+, class Tag {
+  confidence: 11.654608
+  tag: name
+}
+, class Tag {
+  confidence: 11.10863
+  tag: color
+}
+, class Tag {
+  confidence: 10.742333
+  tag: www
+}
+, class Tag {
+  confidence: 10.47775
+  tag: company
+}
+, class Tag {
+  confidence: 10.219883
+  tag: spread
+}
+, class Tag {
+  confidence: 10.110932
+  tag: publication
+}
+, class Tag {
+  confidence: 9.6373415
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.473333
+  tag: communication
+}
+, class Tag {
+  confidence: 9.467554
+  tag: black
+}
+, class Tag {
+  confidence: 9.342571
+  tag: texture
+}
+, class Tag {
+  confidence: 9.021715
+  tag: style
+}
+, class Tag {
+  confidence: 8.944138
+  tag: cover
+}
+, class Tag {
+  confidence: 8.765911
+  tag: stationery
+}
+, class Tag {
+  confidence: 8.618883
+  tag: layout
+}
+, class Tag {
+  confidence: 8.583402
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 8.505125
+  tag: office
+}
+, class Tag {
+  confidence: 8.497254
+  tag: digital
+}
+, class Tag {
+  confidence: 8.489869
+  tag: backdrop
+}
+, class Tag {
+  confidence: 8.353666
+  tag: technology
+}
+, class Tag {
+  confidence: 8.205732
+  tag: glossy
+}
+, class Tag {
+  confidence: 8.054517
+  tag: world wide web
+}
+, class Tag {
+  confidence: 7.9750485
+  tag: clean
+}
+, class Tag {
+  confidence: 7.80816
+  tag: button
+}
+, class Tag {
+  confidence: 7.7559233
+  tag: computer
+}
+, class Tag {
+  confidence: 7.574912
+  tag: shiny
+}
+, class Tag {
+  confidence: 7.421345
+  tag: note
+}
+, class Tag {
+  confidence: 7.3740606
+  tag: clipart
+}
+, class Tag {
+  confidence: 7.2376385
+  tag: envelope
+}
+, class Tag {
+  confidence: 7.2331643
+  tag: collection
+}
+, class Tag {
+  confidence: 7.2328415
+  tag: display
+}
+, class Tag {
+  confidence: 7.222276
+  tag: artwork
+}
+, class Tag {
+  confidence: 7.222189
+  tag: decorative
+}
+, class Tag {
+  confidence: 7.0994353
+  tag: new
+}
+, class Tag {
+  confidence: 7.0552883
+  tag: visual
+}
+]
+}
+]
+  unsuccessful: null
+}

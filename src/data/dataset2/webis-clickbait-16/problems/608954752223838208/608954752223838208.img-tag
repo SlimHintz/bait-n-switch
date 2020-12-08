@@ -1,0 +1,264 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNxHt4WgAArPoe.jpg
+  tags: [class Tag {
+  confidence: 40.82296
+  tag: golf
+}
+, class Tag {
+  confidence: 27.958654
+  tag: golf club
+}
+, class Tag {
+  confidence: 26.697826
+  tag: sport
+}
+, class Tag {
+  confidence: 24.917376
+  tag: grass
+}
+, class Tag {
+  confidence: 23.340569
+  tag: player
+}
+, class Tag {
+  confidence: 20.53861
+  tag: male
+}
+, class Tag {
+  confidence: 20.173565
+  tag: ball
+}
+, class Tag {
+  confidence: 20.016249
+  tag: outdoors
+}
+, class Tag {
+  confidence: 19.516998
+  tag: person
+}
+, class Tag {
+  confidence: 18.81959
+  tag: man
+}
+, class Tag {
+  confidence: 17.04476
+  tag: field
+}
+, class Tag {
+  confidence: 16.91753
+  tag: play
+}
+, class Tag {
+  confidence: 16.292835
+  tag: people
+}
+, class Tag {
+  confidence: 15.909227
+  tag: athlete
+}
+, class Tag {
+  confidence: 15.854237
+  tag: leisure
+}
+, class Tag {
+  confidence: 15.626883
+  tag: recreation
+}
+, class Tag {
+  confidence: 15.073933
+  tag: outdoor
+}
+, class Tag {
+  confidence: 14.7228155
+  tag: activity
+}
+, class Tag {
+  confidence: 14.164395
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.8434515
+  tag: golfer
+}
+, class Tag {
+  confidence: 13.516943
+  tag: course
+}
+, class Tag {
+  confidence: 12.886271
+  tag: summer
+}
+, class Tag {
+  confidence: 12.739271
+  tag: fun
+}
+, class Tag {
+  confidence: 12.620117
+  tag: active
+}
+, class Tag {
+  confidence: 12.439072
+  tag: ballplayer
+}
+, class Tag {
+  confidence: 12.105411
+  tag: adult
+}
+, class Tag {
+  confidence: 12.07085
+  tag: outside
+}
+, class Tag {
+  confidence: 12.00749
+  tag: playing
+}
+, class Tag {
+  confidence: 11.777169
+  tag: club
+}
+, class Tag {
+  confidence: 11.749689
+  tag: game
+}
+, class Tag {
+  confidence: 11.586492
+  tag: day
+}
+, class Tag {
+  confidence: 11.31878
+  tag: park
+}
+, class Tag {
+  confidence: 10.975912
+  tag: sky
+}
+, class Tag {
+  confidence: 10.617631
+  tag: happy
+}
+, class Tag {
+  confidence: 10.270938
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.235193
+  tag: child
+}
+, class Tag {
+  confidence: 9.819492
+  tag: sports
+}
+, class Tag {
+  confidence: 9.797361
+  tag: fairway
+}
+, class Tag {
+  confidence: 9.626856
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.336064
+  tag: boy
+}
+, class Tag {
+  confidence: 9.280604
+  tag: men
+}
+, class Tag {
+  confidence: 8.928006
+  tag: swing
+}
+, class Tag {
+  confidence: 8.894752
+  tag: baseball
+}
+, class Tag {
+  confidence: 8.763363
+  tag: human
+}
+, class Tag {
+  confidence: 8.600498
+  tag: hobby
+}
+, class Tag {
+  confidence: 8.524164
+  tag: drive
+}
+, class Tag {
+  confidence: 8.332863
+  tag: smile
+}
+, class Tag {
+  confidence: 8.095862
+  tag: wood
+}
+, class Tag {
+  confidence: 8.031111
+  tag: kid
+}
+, class Tag {
+  confidence: 7.935708
+  tag: rifle
+}
+, class Tag {
+  confidence: 7.7735786
+  tag: professional
+}
+, class Tag {
+  confidence: 7.7557864
+  tag: firearm
+}
+, class Tag {
+  confidence: 7.5413446
+  tag: one
+}
+, class Tag {
+  confidence: 7.4606647
+  tag: hat
+}
+, class Tag {
+  confidence: 7.459079
+  tag: putt
+}
+, class Tag {
+  confidence: 7.4566956
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.4562063
+  tag: contestant
+}
+, class Tag {
+  confidence: 7.362716
+  tag: meadow
+}
+, class Tag {
+  confidence: 7.30709
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.2722254
+  tag: golfing
+}
+, class Tag {
+  confidence: 7.0981402
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.0860114
+  tag: sunny
+}
+, class Tag {
+  confidence: 7.02
+  tag: automatic firearm
+}
+, class Tag {
+  confidence: 7.02
+  tag: assault rifle
+}
+]
+}
+]
+  unsuccessful: null
+}

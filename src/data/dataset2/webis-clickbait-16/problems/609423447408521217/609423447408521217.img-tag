@@ -1,0 +1,268 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUZHQgUEAAIFBm.png
+  tags: [class Tag {
+  confidence: 97.44829
+  tag: doctor
+}
+, class Tag {
+  confidence: 68.64567
+  tag: surgeon
+}
+, class Tag {
+  confidence: 49.1643
+  tag: medical practitioner
+}
+, class Tag {
+  confidence: 36.408
+  tag: health professional
+}
+, class Tag {
+  confidence: 33.391853
+  tag: medical
+}
+, class Tag {
+  confidence: 29.878521
+  tag: healthcare
+}
+, class Tag {
+  confidence: 29.727203
+  tag: adult
+}
+, class Tag {
+  confidence: 28.639042
+  tag: hospital
+}
+, class Tag {
+  confidence: 28.602694
+  tag: specialist
+}
+, class Tag {
+  confidence: 28.309387
+  tag: nurse
+}
+, class Tag {
+  confidence: 27.272741
+  tag: professional
+}
+, class Tag {
+  confidence: 25.144993
+  tag: medicine
+}
+, class Tag {
+  confidence: 25.08921
+  tag: man
+}
+, class Tag {
+  confidence: 22.566042
+  tag: stethoscope
+}
+, class Tag {
+  confidence: 22.3186
+  tag: clinic
+}
+, class Tag {
+  confidence: 22.046556
+  tag: people
+}
+, class Tag {
+  confidence: 21.999254
+  tag: male
+}
+, class Tag {
+  confidence: 20.193312
+  tag: health
+}
+, class Tag {
+  confidence: 19.052458
+  tag: uniform
+}
+, class Tag {
+  confidence: 17.972992
+  tag: care
+}
+, class Tag {
+  confidence: 17.95896
+  tag: work
+}
+, class Tag {
+  confidence: 17.068146
+  tag: job
+}
+, class Tag {
+  confidence: 16.950506
+  tag: patient
+}
+, class Tag {
+  confidence: 16.9184
+  tag: person
+}
+, class Tag {
+  confidence: 16.869963
+  tag: portrait
+}
+, class Tag {
+  confidence: 16.765892
+  tag: caucasian
+}
+, class Tag {
+  confidence: 14.750416
+  tag: working
+}
+, class Tag {
+  confidence: 14.171279
+  tag: physician
+}
+, class Tag {
+  confidence: 13.971551
+  tag: smile
+}
+, class Tag {
+  confidence: 13.655807
+  tag: laboratory
+}
+, class Tag {
+  confidence: 13.39868
+  tag: practitioner
+}
+, class Tag {
+  confidence: 12.599711
+  tag: occupation
+}
+, class Tag {
+  confidence: 12.451269
+  tag: happy
+}
+, class Tag {
+  confidence: 12.271559
+  tag: smiling
+}
+, class Tag {
+  confidence: 12.0589485
+  tag: surgery
+}
+, class Tag {
+  confidence: 11.990877
+  tag: business
+}
+, class Tag {
+  confidence: 11.985259
+  tag: illness
+}
+, class Tag {
+  confidence: 10.676807
+  tag: worker
+}
+, class Tag {
+  confidence: 10.212156
+  tag: sick
+}
+, class Tag {
+  confidence: 10.173521
+  tag: examination
+}
+, class Tag {
+  confidence: 9.891155
+  tag: treatment
+}
+, class Tag {
+  confidence: 9.6891775
+  tag: clinical
+}
+, class Tag {
+  confidence: 9.439382
+  tag: exam
+}
+, class Tag {
+  confidence: 9.402833
+  tag: profession
+}
+, class Tag {
+  confidence: 9.27538
+  tag: coat
+}
+, class Tag {
+  confidence: 9.211311
+  tag: confident
+}
+, class Tag {
+  confidence: 9.134527
+  tag: doctors
+}
+, class Tag {
+  confidence: 9.068524
+  tag: disease
+}
+, class Tag {
+  confidence: 8.834673
+  tag: office
+}
+, class Tag {
+  confidence: 8.824212
+  tag: science
+}
+, class Tag {
+  confidence: 8.449689
+  tag: human
+}
+, class Tag {
+  confidence: 8.259092
+  tag: student
+}
+, class Tag {
+  confidence: 8.039659
+  tag: face
+}
+, class Tag {
+  confidence: 7.9070325
+  tag: mature
+}
+, class Tag {
+  confidence: 7.820515
+  tag: looking
+}
+, class Tag {
+  confidence: 7.8101687
+  tag: standing
+}
+, class Tag {
+  confidence: 7.7687063
+  tag: operation
+}
+, class Tag {
+  confidence: 7.7090325
+  tag: ill
+}
+, class Tag {
+  confidence: 7.6718163
+  tag: scientist
+}
+, class Tag {
+  confidence: 7.666906
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.3870935
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.1653805
+  tag: team
+}
+, class Tag {
+  confidence: 7.16013
+  tag: emergency
+}
+, class Tag {
+  confidence: 7.1051764
+  tag: intern
+}
+, class Tag {
+  confidence: 7.0565166
+  tag: women
+}
+]
+}
+]
+  unsuccessful: null
+}

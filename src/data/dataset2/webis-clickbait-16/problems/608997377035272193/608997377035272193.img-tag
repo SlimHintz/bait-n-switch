@@ -1,0 +1,284 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHE-MK3WQAI2ZW4.jpg
+  tags: [class Tag {
+  confidence: 31.13017
+  tag: people
+}
+, class Tag {
+  confidence: 30.445204
+  tag: attractive
+}
+, class Tag {
+  confidence: 29.225662
+  tag: women
+}
+, class Tag {
+  confidence: 28.534586
+  tag: happy
+}
+, class Tag {
+  confidence: 28.423677
+  tag: smiling
+}
+, class Tag {
+  confidence: 27.834826
+  tag: caucasian
+}
+, class Tag {
+  confidence: 25.145937
+  tag: adult
+}
+, class Tag {
+  confidence: 23.950174
+  tag: portrait
+}
+, class Tag {
+  confidence: 23.70594
+  tag: smile
+}
+, class Tag {
+  confidence: 22.736845
+  tag: pretty
+}
+, class Tag {
+  confidence: 22.13354
+  tag: man
+}
+, class Tag {
+  confidence: 19.976858
+  tag: love
+}
+, class Tag {
+  confidence: 19.843996
+  tag: person
+}
+, class Tag {
+  confidence: 19.8195
+  tag: couple
+}
+, class Tag {
+  confidence: 19.359386
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 18.986464
+  tag: happiness
+}
+, class Tag {
+  confidence: 17.848995
+  tag: male
+}
+, class Tag {
+  confidence: 17.616323
+  tag: friends
+}
+, class Tag {
+  confidence: 17.419624
+  tag: together
+}
+, class Tag {
+  confidence: 17.118746
+  tag: lady
+}
+, class Tag {
+  confidence: 16.60236
+  tag: two
+}
+, class Tag {
+  confidence: 16.087805
+  tag: casual
+}
+, class Tag {
+  confidence: 15.409659
+  tag: cheerful
+}
+, class Tag {
+  confidence: 14.90297
+  tag: hair
+}
+, class Tag {
+  confidence: 14.467587
+  tag: youth
+}
+, class Tag {
+  confidence: 14.002772
+  tag: friendship
+}
+, class Tag {
+  confidence: 13.554902
+  tag: girls
+}
+, class Tag {
+  confidence: 13.520097
+  tag: face
+}
+, class Tag {
+  confidence: 13.253516
+  tag: adults
+}
+, class Tag {
+  confidence: 12.963496
+  tag: men
+}
+, class Tag {
+  confidence: 12.392828
+  tag: outdoors
+}
+, class Tag {
+  confidence: 12.298184
+  tag: sexy
+}
+, class Tag {
+  confidence: 12.234424
+  tag: group
+}
+, class Tag {
+  confidence: 12.2147255
+  tag: fashion
+}
+, class Tag {
+  confidence: 12.147036
+  tag: looking
+}
+, class Tag {
+  confidence: 11.981918
+  tag: model
+}
+, class Tag {
+  confidence: 11.570981
+  tag: brunette
+}
+, class Tag {
+  confidence: 11.525962
+  tag: cute
+}
+, class Tag {
+  confidence: 11.096143
+  tag: fun
+}
+, class Tag {
+  confidence: 10.9815445
+  tag: blond
+}
+, class Tag {
+  confidence: 10.778751
+  tag: standing
+}
+, class Tag {
+  confidence: 9.7558365
+  tag: relationship
+}
+, class Tag {
+  confidence: 9.68446
+  tag: females
+}
+, class Tag {
+  confidence: 9.077968
+  tag: look
+}
+, class Tag {
+  confidence: 9.069181
+  tag: hispanic
+}
+, class Tag {
+  confidence: 8.875927
+  tag: laughing
+}
+, class Tag {
+  confidence: 8.523356
+  tag: team
+}
+, class Tag {
+  confidence: 8.506042
+  tag: handsome
+}
+, class Tag {
+  confidence: 8.490904
+  tag: one
+}
+, class Tag {
+  confidence: 8.364784
+  tag: romance
+}
+, class Tag {
+  confidence: 8.146295
+  tag: home
+}
+, class Tag {
+  confidence: 8.103725
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.076978
+  tag: teenage
+}
+, class Tag {
+  confidence: 8.01381
+  tag: expression
+}
+, class Tag {
+  confidence: 7.935711
+  tag: studio
+}
+, class Tag {
+  confidence: 7.8890767
+  tag: human
+}
+, class Tag {
+  confidence: 7.811395
+  tag: joy
+}
+, class Tag {
+  confidence: 7.768219
+  tag: indoor
+}
+, class Tag {
+  confidence: 7.706977
+  tag: dress
+}
+, class Tag {
+  confidence: 7.578235
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.290503
+  tag: teens
+}
+, class Tag {
+  confidence: 7.2857738
+  tag: affectionate
+}
+, class Tag {
+  confidence: 7.2692447
+  tag: eyes
+}
+, class Tag {
+  confidence: 7.268386
+  tag: hands
+}
+, class Tag {
+  confidence: 7.163645
+  tag: loving
+}
+, class Tag {
+  confidence: 7.1141944
+  tag: health
+}
+, class Tag {
+  confidence: 7.085727
+  tag: clothes
+}
+, class Tag {
+  confidence: 7.077759
+  tag: togetherness
+}
+, class Tag {
+  confidence: 7.016638
+  tag: holding
+}
+]
+}
+]
+  unsuccessful: null
+}

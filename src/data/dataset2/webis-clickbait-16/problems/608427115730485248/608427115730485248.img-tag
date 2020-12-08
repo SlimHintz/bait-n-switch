@@ -1,0 +1,188 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHGMhAaWMAEoHJP.png
+  tags: [class Tag {
+  confidence: 21.602478
+  tag: hand
+}
+, class Tag {
+  confidence: 20.005413
+  tag: person
+}
+, class Tag {
+  confidence: 18.71491
+  tag: people
+}
+, class Tag {
+  confidence: 18.369932
+  tag: man
+}
+, class Tag {
+  confidence: 18.32369
+  tag: happy
+}
+, class Tag {
+  confidence: 16.955545
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.450127
+  tag: adult
+}
+, class Tag {
+  confidence: 16.307781
+  tag: finger
+}
+, class Tag {
+  confidence: 15.89453
+  tag: male
+}
+, class Tag {
+  confidence: 14.716219
+  tag: happiness
+}
+, class Tag {
+  confidence: 14.659284
+  tag: hands
+}
+, class Tag {
+  confidence: 14.564481
+  tag: expression
+}
+, class Tag {
+  confidence: 14.342796
+  tag: smile
+}
+, class Tag {
+  confidence: 14.14137
+  tag: holding
+}
+, class Tag {
+  confidence: 12.935088
+  tag: attractive
+}
+, class Tag {
+  confidence: 12.419094
+  tag: cheerful
+}
+, class Tag {
+  confidence: 12.335183
+  tag: business
+}
+, class Tag {
+  confidence: 12.152798
+  tag: casual
+}
+, class Tag {
+  confidence: 11.862629
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.561382
+  tag: human
+}
+, class Tag {
+  confidence: 10.241318
+  tag: face
+}
+, class Tag {
+  confidence: 10.240289
+  tag: joy
+}
+, class Tag {
+  confidence: 10.162163
+  tag: portrait
+}
+, class Tag {
+  confidence: 10.096588
+  tag: pretty
+}
+, class Tag {
+  confidence: 10.087389
+  tag: black
+}
+, class Tag {
+  confidence: 9.7788725
+  tag: model
+}
+, class Tag {
+  confidence: 9.443842
+  tag: suit
+}
+, class Tag {
+  confidence: 9.399098
+  tag: businessman
+}
+, class Tag {
+  confidence: 9.300032
+  tag: one
+}
+, class Tag {
+  confidence: 9.043283
+  tag: women
+}
+, class Tag {
+  confidence: 8.76178
+  tag: christmas
+}
+, class Tag {
+  confidence: 8.71352
+  tag: studio
+}
+, class Tag {
+  confidence: 8.688427
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.541931
+  tag: success
+}
+, class Tag {
+  confidence: 8.42075
+  tag: looking
+}
+, class Tag {
+  confidence: 8.358664
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.214704
+  tag: cute
+}
+, class Tag {
+  confidence: 8.081139
+  tag: arm
+}
+, class Tag {
+  confidence: 7.864655
+  tag: positive
+}
+, class Tag {
+  confidence: 7.8190966
+  tag: lady
+}
+, class Tag {
+  confidence: 7.6322317
+  tag: xmas
+}
+, class Tag {
+  confidence: 7.4890876
+  tag: celebration
+}
+, class Tag {
+  confidence: 7.4461527
+  tag: boy
+}
+, class Tag {
+  confidence: 7.310874
+  tag: modern
+}
+, class Tag {
+  confidence: 7.2481174
+  tag: sign
+}
+]
+}
+]
+  unsuccessful: null
+}

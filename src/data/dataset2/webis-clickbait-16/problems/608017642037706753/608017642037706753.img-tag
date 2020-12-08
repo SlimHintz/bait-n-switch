@@ -1,0 +1,288 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAcxnIUcAEwzgz.jpg
+  tags: [class Tag {
+  confidence: 27.061787
+  tag: man
+}
+, class Tag {
+  confidence: 25.806139
+  tag: people
+}
+, class Tag {
+  confidence: 24.647532
+  tag: male
+}
+, class Tag {
+  confidence: 24.643137
+  tag: happy
+}
+, class Tag {
+  confidence: 22.413134
+  tag: african
+}
+, class Tag {
+  confidence: 22.292599
+  tag: smiling
+}
+, class Tag {
+  confidence: 21.763124
+  tag: boy
+}
+, class Tag {
+  confidence: 21.3777
+  tag: adult
+}
+, class Tag {
+  confidence: 20.249496
+  tag: couple
+}
+, class Tag {
+  confidence: 19.587032
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.667267
+  tag: happiness
+}
+, class Tag {
+  confidence: 17.97954
+  tag: together
+}
+, class Tag {
+  confidence: 17.86563
+  tag: portrait
+}
+, class Tag {
+  confidence: 17.476652
+  tag: love
+}
+, class Tag {
+  confidence: 16.029709
+  tag: smile
+}
+, class Tag {
+  confidence: 15.57035
+  tag: room
+}
+, class Tag {
+  confidence: 15.445246
+  tag: person
+}
+, class Tag {
+  confidence: 15.333425
+  tag: attractive
+}
+, class Tag {
+  confidence: 15.230198
+  tag: casual
+}
+, class Tag {
+  confidence: 14.765362
+  tag: child
+}
+, class Tag {
+  confidence: 14.4115925
+  tag: black
+}
+, class Tag {
+  confidence: 14.267894
+  tag: classroom
+}
+, class Tag {
+  confidence: 13.705056
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 13.437545
+  tag: women
+}
+, class Tag {
+  confidence: 13.40072
+  tag: family
+}
+, class Tag {
+  confidence: 13.035864
+  tag: men
+}
+, class Tag {
+  confidence: 12.886926
+  tag: handsome
+}
+, class Tag {
+  confidence: 12.126448
+  tag: business
+}
+, class Tag {
+  confidence: 11.799627
+  tag: fun
+}
+, class Tag {
+  confidence: 11.71275
+  tag: adults
+}
+, class Tag {
+  confidence: 11.671491
+  tag: cheerful
+}
+, class Tag {
+  confidence: 11.582658
+  tag: friendship
+}
+, class Tag {
+  confidence: 11.403553
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.398548
+  tag: youth
+}
+, class Tag {
+  confidence: 11.18032
+  tag: two
+}
+, class Tag {
+  confidence: 11.057027
+  tag: kid
+}
+, class Tag {
+  confidence: 10.824054
+  tag: group
+}
+, class Tag {
+  confidence: 10.615337
+  tag: expression
+}
+, class Tag {
+  confidence: 10.531119
+  tag: home
+}
+, class Tag {
+  confidence: 10.248023
+  tag: face
+}
+, class Tag {
+  confidence: 10.197905
+  tag: son
+}
+, class Tag {
+  confidence: 10.100516
+  tag: american
+}
+, class Tag {
+  confidence: 9.928004
+  tag: mother
+}
+, class Tag {
+  confidence: 9.865012
+  tag: 20s
+}
+, class Tag {
+  confidence: 9.674901
+  tag: children
+}
+, class Tag {
+  confidence: 9.570715
+  tag: african american
+}
+, class Tag {
+  confidence: 9.235288
+  tag: colour
+}
+, class Tag {
+  confidence: 9.208532
+  tag: relationship
+}
+, class Tag {
+  confidence: 8.825245
+  tag: team
+}
+, class Tag {
+  confidence: 8.614767
+  tag: indoors
+}
+, class Tag {
+  confidence: 8.598135
+  tag: looking
+}
+, class Tag {
+  confidence: 8.409702
+  tag: sitting
+}
+, class Tag {
+  confidence: 8.382545
+  tag: professional
+}
+, class Tag {
+  confidence: 8.366983
+  tag: togetherness
+}
+, class Tag {
+  confidence: 8.323894
+  tag: females
+}
+, class Tag {
+  confidence: 8.315505
+  tag: kids
+}
+, class Tag {
+  confidence: 8.294556
+  tag: friends
+}
+, class Tag {
+  confidence: 8.16317
+  tag: emotion
+}
+, class Tag {
+  confidence: 8.134027
+  tag: joy
+}
+, class Tag {
+  confidence: 8.026401
+  tag: girls
+}
+, class Tag {
+  confidence: 7.9590445
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.9133797
+  tag: romance
+}
+, class Tag {
+  confidence: 7.8365884
+  tag: working
+}
+, class Tag {
+  confidence: 7.825712
+  tag: computer
+}
+, class Tag {
+  confidence: 7.7015247
+  tag: cute
+}
+, class Tag {
+  confidence: 7.4742775
+  tag: schoolchild
+}
+, class Tag {
+  confidence: 7.3066063
+  tag: laptop
+}
+, class Tag {
+  confidence: 7.30318
+  tag: student
+}
+, class Tag {
+  confidence: 7.208525
+  tag: school
+}
+, class Tag {
+  confidence: 7.1422076
+  tag: color
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,196 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUSPx0UwAAQKwR.jpg
+  tags: [class Tag {
+  confidence: 30.98851
+  tag: man
+}
+, class Tag {
+  confidence: 27.239252
+  tag: male
+}
+, class Tag {
+  confidence: 25.473549
+  tag: people
+}
+, class Tag {
+  confidence: 23.738993
+  tag: person
+}
+, class Tag {
+  confidence: 21.194872
+  tag: adult
+}
+, class Tag {
+  confidence: 18.615065
+  tag: caucasian
+}
+, class Tag {
+  confidence: 18.050392
+  tag: happy
+}
+, class Tag {
+  confidence: 16.243382
+  tag: portrait
+}
+, class Tag {
+  confidence: 15.828277
+  tag: smiling
+}
+, class Tag {
+  confidence: 15.467214
+  tag: smile
+}
+, class Tag {
+  confidence: 13.719304
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.988541
+  tag: casual
+}
+, class Tag {
+  confidence: 11.684275
+  tag: work
+}
+, class Tag {
+  confidence: 11.56097
+  tag: business
+}
+, class Tag {
+  confidence: 10.942319
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.853029
+  tag: holding
+}
+, class Tag {
+  confidence: 10.716322
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.492119
+  tag: men
+}
+, class Tag {
+  confidence: 10.410501
+  tag: sitting
+}
+, class Tag {
+  confidence: 10.409456
+  tag: women
+}
+, class Tag {
+  confidence: 10.165548
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.290115
+  tag: child
+}
+, class Tag {
+  confidence: 9.289736
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.188551
+  tag: clothing
+}
+, class Tag {
+  confidence: 9.1287985
+  tag: family
+}
+, class Tag {
+  confidence: 9.052711
+  tag: looking
+}
+, class Tag {
+  confidence: 9.051756
+  tag: standing
+}
+, class Tag {
+  confidence: 8.959248
+  tag: boy
+}
+, class Tag {
+  confidence: 8.7495985
+  tag: expression
+}
+, class Tag {
+  confidence: 8.688443
+  tag: mature
+}
+, class Tag {
+  confidence: 8.395344
+  tag: businessman
+}
+, class Tag {
+  confidence: 8.262046
+  tag: fun
+}
+, class Tag {
+  confidence: 8.23556
+  tag: working
+}
+, class Tag {
+  confidence: 8.132951
+  tag: model
+}
+, class Tag {
+  confidence: 7.9887085
+  tag: outside
+}
+, class Tag {
+  confidence: 7.965342
+  tag: youth
+}
+, class Tag {
+  confidence: 7.7530985
+  tag: positive
+}
+, class Tag {
+  confidence: 7.692938
+  tag: phone
+}
+, class Tag {
+  confidence: 7.652048
+  tag: teenager
+}
+, class Tag {
+  confidence: 7.645436
+  tag: success
+}
+, class Tag {
+  confidence: 7.614389
+  tag: relaxing
+}
+, class Tag {
+  confidence: 7.6142178
+  tag: technology
+}
+, class Tag {
+  confidence: 7.490642
+  tag: posing
+}
+, class Tag {
+  confidence: 7.294022
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.1988215
+  tag: building
+}
+, class Tag {
+  confidence: 7.0327964
+  tag: sit
+}
+, class Tag {
+  confidence: 7.0199766
+  tag: mobile
+}
+]
+}
+]
+  unsuccessful: null
+}

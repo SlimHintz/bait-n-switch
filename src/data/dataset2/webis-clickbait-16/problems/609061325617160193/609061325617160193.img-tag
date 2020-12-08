@@ -1,0 +1,124 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPSDFUWcAA0SD8.jpg
+  tags: [class Tag {
+  confidence: 17.333267
+  tag: hand
+}
+, class Tag {
+  confidence: 15.258339
+  tag: business
+}
+, class Tag {
+  confidence: 14.302686
+  tag: people
+}
+, class Tag {
+  confidence: 13.888216
+  tag: computer
+}
+, class Tag {
+  confidence: 13.57906
+  tag: person
+}
+, class Tag {
+  confidence: 11.787104
+  tag: attractive
+}
+, class Tag {
+  confidence: 11.587661
+  tag: internet
+}
+, class Tag {
+  confidence: 10.858215
+  tag: technology
+}
+, class Tag {
+  confidence: 10.778908
+  tag: black
+}
+, class Tag {
+  confidence: 9.930587
+  tag: communication
+}
+, class Tag {
+  confidence: 9.458711
+  tag: man
+}
+, class Tag {
+  confidence: 9.411933
+  tag: caucasian
+}
+, class Tag {
+  confidence: 9.327119
+  tag: web
+}
+, class Tag {
+  confidence: 9.07593
+  tag: fashion
+}
+, class Tag {
+  confidence: 9.056711
+  tag: human
+}
+, class Tag {
+  confidence: 8.82217
+  tag: equipment
+}
+, class Tag {
+  confidence: 8.77171
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.581892
+  tag: work
+}
+, class Tag {
+  confidence: 8.125451
+  tag: style
+}
+, class Tag {
+  confidence: 8.017851
+  tag: earphone
+}
+, class Tag {
+  confidence: 7.9153957
+  tag: adult
+}
+, class Tag {
+  confidence: 7.8049526
+  tag: pistol
+}
+, class Tag {
+  confidence: 7.6341486
+  tag: key
+}
+, class Tag {
+  confidence: 7.542667
+  tag: security
+}
+, class Tag {
+  confidence: 7.5321674
+  tag: lady
+}
+, class Tag {
+  confidence: 7.357102
+  tag: office
+}
+, class Tag {
+  confidence: 7.229201
+  tag: face
+}
+, class Tag {
+  confidence: 7.058072
+  tag: hands
+}
+, class Tag {
+  confidence: 7.024505
+  tag: professional
+}
+]
+}
+]
+  unsuccessful: null
+}

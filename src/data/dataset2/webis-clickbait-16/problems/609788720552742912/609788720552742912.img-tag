@@ -1,0 +1,196 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHZmmjzUkAADumb.jpg
+  tags: [class Tag {
+  confidence: 37.032337
+  tag: torch
+}
+, class Tag {
+  confidence: 28.847376
+  tag: man
+}
+, class Tag {
+  confidence: 26.280836
+  tag: person
+}
+, class Tag {
+  confidence: 25.09792
+  tag: male
+}
+, class Tag {
+  confidence: 23.314873
+  tag: player
+}
+, class Tag {
+  confidence: 23.265497
+  tag: light
+}
+, class Tag {
+  confidence: 22.783747
+  tag: people
+}
+, class Tag {
+  confidence: 21.406937
+  tag: adult
+}
+, class Tag {
+  confidence: 21.36
+  tag: source of illumination
+}
+, class Tag {
+  confidence: 18.163857
+  tag: athlete
+}
+, class Tag {
+  confidence: 17.06293
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.937493
+  tag: happy
+}
+, class Tag {
+  confidence: 13.61194
+  tag: fun
+}
+, class Tag {
+  confidence: 12.8538685
+  tag: portrait
+}
+, class Tag {
+  confidence: 12.357163
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.952158
+  tag: shirt
+}
+, class Tag {
+  confidence: 11.91539
+  tag: sport
+}
+, class Tag {
+  confidence: 11.885546
+  tag: tennis
+}
+, class Tag {
+  confidence: 11.822766
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.539551
+  tag: smile
+}
+, class Tag {
+  confidence: 11.476005
+  tag: contestant
+}
+, class Tag {
+  confidence: 10.623852
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.323226
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.125443
+  tag: handsome
+}
+, class Tag {
+  confidence: 10.054322
+  tag: worker
+}
+, class Tag {
+  confidence: 9.953222
+  tag: holding
+}
+, class Tag {
+  confidence: 9.902217
+  tag: business
+}
+, class Tag {
+  confidence: 9.800488
+  tag: face
+}
+, class Tag {
+  confidence: 9.771684
+  tag: boy
+}
+, class Tag {
+  confidence: 9.588093
+  tag: expression
+}
+, class Tag {
+  confidence: 9.572562
+  tag: professional
+}
+, class Tag {
+  confidence: 9.410348
+  tag: work
+}
+, class Tag {
+  confidence: 9.317735
+  tag: joy
+}
+, class Tag {
+  confidence: 8.808292
+  tag: health
+}
+, class Tag {
+  confidence: 8.4683075
+  tag: one
+}
+, class Tag {
+  confidence: 8.226824
+  tag: guy
+}
+, class Tag {
+  confidence: 8.078113
+  tag: hat
+}
+, class Tag {
+  confidence: 7.9717054
+  tag: child
+}
+, class Tag {
+  confidence: 7.953508
+  tag: active
+}
+, class Tag {
+  confidence: 7.87641
+  tag: job
+}
+, class Tag {
+  confidence: 7.7750382
+  tag: looking
+}
+, class Tag {
+  confidence: 7.761021
+  tag: working
+}
+, class Tag {
+  confidence: 7.3406796
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.3054247
+  tag: hand
+}
+, class Tag {
+  confidence: 7.1016912
+  tag: black
+}
+, class Tag {
+  confidence: 7.0740848
+  tag: standing
+}
+, class Tag {
+  confidence: 7.0334277
+  tag: couple
+}
+]
+}
+]
+  unsuccessful: null
+}

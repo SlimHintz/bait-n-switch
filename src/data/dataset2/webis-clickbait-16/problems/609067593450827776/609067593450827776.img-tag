@@ -1,0 +1,220 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOTJn3WkAA-AHm.jpg
+  tags: [class Tag {
+  confidence: 24.126331
+  tag: design
+}
+, class Tag {
+  confidence: 23.127533
+  tag: texture
+}
+, class Tag {
+  confidence: 21.23869
+  tag: pattern
+}
+, class Tag {
+  confidence: 20.368736
+  tag: art
+}
+, class Tag {
+  confidence: 19.972937
+  tag: set
+}
+, class Tag {
+  confidence: 19.308037
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 18.407158
+  tag: graphic
+}
+, class Tag {
+  confidence: 16.131798
+  tag: symbol
+}
+, class Tag {
+  confidence: 15.78677
+  tag: icon
+}
+, class Tag {
+  confidence: 15.207218
+  tag: web
+}
+, class Tag {
+  confidence: 15.17091
+  tag: modern
+}
+, class Tag {
+  confidence: 13.911127
+  tag: element
+}
+, class Tag {
+  confidence: 13.285763
+  tag: technology
+}
+, class Tag {
+  confidence: 13.176145
+  tag: icons
+}
+, class Tag {
+  confidence: 12.921734
+  tag: sign
+}
+, class Tag {
+  confidence: 12.8339
+  tag: business
+}
+, class Tag {
+  confidence: 12.57852
+  tag: color
+}
+, class Tag {
+  confidence: 12.086102
+  tag: tile
+}
+, class Tag {
+  confidence: 12.0413265
+  tag: grunge
+}
+, class Tag {
+  confidence: 11.94727
+  tag: internet
+}
+, class Tag {
+  confidence: 11.655464
+  tag: silhouette
+}
+, class Tag {
+  confidence: 11.484541
+  tag: backdrop
+}
+, class Tag {
+  confidence: 11.017228
+  tag: collection
+}
+, class Tag {
+  confidence: 10.831244
+  tag: decorative
+}
+, class Tag {
+  confidence: 10.336326
+  tag: template
+}
+, class Tag {
+  confidence: 10.226598
+  tag: water
+}
+, class Tag {
+  confidence: 10.082928
+  tag: clean
+}
+, class Tag {
+  confidence: 9.993293
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.859537
+  tag: textured
+}
+, class Tag {
+  confidence: 9.849973
+  tag: colors
+}
+, class Tag {
+  confidence: 9.708278
+  tag: curve
+}
+, class Tag {
+  confidence: 9.251704
+  tag: futuristic
+}
+, class Tag {
+  confidence: 9.151674
+  tag: digital
+}
+, class Tag {
+  confidence: 8.886045
+  tag: seamless
+}
+, class Tag {
+  confidence: 8.82914
+  tag: wave
+}
+, class Tag {
+  confidence: 8.822726
+  tag: drawing
+}
+, class Tag {
+  confidence: 8.810664
+  tag: circle
+}
+, class Tag {
+  confidence: 8.312702
+  tag: cool
+}
+, class Tag {
+  confidence: 8.285439
+  tag: shape
+}
+, class Tag {
+  confidence: 8.182996
+  tag: paper
+}
+, class Tag {
+  confidence: 8.12875
+  tag: detail
+}
+, class Tag {
+  confidence: 8.079422
+  tag: mail
+}
+, class Tag {
+  confidence: 7.8413115
+  tag: elements
+}
+, class Tag {
+  confidence: 7.783179
+  tag: security
+}
+, class Tag {
+  confidence: 7.4894
+  tag: wet
+}
+, class Tag {
+  confidence: 7.4608326
+  tag: creative
+}
+, class Tag {
+  confidence: 7.44035
+  tag: button
+}
+, class Tag {
+  confidence: 7.4283886
+  tag: surface
+}
+, class Tag {
+  confidence: 7.297366
+  tag: money
+}
+, class Tag {
+  confidence: 7.265826
+  tag: clear
+}
+, class Tag {
+  confidence: 7.1062374
+  tag: leaf
+}
+, class Tag {
+  confidence: 7.0966477
+  tag: communication
+}
+, class Tag {
+  confidence: 7.0737224
+  tag: bubbles
+}
+]
+}
+]
+  unsuccessful: null
+}

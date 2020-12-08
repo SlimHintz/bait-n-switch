@@ -1,0 +1,112 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPtsAWW4AAdAR4.jpg
+  tags: [class Tag {
+  confidence: 53.907925
+  tag: factory
+}
+, class Tag {
+  confidence: 52.5
+  tag: lumbermill
+}
+, class Tag {
+  confidence: 26.282938
+  tag: plant
+}
+, class Tag {
+  confidence: 23.345062
+  tag: carpenter
+}
+, class Tag {
+  confidence: 21.0
+  tag: building complex
+}
+, class Tag {
+  confidence: 16.739035
+  tag: building
+}
+, class Tag {
+  confidence: 16.35621
+  tag: industry
+}
+, class Tag {
+  confidence: 15.394749
+  tag: industrial
+}
+, class Tag {
+  confidence: 14.232699
+  tag: structure
+}
+, class Tag {
+  confidence: 13.820498
+  tag: old
+}
+, class Tag {
+  confidence: 13.421589
+  tag: work
+}
+, class Tag {
+  confidence: 13.092074
+  tag: construction
+}
+, class Tag {
+  confidence: 12.043214
+  tag: house
+}
+, class Tag {
+  confidence: 11.405461
+  tag: architecture
+}
+, class Tag {
+  confidence: 10.687696
+  tag: man
+}
+, class Tag {
+  confidence: 10.045313
+  tag: builder
+}
+, class Tag {
+  confidence: 9.879262
+  tag: guillotine
+}
+, class Tag {
+  confidence: 9.297394
+  tag: wood
+}
+, class Tag {
+  confidence: 9.296951
+  tag: worker
+}
+, class Tag {
+  confidence: 9.172895
+  tag: working
+}
+, class Tag {
+  confidence: 8.321926
+  tag: metal
+}
+, class Tag {
+  confidence: 8.224536
+  tag: home
+}
+, class Tag {
+  confidence: 7.904
+  tag: instrument of execution
+}
+, class Tag {
+  confidence: 7.672369
+  tag: brick
+}
+, class Tag {
+  confidence: 7.1667905
+  tag: travel
+}
+, class Tag {
+  confidence: 7.061036
+  tag: steel
+}
+]
+}
+]
+  unsuccessful: null
+}

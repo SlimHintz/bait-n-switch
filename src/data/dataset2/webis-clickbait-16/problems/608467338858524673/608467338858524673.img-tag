@@ -1,0 +1,292 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHG10f0W8AACjH_.jpg
+  tags: [class Tag {
+  confidence: 36.72817
+  tag: football
+}
+, class Tag {
+  confidence: 25.830648
+  tag: man
+}
+, class Tag {
+  confidence: 23.875137
+  tag: game
+}
+, class Tag {
+  confidence: 23.680042
+  tag: male
+}
+, class Tag {
+  confidence: 23.486517
+  tag: person
+}
+, class Tag {
+  confidence: 23.098404
+  tag: people
+}
+, class Tag {
+  confidence: 22.161072
+  tag: back
+}
+, class Tag {
+  confidence: 19.51559
+  tag: sport
+}
+, class Tag {
+  confidence: 18.981468
+  tag: adult
+}
+, class Tag {
+  confidence: 18.110586
+  tag: athlete
+}
+, class Tag {
+  confidence: 17.842518
+  tag: caucasian
+}
+, class Tag {
+  confidence: 17.041233
+  tag: ball
+}
+, class Tag {
+  confidence: 16.441437
+  tag: competition
+}
+, class Tag {
+  confidence: 15.950866
+  tag: player
+}
+, class Tag {
+  confidence: 14.7807455
+  tag: team
+}
+, class Tag {
+  confidence: 14.037088
+  tag: field
+}
+, class Tag {
+  confidence: 13.81909
+  tag: grass
+}
+, class Tag {
+  confidence: 13.054475
+  tag: happy
+}
+, class Tag {
+  confidence: 12.995001
+  tag: portrait
+}
+, class Tag {
+  confidence: 11.8788185
+  tag: championship
+}
+, class Tag {
+  confidence: 11.314861
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.083757
+  tag: outdoor
+}
+, class Tag {
+  confidence: 11.052026
+  tag: one
+}
+, class Tag {
+  confidence: 11.045515
+  tag: pass
+}
+, class Tag {
+  confidence: 10.74124
+  tag: child
+}
+, class Tag {
+  confidence: 10.697878
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.655227
+  tag: combatant
+}
+, class Tag {
+  confidence: 10.285009
+  tag: kick
+}
+, class Tag {
+  confidence: 10.185729
+  tag: fun
+}
+, class Tag {
+  confidence: 10.126195
+  tag: match
+}
+, class Tag {
+  confidence: 10.098439
+  tag: soccer
+}
+, class Tag {
+  confidence: 10.068945
+  tag: skill
+}
+, class Tag {
+  confidence: 9.924155
+  tag: smile
+}
+, class Tag {
+  confidence: 9.651201
+  tag: event
+}
+, class Tag {
+  confidence: 9.569862
+  tag: summer
+}
+, class Tag {
+  confidence: 9.539261
+  tag: leisure
+}
+, class Tag {
+  confidence: 9.536819
+  tag: healthy
+}
+, class Tag {
+  confidence: 9.358777
+  tag: shoot
+}
+, class Tag {
+  confidence: 9.352019
+  tag: silhouette
+}
+, class Tag {
+  confidence: 9.334026
+  tag: family
+}
+, class Tag {
+  confidence: 9.292625
+  tag: muscular
+}
+, class Tag {
+  confidence: 9.207024
+  tag: boy
+}
+, class Tag {
+  confidence: 9.063791
+  tag: outside
+}
+, class Tag {
+  confidence: 8.982889
+  tag: flag
+}
+, class Tag {
+  confidence: 8.91837
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.864559
+  tag: two
+}
+, class Tag {
+  confidence: 8.736094
+  tag: cute
+}
+, class Tag {
+  confidence: 8.670621
+  tag: audience
+}
+, class Tag {
+  confidence: 8.504763
+  tag: goal
+}
+, class Tag {
+  confidence: 8.324805
+  tag: training
+}
+, class Tag {
+  confidence: 8.322434
+  tag: play
+}
+, class Tag {
+  confidence: 8.108557
+  tag: hat
+}
+, class Tag {
+  confidence: 8.073763
+  tag: human
+}
+, class Tag {
+  confidence: 8.033889
+  tag: active
+}
+, class Tag {
+  confidence: 7.9575214
+  tag: activity
+}
+, class Tag {
+  confidence: 7.8820615
+  tag: park
+}
+, class Tag {
+  confidence: 7.840501
+  tag: stadium
+}
+, class Tag {
+  confidence: 7.7861404
+  tag: patriotic
+}
+, class Tag {
+  confidence: 7.7811155
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.776492
+  tag: crowd
+}
+, class Tag {
+  confidence: 7.742548
+  tag: men
+}
+, class Tag {
+  confidence: 7.702938
+  tag: nation
+}
+, class Tag {
+  confidence: 7.6378417
+  tag: casual
+}
+, class Tag {
+  confidence: 7.4835014
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.452836
+  tag: sports
+}
+, class Tag {
+  confidence: 7.362776
+  tag: children
+}
+, class Tag {
+  confidence: 7.2834144
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.2394624
+  tag: baseball
+}
+, class Tag {
+  confidence: 7.1763487
+  tag: childhood
+}
+, class Tag {
+  confidence: 7.1750994
+  tag: kid
+}
+, class Tag {
+  confidence: 7.0034666
+  tag: face
+}
+]
+}
+]
+  unsuccessful: null
+}

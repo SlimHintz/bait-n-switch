@@ -1,0 +1,216 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQxDPHWsAAPvXY.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: groom
+}
+, class Tag {
+  confidence: 32.365707
+  tag: bride
+}
+, class Tag {
+  confidence: 30.013433
+  tag: wedding
+}
+, class Tag {
+  confidence: 27.464962
+  tag: couple
+}
+, class Tag {
+  confidence: 27.37537
+  tag: dress
+}
+, class Tag {
+  confidence: 25.634329
+  tag: love
+}
+, class Tag {
+  confidence: 24.223536
+  tag: marriage
+}
+, class Tag {
+  confidence: 21.896143
+  tag: happiness
+}
+, class Tag {
+  confidence: 21.884348
+  tag: married
+}
+, class Tag {
+  confidence: 20.268166
+  tag: wife
+}
+, class Tag {
+  confidence: 18.88903
+  tag: man
+}
+, class Tag {
+  confidence: 18.344063
+  tag: happy
+}
+, class Tag {
+  confidence: 16.902737
+  tag: bouquet
+}
+, class Tag {
+  confidence: 16.73851
+  tag: people
+}
+, class Tag {
+  confidence: 16.224854
+  tag: person
+}
+, class Tag {
+  confidence: 15.985085
+  tag: flowers
+}
+, class Tag {
+  confidence: 15.296574
+  tag: attendant
+}
+, class Tag {
+  confidence: 14.906441
+  tag: romance
+}
+, class Tag {
+  confidence: 14.555598
+  tag: smile
+}
+, class Tag {
+  confidence: 14.349033
+  tag: spouse
+}
+, class Tag {
+  confidence: 14.209756
+  tag: husband
+}
+, class Tag {
+  confidence: 14.135148
+  tag: male
+}
+, class Tag {
+  confidence: 14.081203
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.770206
+  tag: smiling
+}
+, class Tag {
+  confidence: 13.074404
+  tag: gown
+}
+, class Tag {
+  confidence: 12.905129
+  tag: veil
+}
+, class Tag {
+  confidence: 12.76503
+  tag: adult
+}
+, class Tag {
+  confidence: 12.222689
+  tag: portrait
+}
+, class Tag {
+  confidence: 12.202009
+  tag: attractive
+}
+, class Tag {
+  confidence: 12.158679
+  tag: bridal
+}
+, class Tag {
+  confidence: 11.2487755
+  tag: day
+}
+, class Tag {
+  confidence: 10.500714
+  tag: two
+}
+, class Tag {
+  confidence: 10.466761
+  tag: pretty
+}
+, class Tag {
+  confidence: 10.43924
+  tag: outdoors
+}
+, class Tag {
+  confidence: 10.377177
+  tag: together
+}
+, class Tag {
+  confidence: 10.144288
+  tag: women
+}
+, class Tag {
+  confidence: 10.001244
+  tag: cheerful
+}
+, class Tag {
+  confidence: 9.996861
+  tag: celebration
+}
+, class Tag {
+  confidence: 9.913817
+  tag: romantic
+}
+, class Tag {
+  confidence: 9.26113
+  tag: suit
+}
+, class Tag {
+  confidence: 8.897548
+  tag: lady
+}
+, class Tag {
+  confidence: 8.723425
+  tag: roses
+}
+, class Tag {
+  confidence: 8.434994
+  tag: bridegroom
+}
+, class Tag {
+  confidence: 8.3367195
+  tag: relationship
+}
+, class Tag {
+  confidence: 8.125321
+  tag: ceremony
+}
+, class Tag {
+  confidence: 7.9120383
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.9075813
+  tag: family
+}
+, class Tag {
+  confidence: 7.879594
+  tag: matrimony
+}
+, class Tag {
+  confidence: 7.6727886
+  tag: wed
+}
+, class Tag {
+  confidence: 7.64002
+  tag: brunette
+}
+, class Tag {
+  confidence: 7.336732
+  tag: engagement
+}
+, class Tag {
+  confidence: 7.0794864
+  tag: marry
+}
+]
+}
+]
+  unsuccessful: null
+}

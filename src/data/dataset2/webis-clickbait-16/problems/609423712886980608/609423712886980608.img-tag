@@ -1,0 +1,276 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUTuatUYAAH1mY.jpg
+  tags: [class Tag {
+  confidence: 32.976303
+  tag: newspaper
+}
+, class Tag {
+  confidence: 27.471334
+  tag: money
+}
+, class Tag {
+  confidence: 23.952879
+  tag: business
+}
+, class Tag {
+  confidence: 23.063446
+  tag: cash
+}
+, class Tag {
+  confidence: 22.662018
+  tag: currency
+}
+, class Tag {
+  confidence: 21.615072
+  tag: finance
+}
+, class Tag {
+  confidence: 21.32948
+  tag: paper
+}
+, class Tag {
+  confidence: 20.445398
+  tag: bank
+}
+, class Tag {
+  confidence: 19.863857
+  tag: bill
+}
+, class Tag {
+  confidence: 19.321413
+  tag: dollar
+}
+, class Tag {
+  confidence: 18.945585
+  tag: financial
+}
+, class Tag {
+  confidence: 18.735334
+  tag: banking
+}
+, class Tag {
+  confidence: 18.528023
+  tag: press
+}
+, class Tag {
+  confidence: 15.138492
+  tag: wealth
+}
+, class Tag {
+  confidence: 14.808137
+  tag: publication
+}
+, class Tag {
+  confidence: 14.24
+  tag: book jacket
+}
+, class Tag {
+  confidence: 13.9442215
+  tag: print media
+}
+, class Tag {
+  confidence: 13.766085
+  tag: banknote
+}
+, class Tag {
+  confidence: 13.554474
+  tag: word
+}
+, class Tag {
+  confidence: 13.2621975
+  tag: letter
+}
+, class Tag {
+  confidence: 11.93834
+  tag: text
+}
+, class Tag {
+  confidence: 11.64861
+  tag: rich
+}
+, class Tag {
+  confidence: 11.59288
+  tag: stamp
+}
+, class Tag {
+  confidence: 11.581652
+  tag: note
+}
+, class Tag {
+  confidence: 11.271923
+  tag: hundred
+}
+, class Tag {
+  confidence: 11.227818
+  tag: pay
+}
+, class Tag {
+  confidence: 11.205575
+  tag: exchange
+}
+, class Tag {
+  confidence: 11.142122
+  tag: market
+}
+, class Tag {
+  confidence: 11.125777
+  tag: savings
+}
+, class Tag {
+  confidence: 11.10028
+  tag: jacket
+}
+, class Tag {
+  confidence: 10.828187
+  tag: wrapping
+}
+, class Tag {
+  confidence: 10.745199
+  tag: close
+}
+, class Tag {
+  confidence: 10.723519
+  tag: one
+}
+, class Tag {
+  confidence: 10.543757
+  tag: mail
+}
+, class Tag {
+  confidence: 10.48669
+  tag: slick
+}
+, class Tag {
+  confidence: 10.4566345
+  tag: dollars
+}
+, class Tag {
+  confidence: 10.100311
+  tag: investment
+}
+, class Tag {
+  confidence: 9.880237
+  tag: magazine
+}
+, class Tag {
+  confidence: 9.87355
+  tag: vintage
+}
+, class Tag {
+  confidence: 9.724221
+  tag: medium
+}
+, class Tag {
+  confidence: 9.680652
+  tag: success
+}
+, class Tag {
+  confidence: 9.491953
+  tag: united
+}
+, class Tag {
+  confidence: 9.133172
+  tag: usa
+}
+, class Tag {
+  confidence: 9.119774
+  tag: america
+}
+, class Tag {
+  confidence: 8.87497
+  tag: states
+}
+, class Tag {
+  confidence: 8.835021
+  tag: design
+}
+, class Tag {
+  confidence: 8.788673
+  tag: notes
+}
+, class Tag {
+  confidence: 8.773172
+  tag: old
+}
+, class Tag {
+  confidence: 8.732274
+  tag: american
+}
+, class Tag {
+  confidence: 8.595521
+  tag: economy
+}
+, class Tag {
+  confidence: 8.176484
+  tag: conceptual
+}
+, class Tag {
+  confidence: 8.146912
+  tag: banknotes
+}
+, class Tag {
+  confidence: 8.075004
+  tag: us
+}
+, class Tag {
+  confidence: 7.8715534
+  tag: closeup
+}
+, class Tag {
+  confidence: 7.855891
+  tag: cloud
+}
+, class Tag {
+  confidence: 7.8077292
+  tag: commerce
+}
+, class Tag {
+  confidence: 7.722022
+  tag: retro
+}
+, class Tag {
+  confidence: 7.494195
+  tag: postmark
+}
+, class Tag {
+  confidence: 7.490072
+  tag: postage
+}
+, class Tag {
+  confidence: 7.4035044
+  tag: postal
+}
+, class Tag {
+  confidence: 7.363146
+  tag: bills
+}
+, class Tag {
+  confidence: 7.331783
+  tag: invest
+}
+, class Tag {
+  confidence: 7.2230663
+  tag: change
+}
+, class Tag {
+  confidence: 7.2089114
+  tag: price
+}
+, class Tag {
+  confidence: 7.1661167
+  tag: profit
+}
+, class Tag {
+  confidence: 7.1401315
+  tag: card
+}
+, class Tag {
+  confidence: 7.126878
+  tag: sign
+}
+]
+}
+]
+  unsuccessful: null
+}

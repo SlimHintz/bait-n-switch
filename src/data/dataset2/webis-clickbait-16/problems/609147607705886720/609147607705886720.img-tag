@@ -1,0 +1,220 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQgdYLUAAAI2bi.jpg
+  tags: [class Tag {
+  confidence: 58.191055
+  tag: counter
+}
+, class Tag {
+  confidence: 33.74861
+  tag: interior
+}
+, class Tag {
+  confidence: 32.580303
+  tag: home
+}
+, class Tag {
+  confidence: 26.001335
+  tag: house
+}
+, class Tag {
+  confidence: 24.746563
+  tag: kitchen
+}
+, class Tag {
+  confidence: 23.39152
+  tag: table
+}
+, class Tag {
+  confidence: 22.553503
+  tag: room
+}
+, class Tag {
+  confidence: 22.546051
+  tag: modern
+}
+, class Tag {
+  confidence: 21.729969
+  tag: furniture
+}
+, class Tag {
+  confidence: 18.78739
+  tag: decor
+}
+, class Tag {
+  confidence: 17.874006
+  tag: luxury
+}
+, class Tag {
+  confidence: 16.718678
+  tag: indoors
+}
+, class Tag {
+  confidence: 15.13328
+  tag: design
+}
+, class Tag {
+  confidence: 15.016331
+  tag: chair
+}
+, class Tag {
+  confidence: 14.798001
+  tag: inside
+}
+, class Tag {
+  confidence: 14.74437
+  tag: indoor
+}
+, class Tag {
+  confidence: 14.255188
+  tag: living
+}
+, class Tag {
+  confidence: 14.02148
+  tag: decoration
+}
+, class Tag {
+  confidence: 13.865553
+  tag: architecture
+}
+, class Tag {
+  confidence: 13.828381
+  tag: floor
+}
+, class Tag {
+  confidence: 13.670902
+  tag: sofa
+}
+, class Tag {
+  confidence: 13.134243
+  tag: wood
+}
+, class Tag {
+  confidence: 12.651643
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.620802
+  tag: 3d
+}
+, class Tag {
+  confidence: 12.200441
+  tag: cooking
+}
+, class Tag {
+  confidence: 11.515532
+  tag: apartment
+}
+, class Tag {
+  confidence: 11.301597
+  tag: comfortable
+}
+, class Tag {
+  confidence: 10.890513
+  tag: window
+}
+, class Tag {
+  confidence: 10.847388
+  tag: arrival
+}
+, class Tag {
+  confidence: 10.747922
+  tag: lamp
+}
+, class Tag {
+  confidence: 10.358361
+  tag: estate
+}
+, class Tag {
+  confidence: 10.122345
+  tag: light
+}
+, class Tag {
+  confidence: 10.108434
+  tag: glass
+}
+, class Tag {
+  confidence: 10.065497
+  tag: food
+}
+, class Tag {
+  confidence: 9.608532
+  tag: cabinet
+}
+, class Tag {
+  confidence: 9.574317
+  tag: restaurant
+}
+, class Tag {
+  confidence: 9.436681
+  tag: cook
+}
+, class Tag {
+  confidence: 9.352645
+  tag: domestic
+}
+, class Tag {
+  confidence: 9.258292
+  tag: man
+}
+, class Tag {
+  confidence: 9.170611
+  tag: residential
+}
+, class Tag {
+  confidence: 8.723594
+  tag: new
+}
+, class Tag {
+  confidence: 8.4537
+  tag: couch
+}
+, class Tag {
+  confidence: 8.287704
+  tag: contemporary
+}
+, class Tag {
+  confidence: 8.179411
+  tag: door
+}
+, class Tag {
+  confidence: 7.9405785
+  tag: building
+}
+, class Tag {
+  confidence: 7.6065874
+  tag: elegant
+}
+, class Tag {
+  confidence: 7.5994983
+  tag: happy
+}
+, class Tag {
+  confidence: 7.4895263
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.488494
+  tag: wall
+}
+, class Tag {
+  confidence: 7.4521985
+  tag: lunch
+}
+, class Tag {
+  confidence: 7.3194995
+  tag: stove
+}
+, class Tag {
+  confidence: 7.172327
+  tag: business
+}
+, class Tag {
+  confidence: 7.1378484
+  tag: sink
+}
+]
+}
+]
+  unsuccessful: null
+}

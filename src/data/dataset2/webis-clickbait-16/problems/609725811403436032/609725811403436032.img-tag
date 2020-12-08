@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYuZRMWcAEZeY5.png
+  tags: [class Tag {
+  confidence: 70.6291
+  tag: window
+}
+, class Tag {
+  confidence: 36.011932
+  tag: web site
+}
+, class Tag {
+  confidence: 17.853197
+  tag: computer
+}
+, class Tag {
+  confidence: 17.683157
+  tag: design
+}
+, class Tag {
+  confidence: 15.734888
+  tag: business
+}
+, class Tag {
+  confidence: 15.36774
+  tag: web
+}
+, class Tag {
+  confidence: 15.128507
+  tag: internet
+}
+, class Tag {
+  confidence: 14.975827
+  tag: blank
+}
+, class Tag {
+  confidence: 13.327153
+  tag: modern
+}
+, class Tag {
+  confidence: 13.181414
+  tag: template
+}
+, class Tag {
+  confidence: 12.386945
+  tag: sign
+}
+, class Tag {
+  confidence: 12.233932
+  tag: display
+}
+, class Tag {
+  confidence: 11.728154
+  tag: graphic
+}
+, class Tag {
+  confidence: 11.62483
+  tag: icon
+}
+, class Tag {
+  confidence: 11.606253
+  tag: world wide web
+}
+, class Tag {
+  confidence: 10.611627
+  tag: communication
+}
+, class Tag {
+  confidence: 10.353928
+  tag: website
+}
+, class Tag {
+  confidence: 10.200424
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.122949
+  tag: set
+}
+, class Tag {
+  confidence: 10.03271
+  tag: screen
+}
+, class Tag {
+  confidence: 9.770137
+  tag: frame
+}
+, class Tag {
+  confidence: 9.08827
+  tag: page
+}
+, class Tag {
+  confidence: 9.044509
+  tag: black
+}
+, class Tag {
+  confidence: 9.031607
+  tag: paper
+}
+, class Tag {
+  confidence: 8.968475
+  tag: www
+}
+, class Tag {
+  confidence: 8.904643
+  tag: technology
+}
+, class Tag {
+  confidence: 8.728708
+  tag: text
+}
+, class Tag {
+  confidence: 8.472096
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.929834
+  tag: banner
+}
+, class Tag {
+  confidence: 7.9069953
+  tag: digital
+}
+, class Tag {
+  confidence: 7.7319174
+  tag: space
+}
+, class Tag {
+  confidence: 7.4641294
+  tag: monitor
+}
+, class Tag {
+  confidence: 7.4401793
+  tag: site
+}
+, class Tag {
+  confidence: 7.3990617
+  tag: office
+}
+, class Tag {
+  confidence: 7.390461
+  tag: identity
+}
+, class Tag {
+  confidence: 7.251827
+  tag: style
+}
+, class Tag {
+  confidence: 7.2205467
+  tag: element
+}
+, class Tag {
+  confidence: 7.188506
+  tag: art
+}
+]
+}
+]
+  unsuccessful: null
+}

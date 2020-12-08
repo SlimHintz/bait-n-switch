@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHbTFN_WwAEl7sa.jpg
+  tags: [class Tag {
+  confidence: 40.891754
+  tag: device
+}
+, class Tag {
+  confidence: 39.2
+  tag: electric fan
+}
+, class Tag {
+  confidence: 31.72986
+  tag: fan
+}
+, class Tag {
+  confidence: 30.549751
+  tag: loudspeaker
+}
+, class Tag {
+  confidence: 18.809845
+  tag: radio
+}
+, class Tag {
+  confidence: 18.19864
+  tag: space heater
+}
+, class Tag {
+  confidence: 17.408005
+  tag: equipment
+}
+, class Tag {
+  confidence: 16.71195
+  tag: music
+}
+, class Tag {
+  confidence: 16.200802
+  tag: technology
+}
+, class Tag {
+  confidence: 15.894629
+  tag: sound
+}
+, class Tag {
+  confidence: 14.587981
+  tag: broadcasting
+}
+, class Tag {
+  confidence: 14.543713
+  tag: heater
+}
+, class Tag {
+  confidence: 13.662598
+  tag: stereo
+}
+, class Tag {
+  confidence: 13.448717
+  tag: audio
+}
+, class Tag {
+  confidence: 12.779027
+  tag: black
+}
+, class Tag {
+  confidence: 11.386372
+  tag: graphic
+}
+, class Tag {
+  confidence: 11.377649
+  tag: computer
+}
+, class Tag {
+  confidence: 11.265708
+  tag: design
+}
+, class Tag {
+  confidence: 11.122269
+  tag: style
+}
+, class Tag {
+  confidence: 10.639449
+  tag: 3d
+}
+, class Tag {
+  confidence: 10.52
+  tag: electrical device
+}
+, class Tag {
+  confidence: 10.436521
+  tag: art
+}
+, class Tag {
+  confidence: 10.061726
+  tag: speaker
+}
+, class Tag {
+  confidence: 9.957479
+  tag: modern
+}
+, class Tag {
+  confidence: 9.847265
+  tag: electronic equipment
+}
+, class Tag {
+  confidence: 9.670685
+  tag: digital
+}
+, class Tag {
+  confidence: 9.434406
+  tag: metal
+}
+, class Tag {
+  confidence: 9.263705
+  tag: business
+}
+, class Tag {
+  confidence: 8.94
+  tag: radio receiver
+}
+, class Tag {
+  confidence: 8.736803
+  tag: old
+}
+, class Tag {
+  confidence: 8.346138
+  tag: close
+}
+, class Tag {
+  confidence: 8.155792
+  tag: entertainment
+}
+, class Tag {
+  confidence: 8.133964
+  tag: internet
+}
+, class Tag {
+  confidence: 7.9804225
+  tag: volume
+}
+, class Tag {
+  confidence: 7.93612
+  tag: retro
+}
+, class Tag {
+  confidence: 7.84
+  tag: cassette player
+}
+, class Tag {
+  confidence: 7.814831
+  tag: receiver
+}
+, class Tag {
+  confidence: 7.662986
+  tag: texture
+}
+, class Tag {
+  confidence: 7.5852175
+  tag: play
+}
+, class Tag {
+  confidence: 7.4614162
+  tag: pattern
+}
+, class Tag {
+  confidence: 7.1497717
+  tag: set
+}
+]
+}
+]
+  unsuccessful: null
+}

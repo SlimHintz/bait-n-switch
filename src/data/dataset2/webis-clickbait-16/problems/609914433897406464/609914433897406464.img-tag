@@ -1,0 +1,116 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHbZ8hFUYAAcM2E.jpg
+  tags: [class Tag {
+  confidence: 38.553688
+  tag: frog
+}
+, class Tag {
+  confidence: 34.216297
+  tag: fish
+}
+, class Tag {
+  confidence: 30.985535
+  tag: amphibian
+}
+, class Tag {
+  confidence: 30.04
+  tag: barracouta
+}
+, class Tag {
+  confidence: 24.42
+  tag: tailed frog
+}
+, class Tag {
+  confidence: 24.032
+  tag: food fish
+}
+, class Tag {
+  confidence: 13.318011
+  tag: loggerhead
+}
+, class Tag {
+  confidence: 12.063903
+  tag: animal
+}
+, class Tag {
+  confidence: 11.296515
+  tag: water
+}
+, class Tag {
+  confidence: 10.879188
+  tag: bullfrog
+}
+, class Tag {
+  confidence: 10.652819
+  tag: sea turtle
+}
+, class Tag {
+  confidence: 10.564865
+  tag: sea
+}
+, class Tag {
+  confidence: 10.5
+  tag: common newt
+}
+, class Tag {
+  confidence: 10.119969
+  tag: natural
+}
+, class Tag {
+  confidence: 9.504977
+  tag: summer
+}
+, class Tag {
+  confidence: 9.0
+  tag: dolphinfish
+}
+, class Tag {
+  confidence: 8.703976
+  tag: turtle
+}
+, class Tag {
+  confidence: 8.673356
+  tag: marine
+}
+, class Tag {
+  confidence: 8.4
+  tag: newt
+}
+, class Tag {
+  confidence: 8.133921
+  tag: close
+}
+, class Tag {
+  confidence: 8.045367
+  tag: river
+}
+, class Tag {
+  confidence: 7.8179097
+  tag: vertebrate
+}
+, class Tag {
+  confidence: 7.6339684
+  tag: freedom
+}
+, class Tag {
+  confidence: 7.509783
+  tag: ocean
+}
+, class Tag {
+  confidence: 7.417552
+  tag: fresh
+}
+, class Tag {
+  confidence: 7.3975167
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.1348014
+  tag: business
+}
+]
+}
+]
+  unsuccessful: null
+}

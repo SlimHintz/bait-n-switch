@@ -1,0 +1,92 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYLPXtXAAAWY4Z.jpg
+  tags: [class Tag {
+  confidence: 94.51883
+  tag: ipod
+}
+, class Tag {
+  confidence: 84.89608
+  tag: stereo
+}
+, class Tag {
+  confidence: 37.80471
+  tag: audio system
+}
+, class Tag {
+  confidence: 22.826296
+  tag: electronic equipment
+}
+, class Tag {
+  confidence: 16.30168
+  tag: technology
+}
+, class Tag {
+  confidence: 14.043663
+  tag: appliance
+}
+, class Tag {
+  confidence: 13.08779
+  tag: computer
+}
+, class Tag {
+  confidence: 10.744039
+  tag: electronic
+}
+, class Tag {
+  confidence: 10.401798
+  tag: business
+}
+, class Tag {
+  confidence: 10.047864
+  tag: communication
+}
+, class Tag {
+  confidence: 9.971055
+  tag: equipment
+}
+, class Tag {
+  confidence: 9.799269
+  tag: cellular telephone
+}
+, class Tag {
+  confidence: 9.572412
+  tag: telephone
+}
+, class Tag {
+  confidence: 9.19857
+  tag: internet
+}
+, class Tag {
+  confidence: 8.760545
+  tag: screen
+}
+, class Tag {
+  confidence: 8.396934
+  tag: digital
+}
+, class Tag {
+  confidence: 8.134651
+  tag: close
+}
+, class Tag {
+  confidence: 8.084281
+  tag: black
+}
+, class Tag {
+  confidence: 7.8394146
+  tag: radiotelephone
+}
+, class Tag {
+  confidence: 7.7318773
+  tag: button
+}
+, class Tag {
+  confidence: 7.448015
+  tag: office
+}
+]
+}
+]
+  unsuccessful: null
+}

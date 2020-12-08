@@ -1,0 +1,220 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHW5yWcUYAAS15g.jpg
+  tags: [class Tag {
+  confidence: 37.445778
+  tag: silhouette
+}
+, class Tag {
+  confidence: 21.095928
+  tag: man
+}
+, class Tag {
+  confidence: 20.881153
+  tag: male
+}
+, class Tag {
+  confidence: 20.407675
+  tag: people
+}
+, class Tag {
+  confidence: 19.82818
+  tag: silhoette
+}
+, class Tag {
+  confidence: 19.813536
+  tag: silhoutte
+}
+, class Tag {
+  confidence: 18.833834
+  tag: art
+}
+, class Tag {
+  confidence: 17.64253
+  tag: person
+}
+, class Tag {
+  confidence: 14.294463
+  tag: performance
+}
+, class Tag {
+  confidence: 11.912991
+  tag: happy
+}
+, class Tag {
+  confidence: 11.735082
+  tag: adult
+}
+, class Tag {
+  confidence: 11.59881
+  tag: crowd
+}
+, class Tag {
+  confidence: 11.318882
+  tag: fashion
+}
+, class Tag {
+  confidence: 10.892275
+  tag: christmas
+}
+, class Tag {
+  confidence: 10.773081
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.891381
+  tag: outfit
+}
+, class Tag {
+  confidence: 9.675802
+  tag: dancer
+}
+, class Tag {
+  confidence: 9.669589
+  tag: boy
+}
+, class Tag {
+  confidence: 9.568211
+  tag: women
+}
+, class Tag {
+  confidence: 9.550917
+  tag: men
+}
+, class Tag {
+  confidence: 9.364901
+  tag: event
+}
+, class Tag {
+  confidence: 9.222891
+  tag: joy
+}
+, class Tag {
+  confidence: 9.191788
+  tag: artwork
+}
+, class Tag {
+  confidence: 9.062113
+  tag: music
+}
+, class Tag {
+  confidence: 9.052543
+  tag: sexy
+}
+, class Tag {
+  confidence: 8.856355
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.766667
+  tag: celebration
+}
+, class Tag {
+  confidence: 8.657655
+  tag: smile
+}
+, class Tag {
+  confidence: 8.5584345
+  tag: winter
+}
+, class Tag {
+  confidence: 8.470722
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.388987
+  tag: sport
+}
+, class Tag {
+  confidence: 8.377332
+  tag: team
+}
+, class Tag {
+  confidence: 8.32622
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.3113985
+  tag: cartoon
+}
+, class Tag {
+  confidence: 8.256632
+  tag: caucasian
+}
+, class Tag {
+  confidence: 8.176631
+  tag: fun
+}
+, class Tag {
+  confidence: 8.1703415
+  tag: nighttime
+}
+, class Tag {
+  confidence: 8.110133
+  tag: couple
+}
+, class Tag {
+  confidence: 7.9581475
+  tag: nation
+}
+, class Tag {
+  confidence: 7.7910805
+  tag: player
+}
+, class Tag {
+  confidence: 7.634433
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.6270123
+  tag: black
+}
+, class Tag {
+  confidence: 7.514464
+  tag: group
+}
+, class Tag {
+  confidence: 7.4443517
+  tag: xmas
+}
+, class Tag {
+  confidence: 7.4314747
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.3061852
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.2871695
+  tag: cheering
+}
+, class Tag {
+  confidence: 7.2446427
+  tag: audience
+}
+, class Tag {
+  confidence: 7.2073736
+  tag: stadium
+}
+, class Tag {
+  confidence: 7.1574025
+  tag: patriotic
+}
+, class Tag {
+  confidence: 7.151701
+  tag: skate
+}
+, class Tag {
+  confidence: 7.049089
+  tag: athlete
+}
+, class Tag {
+  confidence: 7.0425005
+  tag: cap
+}
+]
+}
+]
+  unsuccessful: null
+}

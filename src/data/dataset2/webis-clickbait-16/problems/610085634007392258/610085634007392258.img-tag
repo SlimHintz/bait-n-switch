@@ -1,0 +1,216 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHd1pRqWIAANouB.jpg
+  tags: [class Tag {
+  confidence: 46.56
+  tag: hired hand
+}
+, class Tag {
+  confidence: 24.263506
+  tag: grass
+}
+, class Tag {
+  confidence: 22.028236
+  tag: field
+}
+, class Tag {
+  confidence: 20.613354
+  tag: outdoors
+}
+, class Tag {
+  confidence: 20.157993
+  tag: person
+}
+, class Tag {
+  confidence: 19.060682
+  tag: outdoor
+}
+, class Tag {
+  confidence: 19.002296
+  tag: man
+}
+, class Tag {
+  confidence: 18.78528
+  tag: summer
+}
+, class Tag {
+  confidence: 18.211405
+  tag: people
+}
+, class Tag {
+  confidence: 16.68066
+  tag: meadow
+}
+, class Tag {
+  confidence: 15.467842
+  tag: happy
+}
+, class Tag {
+  confidence: 13.176714
+  tag: landscape
+}
+, class Tag {
+  confidence: 13.142242
+  tag: land
+}
+, class Tag {
+  confidence: 12.598927
+  tag: male
+}
+, class Tag {
+  confidence: 11.916313
+  tag: caucasian
+}
+, class Tag {
+  confidence: 11.727026
+  tag: leisure
+}
+, class Tag {
+  confidence: 11.497562
+  tag: countryside
+}
+, class Tag {
+  confidence: 11.344503
+  tag: day
+}
+, class Tag {
+  confidence: 11.309154
+  tag: outside
+}
+, class Tag {
+  confidence: 11.050913
+  tag: gordon setter
+}
+, class Tag {
+  confidence: 10.821985
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.735365
+  tag: park
+}
+, class Tag {
+  confidence: 10.406994
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.024474
+  tag: smile
+}
+, class Tag {
+  confidence: 9.933629
+  tag: farmer
+}
+, class Tag {
+  confidence: 9.656001
+  tag: fun
+}
+, class Tag {
+  confidence: 9.579908
+  tag: men
+}
+, class Tag {
+  confidence: 9.292855
+  tag: freedom
+}
+, class Tag {
+  confidence: 9.263157
+  tag: women
+}
+, class Tag {
+  confidence: 9.000631
+  tag: child
+}
+, class Tag {
+  confidence: 8.999706
+  tag: setter
+}
+, class Tag {
+  confidence: 8.981802
+  tag: sky
+}
+, class Tag {
+  confidence: 8.970906
+  tag: spring
+}
+, class Tag {
+  confidence: 8.956601
+  tag: rural
+}
+, class Tag {
+  confidence: 8.82885
+  tag: adult
+}
+, class Tag {
+  confidence: 8.813646
+  tag: farm
+}
+, class Tag {
+  confidence: 8.720155
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.525485
+  tag: animal
+}
+, class Tag {
+  confidence: 8.488111
+  tag: dog
+}
+, class Tag {
+  confidence: 8.350242
+  tag: country
+}
+, class Tag {
+  confidence: 8.256753
+  tag: hiking
+}
+, class Tag {
+  confidence: 8.243835
+  tag: kid
+}
+, class Tag {
+  confidence: 8.080361
+  tag: walking
+}
+, class Tag {
+  confidence: 7.9425664
+  tag: flowers
+}
+, class Tag {
+  confidence: 7.9205904
+  tag: sun
+}
+, class Tag {
+  confidence: 7.900807
+  tag: active
+}
+, class Tag {
+  confidence: 7.86
+  tag: black grouse
+}
+, class Tag {
+  confidence: 7.640664
+  tag: activity
+}
+, class Tag {
+  confidence: 7.517238
+  tag: together
+}
+, class Tag {
+  confidence: 7.50883
+  tag: walk
+}
+, class Tag {
+  confidence: 7.4492683
+  tag: couple
+}
+, class Tag {
+  confidence: 7.157804
+  tag: mountains
+}
+]
+}
+]
+  unsuccessful: null
+}

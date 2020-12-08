@@ -1,0 +1,240 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTuQimUcAEyMxe.png
+  tags: [class Tag {
+  confidence: 60.4749
+  tag: crutch
+}
+, class Tag {
+  confidence: 50.18628
+  tag: miniskirt
+}
+, class Tag {
+  confidence: 48.19945
+  tag: skirt
+}
+, class Tag {
+  confidence: 47.43119
+  tag: staff
+}
+, class Tag {
+  confidence: 34.692085
+  tag: stick
+}
+, class Tag {
+  confidence: 29.9087
+  tag: garment
+}
+, class Tag {
+  confidence: 26.577942
+  tag: attractive
+}
+, class Tag {
+  confidence: 25.89362
+  tag: clothing
+}
+, class Tag {
+  confidence: 23.413836
+  tag: adult
+}
+, class Tag {
+  confidence: 23.232056
+  tag: sexy
+}
+, class Tag {
+  confidence: 21.549501
+  tag: person
+}
+, class Tag {
+  confidence: 21.292448
+  tag: fashion
+}
+, class Tag {
+  confidence: 19.06857
+  tag: lady
+}
+, class Tag {
+  confidence: 17.837017
+  tag: pretty
+}
+, class Tag {
+  confidence: 17.811602
+  tag: model
+}
+, class Tag {
+  confidence: 17.679241
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.49427
+  tag: people
+}
+, class Tag {
+  confidence: 14.546768
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 14.432968
+  tag: one
+}
+, class Tag {
+  confidence: 14.231971
+  tag: studio
+}
+, class Tag {
+  confidence: 14.204615
+  tag: hair
+}
+, class Tag {
+  confidence: 14.155838
+  tag: women
+}
+, class Tag {
+  confidence: 13.407502
+  tag: cute
+}
+, class Tag {
+  confidence: 13.283837
+  tag: portrait
+}
+, class Tag {
+  confidence: 13.089168
+  tag: dress
+}
+, class Tag {
+  confidence: 12.609756
+  tag: smiling
+}
+, class Tag {
+  confidence: 12.508787
+  tag: pose
+}
+, class Tag {
+  confidence: 12.345474
+  tag: body
+}
+, class Tag {
+  confidence: 11.744984
+  tag: legs
+}
+, class Tag {
+  confidence: 11.556764
+  tag: slim
+}
+, class Tag {
+  confidence: 11.229083
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.060627
+  tag: happy
+}
+, class Tag {
+  confidence: 11.035
+  tag: human
+}
+, class Tag {
+  confidence: 10.909202
+  tag: long
+}
+, class Tag {
+  confidence: 10.595
+  tag: posing
+}
+, class Tag {
+  confidence: 10.044
+  tag: consumer goods
+}
+, class Tag {
+  confidence: 10.034885
+  tag: lovely
+}
+, class Tag {
+  confidence: 9.930563
+  tag: covering
+}
+, class Tag {
+  confidence: 9.721596
+  tag: fit
+}
+, class Tag {
+  confidence: 9.548449
+  tag: athlete
+}
+, class Tag {
+  confidence: 9.540207
+  tag: smile
+}
+, class Tag {
+  confidence: 9.404361
+  tag: standing
+}
+, class Tag {
+  confidence: 9.305461
+  tag: glamour
+}
+, class Tag {
+  confidence: 9.290653
+  tag: brunette
+}
+, class Tag {
+  confidence: 8.611311
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.585162
+  tag: black
+}
+, class Tag {
+  confidence: 8.331084
+  tag: heels
+}
+, class Tag {
+  confidence: 8.309561
+  tag: style
+}
+, class Tag {
+  confidence: 8.226447
+  tag: holding
+}
+, class Tag {
+  confidence: 8.20308
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.123848
+  tag: runner
+}
+, class Tag {
+  confidence: 8.115365
+  tag: erotic
+}
+, class Tag {
+  confidence: 7.835654
+  tag: gorgeous
+}
+, class Tag {
+  confidence: 7.815456
+  tag: fitness
+}
+, class Tag {
+  confidence: 7.7270794
+  tag: elegance
+}
+, class Tag {
+  confidence: 7.6610713
+  tag: face
+}
+, class Tag {
+  confidence: 7.5949225
+  tag: shoes
+}
+, class Tag {
+  confidence: 7.1405964
+  tag: girls
+}
+]
+}
+]
+  unsuccessful: null
+}

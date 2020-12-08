@@ -1,0 +1,196 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHBfaeeVAAE0o3m.png
+  tags: [class Tag {
+  confidence: 17.40179
+  tag: person
+}
+, class Tag {
+  confidence: 16.829657
+  tag: people
+}
+, class Tag {
+  confidence: 14.7174
+  tag: home
+}
+, class Tag {
+  confidence: 12.275167
+  tag: man
+}
+, class Tag {
+  confidence: 12.2707205
+  tag: male
+}
+, class Tag {
+  confidence: 12.169209
+  tag: business
+}
+, class Tag {
+  confidence: 11.585591
+  tag: silhouette
+}
+, class Tag {
+  confidence: 11.446336
+  tag: happy
+}
+, class Tag {
+  confidence: 10.764674
+  tag: travel
+}
+, class Tag {
+  confidence: 10.748698
+  tag: sky
+}
+, class Tag {
+  confidence: 10.612134
+  tag: adult
+}
+, class Tag {
+  confidence: 10.283482
+  tag: caucasian
+}
+, class Tag {
+  confidence: 10.003284
+  tag: sport
+}
+, class Tag {
+  confidence: 9.892455
+  tag: design
+}
+, class Tag {
+  confidence: 9.885809
+  tag: house
+}
+, class Tag {
+  confidence: 8.927072
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 8.874485
+  tag: athlete
+}
+, class Tag {
+  confidence: 8.764688
+  tag: smile
+}
+, class Tag {
+  confidence: 8.558254
+  tag: competition
+}
+, class Tag {
+  confidence: 8.4841795
+  tag: color
+}
+, class Tag {
+  confidence: 8.478152
+  tag: field
+}
+, class Tag {
+  confidence: 8.348419
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.211435
+  tag: outdoors
+}
+, class Tag {
+  confidence: 8.196601
+  tag: audience
+}
+, class Tag {
+  confidence: 8.109246
+  tag: summer
+}
+, class Tag {
+  confidence: 8.103724
+  tag: crowd
+}
+, class Tag {
+  confidence: 8.043181
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.9926767
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.935914
+  tag: building
+}
+, class Tag {
+  confidence: 7.861647
+  tag: training
+}
+, class Tag {
+  confidence: 7.8492136
+  tag: player
+}
+, class Tag {
+  confidence: 7.805936
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.777077
+  tag: flag
+}
+, class Tag {
+  confidence: 7.735128
+  tag: lights
+}
+, class Tag {
+  confidence: 7.716586
+  tag: black
+}
+, class Tag {
+  confidence: 7.3855195
+  tag: 3d
+}
+, class Tag {
+  confidence: 7.2598295
+  tag: championship
+}
+, class Tag {
+  confidence: 7.258387
+  tag: space
+}
+, class Tag {
+  confidence: 7.2158136
+  tag: flowers
+}
+, class Tag {
+  confidence: 7.209162
+  tag: casual
+}
+, class Tag {
+  confidence: 7.1999583
+  tag: patriotic
+}
+, class Tag {
+  confidence: 7.1868453
+  tag: match
+}
+, class Tag {
+  confidence: 7.165911
+  tag: cloud
+}
+, class Tag {
+  confidence: 7.157478
+  tag: muscular
+}
+, class Tag {
+  confidence: 7.1444817
+  tag: fashion
+}
+, class Tag {
+  confidence: 7.1230197
+  tag: nation
+}
+, class Tag {
+  confidence: 7.0935698
+  tag: hand
+}
+]
+}
+]
+  unsuccessful: null
+}

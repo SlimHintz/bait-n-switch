@@ -1,0 +1,272 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHV8uG-WgAAtdie.jpg
+  tags: [class Tag {
+  confidence: 57.17181
+  tag: platform
+}
+, class Tag {
+  confidence: 25.299181
+  tag: sport
+}
+, class Tag {
+  confidence: 25.123505
+  tag: gymnastics
+}
+, class Tag {
+  confidence: 24.04896
+  tag: people
+}
+, class Tag {
+  confidence: 20.100998
+  tag: person
+}
+, class Tag {
+  confidence: 17.663685
+  tag: training
+}
+, class Tag {
+  confidence: 17.1514
+  tag: stage
+}
+, class Tag {
+  confidence: 16.29766
+  tag: silhouette
+}
+, class Tag {
+  confidence: 14.797469
+  tag: audience
+}
+, class Tag {
+  confidence: 14.609093
+  tag: crowd
+}
+, class Tag {
+  confidence: 14.151059
+  tag: cheering
+}
+, class Tag {
+  confidence: 13.270274
+  tag: stadium
+}
+, class Tag {
+  confidence: 13.260866
+  tag: lights
+}
+, class Tag {
+  confidence: 13.083121
+  tag: skill
+}
+, class Tag {
+  confidence: 13.081878
+  tag: muscular
+}
+, class Tag {
+  confidence: 12.935469
+  tag: athlete
+}
+, class Tag {
+  confidence: 12.881
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.666222
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.643961
+  tag: nighttime
+}
+, class Tag {
+  confidence: 12.639147
+  tag: roriginal
+}
+, class Tag {
+  confidence: 12.560675
+  tag: happy
+}
+, class Tag {
+  confidence: 12.555038
+  tag: event
+}
+, class Tag {
+  confidence: 12.490722
+  tag: man
+}
+, class Tag {
+  confidence: 12.450176
+  tag: patriotic
+}
+, class Tag {
+  confidence: 12.366313
+  tag: exercise
+}
+, class Tag {
+  confidence: 12.317135
+  tag: nation
+}
+, class Tag {
+  confidence: 12.003449
+  tag: adult
+}
+, class Tag {
+  confidence: 11.952937
+  tag: flag
+}
+, class Tag {
+  confidence: 11.829724
+  tag: competition
+}
+, class Tag {
+  confidence: 11.330216
+  tag: player
+}
+, class Tag {
+  confidence: 11.297364
+  tag: attractive
+}
+, class Tag {
+  confidence: 10.6215
+  tag: field
+}
+, class Tag {
+  confidence: 10.492929
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.486157
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.410284
+  tag: park
+}
+, class Tag {
+  confidence: 10.327886
+  tag: icon
+}
+, class Tag {
+  confidence: 10.247127
+  tag: performance
+}
+, class Tag {
+  confidence: 10.222339
+  tag: match
+}
+, class Tag {
+  confidence: 9.890061
+  tag: male
+}
+, class Tag {
+  confidence: 9.592004
+  tag: championship
+}
+, class Tag {
+  confidence: 9.393363
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.810218
+  tag: performer
+}
+, class Tag {
+  confidence: 8.776878
+  tag: fight
+}
+, class Tag {
+  confidence: 8.628584
+  tag: smile
+}
+, class Tag {
+  confidence: 8.484891
+  tag: body
+}
+, class Tag {
+  confidence: 8.326419
+  tag: casual
+}
+, class Tag {
+  confidence: 8.195526
+  tag: team
+}
+, class Tag {
+  confidence: 8.171081
+  tag: fitness
+}
+, class Tag {
+  confidence: 8.131571
+  tag: leisure
+}
+, class Tag {
+  confidence: 8.103626
+  tag: active
+}
+, class Tag {
+  confidence: 8.015035
+  tag: sexy
+}
+, class Tag {
+  confidence: 7.9904385
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.9794617
+  tag: pretty
+}
+, class Tag {
+  confidence: 7.9332213
+  tag: dangerous
+}
+, class Tag {
+  confidence: 7.579308
+  tag: cute
+}
+, class Tag {
+  confidence: 7.5159407
+  tag: playing
+}
+, class Tag {
+  confidence: 7.4933968
+  tag: joy
+}
+, class Tag {
+  confidence: 7.435529
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.370488
+  tag: activity
+}
+, class Tag {
+  confidence: 7.2189784
+  tag: health
+}
+, class Tag {
+  confidence: 7.2145057
+  tag: fun
+}
+, class Tag {
+  confidence: 7.1812744
+  tag: jump
+}
+, class Tag {
+  confidence: 7.1450524
+  tag: model
+}
+, class Tag {
+  confidence: 7.053194
+  tag: teamwork
+}
+, class Tag {
+  confidence: 7.0423903
+  tag: youth
+}
+, class Tag {
+  confidence: 7.0234656
+  tag: motion
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,288 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHYKPZHXAAAiVCH.jpg
+  tags: [class Tag {
+  confidence: 33.815697
+  tag: sauce
+}
+, class Tag {
+  confidence: 33.43126
+  tag: food
+}
+, class Tag {
+  confidence: 31.435986
+  tag: dessert
+}
+, class Tag {
+  confidence: 25.630188
+  tag: plate
+}
+, class Tag {
+  confidence: 24.44
+  tag: chocolate sauce
+}
+, class Tag {
+  confidence: 23.712198
+  tag: meal
+}
+, class Tag {
+  confidence: 22.001198
+  tag: restaurant
+}
+, class Tag {
+  confidence: 21.305182
+  tag: delicious
+}
+, class Tag {
+  confidence: 20.728489
+  tag: gourmet
+}
+, class Tag {
+  confidence: 20.717268
+  tag: fresh
+}
+, class Tag {
+  confidence: 20.419827
+  tag: bowl
+}
+, class Tag {
+  confidence: 19.151375
+  tag: dinner
+}
+, class Tag {
+  confidence: 18.471987
+  tag: dish
+}
+, class Tag {
+  confidence: 18.434076
+  tag: sweet
+}
+, class Tag {
+  confidence: 18.093372
+  tag: eat
+}
+, class Tag {
+  confidence: 17.427809
+  tag: tasty
+}
+, class Tag {
+  confidence: 17.128914
+  tag: snack
+}
+, class Tag {
+  confidence: 16.781092
+  tag: cake
+}
+, class Tag {
+  confidence: 16.265783
+  tag: healthy
+}
+, class Tag {
+  confidence: 16.052769
+  tag: diet
+}
+, class Tag {
+  confidence: 15.412798
+  tag: fruit
+}
+, class Tag {
+  confidence: 15.367821
+  tag: condiment
+}
+, class Tag {
+  confidence: 15.347587
+  tag: cooking
+}
+, class Tag {
+  confidence: 15.169214
+  tag: lunch
+}
+, class Tag {
+  confidence: 14.971039
+  tag: cuisine
+}
+, class Tag {
+  confidence: 14.807835
+  tag: breakfast
+}
+, class Tag {
+  confidence: 14.665222
+  tag: eating
+}
+, class Tag {
+  confidence: 13.602152
+  tag: closeup
+}
+, class Tag {
+  confidence: 13.273349
+  tag: nutrition
+}
+, class Tag {
+  confidence: 13.155604
+  tag: ingredient
+}
+, class Tag {
+  confidence: 13.088069
+  tag: cook
+}
+, class Tag {
+  confidence: 12.752515
+  tag: chocolate
+}
+, class Tag {
+  confidence: 12.671252
+  tag: cream
+}
+, class Tag {
+  confidence: 12.286529
+  tag: slice
+}
+, class Tag {
+  confidence: 12.164117
+  tag: meat
+}
+, class Tag {
+  confidence: 11.7106695
+  tag: glass
+}
+, class Tag {
+  confidence: 11.189677
+  tag: drink
+}
+, class Tag {
+  confidence: 10.96423
+  tag: table
+}
+, class Tag {
+  confidence: 10.5053425
+  tag: hot
+}
+, class Tag {
+  confidence: 10.436662
+  tag: pastry
+}
+, class Tag {
+  confidence: 10.389841
+  tag: brown
+}
+, class Tag {
+  confidence: 10.36594
+  tag: close
+}
+, class Tag {
+  confidence: 10.131197
+  tag: ice cream
+}
+, class Tag {
+  confidence: 10.04024
+  tag: pepper
+}
+, class Tag {
+  confidence: 9.900295
+  tag: vegetable
+}
+, class Tag {
+  confidence: 9.776
+  tag: flavorer
+}
+, class Tag {
+  confidence: 9.7278385
+  tag: raw
+}
+, class Tag {
+  confidence: 9.53553
+  tag: appetizer
+}
+, class Tag {
+  confidence: 9.198271
+  tag: yellow
+}
+, class Tag {
+  confidence: 9.04718
+  tag: traditional
+}
+, class Tag {
+  confidence: 8.995819
+  tag: black
+}
+, class Tag {
+  confidence: 8.837495
+  tag: spoon
+}
+, class Tag {
+  confidence: 8.661681
+  tag: sugar
+}
+, class Tag {
+  confidence: 8.48
+  tag: soup bowl
+}
+, class Tag {
+  confidence: 8.384594
+  tag: refreshment
+}
+, class Tag {
+  confidence: 8.268036
+  tag: gold
+}
+, class Tag {
+  confidence: 8.218669
+  tag: kitchen
+}
+, class Tag {
+  confidence: 8.053798
+  tag: milk
+}
+, class Tag {
+  confidence: 8.037101
+  tag: dining
+}
+, class Tag {
+  confidence: 7.934037
+  tag: nobody
+}
+, class Tag {
+  confidence: 7.9075227
+  tag: onion
+}
+, class Tag {
+  confidence: 7.6334314
+  tag: organic
+}
+, class Tag {
+  confidence: 7.5972724
+  tag: cup
+}
+, class Tag {
+  confidence: 7.5705485
+  tag: morning
+}
+, class Tag {
+  confidence: 7.4754467
+  tag: cut
+}
+, class Tag {
+  confidence: 7.258779
+  tag: liquid
+}
+, class Tag {
+  confidence: 7.105085
+  tag: fat
+}
+, class Tag {
+  confidence: 7.075867
+  tag: dark
+}
+, class Tag {
+  confidence: 7.0578876
+  tag: alcohol
+}
+, class Tag {
+  confidence: 7.0257735
+  tag: apple
+}
+]
+}
+]
+  unsuccessful: null
+}

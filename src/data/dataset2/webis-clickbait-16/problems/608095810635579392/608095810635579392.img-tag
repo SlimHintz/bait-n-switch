@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHBjbYpVAAA4lM3.jpg
+  tags: [class Tag {
+  confidence: 76.53194
+  tag: blackboard
+}
+, class Tag {
+  confidence: 26.993341
+  tag: chalk
+}
+, class Tag {
+  confidence: 23.8938
+  tag: chalkboard
+}
+, class Tag {
+  confidence: 21.233042
+  tag: board
+}
+, class Tag {
+  confidence: 20.627707
+  tag: education
+}
+, class Tag {
+  confidence: 18.934496
+  tag: school
+}
+, class Tag {
+  confidence: 17.63256
+  tag: black
+}
+, class Tag {
+  confidence: 16.246328
+  tag: sheet
+}
+, class Tag {
+  confidence: 16.225815
+  tag: texture
+}
+, class Tag {
+  confidence: 15.212533
+  tag: class
+}
+, class Tag {
+  confidence: 14.604984
+  tag: classroom
+}
+, class Tag {
+  confidence: 14.346001
+  tag: frame
+}
+, class Tag {
+  confidence: 14.076409
+  tag: pattern
+}
+, class Tag {
+  confidence: 13.919522
+  tag: grunge
+}
+, class Tag {
+  confidence: 13.701692
+  tag: lecture
+}
+, class Tag {
+  confidence: 12.875023
+  tag: message
+}
+, class Tag {
+  confidence: 12.59259
+  tag: design
+}
+, class Tag {
+  confidence: 11.958237
+  tag: college
+}
+, class Tag {
+  confidence: 11.83864
+  tag: old
+}
+, class Tag {
+  confidence: 11.758787
+  tag: write
+}
+, class Tag {
+  confidence: 11.652943
+  tag: space
+}
+, class Tag {
+  confidence: 11.535293
+  tag: lesson
+}
+, class Tag {
+  confidence: 11.481218
+  tag: art
+}
+, class Tag {
+  confidence: 11.237705
+  tag: teacher
+}
+, class Tag {
+  confidence: 10.818375
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 10.778204
+  tag: student
+}
+, class Tag {
+  confidence: 10.629675
+  tag: blank
+}
+, class Tag {
+  confidence: 10.387356
+  tag: paper
+}
+, class Tag {
+  confidence: 10.360414
+  tag: writing
+}
+, class Tag {
+  confidence: 10.276701
+  tag: card
+}
+, class Tag {
+  confidence: 10.249349
+  tag: vintage
+}
+, class Tag {
+  confidence: 9.878428
+  tag: horizontal
+}
+, class Tag {
+  confidence: 9.763066
+  tag: elementary
+}
+, class Tag {
+  confidence: 9.674393
+  tag: teach
+}
+, class Tag {
+  confidence: 9.46105
+  tag: learn
+}
+, class Tag {
+  confidence: 9.34
+  tag: roentgenogram
+}
+, class Tag {
+  confidence: 9.222743
+  tag: digital
+}
+, class Tag {
+  confidence: 8.932802
+  tag: border
+}
+, class Tag {
+  confidence: 8.780058
+  tag: university
+}
+, class Tag {
+  confidence: 8.779382
+  tag: dirty
+}
+, class Tag {
+  confidence: 8.768404
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.766903
+  tag: science
+}
+, class Tag {
+  confidence: 8.288932
+  tag: communication
+}
+, class Tag {
+  confidence: 8.034512
+  tag: notice
+}
+, class Tag {
+  confidence: 8.0106945
+  tag: business
+}
+, class Tag {
+  confidence: 7.843391
+  tag: drawing
+}
+, class Tag {
+  confidence: 7.3767624
+  tag: retro
+}
+, class Tag {
+  confidence: 7.371902
+  tag: text
+}
+, class Tag {
+  confidence: 7.3557615
+  tag: information
+}
+, class Tag {
+  confidence: 7.069041
+  tag: textured
+}
+]
+}
+]
+  unsuccessful: null
+}

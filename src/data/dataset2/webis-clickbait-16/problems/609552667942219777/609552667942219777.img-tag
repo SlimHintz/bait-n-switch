@@ -1,0 +1,244 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHWQ6yWUYAAH4-x.jpg
+  tags: [class Tag {
+  confidence: 23.567518
+  tag: football
+}
+, class Tag {
+  confidence: 19.967266
+  tag: man
+}
+, class Tag {
+  confidence: 18.181576
+  tag: sport
+}
+, class Tag {
+  confidence: 17.902662
+  tag: competition
+}
+, class Tag {
+  confidence: 17.547451
+  tag: silhouette
+}
+, class Tag {
+  confidence: 17.095871
+  tag: craft
+}
+, class Tag {
+  confidence: 16.720451
+  tag: male
+}
+, class Tag {
+  confidence: 16.419546
+  tag: mascot
+}
+, class Tag {
+  confidence: 16.214706
+  tag: ball
+}
+, class Tag {
+  confidence: 15.872951
+  tag: player
+}
+, class Tag {
+  confidence: 15.718093
+  tag: flag
+}
+, class Tag {
+  confidence: 15.561838
+  tag: patriotic
+}
+, class Tag {
+  confidence: 15.538055
+  tag: match
+}
+, class Tag {
+  confidence: 15.333317
+  tag: athlete
+}
+, class Tag {
+  confidence: 15.245133
+  tag: people
+}
+, class Tag {
+  confidence: 14.68157
+  tag: soccer
+}
+, class Tag {
+  confidence: 14.583686
+  tag: team
+}
+, class Tag {
+  confidence: 14.583483
+  tag: nation
+}
+, class Tag {
+  confidence: 14.048581
+  tag: championship
+}
+, class Tag {
+  confidence: 13.843982
+  tag: muscular
+}
+, class Tag {
+  confidence: 13.315868
+  tag: field
+}
+, class Tag {
+  confidence: 13.276269
+  tag: event
+}
+, class Tag {
+  confidence: 13.202353
+  tag: stadium
+}
+, class Tag {
+  confidence: 13.141535
+  tag: person
+}
+, class Tag {
+  confidence: 13.09457
+  tag: crowd
+}
+, class Tag {
+  confidence: 12.783983
+  tag: world
+}
+, class Tag {
+  confidence: 12.444362
+  tag: audience
+}
+, class Tag {
+  confidence: 12.352733
+  tag: pass
+}
+, class Tag {
+  confidence: 12.295949
+  tag: shoot
+}
+, class Tag {
+  confidence: 11.902452
+  tag: training
+}
+, class Tag {
+  confidence: 11.551879
+  tag: icon
+}
+, class Tag {
+  confidence: 11.46
+  tag: football helmet
+}
+, class Tag {
+  confidence: 11.388835
+  tag: skill
+}
+, class Tag {
+  confidence: 11.387749
+  tag: goal
+}
+, class Tag {
+  confidence: 10.928687
+  tag: lights
+}
+, class Tag {
+  confidence: 10.892969
+  tag: design
+}
+, class Tag {
+  confidence: 10.706665
+  tag: kick
+}
+, class Tag {
+  confidence: 10.533525
+  tag: helmet
+}
+, class Tag {
+  confidence: 10.50554
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.38843
+  tag: vibrant
+}
+, class Tag {
+  confidence: 10.192642
+  tag: bright
+}
+, class Tag {
+  confidence: 9.995148
+  tag: summer
+}
+, class Tag {
+  confidence: 9.820239
+  tag: happy
+}
+, class Tag {
+  confidence: 9.469513
+  tag: glowing
+}
+, class Tag {
+  confidence: 8.715876
+  tag: shiny
+}
+, class Tag {
+  confidence: 8.613153
+  tag: internet
+}
+, class Tag {
+  confidence: 8.33609
+  tag: cheering
+}
+, class Tag {
+  confidence: 8.20477
+  tag: sky
+}
+, class Tag {
+  confidence: 8.152917
+  tag: caucasian
+}
+, class Tag {
+  confidence: 8.086593
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.9152775
+  tag: adult
+}
+, class Tag {
+  confidence: 7.728099
+  tag: child
+}
+, class Tag {
+  confidence: 7.4940467
+  tag: roriginal
+}
+, class Tag {
+  confidence: 7.460676
+  tag: travel
+}
+, class Tag {
+  confidence: 7.3837504
+  tag: boy
+}
+, class Tag {
+  confidence: 7.3201103
+  tag: smile
+}
+, class Tag {
+  confidence: 7.1897516
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.04415
+  tag: water
+}
+, class Tag {
+  confidence: 7.0291314
+  tag: vivid
+}
+]
+}
+]
+  unsuccessful: null
+}

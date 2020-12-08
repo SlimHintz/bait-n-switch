@@ -1,0 +1,120 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHKO7gMUwAEQSEQ.png
+  tags: [class Tag {
+  confidence: 31.98
+  tag: lumbermill
+}
+, class Tag {
+  confidence: 28.081059
+  tag: factory
+}
+, class Tag {
+  confidence: 16.35383
+  tag: outdoors
+}
+, class Tag {
+  confidence: 16.005646
+  tag: vehicle
+}
+, class Tag {
+  confidence: 15.856799
+  tag: plant
+}
+, class Tag {
+  confidence: 14.911087
+  tag: gun
+}
+, class Tag {
+  confidence: 13.917425
+  tag: architecture
+}
+, class Tag {
+  confidence: 12.844188
+  tag: building
+}
+, class Tag {
+  confidence: 12.792
+  tag: building complex
+}
+, class Tag {
+  confidence: 12.359937
+  tag: weapon
+}
+, class Tag {
+  confidence: 11.984078
+  tag: old
+}
+, class Tag {
+  confidence: 10.674199
+  tag: travel
+}
+, class Tag {
+  confidence: 10.5416155
+  tag: sky
+}
+, class Tag {
+  confidence: 9.872927
+  tag: structure
+}
+, class Tag {
+  confidence: 9.568262
+  tag: tank
+}
+, class Tag {
+  confidence: 9.05122
+  tag: construction
+}
+, class Tag {
+  confidence: 8.8168745
+  tag: house
+}
+, class Tag {
+  confidence: 8.361129
+  tag: industry
+}
+, class Tag {
+  confidence: 8.263384
+  tag: grass
+}
+, class Tag {
+  confidence: 8.185659
+  tag: summer
+}
+, class Tag {
+  confidence: 7.9325533
+  tag: water
+}
+, class Tag {
+  confidence: 7.7985744
+  tag: landscape
+}
+, class Tag {
+  confidence: 7.757124
+  tag: work
+}
+, class Tag {
+  confidence: 7.6765018
+  tag: rifle
+}
+, class Tag {
+  confidence: 7.456281
+  tag: industrial
+}
+, class Tag {
+  confidence: 7.32953
+  tag: park
+}
+, class Tag {
+  confidence: 7.2562795
+  tag: transportation
+}
+, class Tag {
+  confidence: 7.152843
+  tag: ancient
+}
+]
+}
+]
+  unsuccessful: null
+}

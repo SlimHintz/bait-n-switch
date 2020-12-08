@@ -1,0 +1,300 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNIalYUUAAEM2r.png
+  tags: [class Tag {
+  confidence: 26.081207
+  tag: person
+}
+, class Tag {
+  confidence: 24.28074
+  tag: adult
+}
+, class Tag {
+  confidence: 24.087772
+  tag: business
+}
+, class Tag {
+  confidence: 22.203857
+  tag: man
+}
+, class Tag {
+  confidence: 22.188198
+  tag: male
+}
+, class Tag {
+  confidence: 19.09387
+  tag: press
+}
+, class Tag {
+  confidence: 18.621641
+  tag: people
+}
+, class Tag {
+  confidence: 15.8011055
+  tag: print media
+}
+, class Tag {
+  confidence: 15.7272
+  tag: writer
+}
+, class Tag {
+  confidence: 15.25821
+  tag: happy
+}
+, class Tag {
+  confidence: 14.592039
+  tag: finance
+}
+, class Tag {
+  confidence: 14.315968
+  tag: looking
+}
+, class Tag {
+  confidence: 14.132724
+  tag: newspaper
+}
+, class Tag {
+  confidence: 13.563805
+  tag: portrait
+}
+, class Tag {
+  confidence: 13.357414
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.243455
+  tag: product
+}
+, class Tag {
+  confidence: 13.131708
+  tag: money
+}
+, class Tag {
+  confidence: 12.759732
+  tag: face
+}
+, class Tag {
+  confidence: 12.63434
+  tag: communicator
+}
+, class Tag {
+  confidence: 12.418578
+  tag: scholar
+}
+, class Tag {
+  confidence: 12.272416
+  tag: casual
+}
+, class Tag {
+  confidence: 11.782614
+  tag: banking
+}
+, class Tag {
+  confidence: 11.725982
+  tag: american
+}
+, class Tag {
+  confidence: 11.653406
+  tag: cash
+}
+, class Tag {
+  confidence: 11.588701
+  tag: smile
+}
+, class Tag {
+  confidence: 11.491309
+  tag: bank
+}
+, class Tag {
+  confidence: 11.480222
+  tag: currency
+}
+, class Tag {
+  confidence: 11.439302
+  tag: handsome
+}
+, class Tag {
+  confidence: 11.086324
+  tag: medium
+}
+, class Tag {
+  confidence: 10.946995
+  tag: executive
+}
+, class Tag {
+  confidence: 10.79254
+  tag: computer
+}
+, class Tag {
+  confidence: 10.389591
+  tag: success
+}
+, class Tag {
+  confidence: 10.202963
+  tag: corporate
+}
+, class Tag {
+  confidence: 10.170109
+  tag: one
+}
+, class Tag {
+  confidence: 10.1674385
+  tag: mature
+}
+, class Tag {
+  confidence: 10.109183
+  tag: professional
+}
+, class Tag {
+  confidence: 10.087031
+  tag: intellectual
+}
+, class Tag {
+  confidence: 10.041268
+  tag: hair
+}
+, class Tag {
+  confidence: 10.035756
+  tag: paper
+}
+, class Tag {
+  confidence: 10.010803
+  tag: laptop
+}
+, class Tag {
+  confidence: 9.920635
+  tag: financial
+}
+, class Tag {
+  confidence: 9.90532
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.727039
+  tag: attractive
+}
+, class Tag {
+  confidence: 9.682631
+  tag: text
+}
+, class Tag {
+  confidence: 9.527219
+  tag: office
+}
+, class Tag {
+  confidence: 9.463909
+  tag: senior
+}
+, class Tag {
+  confidence: 9.422755
+  tag: dollar
+}
+, class Tag {
+  confidence: 9.378902
+  tag: expression
+}
+, class Tag {
+  confidence: 8.849246
+  tag: bill
+}
+, class Tag {
+  confidence: 8.7838335
+  tag: technology
+}
+, class Tag {
+  confidence: 8.642174
+  tag: home
+}
+, class Tag {
+  confidence: 8.609448
+  tag: work
+}
+, class Tag {
+  confidence: 8.558005
+  tag: internet
+}
+, class Tag {
+  confidence: 8.358164
+  tag: businessman
+}
+, class Tag {
+  confidence: 8.327916
+  tag: hand
+}
+, class Tag {
+  confidence: 8.146652
+  tag: grandma
+}
+, class Tag {
+  confidence: 8.035525
+  tag: elderly
+}
+, class Tag {
+  confidence: 8.015901
+  tag: thinking
+}
+, class Tag {
+  confidence: 7.9980755
+  tag: men
+}
+, class Tag {
+  confidence: 7.96571
+  tag: sitting
+}
+, class Tag {
+  confidence: 7.956808
+  tag: desk
+}
+, class Tag {
+  confidence: 7.9300737
+  tag: manager
+}
+, class Tag {
+  confidence: 7.8009024
+  tag: glasses
+}
+, class Tag {
+  confidence: 7.648225
+  tag: suit
+}
+, class Tag {
+  confidence: 7.512663
+  tag: old
+}
+, class Tag {
+  confidence: 7.460981
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.4558954
+  tag: working
+}
+, class Tag {
+  confidence: 7.4090433
+  tag: indoors
+}
+, class Tag {
+  confidence: 7.3650126
+  tag: wrinkle
+}
+, class Tag {
+  confidence: 7.110869
+  tag: studio
+}
+, class Tag {
+  confidence: 7.064947
+  tag: investment
+}
+, class Tag {
+  confidence: 7.0152655
+  tag: occupation
+}
+, class Tag {
+  confidence: 7.0138373
+  tag: holding
+}
+]
+}
+]
+  unsuccessful: null
+}

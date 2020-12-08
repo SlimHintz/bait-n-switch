@@ -1,0 +1,80 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHIPCczW0AA-Uuc.jpg
+  tags: [class Tag {
+  confidence: 28.223106
+  tag: chameleon
+}
+, class Tag {
+  confidence: 18.924076
+  tag: person
+}
+, class Tag {
+  confidence: 11.225054
+  tag: frog
+}
+, class Tag {
+  confidence: 10.8
+  tag: african chameleon
+}
+, class Tag {
+  confidence: 9.442172
+  tag: people
+}
+, class Tag {
+  confidence: 8.324494
+  tag: amphibian
+}
+, class Tag {
+  confidence: 8.276147
+  tag: happy
+}
+, class Tag {
+  confidence: 7.9758315
+  tag: mantis
+}
+, class Tag {
+  confidence: 7.636016
+  tag: art
+}
+, class Tag {
+  confidence: 7.549169
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 7.432694
+  tag: summer
+}
+, class Tag {
+  confidence: 7.404426
+  tag: smile
+}
+, class Tag {
+  confidence: 7.301685
+  tag: expression
+}
+, class Tag {
+  confidence: 7.2717366
+  tag: lizard
+}
+, class Tag {
+  confidence: 7.1665316
+  tag: fresh
+}
+, class Tag {
+  confidence: 7.1068764
+  tag: man
+}
+, class Tag {
+  confidence: 7.0693626
+  tag: insect
+}
+, class Tag {
+  confidence: 7.059229
+  tag: symbol
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,152 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHRe9Y-UkAEjmTp.jpg
+  tags: [class Tag {
+  confidence: 59.208244
+  tag: basketball
+}
+, class Tag {
+  confidence: 54.349174
+  tag: ball
+}
+, class Tag {
+  confidence: 42.272
+  tag: basketball equipment
+}
+, class Tag {
+  confidence: 35.316
+  tag: game equipment
+}
+, class Tag {
+  confidence: 31.666172
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 23.29206
+  tag: equipment
+}
+, class Tag {
+  confidence: 19.925331
+  tag: game
+}
+, class Tag {
+  confidence: 18.66625
+  tag: sport
+}
+, class Tag {
+  confidence: 18.573761
+  tag: man
+}
+, class Tag {
+  confidence: 18.40466
+  tag: people
+}
+, class Tag {
+  confidence: 16.850716
+  tag: adult
+}
+, class Tag {
+  confidence: 15.263801
+  tag: male
+}
+, class Tag {
+  confidence: 15.000581
+  tag: back
+}
+, class Tag {
+  confidence: 14.486592
+  tag: football
+}
+, class Tag {
+  confidence: 13.811928
+  tag: person
+}
+, class Tag {
+  confidence: 12.885718
+  tag: caucasian
+}
+, class Tag {
+  confidence: 12.238866
+  tag: player
+}
+, class Tag {
+  confidence: 10.584703
+  tag: competition
+}
+, class Tag {
+  confidence: 10.313627
+  tag: athlete
+}
+, class Tag {
+  confidence: 9.721069
+  tag: happy
+}
+, class Tag {
+  confidence: 9.715403
+  tag: fun
+}
+, class Tag {
+  confidence: 9.589246
+  tag: boy
+}
+, class Tag {
+  confidence: 9.578352
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 9.254299
+  tag: fitness
+}
+, class Tag {
+  confidence: 8.760699
+  tag: gymnastics
+}
+, class Tag {
+  confidence: 8.749764
+  tag: exercise
+}
+, class Tag {
+  confidence: 8.159595
+  tag: training
+}
+, class Tag {
+  confidence: 7.8962584
+  tag: playing
+}
+, class Tag {
+  confidence: 7.6577883
+  tag: healthy
+}
+, class Tag {
+  confidence: 7.633731
+  tag: rival
+}
+, class Tag {
+  confidence: 7.43669
+  tag: sitting
+}
+, class Tag {
+  confidence: 7.4033794
+  tag: team
+}
+, class Tag {
+  confidence: 7.365918
+  tag: recreation
+}
+, class Tag {
+  confidence: 7.2569447
+  tag: two
+}
+, class Tag {
+  confidence: 7.248414
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.1521096
+  tag: activity
+}
+]
+}
+]
+  unsuccessful: null
+}

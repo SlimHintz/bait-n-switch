@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHEroJqXAAIFc-C.jpg
+  tags: [class Tag {
+  confidence: 18.81944
+  tag: people
+}
+, class Tag {
+  confidence: 17.800926
+  tag: person
+}
+, class Tag {
+  confidence: 16.632612
+  tag: man
+}
+, class Tag {
+  confidence: 15.514165
+  tag: male
+}
+, class Tag {
+  confidence: 14.005989
+  tag: caucasian
+}
+, class Tag {
+  confidence: 13.714489
+  tag: happy
+}
+, class Tag {
+  confidence: 12.715859
+  tag: human
+}
+, class Tag {
+  confidence: 12.246302
+  tag: silhouette
+}
+, class Tag {
+  confidence: 12.237218
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.218393
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.745033
+  tag: adult
+}
+, class Tag {
+  confidence: 11.583819
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.66155
+  tag: smile
+}
+, class Tag {
+  confidence: 9.968102
+  tag: holding
+}
+, class Tag {
+  confidence: 9.672239
+  tag: boy
+}
+, class Tag {
+  confidence: 9.561102
+  tag: fun
+}
+, class Tag {
+  confidence: 9.50247
+  tag: casual
+}
+, class Tag {
+  confidence: 9.475117
+  tag: home
+}
+, class Tag {
+  confidence: 9.290659
+  tag: hat
+}
+, class Tag {
+  confidence: 9.243807
+  tag: joy
+}
+, class Tag {
+  confidence: 9.153666
+  tag: sport
+}
+, class Tag {
+  confidence: 9.135172
+  tag: bright
+}
+, class Tag {
+  confidence: 8.966325
+  tag: sky
+}
+, class Tag {
+  confidence: 8.704395
+  tag: youth
+}
+, class Tag {
+  confidence: 8.651779
+  tag: player
+}
+, class Tag {
+  confidence: 8.58844
+  tag: day
+}
+, class Tag {
+  confidence: 8.319324
+  tag: park
+}
+, class Tag {
+  confidence: 8.253041
+  tag: art
+}
+, class Tag {
+  confidence: 7.914843
+  tag: athlete
+}
+, class Tag {
+  confidence: 7.9046125
+  tag: expression
+}
+, class Tag {
+  confidence: 7.6348367
+  tag: competition
+}
+, class Tag {
+  confidence: 7.460951
+  tag: outdoors
+}
+, class Tag {
+  confidence: 7.454837
+  tag: summer
+}
+, class Tag {
+  confidence: 7.4396124
+  tag: business
+}
+, class Tag {
+  confidence: 7.2265024
+  tag: design
+}
+, class Tag {
+  confidence: 7.098835
+  tag: muscular
+}
+, class Tag {
+  confidence: 7.094131
+  tag: black
+}
+, class Tag {
+  confidence: 7.092762
+  tag: studio
+}
+, class Tag {
+  confidence: 7.038689
+  tag: internet
+}
+, class Tag {
+  confidence: 7.006834
+  tag: christmas
+}
+]
+}
+]
+  unsuccessful: null
+}

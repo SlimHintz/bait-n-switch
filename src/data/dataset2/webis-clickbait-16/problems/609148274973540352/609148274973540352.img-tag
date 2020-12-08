@@ -1,0 +1,292 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQhIOsWsAADAt-.png
+  tags: [class Tag {
+  confidence: 34.536537
+  tag: design
+}
+, class Tag {
+  confidence: 27.900793
+  tag: graphic
+}
+, class Tag {
+  confidence: 21.536083
+  tag: art
+}
+, class Tag {
+  confidence: 20.911322
+  tag: frame
+}
+, class Tag {
+  confidence: 20.793009
+  tag: element
+}
+, class Tag {
+  confidence: 20.654297
+  tag: backdrop
+}
+, class Tag {
+  confidence: 19.956476
+  tag: pattern
+}
+, class Tag {
+  confidence: 19.373
+  tag: curve
+}
+, class Tag {
+  confidence: 19.061165
+  tag: card
+}
+, class Tag {
+  confidence: 18.549723
+  tag: decorative
+}
+, class Tag {
+  confidence: 17.903498
+  tag: shape
+}
+, class Tag {
+  confidence: 17.746317
+  tag: modern
+}
+, class Tag {
+  confidence: 17.052849
+  tag: color
+}
+, class Tag {
+  confidence: 16.622952
+  tag: decoration
+}
+, class Tag {
+  confidence: 16.4413
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 16.29498
+  tag: template
+}
+, class Tag {
+  confidence: 15.697884
+  tag: text
+}
+, class Tag {
+  confidence: 15.469129
+  tag: light
+}
+, class Tag {
+  confidence: 15.240477
+  tag: wave
+}
+, class Tag {
+  confidence: 13.827255
+  tag: banner
+}
+, class Tag {
+  confidence: 13.24252
+  tag: style
+}
+, class Tag {
+  confidence: 12.934864
+  tag: blank
+}
+, class Tag {
+  confidence: 12.389117
+  tag: space
+}
+, class Tag {
+  confidence: 12.240117
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.885983
+  tag: smooth
+}
+, class Tag {
+  confidence: 11.561427
+  tag: texture
+}
+, class Tag {
+  confidence: 11.214391
+  tag: drawing
+}
+, class Tag {
+  confidence: 11.166123
+  tag: new
+}
+, class Tag {
+  confidence: 11.139926
+  tag: line
+}
+, class Tag {
+  confidence: 11.136545
+  tag: paper
+}
+, class Tag {
+  confidence: 10.646889
+  tag: digital
+}
+, class Tag {
+  confidence: 10.407837
+  tag: cover
+}
+, class Tag {
+  confidence: 10.245259
+  tag: floral
+}
+, class Tag {
+  confidence: 9.967096
+  tag: black
+}
+, class Tag {
+  confidence: 9.91365
+  tag: creative
+}
+, class Tag {
+  confidence: 9.637847
+  tag: artistic
+}
+, class Tag {
+  confidence: 9.378941
+  tag: copyspace
+}
+, class Tag {
+  confidence: 9.294854
+  tag: border
+}
+, class Tag {
+  confidence: 9.275256
+  tag: business
+}
+, class Tag {
+  confidence: 9.187279
+  tag: lines
+}
+, class Tag {
+  confidence: 9.101235
+  tag: copy
+}
+, class Tag {
+  confidence: 9.006518
+  tag: water
+}
+, class Tag {
+  confidence: 8.895578
+  tag: shiny
+}
+, class Tag {
+  confidence: 8.887803
+  tag: celebration
+}
+, class Tag {
+  confidence: 8.75837
+  tag: abstraction
+}
+, class Tag {
+  confidence: 8.7533865
+  tag: ornament
+}
+, class Tag {
+  confidence: 8.602776
+  tag: bright
+}
+, class Tag {
+  confidence: 8.586602
+  tag: holiday
+}
+, class Tag {
+  confidence: 8.400849
+  tag: futuristic
+}
+, class Tag {
+  confidence: 8.196667
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 8.1606245
+  tag: layout
+}
+, class Tag {
+  confidence: 7.9863133
+  tag: motion
+}
+, class Tag {
+  confidence: 7.8845944
+  tag: gradient
+}
+, class Tag {
+  confidence: 7.8744383
+  tag: christmas
+}
+, class Tag {
+  confidence: 7.8732567
+  tag: winter
+}
+, class Tag {
+  confidence: 7.8597574
+  tag: composition
+}
+, class Tag {
+  confidence: 7.8129067
+  tag: greeting
+}
+, class Tag {
+  confidence: 7.7938757
+  tag: ribbon
+}
+, class Tag {
+  confidence: 7.790031
+  tag: yellow
+}
+, class Tag {
+  confidence: 7.749665
+  tag: silhouette
+}
+, class Tag {
+  confidence: 7.6772275
+  tag: swirl
+}
+, class Tag {
+  confidence: 7.6428638
+  tag: artwork
+}
+, class Tag {
+  confidence: 7.5590043
+  tag: fantasy
+}
+, class Tag {
+  confidence: 7.4106607
+  tag: decor
+}
+, class Tag {
+  confidence: 7.398548
+  tag: snow
+}
+, class Tag {
+  confidence: 7.3806076
+  tag: colors
+}
+, class Tag {
+  confidence: 7.200485
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.1648364
+  tag: web
+}
+, class Tag {
+  confidence: 7.1635523
+  tag: sign
+}
+, class Tag {
+  confidence: 7.0919952
+  tag: poster
+}
+, class Tag {
+  confidence: 7.065807
+  tag: print
+}
+]
+}
+]
+  unsuccessful: null
+}

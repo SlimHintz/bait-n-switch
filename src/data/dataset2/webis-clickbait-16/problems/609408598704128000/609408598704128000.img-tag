@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUFP2_UEAA1xHN.png
+  tags: [class Tag {
+  confidence: 64.202835
+  tag: sign
+}
+, class Tag {
+  confidence: 26.341228
+  tag: sky
+}
+, class Tag {
+  confidence: 17.041773
+  tag: road
+}
+, class Tag {
+  confidence: 16.749996
+  tag: street sign
+}
+, class Tag {
+  confidence: 15.755271
+  tag: communication
+}
+, class Tag {
+  confidence: 14.93265
+  tag: clouds
+}
+, class Tag {
+  confidence: 14.007958
+  tag: board
+}
+, class Tag {
+  confidence: 13.570175
+  tag: travel
+}
+, class Tag {
+  confidence: 12.402578
+  tag: street
+}
+, class Tag {
+  confidence: 12.3855505
+  tag: cloud
+}
+, class Tag {
+  confidence: 11.99708
+  tag: traffic
+}
+, class Tag {
+  confidence: 11.304579
+  tag: warning
+}
+, class Tag {
+  confidence: 11.183949
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.684919
+  tag: sun
+}
+, class Tag {
+  confidence: 10.571639
+  tag: building
+}
+, class Tag {
+  confidence: 10.094023
+  tag: light
+}
+, class Tag {
+  confidence: 10.065847
+  tag: business
+}
+, class Tag {
+  confidence: 9.806879
+  tag: danger
+}
+, class Tag {
+  confidence: 9.700769
+  tag: information
+}
+, class Tag {
+  confidence: 9.5652075
+  tag: transportation
+}
+, class Tag {
+  confidence: 9.5400505
+  tag: post
+}
+, class Tag {
+  confidence: 8.89279
+  tag: text
+}
+, class Tag {
+  confidence: 8.88148
+  tag: city
+}
+, class Tag {
+  confidence: 8.831068
+  tag: caution
+}
+, class Tag {
+  confidence: 8.613941
+  tag: way
+}
+, class Tag {
+  confidence: 8.609382
+  tag: direction
+}
+, class Tag {
+  confidence: 8.587467
+  tag: urban
+}
+, class Tag {
+  confidence: 8.58115
+  tag: clear
+}
+, class Tag {
+  confidence: 8.510191
+  tag: arrow
+}
+, class Tag {
+  confidence: 8.4188175
+  tag: space
+}
+, class Tag {
+  confidence: 8.158218
+  tag: weather
+}
+, class Tag {
+  confidence: 7.951288
+  tag: notice
+}
+, class Tag {
+  confidence: 7.9316063
+  tag: pole
+}
+, class Tag {
+  confidence: 7.876948
+  tag: stop
+}
+, class Tag {
+  confidence: 7.6784596
+  tag: bright
+}
+, class Tag {
+  confidence: 7.6724577
+  tag: high
+}
+, class Tag {
+  confidence: 7.5173225
+  tag: black
+}
+, class Tag {
+  confidence: 7.478945
+  tag: message
+}
+, class Tag {
+  confidence: 7.350523
+  tag: transport
+}
+, class Tag {
+  confidence: 7.32996
+  tag: house
+}
+, class Tag {
+  confidence: 7.0275946
+  tag: blank
+}
+]
+}
+]
+  unsuccessful: null
+}

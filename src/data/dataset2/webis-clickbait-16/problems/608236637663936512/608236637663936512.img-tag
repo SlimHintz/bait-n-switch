@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHDj_7GXAAAqixC.jpg
+  tags: [class Tag {
+  confidence: 100.0
+  tag: map
+}
+, class Tag {
+  confidence: 99.681465
+  tag: representation
+}
+, class Tag {
+  confidence: 32.420074
+  tag: geography
+}
+, class Tag {
+  confidence: 26.461178
+  tag: country
+}
+, class Tag {
+  confidence: 20.341013
+  tag: world
+}
+, class Tag {
+  confidence: 20.15918
+  tag: atlas
+}
+, class Tag {
+  confidence: 19.096937
+  tag: nation
+}
+, class Tag {
+  confidence: 18.829275
+  tag: continent
+}
+, class Tag {
+  confidence: 16.65745
+  tag: earth
+}
+, class Tag {
+  confidence: 16.565237
+  tag: travel
+}
+, class Tag {
+  confidence: 14.351101
+  tag: europe
+}
+, class Tag {
+  confidence: 14.076724
+  tag: boundary
+}
+, class Tag {
+  confidence: 14.042886
+  tag: state
+}
+, class Tag {
+  confidence: 13.800891
+  tag: cartography
+}
+, class Tag {
+  confidence: 13.61079
+  tag: global
+}
+, class Tag {
+  confidence: 12.976138
+  tag: globe
+}
+, class Tag {
+  confidence: 12.958865
+  tag: land
+}
+, class Tag {
+  confidence: 12.610526
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.855493
+  tag: national
+}
+, class Tag {
+  confidence: 11.668922
+  tag: design
+}
+, class Tag {
+  confidence: 10.906478
+  tag: south
+}
+, class Tag {
+  confidence: 10.854455
+  tag: flag
+}
+, class Tag {
+  confidence: 10.622376
+  tag: countries
+}
+, class Tag {
+  confidence: 10.5521555
+  tag: asia
+}
+, class Tag {
+  confidence: 10.449227
+  tag: planet
+}
+, class Tag {
+  confidence: 10.30881
+  tag: graphic
+}
+, class Tag {
+  confidence: 10.10136
+  tag: silhouette
+}
+, class Tag {
+  confidence: 10.05675
+  tag: city
+}
+, class Tag {
+  confidence: 9.978053
+  tag: america
+}
+, class Tag {
+  confidence: 9.918942
+  tag: north
+}
+, class Tag {
+  confidence: 9.745756
+  tag: border
+}
+, class Tag {
+  confidence: 9.643092
+  tag: color
+}
+, class Tag {
+  confidence: 8.85986
+  tag: shape
+}
+, class Tag {
+  confidence: 8.745894
+  tag: ocean
+}
+, class Tag {
+  confidence: 8.630409
+  tag: chart
+}
+, class Tag {
+  confidence: 8.260823
+  tag: east
+}
+, class Tag {
+  confidence: 8.229706
+  tag: business
+}
+, class Tag {
+  confidence: 8.097786
+  tag: africa
+}
+, class Tag {
+  confidence: 7.665923
+  tag: states
+}
+, class Tag {
+  confidence: 7.400141
+  tag: sea
+}
+, class Tag {
+  confidence: 7.0013084
+  tag: borders
+}
+]
+}
+]
+  unsuccessful: null
+}

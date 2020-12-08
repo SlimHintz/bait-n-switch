@@ -1,0 +1,216 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHehC7hUsAA05ZI.jpg
+  tags: [class Tag {
+  confidence: 25.410305
+  tag: person
+}
+, class Tag {
+  confidence: 23.296785
+  tag: caucasian
+}
+, class Tag {
+  confidence: 22.237062
+  tag: people
+}
+, class Tag {
+  confidence: 19.710968
+  tag: man
+}
+, class Tag {
+  confidence: 19.646036
+  tag: adult
+}
+, class Tag {
+  confidence: 17.904158
+  tag: portrait
+}
+, class Tag {
+  confidence: 15.584343
+  tag: male
+}
+, class Tag {
+  confidence: 15.540601
+  tag: hair
+}
+, class Tag {
+  confidence: 15.355466
+  tag: attractive
+}
+, class Tag {
+  confidence: 15.228
+  tag: wind instrument
+}
+, class Tag {
+  confidence: 14.104365
+  tag: one
+}
+, class Tag {
+  confidence: 12.889956
+  tag: flute
+}
+, class Tag {
+  confidence: 12.658172
+  tag: pretty
+}
+, class Tag {
+  confidence: 12.437214
+  tag: trombone
+}
+, class Tag {
+  confidence: 12.219723
+  tag: casual
+}
+, class Tag {
+  confidence: 12.197277
+  tag: face
+}
+, class Tag {
+  confidence: 11.676277
+  tag: to
+}
+, class Tag {
+  confidence: 10.904509
+  tag: human
+}
+, class Tag {
+  confidence: 10.701993
+  tag: brass
+}
+, class Tag {
+  confidence: 10.630228
+  tag: expression
+}
+, class Tag {
+  confidence: 10.480131
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 10.350454
+  tag: woodwind
+}
+, class Tag {
+  confidence: 10.291728
+  tag: cute
+}
+, class Tag {
+  confidence: 10.133086
+  tag: musical instrument
+}
+, class Tag {
+  confidence: 9.937286
+  tag: hands
+}
+, class Tag {
+  confidence: 9.754407
+  tag: happy
+}
+, class Tag {
+  confidence: 9.742561
+  tag: work
+}
+, class Tag {
+  confidence: 9.624134
+  tag: smile
+}
+, class Tag {
+  confidence: 9.549386
+  tag: fashion
+}
+, class Tag {
+  confidence: 9.464967
+  tag: sexy
+}
+, class Tag {
+  confidence: 9.372867
+  tag: business
+}
+, class Tag {
+  confidence: 9.145906
+  tag: outdoors
+}
+, class Tag {
+  confidence: 9.108993
+  tag: youth
+}
+, class Tag {
+  confidence: 8.862257
+  tag: holding
+}
+, class Tag {
+  confidence: 8.852309
+  tag: handsome
+}
+, class Tag {
+  confidence: 8.817994
+  tag: lady
+}
+, class Tag {
+  confidence: 8.767477
+  tag: hand
+}
+, class Tag {
+  confidence: 7.9287457
+  tag: looking
+}
+, class Tag {
+  confidence: 7.928249
+  tag: body
+}
+, class Tag {
+  confidence: 7.8807015
+  tag: fun
+}
+, class Tag {
+  confidence: 7.877867
+  tag: smiling
+}
+, class Tag {
+  confidence: 7.8452024
+  tag: standing
+}
+, class Tag {
+  confidence: 7.823713
+  tag: women
+}
+, class Tag {
+  confidence: 7.7870793
+  tag: model
+}
+, class Tag {
+  confidence: 7.7700315
+  tag: boy
+}
+, class Tag {
+  confidence: 7.665486
+  tag: stress
+}
+, class Tag {
+  confidence: 7.6631365
+  tag: weapon
+}
+, class Tag {
+  confidence: 7.597362
+  tag: happiness
+}
+, class Tag {
+  confidence: 7.458723
+  tag: head
+}
+, class Tag {
+  confidence: 7.3599067
+  tag: black
+}
+, class Tag {
+  confidence: 7.325872
+  tag: hat
+}
+, class Tag {
+  confidence: 7.302625
+  tag: cheerful
+}
+]
+}
+]
+  unsuccessful: null
+}

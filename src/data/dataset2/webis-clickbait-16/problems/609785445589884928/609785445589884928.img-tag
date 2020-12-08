@@ -1,0 +1,260 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHZkoYxVEAAULPS.png
+  tags: [class Tag {
+  confidence: 30.1822
+  tag: building
+}
+, class Tag {
+  confidence: 29.72701
+  tag: factory
+}
+, class Tag {
+  confidence: 28.243853
+  tag: sky
+}
+, class Tag {
+  confidence: 26.229906
+  tag: architecture
+}
+, class Tag {
+  confidence: 24.248137
+  tag: tower
+}
+, class Tag {
+  confidence: 20.82519
+  tag: structure
+}
+, class Tag {
+  confidence: 20.396646
+  tag: city
+}
+, class Tag {
+  confidence: 19.682299
+  tag: industry
+}
+, class Tag {
+  confidence: 17.89099
+  tag: industrial
+}
+, class Tag {
+  confidence: 17.69103
+  tag: plant
+}
+, class Tag {
+  confidence: 14.643539
+  tag: travel
+}
+, class Tag {
+  confidence: 14.205688
+  tag: mosque
+}
+, class Tag {
+  confidence: 14.113239
+  tag: urban
+}
+, class Tag {
+  confidence: 13.811471
+  tag: construction
+}
+, class Tag {
+  confidence: 13.284071
+  tag: pollution
+}
+, class Tag {
+  confidence: 13.227114
+  tag: europe
+}
+, class Tag {
+  confidence: 13.088462
+  tag: landscape
+}
+, class Tag {
+  confidence: 13.055791
+  tag: old
+}
+, class Tag {
+  confidence: 13.009543
+  tag: power
+}
+, class Tag {
+  confidence: 12.948651
+  tag: minaret
+}
+, class Tag {
+  confidence: 12.640051
+  tag: environment
+}
+, class Tag {
+  confidence: 11.98959
+  tag: smoke
+}
+, class Tag {
+  confidence: 11.845068
+  tag: church
+}
+, class Tag {
+  confidence: 10.982161
+  tag: chimney
+}
+, class Tag {
+  confidence: 10.970292
+  tag: rocket
+}
+, class Tag {
+  confidence: 10.625297
+  tag: night
+}
+, class Tag {
+  confidence: 10.546629
+  tag: russia
+}
+, class Tag {
+  confidence: 10.33498
+  tag: place
+}
+, class Tag {
+  confidence: 10.307495
+  tag: tourism
+}
+, class Tag {
+  confidence: 10.289987
+  tag: cloud
+}
+, class Tag {
+  confidence: 9.997127
+  tag: clouds
+}
+, class Tag {
+  confidence: 9.94947
+  tag: dome
+}
+, class Tag {
+  confidence: 9.9415045
+  tag: history
+}
+, class Tag {
+  confidence: 9.814462
+  tag: house
+}
+, class Tag {
+  confidence: 9.795173
+  tag: steel
+}
+, class Tag {
+  confidence: 9.639201
+  tag: business
+}
+, class Tag {
+  confidence: 9.527532
+  tag: famous
+}
+, class Tag {
+  confidence: 9.527192
+  tag: town
+}
+, class Tag {
+  confidence: 9.465069
+  tag: exterior
+}
+, class Tag {
+  confidence: 9.2253685
+  tag: landmark
+}
+, class Tag {
+  confidence: 9.143658
+  tag: religion
+}
+, class Tag {
+  confidence: 9.043824
+  tag: cathedral
+}
+, class Tag {
+  confidence: 8.725456
+  tag: energy
+}
+, class Tag {
+  confidence: 8.658687
+  tag: air
+}
+, class Tag {
+  confidence: 8.532774
+  tag: light
+}
+, class Tag {
+  confidence: 8.27301
+  tag: water
+}
+, class Tag {
+  confidence: 8.08
+  tag: place of worship
+}
+, class Tag {
+  confidence: 8.0485525
+  tag: wall
+}
+, class Tag {
+  confidence: 7.9731307
+  tag: monument
+}
+, class Tag {
+  confidence: 7.8912163
+  tag: global
+}
+, class Tag {
+  confidence: 7.8707027
+  tag: street
+}
+, class Tag {
+  confidence: 7.7294607
+  tag: technology
+}
+, class Tag {
+  confidence: 7.6552706
+  tag: tourist
+}
+, class Tag {
+  confidence: 7.592243
+  tag: production
+}
+, class Tag {
+  confidence: 7.538978
+  tag: station
+}
+, class Tag {
+  confidence: 7.5369883
+  tag: pipe
+}
+, class Tag {
+  confidence: 7.5025783
+  tag: metal
+}
+, class Tag {
+  confidence: 7.494969
+  tag: fuel
+}
+, class Tag {
+  confidence: 7.4538617
+  tag: gas
+}
+, class Tag {
+  confidence: 7.312557
+  tag: skyline
+}
+, class Tag {
+  confidence: 7.2765646
+  tag: journey
+}
+, class Tag {
+  confidence: 7.262264
+  tag: cityscape
+}
+, class Tag {
+  confidence: 7.081296
+  tag: traditional
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,84 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHcmB92WIAA1hsl.jpg
+  tags: [class Tag {
+  confidence: 34.76178
+  tag: stadium
+}
+, class Tag {
+  confidence: 25.749176
+  tag: structure
+}
+, class Tag {
+  confidence: 13.834676
+  tag: architecture
+}
+, class Tag {
+  confidence: 10.571361
+  tag: water
+}
+, class Tag {
+  confidence: 10.211638
+  tag: building
+}
+, class Tag {
+  confidence: 10.037309
+  tag: travel
+}
+, class Tag {
+  confidence: 9.736775
+  tag: color
+}
+, class Tag {
+  confidence: 9.506819
+  tag: sky
+}
+, class Tag {
+  confidence: 8.658707
+  tag: sundial
+}
+, class Tag {
+  confidence: 8.389104
+  tag: curve
+}
+, class Tag {
+  confidence: 8.354196
+  tag: landscape
+}
+, class Tag {
+  confidence: 8.254212
+  tag: design
+}
+, class Tag {
+  confidence: 8.231684
+  tag: close
+}
+, class Tag {
+  confidence: 8.082566
+  tag: city
+}
+, class Tag {
+  confidence: 7.3959823
+  tag: park
+}
+, class Tag {
+  confidence: 7.3400345
+  tag: road
+}
+, class Tag {
+  confidence: 7.2795157
+  tag: tourism
+}
+, class Tag {
+  confidence: 7.1342654
+  tag: home
+}
+, class Tag {
+  confidence: 7.1314554
+  tag: business
+}
+]
+}
+]
+  unsuccessful: null
+}

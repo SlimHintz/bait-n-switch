@@ -1,0 +1,232 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHMB6pvUAAAQU_n.jpg
+  tags: [class Tag {
+  confidence: 22.468254
+  tag: plaything
+}
+, class Tag {
+  confidence: 21.907316
+  tag: scarf
+}
+, class Tag {
+  confidence: 19.478546
+  tag: feather boa
+}
+, class Tag {
+  confidence: 18.15527
+  tag: mascot
+}
+, class Tag {
+  confidence: 15.678536
+  tag: happy
+}
+, class Tag {
+  confidence: 14.746656
+  tag: teddy
+}
+, class Tag {
+  confidence: 14.132319
+  tag: christmas
+}
+, class Tag {
+  confidence: 13.331829
+  tag: person
+}
+, class Tag {
+  confidence: 12.4152565
+  tag: holiday
+}
+, class Tag {
+  confidence: 12.361291
+  tag: fun
+}
+, class Tag {
+  confidence: 12.305919
+  tag: clothing
+}
+, class Tag {
+  confidence: 12.249889
+  tag: hat
+}
+, class Tag {
+  confidence: 11.919393
+  tag: decoration
+}
+, class Tag {
+  confidence: 11.762242
+  tag: smiling
+}
+, class Tag {
+  confidence: 11.601384
+  tag: garment
+}
+, class Tag {
+  confidence: 11.559137
+  tag: toyshop
+}
+, class Tag {
+  confidence: 11.483814
+  tag: face
+}
+, class Tag {
+  confidence: 10.910059
+  tag: season
+}
+, class Tag {
+  confidence: 10.545594
+  tag: cartoon
+}
+, class Tag {
+  confidence: 10.530142
+  tag: xmas
+}
+, class Tag {
+  confidence: 10.313075
+  tag: shop
+}
+, class Tag {
+  confidence: 10.294243
+  tag: cute
+}
+, class Tag {
+  confidence: 10.167358
+  tag: gold
+}
+, class Tag {
+  confidence: 10.140417
+  tag: seasonal
+}
+, class Tag {
+  confidence: 10.059577
+  tag: gift
+}
+, class Tag {
+  confidence: 9.99828
+  tag: hair
+}
+, class Tag {
+  confidence: 9.984498
+  tag: toy
+}
+, class Tag {
+  confidence: 9.566545
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.187144
+  tag: winter
+}
+, class Tag {
+  confidence: 9.070389
+  tag: smile
+}
+, class Tag {
+  confidence: 8.94582
+  tag: color
+}
+, class Tag {
+  confidence: 8.877078
+  tag: gifts
+}
+, class Tag {
+  confidence: 8.674357
+  tag: man
+}
+, class Tag {
+  confidence: 8.631259
+  tag: celebration
+}
+, class Tag {
+  confidence: 8.468558
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.369583
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.366872
+  tag: child
+}
+, class Tag {
+  confidence: 8.350245
+  tag: fashion
+}
+, class Tag {
+  confidence: 8.3468275
+  tag: present
+}
+, class Tag {
+  confidence: 8.310208
+  tag: human
+}
+, class Tag {
+  confidence: 8.268586
+  tag: bright
+}
+, class Tag {
+  confidence: 8.262919
+  tag: people
+}
+, class Tag {
+  confidence: 8.230706
+  tag: traditional
+}
+, class Tag {
+  confidence: 8.190653
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.986128
+  tag: art
+}
+, class Tag {
+  confidence: 7.7138615
+  tag: studio
+}
+, class Tag {
+  confidence: 7.689186
+  tag: joy
+}
+, class Tag {
+  confidence: 7.577737
+  tag: comedian
+}
+, class Tag {
+  confidence: 7.5727663
+  tag: cheerful
+}
+, class Tag {
+  confidence: 7.46715
+  tag: style
+}
+, class Tag {
+  confidence: 7.4501247
+  tag: design
+}
+, class Tag {
+  confidence: 7.3180165
+  tag: model
+}
+, class Tag {
+  confidence: 7.270435
+  tag: adult
+}
+, class Tag {
+  confidence: 7.268573
+  tag: shiny
+}
+, class Tag {
+  confidence: 7.2032757
+  tag: eyes
+}
+, class Tag {
+  confidence: 7.1730275
+  tag: costume
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,160 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQuvfOWwAEEWDZ.jpg
+  tags: [class Tag {
+  confidence: 30.389387
+  tag: glass
+}
+, class Tag {
+  confidence: 16.537691
+  tag: drink
+}
+, class Tag {
+  confidence: 15.802402
+  tag: food
+}
+, class Tag {
+  confidence: 14.657394
+  tag: close
+}
+, class Tag {
+  confidence: 14.411625
+  tag: celebration
+}
+, class Tag {
+  confidence: 14.003676
+  tag: liquid
+}
+, class Tag {
+  confidence: 13.418037
+  tag: alcohol
+}
+, class Tag {
+  confidence: 13.072415
+  tag: beverage
+}
+, class Tag {
+  confidence: 12.565261
+  tag: restaurant
+}
+, class Tag {
+  confidence: 12.548569
+  tag: wine
+}
+, class Tag {
+  confidence: 12.225005
+  tag: plate
+}
+, class Tag {
+  confidence: 11.600473
+  tag: yellow
+}
+, class Tag {
+  confidence: 10.845744
+  tag: party
+}
+, class Tag {
+  confidence: 10.5759325
+  tag: wineglass
+}
+, class Tag {
+  confidence: 10.306311
+  tag: gold
+}
+, class Tag {
+  confidence: 10.107936
+  tag: glasses
+}
+, class Tag {
+  confidence: 9.881038
+  tag: dinner
+}
+, class Tag {
+  confidence: 9.698451
+  tag: decoration
+}
+, class Tag {
+  confidence: 9.232326
+  tag: bar
+}
+, class Tag {
+  confidence: 9.156582
+  tag: strainer
+}
+, class Tag {
+  confidence: 8.829486
+  tag: transparent
+}
+, class Tag {
+  confidence: 8.608742
+  tag: object
+}
+, class Tag {
+  confidence: 8.484383
+  tag: cold
+}
+, class Tag {
+  confidence: 8.434233
+  tag: elegance
+}
+, class Tag {
+  confidence: 8.176494
+  tag: filter
+}
+, class Tag {
+  confidence: 8.175685
+  tag: fresh
+}
+, class Tag {
+  confidence: 8.126194
+  tag: water
+}
+, class Tag {
+  confidence: 7.9524765
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 7.896258
+  tag: closeup
+}
+, class Tag {
+  confidence: 7.8806663
+  tag: table
+}
+, class Tag {
+  confidence: 7.4012256
+  tag: celebrate
+}
+, class Tag {
+  confidence: 7.262003
+  tag: meal
+}
+, class Tag {
+  confidence: 7.2067113
+  tag: kitchen
+}
+, class Tag {
+  confidence: 7.188901
+  tag: reflection
+}
+, class Tag {
+  confidence: 7.116986
+  tag: breakfast
+}
+, class Tag {
+  confidence: 7.1035585
+  tag: design
+}
+, class Tag {
+  confidence: 7.08436
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.021315
+  tag: objects
+}
+]
+}
+]
+  unsuccessful: null
+}

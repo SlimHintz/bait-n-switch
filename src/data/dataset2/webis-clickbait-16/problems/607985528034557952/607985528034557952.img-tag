@@ -1,0 +1,220 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_04zvUIAAUIeT.jpg
+  tags: [class Tag {
+  confidence: 30.638975
+  tag: ball
+}
+, class Tag {
+  confidence: 29.569895
+  tag: basketball
+}
+, class Tag {
+  confidence: 24.97291
+  tag: rival
+}
+, class Tag {
+  confidence: 24.43006
+  tag: game
+}
+, class Tag {
+  confidence: 23.447884
+  tag: man
+}
+, class Tag {
+  confidence: 21.50495
+  tag: people
+}
+, class Tag {
+  confidence: 21.300236
+  tag: male
+}
+, class Tag {
+  confidence: 21.296
+  tag: basketball equipment
+}
+, class Tag {
+  confidence: 20.038738
+  tag: adult
+}
+, class Tag {
+  confidence: 19.62
+  tag: game equipment
+}
+, class Tag {
+  confidence: 17.353594
+  tag: caucasian
+}
+, class Tag {
+  confidence: 16.325531
+  tag: sport
+}
+, class Tag {
+  confidence: 16.16166
+  tag: person
+}
+, class Tag {
+  confidence: 15.952943
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 13.253329
+  tag: athlete
+}
+, class Tag {
+  confidence: 12.851896
+  tag: fun
+}
+, class Tag {
+  confidence: 12.603843
+  tag: equipment
+}
+, class Tag {
+  confidence: 12.212229
+  tag: happy
+}
+, class Tag {
+  confidence: 11.614511
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.008021
+  tag: happiness
+}
+, class Tag {
+  confidence: 10.109412
+  tag: king
+}
+, class Tag {
+  confidence: 10.021985
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.801736
+  tag: child
+}
+, class Tag {
+  confidence: 9.553637
+  tag: torch
+}
+, class Tag {
+  confidence: 9.105536
+  tag: family
+}
+, class Tag {
+  confidence: 9.092894
+  tag: smile
+}
+, class Tag {
+  confidence: 9.024849
+  tag: human
+}
+, class Tag {
+  confidence: 9.018826
+  tag: standing
+}
+, class Tag {
+  confidence: 8.966761
+  tag: boy
+}
+, class Tag {
+  confidence: 8.920052
+  tag: looking
+}
+, class Tag {
+  confidence: 8.898869
+  tag: player
+}
+, class Tag {
+  confidence: 8.787565
+  tag: light
+}
+, class Tag {
+  confidence: 8.732845
+  tag: health
+}
+, class Tag {
+  confidence: 8.71079
+  tag: competition
+}
+, class Tag {
+  confidence: 8.590048
+  tag: playing
+}
+, class Tag {
+  confidence: 8.497115
+  tag: holding
+}
+, class Tag {
+  confidence: 8.341864
+  tag: healthy
+}
+, class Tag {
+  confidence: 8.130965
+  tag: smiling
+}
+, class Tag {
+  confidence: 8.003095
+  tag: work
+}
+, class Tag {
+  confidence: 7.9312077
+  tag: attractive
+}
+, class Tag {
+  confidence: 7.884674
+  tag: handsome
+}
+, class Tag {
+  confidence: 7.8572574
+  tag: joy
+}
+, class Tag {
+  confidence: 7.7111263
+  tag: one
+}
+, class Tag {
+  confidence: 7.6298485
+  tag: indoors
+}
+, class Tag {
+  confidence: 7.3982854
+  tag: casual
+}
+, class Tag {
+  confidence: 7.3617487
+  tag: face
+}
+, class Tag {
+  confidence: 7.2986703
+  tag: business
+}
+, class Tag {
+  confidence: 7.2018485
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.1929555
+  tag: fitness
+}
+, class Tag {
+  confidence: 7.1900663
+  tag: hand
+}
+, class Tag {
+  confidence: 7.160534
+  tag: active
+}
+, class Tag {
+  confidence: 7.1494665
+  tag: supporter
+}
+, class Tag {
+  confidence: 7.0393786
+  tag: body
+}
+]
+}
+]
+  unsuccessful: null
+}

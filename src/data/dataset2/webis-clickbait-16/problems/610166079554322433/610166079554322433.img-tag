@@ -1,0 +1,332 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeoFPHWwAEvdwX.jpg
+  tags: [class Tag {
+  confidence: 34.422363
+  tag: design
+}
+, class Tag {
+  confidence: 32.572975
+  tag: pattern
+}
+, class Tag {
+  confidence: 30.996077
+  tag: graphic
+}
+, class Tag {
+  confidence: 23.754921
+  tag: art
+}
+, class Tag {
+  confidence: 23.506842
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 23.33282
+  tag: light
+}
+, class Tag {
+  confidence: 22.978287
+  tag: backdrop
+}
+, class Tag {
+  confidence: 22.810455
+  tag: digital
+}
+, class Tag {
+  confidence: 21.683302
+  tag: texture
+}
+, class Tag {
+  confidence: 19.088675
+  tag: modern
+}
+, class Tag {
+  confidence: 18.923475
+  tag: color
+}
+, class Tag {
+  confidence: 18.879454
+  tag: pixel
+}
+, class Tag {
+  confidence: 18.837881
+  tag: technology
+}
+, class Tag {
+  confidence: 18.710787
+  tag: shape
+}
+, class Tag {
+  confidence: 18.64502
+  tag: element
+}
+, class Tag {
+  confidence: 18.092108
+  tag: decoration
+}
+, class Tag {
+  confidence: 16.945145
+  tag: web
+}
+, class Tag {
+  confidence: 16.841572
+  tag: business
+}
+, class Tag {
+  confidence: 15.852435
+  tag: dots
+}
+, class Tag {
+  confidence: 15.24177
+  tag: colorful
+}
+, class Tag {
+  confidence: 15.2387
+  tag: gradient
+}
+, class Tag {
+  confidence: 14.562279
+  tag: internet
+}
+, class Tag {
+  confidence: 14.255909
+  tag: halftone
+}
+, class Tag {
+  confidence: 13.955939
+  tag: circle
+}
+, class Tag {
+  confidence: 13.784537
+  tag: futuristic
+}
+, class Tag {
+  confidence: 13.415457
+  tag: black
+}
+, class Tag {
+  confidence: 12.838139
+  tag: bright
+}
+, class Tag {
+  confidence: 12.401606
+  tag: data
+}
+, class Tag {
+  confidence: 12.36523
+  tag: grunge
+}
+, class Tag {
+  confidence: 12.334981
+  tag: computer
+}
+, class Tag {
+  confidence: 12.230393
+  tag: backgrounds
+}
+, class Tag {
+  confidence: 11.991774
+  tag: creative
+}
+, class Tag {
+  confidence: 11.957909
+  tag: frame
+}
+, class Tag {
+  confidence: 11.923461
+  tag: retro
+}
+, class Tag {
+  confidence: 11.865852
+  tag: symbol
+}
+, class Tag {
+  confidence: 11.730336
+  tag: banner
+}
+, class Tag {
+  confidence: 11.642178
+  tag: template
+}
+, class Tag {
+  confidence: 11.531343
+  tag: line
+}
+, class Tag {
+  confidence: 11.476888
+  tag: square
+}
+, class Tag {
+  confidence: 10.816475
+  tag: artistic
+}
+, class Tag {
+  confidence: 10.767424
+  tag: style
+}
+, class Tag {
+  confidence: 10.620816
+  tag: communication
+}
+, class Tag {
+  confidence: 10.577028
+  tag: dot
+}
+, class Tag {
+  confidence: 10.51109
+  tag: decorative
+}
+, class Tag {
+  confidence: 9.909811
+  tag: effect
+}
+, class Tag {
+  confidence: 9.30704
+  tag: wave
+}
+, class Tag {
+  confidence: 9.259756
+  tag: cover
+}
+, class Tag {
+  confidence: 9.074158
+  tag: connection
+}
+, class Tag {
+  confidence: 8.991198
+  tag: sign
+}
+, class Tag {
+  confidence: 8.821517
+  tag: concepts
+}
+, class Tag {
+  confidence: 8.746164
+  tag: button
+}
+, class Tag {
+  confidence: 8.60567
+  tag: communications
+}
+, class Tag {
+  confidence: 8.5237255
+  tag: party
+}
+, class Tag {
+  confidence: 8.505738
+  tag: motion
+}
+, class Tag {
+  confidence: 8.483333
+  tag: rainbow
+}
+, class Tag {
+  confidence: 8.471773
+  tag: ornament
+}
+, class Tag {
+  confidence: 8.469892
+  tag: set
+}
+, class Tag {
+  confidence: 8.437208
+  tag: glowing
+}
+, class Tag {
+  confidence: 8.40808
+  tag: card
+}
+, class Tag {
+  confidence: 8.311414
+  tag: dark
+}
+, class Tag {
+  confidence: 8.069019
+  tag: lines
+}
+, class Tag {
+  confidence: 7.9882607
+  tag: icon
+}
+, class Tag {
+  confidence: 7.9501967
+  tag: mosaic
+}
+, class Tag {
+  confidence: 7.9097404
+  tag: grid
+}
+, class Tag {
+  confidence: 7.887553
+  tag: 3d
+}
+, class Tag {
+  confidence: 7.8299036
+  tag: spot
+}
+, class Tag {
+  confidence: 7.826523
+  tag: detail
+}
+, class Tag {
+  confidence: 7.7313743
+  tag: space
+}
+, class Tag {
+  confidence: 7.72
+  tag: light-emitting diode
+}
+, class Tag {
+  confidence: 7.6642985
+  tag: arrow
+}
+, class Tag {
+  confidence: 7.64224
+  tag: composition
+}
+, class Tag {
+  confidence: 7.6394267
+  tag: stars
+}
+, class Tag {
+  confidence: 7.5805664
+  tag: network
+}
+, class Tag {
+  confidence: 7.288726
+  tag: star
+}
+, class Tag {
+  confidence: 7.283882
+  tag: music
+}
+, class Tag {
+  confidence: 7.2107615
+  tag: shiny
+}
+, class Tag {
+  confidence: 7.131547
+  tag: dotted
+}
+, class Tag {
+  confidence: 7.1308413
+  tag: textured
+}
+, class Tag {
+  confidence: 7.1086802
+  tag: colors
+}
+, class Tag {
+  confidence: 7.0472083
+  tag: curve
+}
+, class Tag {
+  confidence: 7.000513
+  tag: disco
+}
+]
+}
+]
+  unsuccessful: null
+}

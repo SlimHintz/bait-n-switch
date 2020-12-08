@@ -1,0 +1,304 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHEFcZsU8AMXzy5.jpg
+  tags: [class Tag {
+  confidence: 34.98208
+  tag: attractive
+}
+, class Tag {
+  confidence: 27.70176
+  tag: caucasian
+}
+, class Tag {
+  confidence: 26.939766
+  tag: adult
+}
+, class Tag {
+  confidence: 26.768478
+  tag: sexy
+}
+, class Tag {
+  confidence: 26.474861
+  tag: body
+}
+, class Tag {
+  confidence: 25.703716
+  tag: portrait
+}
+, class Tag {
+  confidence: 24.994408
+  tag: person
+}
+, class Tag {
+  confidence: 23.960567
+  tag: pretty
+}
+, class Tag {
+  confidence: 23.639418
+  tag: smile
+}
+, class Tag {
+  confidence: 22.561687
+  tag: health
+}
+, class Tag {
+  confidence: 22.357239
+  tag: happy
+}
+, class Tag {
+  confidence: 20.905378
+  tag: healthy
+}
+, class Tag {
+  confidence: 20.81546
+  tag: model
+}
+, class Tag {
+  confidence: 20.689156
+  tag: people
+}
+, class Tag {
+  confidence: 20.670074
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 20.389166
+  tag: happiness
+}
+, class Tag {
+  confidence: 19.585321
+  tag: cute
+}
+, class Tag {
+  confidence: 19.557426
+  tag: face
+}
+, class Tag {
+  confidence: 17.298075
+  tag: brunette
+}
+, class Tag {
+  confidence: 17.0777
+  tag: hair
+}
+, class Tag {
+  confidence: 16.572666
+  tag: skin
+}
+, class Tag {
+  confidence: 16.417704
+  tag: women
+}
+, class Tag {
+  confidence: 15.888034
+  tag: smiling
+}
+, class Tag {
+  confidence: 15.023628
+  tag: fashion
+}
+, class Tag {
+  confidence: 14.912275
+  tag: hand
+}
+, class Tag {
+  confidence: 14.77885
+  tag: holding
+}
+, class Tag {
+  confidence: 14.587983
+  tag: cheerful
+}
+, class Tag {
+  confidence: 13.595606
+  tag: human
+}
+, class Tag {
+  confidence: 13.0590315
+  tag: underwear
+}
+, class Tag {
+  confidence: 12.44674
+  tag: fun
+}
+, class Tag {
+  confidence: 12.366271
+  tag: lady
+}
+, class Tag {
+  confidence: 11.6665125
+  tag: posing
+}
+, class Tag {
+  confidence: 11.216711
+  tag: youth
+}
+, class Tag {
+  confidence: 10.931202
+  tag: blond
+}
+, class Tag {
+  confidence: 10.920397
+  tag: care
+}
+, class Tag {
+  confidence: 10.880077
+  tag: lovely
+}
+, class Tag {
+  confidence: 10.780355
+  tag: glamour
+}
+, class Tag {
+  confidence: 10.439482
+  tag: casual
+}
+, class Tag {
+  confidence: 10.380653
+  tag: slim
+}
+, class Tag {
+  confidence: 10.307477
+  tag: sensual
+}
+, class Tag {
+  confidence: 10.278551
+  tag: sensuality
+}
+, class Tag {
+  confidence: 10.277915
+  tag: wellness
+}
+, class Tag {
+  confidence: 10.230356
+  tag: fresh
+}
+, class Tag {
+  confidence: 10.216031
+  tag: fitness
+}
+, class Tag {
+  confidence: 10.12558
+  tag: joy
+}
+, class Tag {
+  confidence: 10.106316
+  tag: relaxation
+}
+, class Tag {
+  confidence: 10.01455
+  tag: spa
+}
+, class Tag {
+  confidence: 9.857176
+  tag: natural
+}
+, class Tag {
+  confidence: 9.592166
+  tag: expression
+}
+, class Tag {
+  confidence: 9.351404
+  tag: relaxing
+}
+, class Tag {
+  confidence: 8.8540125
+  tag: home
+}
+, class Tag {
+  confidence: 8.797293
+  tag: therapy
+}
+, class Tag {
+  confidence: 8.646352
+  tag: fit
+}
+, class Tag {
+  confidence: 8.621936
+  tag: leisure
+}
+, class Tag {
+  confidence: 8.521176
+  tag: gorgeous
+}
+, class Tag {
+  confidence: 8.262068
+  tag: healthcare
+}
+, class Tag {
+  confidence: 8.040261
+  tag: hands
+}
+, class Tag {
+  confidence: 7.9590907
+  tag: erotic
+}
+, class Tag {
+  confidence: 7.887211
+  tag: studio
+}
+, class Tag {
+  confidence: 7.781284
+  tag: makeup
+}
+, class Tag {
+  confidence: 7.780509
+  tag: blonde
+}
+, class Tag {
+  confidence: 7.7390537
+  tag: hot
+}
+, class Tag {
+  confidence: 7.667563
+  tag: pink
+}
+, class Tag {
+  confidence: 7.5874248
+  tag: girls
+}
+, class Tag {
+  confidence: 7.4117146
+  tag: diet
+}
+, class Tag {
+  confidence: 7.249083
+  tag: eyes
+}
+, class Tag {
+  confidence: 7.230992
+  tag: nude
+}
+, class Tag {
+  confidence: 7.2181473
+  tag: life
+}
+, class Tag {
+  confidence: 7.1251316
+  tag: skincare
+}
+, class Tag {
+  confidence: 7.1023903
+  tag: bed
+}
+, class Tag {
+  confidence: 7.094236
+  tag: adults
+}
+, class Tag {
+  confidence: 7.067558
+  tag: elegance
+}
+, class Tag {
+  confidence: 7.06545
+  tag: one
+}
+, class Tag {
+  confidence: 7.028168
+  tag: relaxed
+}
+]
+}
+]
+  unsuccessful: null
+}

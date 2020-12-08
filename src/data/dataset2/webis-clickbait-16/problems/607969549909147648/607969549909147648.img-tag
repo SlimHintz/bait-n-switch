@@ -1,0 +1,252 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG_wLq_VIAAGVEt.jpg
+  tags: [class Tag {
+  confidence: 32.256775
+  tag: silhouette
+}
+, class Tag {
+  confidence: 28.861826
+  tag: crowd
+}
+, class Tag {
+  confidence: 28.576605
+  tag: flag
+}
+, class Tag {
+  confidence: 28.364212
+  tag: audience
+}
+, class Tag {
+  confidence: 26.291807
+  tag: patriotic
+}
+, class Tag {
+  confidence: 26.010855
+  tag: nation
+}
+, class Tag {
+  confidence: 25.909723
+  tag: lights
+}
+, class Tag {
+  confidence: 25.591438
+  tag: stadium
+}
+, class Tag {
+  confidence: 24.180294
+  tag: athlete
+}
+, class Tag {
+  confidence: 24.151943
+  tag: competition
+}
+, class Tag {
+  confidence: 23.525286
+  tag: muscular
+}
+, class Tag {
+  confidence: 23.195772
+  tag: sport
+}
+, class Tag {
+  confidence: 22.762075
+  tag: match
+}
+, class Tag {
+  confidence: 22.56602
+  tag: event
+}
+, class Tag {
+  confidence: 22.092554
+  tag: player
+}
+, class Tag {
+  confidence: 22.09135
+  tag: people
+}
+, class Tag {
+  confidence: 21.827171
+  tag: symbol
+}
+, class Tag {
+  confidence: 21.255638
+  tag: training
+}
+, class Tag {
+  confidence: 21.22844
+  tag: championship
+}
+, class Tag {
+  confidence: 21.22334
+  tag: design
+}
+, class Tag {
+  confidence: 20.92218
+  tag: skill
+}
+, class Tag {
+  confidence: 20.50907
+  tag: cheering
+}
+, class Tag {
+  confidence: 19.848595
+  tag: bright
+}
+, class Tag {
+  confidence: 19.579664
+  tag: roriginal
+}
+, class Tag {
+  confidence: 19.03485
+  tag: vibrant
+}
+, class Tag {
+  confidence: 18.889921
+  tag: icon
+}
+, class Tag {
+  confidence: 18.762835
+  tag: field
+}
+, class Tag {
+  confidence: 17.798088
+  tag: nighttime
+}
+, class Tag {
+  confidence: 17.761183
+  tag: glowing
+}
+, class Tag {
+  confidence: 17.155924
+  tag: male
+}
+, class Tag {
+  confidence: 16.897764
+  tag: man
+}
+, class Tag {
+  confidence: 16.401371
+  tag: team
+}
+, class Tag {
+  confidence: 15.837704
+  tag: pass
+}
+, class Tag {
+  confidence: 15.765221
+  tag: person
+}
+, class Tag {
+  confidence: 15.7649
+  tag: shoot
+}
+, class Tag {
+  confidence: 15.700745
+  tag: soccer
+}
+, class Tag {
+  confidence: 15.094775
+  tag: shiny
+}
+, class Tag {
+  confidence: 15.021992
+  tag: vivid
+}
+, class Tag {
+  confidence: 14.987288
+  tag: kick
+}
+, class Tag {
+  confidence: 14.979054
+  tag: ball
+}
+, class Tag {
+  confidence: 13.900436
+  tag: goal
+}
+, class Tag {
+  confidence: 13.232105
+  tag: park
+}
+, class Tag {
+  confidence: 12.541886
+  tag: versus
+}
+, class Tag {
+  confidence: 12.173233
+  tag: football
+}
+, class Tag {
+  confidence: 11.106884
+  tag: balloon
+}
+, class Tag {
+  confidence: 9.58288
+  tag: group
+}
+, class Tag {
+  confidence: 9.512322
+  tag: light
+}
+, class Tag {
+  confidence: 9.495396
+  tag: business
+}
+, class Tag {
+  confidence: 9.288236
+  tag: sky
+}
+, class Tag {
+  confidence: 9.284996
+  tag: national
+}
+, class Tag {
+  confidence: 9.16
+  tag: theater curtain
+}
+, class Tag {
+  confidence: 8.866242
+  tag: world
+}
+, class Tag {
+  confidence: 8.447885
+  tag: internet
+}
+, class Tag {
+  confidence: 8.143617
+  tag: curtain
+}
+, class Tag {
+  confidence: 8.099424
+  tag: businessman
+}
+, class Tag {
+  confidence: 8.020028
+  tag: shorts
+}
+, class Tag {
+  confidence: 7.9928346
+  tag: button
+}
+, class Tag {
+  confidence: 7.9715343
+  tag: court
+}
+, class Tag {
+  confidence: 7.563784
+  tag: happy
+}
+, class Tag {
+  confidence: 7.244139
+  tag: job
+}
+, class Tag {
+  confidence: 7.1308746
+  tag: insignia
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,128 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHJukLpW4AIrblv.jpg
+  tags: [class Tag {
+  confidence: 36.67726
+  tag: comic book
+}
+, class Tag {
+  confidence: 16.273893
+  tag: drawing
+}
+, class Tag {
+  confidence: 15.296112
+  tag: art
+}
+, class Tag {
+  confidence: 14.877052
+  tag: cartoon
+}
+, class Tag {
+  confidence: 14.666525
+  tag: print media
+}
+, class Tag {
+  confidence: 13.042027
+  tag: smile
+}
+, class Tag {
+  confidence: 13.03533
+  tag: magazine
+}
+, class Tag {
+  confidence: 11.475734
+  tag: design
+}
+, class Tag {
+  confidence: 10.777264
+  tag: face
+}
+, class Tag {
+  confidence: 10.657858
+  tag: money
+}
+, class Tag {
+  confidence: 10.1284485
+  tag: color
+}
+, class Tag {
+  confidence: 9.987324
+  tag: slick
+}
+, class Tag {
+  confidence: 9.1785555
+  tag: culture
+}
+, class Tag {
+  confidence: 9.122687
+  tag: people
+}
+, class Tag {
+  confidence: 9.021296
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.640066
+  tag: icon
+}
+, class Tag {
+  confidence: 8.590142
+  tag: old
+}
+, class Tag {
+  confidence: 8.383163
+  tag: graphic
+}
+, class Tag {
+  confidence: 8.148025
+  tag: currency
+}
+, class Tag {
+  confidence: 8.029718
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.946823
+  tag: happy
+}
+, class Tag {
+  confidence: 7.747271
+  tag: character
+}
+, class Tag {
+  confidence: 7.668512
+  tag: person
+}
+, class Tag {
+  confidence: 7.667687
+  tag: vintage
+}
+, class Tag {
+  confidence: 7.517382
+  tag: child
+}
+, class Tag {
+  confidence: 7.4881506
+  tag: human
+}
+, class Tag {
+  confidence: 7.382289
+  tag: bank
+}
+, class Tag {
+  confidence: 7.381891
+  tag: fun
+}
+, class Tag {
+  confidence: 7.282115
+  tag: black
+}
+, class Tag {
+  confidence: 7.0001006
+  tag: retro
+}
+]
+}
+]
+  unsuccessful: null
+}

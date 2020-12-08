@@ -1,0 +1,288 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHVXW3kW8AAEdLL.jpg
+  tags: [class Tag {
+  confidence: 30.825233
+  tag: person
+}
+, class Tag {
+  confidence: 24.81838
+  tag: dumbbell
+}
+, class Tag {
+  confidence: 24.372623
+  tag: man
+}
+, class Tag {
+  confidence: 22.591198
+  tag: weight
+}
+, class Tag {
+  confidence: 22.403505
+  tag: male
+}
+, class Tag {
+  confidence: 22.016161
+  tag: people
+}
+, class Tag {
+  confidence: 21.93766
+  tag: hand
+}
+, class Tag {
+  confidence: 21.345867
+  tag: fitness
+}
+, class Tag {
+  confidence: 21.164318
+  tag: adult
+}
+, class Tag {
+  confidence: 19.005793
+  tag: exercise
+}
+, class Tag {
+  confidence: 18.650658
+  tag: caucasian
+}
+, class Tag {
+  confidence: 17.489313
+  tag: attractive
+}
+, class Tag {
+  confidence: 16.695505
+  tag: body
+}
+, class Tag {
+  confidence: 16.409227
+  tag: men
+}
+, class Tag {
+  confidence: 14.884526
+  tag: health
+}
+, class Tag {
+  confidence: 14.8739
+  tag: sport
+}
+, class Tag {
+  confidence: 14.551486
+  tag: business
+}
+, class Tag {
+  confidence: 14.216132
+  tag: fit
+}
+, class Tag {
+  confidence: 13.602789
+  tag: women
+}
+, class Tag {
+  confidence: 13.175316
+  tag: studio
+}
+, class Tag {
+  confidence: 12.684135
+  tag: strength
+}
+, class Tag {
+  confidence: 12.652487
+  tag: boy
+}
+, class Tag {
+  confidence: 12.630855
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.2613535
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 12.196408
+  tag: workout
+}
+, class Tag {
+  confidence: 11.80779
+  tag: black
+}
+, class Tag {
+  confidence: 11.77683
+  tag: healthy
+}
+, class Tag {
+  confidence: 11.772884
+  tag: human
+}
+, class Tag {
+  confidence: 11.593701
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.567033
+  tag: youth
+}
+, class Tag {
+  confidence: 10.940573
+  tag: guy
+}
+, class Tag {
+  confidence: 10.855397
+  tag: professional
+}
+, class Tag {
+  confidence: 10.853958
+  tag: hands
+}
+, class Tag {
+  confidence: 10.695348
+  tag: smiling
+}
+, class Tag {
+  confidence: 10.598025
+  tag: work
+}
+, class Tag {
+  confidence: 10.44174
+  tag: exercising
+}
+, class Tag {
+  confidence: 10.415275
+  tag: face
+}
+, class Tag {
+  confidence: 10.4074
+  tag: success
+}
+, class Tag {
+  confidence: 10.294475
+  tag: equipment
+}
+, class Tag {
+  confidence: 10.169754
+  tag: one
+}
+, class Tag {
+  confidence: 9.966755
+  tag: happy
+}
+, class Tag {
+  confidence: 9.829714
+  tag: handsome
+}
+, class Tag {
+  confidence: 9.789343
+  tag: smile
+}
+, class Tag {
+  confidence: 9.664719
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.604467
+  tag: muscle
+}
+, class Tag {
+  confidence: 9.597862
+  tag: gym
+}
+, class Tag {
+  confidence: 9.556732
+  tag: sexy
+}
+, class Tag {
+  confidence: 9.399953
+  tag: ball
+}
+, class Tag {
+  confidence: 9.391827
+  tag: model
+}
+, class Tag {
+  confidence: 9.337706
+  tag: photographer
+}
+, class Tag {
+  confidence: 9.2977915
+  tag: training
+}
+, class Tag {
+  confidence: 9.104121
+  tag: slim
+}
+, class Tag {
+  confidence: 8.940765
+  tag: businessman
+}
+, class Tag {
+  confidence: 8.57625
+  tag: corporate
+}
+, class Tag {
+  confidence: 8.452443
+  tag: strong
+}
+, class Tag {
+  confidence: 8.331149
+  tag: sports
+}
+, class Tag {
+  confidence: 8.169402
+  tag: pose
+}
+, class Tag {
+  confidence: 8.146539
+  tag: active
+}
+, class Tag {
+  confidence: 8.07359
+  tag: activity
+}
+, class Tag {
+  confidence: 8.053053
+  tag: working
+}
+, class Tag {
+  confidence: 8.039794
+  tag: job
+}
+, class Tag {
+  confidence: 7.9794044
+  tag: muscleman
+}
+, class Tag {
+  confidence: 7.9704204
+  tag: bodybuilder
+}
+, class Tag {
+  confidence: 7.852224
+  tag: arms
+}
+, class Tag {
+  confidence: 7.7167835
+  tag: gesture
+}
+, class Tag {
+  confidence: 7.47345
+  tag: lady
+}
+, class Tag {
+  confidence: 7.406154
+  tag: suit
+}
+, class Tag {
+  confidence: 7.146548
+  tag: weights
+}
+, class Tag {
+  confidence: 7.1293683
+  tag: indoors
+}
+, class Tag {
+  confidence: 7.0924377
+  tag: 3d
+}
+]
+}
+]
+  unsuccessful: null
+}

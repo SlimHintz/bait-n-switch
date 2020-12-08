@@ -1,0 +1,148 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTR6HAVEAABcn0.jpg
+  tags: [class Tag {
+  confidence: 21.300112
+  tag: shield
+}
+, class Tag {
+  confidence: 16.063448
+  tag: food
+}
+, class Tag {
+  confidence: 15.76
+  tag: protective covering
+}
+, class Tag {
+  confidence: 13.481844
+  tag: symbol
+}
+, class Tag {
+  confidence: 12.637261
+  tag: decoration
+}
+, class Tag {
+  confidence: 12.008601
+  tag: plate
+}
+, class Tag {
+  confidence: 11.562431
+  tag: sign
+}
+, class Tag {
+  confidence: 11.314752
+  tag: covering
+}
+, class Tag {
+  confidence: 10.7284775
+  tag: meal
+}
+, class Tag {
+  confidence: 10.225105
+  tag: porcelain
+}
+, class Tag {
+  confidence: 9.951926
+  tag: icon
+}
+, class Tag {
+  confidence: 9.935832
+  tag: design
+}
+, class Tag {
+  confidence: 9.657742
+  tag: dish
+}
+, class Tag {
+  confidence: 9.655094
+  tag: art
+}
+, class Tag {
+  confidence: 9.385407
+  tag: decor
+}
+, class Tag {
+  confidence: 8.840278
+  tag: glass
+}
+, class Tag {
+  confidence: 8.63465
+  tag: kitchen
+}
+, class Tag {
+  confidence: 8.428412
+  tag: metal
+}
+, class Tag {
+  confidence: 8.255125
+  tag: globe
+}
+, class Tag {
+  confidence: 8.196573
+  tag: dinner
+}
+, class Tag {
+  confidence: 8.078517
+  tag: currency
+}
+, class Tag {
+  confidence: 7.907791
+  tag: world
+}
+, class Tag {
+  confidence: 7.768728
+  tag: reflection
+}
+, class Tag {
+  confidence: 7.7666755
+  tag: celebration
+}
+, class Tag {
+  confidence: 7.708017
+  tag: antique
+}
+, class Tag {
+  confidence: 7.7020316
+  tag: money
+}
+, class Tag {
+  confidence: 7.5591726
+  tag: ornament
+}
+, class Tag {
+  confidence: 7.3430495
+  tag: old
+}
+, class Tag {
+  confidence: 7.32744
+  tag: decorative
+}
+, class Tag {
+  confidence: 7.1987705
+  tag: color
+}
+, class Tag {
+  confidence: 7.180251
+  tag: business
+}
+, class Tag {
+  confidence: 7.1553426
+  tag: closeup
+}
+, class Tag {
+  confidence: 7.148735
+  tag: object
+}
+, class Tag {
+  confidence: 7.1128025
+  tag: pattern
+}
+, class Tag {
+  confidence: 7.0680275
+  tag: dessert
+}
+]
+}
+]
+  unsuccessful: null
+}

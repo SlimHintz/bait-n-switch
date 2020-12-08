@@ -1,0 +1,284 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHNQewMUIAAP5ya.jpg
+  tags: [class Tag {
+  confidence: 42.841972
+  tag: pool
+}
+, class Tag {
+  confidence: 33.75295
+  tag: water
+}
+, class Tag {
+  confidence: 27.588863
+  tag: summer
+}
+, class Tag {
+  confidence: 25.79858
+  tag: swimming
+}
+, class Tag {
+  confidence: 25.376627
+  tag: beach
+}
+, class Tag {
+  confidence: 22.946325
+  tag: excavation
+}
+, class Tag {
+  confidence: 22.772795
+  tag: ocean
+}
+, class Tag {
+  confidence: 21.9988
+  tag: sea
+}
+, class Tag {
+  confidence: 21.853249
+  tag: vacation
+}
+, class Tag {
+  confidence: 16.531425
+  tag: relax
+}
+, class Tag {
+  confidence: 15.917651
+  tag: bikini
+}
+, class Tag {
+  confidence: 15.219125
+  tag: fun
+}
+, class Tag {
+  confidence: 15.147687
+  tag: holiday
+}
+, class Tag {
+  confidence: 15.055727
+  tag: dive
+}
+, class Tag {
+  confidence: 14.769246
+  tag: people
+}
+, class Tag {
+  confidence: 14.493857
+  tag: tropical
+}
+, class Tag {
+  confidence: 14.476674
+  tag: travel
+}
+, class Tag {
+  confidence: 14.188363
+  tag: sexy
+}
+, class Tag {
+  confidence: 13.82
+  tag: bathing cap
+}
+, class Tag {
+  confidence: 13.763978
+  tag: happy
+}
+, class Tag {
+  confidence: 13.630852
+  tag: relaxation
+}
+, class Tag {
+  confidence: 13.397906
+  tag: sky
+}
+, class Tag {
+  confidence: 13.083719
+  tag: outdoor
+}
+, class Tag {
+  confidence: 13.036864
+  tag: leisure
+}
+, class Tag {
+  confidence: 13.021647
+  tag: cap
+}
+, class Tag {
+  confidence: 12.778817
+  tag: floating
+}
+, class Tag {
+  confidence: 12.692494
+  tag: outdoors
+}
+, class Tag {
+  confidence: 12.430804
+  tag: coast
+}
+, class Tag {
+  confidence: 12.423606
+  tag: smile
+}
+, class Tag {
+  confidence: 12.345652
+  tag: duck
+}
+, class Tag {
+  confidence: 12.06058
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.74623
+  tag: healthy
+}
+, class Tag {
+  confidence: 11.710336
+  tag: person
+}
+, class Tag {
+  confidence: 11.629691
+  tag: sun
+}
+, class Tag {
+  confidence: 11.492182
+  tag: happiness
+}
+, class Tag {
+  confidence: 11.131119
+  tag: pretty
+}
+, class Tag {
+  confidence: 11.114034
+  tag: swim
+}
+, class Tag {
+  confidence: 10.132912
+  tag: caucasian
+}
+, class Tag {
+  confidence: 10.119737
+  tag: river
+}
+, class Tag {
+  confidence: 9.985694
+  tag: sand
+}
+, class Tag {
+  confidence: 9.586904
+  tag: joy
+}
+, class Tag {
+  confidence: 9.53744
+  tag: life
+}
+, class Tag {
+  confidence: 9.516322
+  tag: wet
+}
+, class Tag {
+  confidence: 9.457654
+  tag: attractive
+}
+, class Tag {
+  confidence: 9.303057
+  tag: portrait
+}
+, class Tag {
+  confidence: 9.119927
+  tag: reflection
+}
+, class Tag {
+  confidence: 9.078426
+  tag: sunny
+}
+, class Tag {
+  confidence: 8.877338
+  tag: lake
+}
+, class Tag {
+  confidence: 8.714813
+  tag: body
+}
+, class Tag {
+  confidence: 8.277785
+  tag: headdress
+}
+, class Tag {
+  confidence: 8.253948
+  tag: adult
+}
+, class Tag {
+  confidence: 8.150626
+  tag: natural
+}
+, class Tag {
+  confidence: 8.124069
+  tag: swimsuit
+}
+, class Tag {
+  confidence: 8.033546
+  tag: one
+}
+, class Tag {
+  confidence: 7.966357
+  tag: health
+}
+, class Tag {
+  confidence: 7.949801
+  tag: tan
+}
+, class Tag {
+  confidence: 7.93528
+  tag: women
+}
+, class Tag {
+  confidence: 7.925145
+  tag: sunlight
+}
+, class Tag {
+  confidence: 7.8797903
+  tag: model
+}
+, class Tag {
+  confidence: 7.744315
+  tag: male
+}
+, class Tag {
+  confidence: 7.7361603
+  tag: outside
+}
+, class Tag {
+  confidence: 7.7080593
+  tag: wave
+}
+, class Tag {
+  confidence: 7.679991
+  tag: enjoy
+}
+, class Tag {
+  confidence: 7.450143
+  tag: sport
+}
+, class Tag {
+  confidence: 7.3667145
+  tag: recreation
+}
+, class Tag {
+  confidence: 7.2715807
+  tag: swimwear
+}
+, class Tag {
+  confidence: 7.2485557
+  tag: tourism
+}
+, class Tag {
+  confidence: 7.216456
+  tag: hair
+}
+, class Tag {
+  confidence: 7.108889
+  tag: face
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,120 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHFME6hWQAIVY19.jpg
+  tags: [class Tag {
+  confidence: 79.55048
+  tag: helmet
+}
+, class Tag {
+  confidence: 76.14
+  tag: football helmet
+}
+, class Tag {
+  confidence: 45.605686
+  tag: headdress
+}
+, class Tag {
+  confidence: 35.182446
+  tag: football
+}
+, class Tag {
+  confidence: 32.5117
+  tag: clothing
+}
+, class Tag {
+  confidence: 15.373114
+  tag: combatant
+}
+, class Tag {
+  confidence: 15.228
+  tag: consumer goods
+}
+, class Tag {
+  confidence: 15.056015
+  tag: covering
+}
+, class Tag {
+  confidence: 14.00976
+  tag: back
+}
+, class Tag {
+  confidence: 13.558452
+  tag: man
+}
+, class Tag {
+  confidence: 10.996836
+  tag: sport
+}
+, class Tag {
+  confidence: 10.091601
+  tag: person
+}
+, class Tag {
+  confidence: 9.8901005
+  tag: icon
+}
+, class Tag {
+  confidence: 9.577461
+  tag: male
+}
+, class Tag {
+  confidence: 9.344085
+  tag: button
+}
+, class Tag {
+  confidence: 9.339107
+  tag: competition
+}
+, class Tag {
+  confidence: 9.325122
+  tag: ball
+}
+, class Tag {
+  confidence: 9.274443
+  tag: symbol
+}
+, class Tag {
+  confidence: 8.313253
+  tag: metal
+}
+, class Tag {
+  confidence: 8.028629
+  tag: round
+}
+, class Tag {
+  confidence: 7.8581376
+  tag: war
+}
+, class Tag {
+  confidence: 7.593941
+  tag: championship
+}
+, class Tag {
+  confidence: 7.5534678
+  tag: team
+}
+, class Tag {
+  confidence: 7.438238
+  tag: internet
+}
+, class Tag {
+  confidence: 7.4146843
+  tag: active
+}
+, class Tag {
+  confidence: 7.40706
+  tag: danger
+}
+, class Tag {
+  confidence: 7.1831336
+  tag: sign
+}
+, class Tag {
+  confidence: 7.018612
+  tag: technology
+}
+]
+}
+]
+  unsuccessful: null
+}

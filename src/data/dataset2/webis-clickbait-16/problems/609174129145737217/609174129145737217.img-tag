@@ -1,0 +1,212 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQ3ceYWwAEEsnu.jpg
+  tags: [class Tag {
+  confidence: 68.143936
+  tag: blackboard
+}
+, class Tag {
+  confidence: 27.723095
+  tag: chalk
+}
+, class Tag {
+  confidence: 22.953913
+  tag: chalkboard
+}
+, class Tag {
+  confidence: 21.879482
+  tag: board
+}
+, class Tag {
+  confidence: 19.720032
+  tag: education
+}
+, class Tag {
+  confidence: 17.998478
+  tag: school
+}
+, class Tag {
+  confidence: 17.074053
+  tag: sheet
+}
+, class Tag {
+  confidence: 16.764252
+  tag: black
+}
+, class Tag {
+  confidence: 16.193401
+  tag: frame
+}
+, class Tag {
+  confidence: 15.69836
+  tag: texture
+}
+, class Tag {
+  confidence: 14.909799
+  tag: class
+}
+, class Tag {
+  confidence: 14.43356
+  tag: grunge
+}
+, class Tag {
+  confidence: 13.558917
+  tag: design
+}
+, class Tag {
+  confidence: 13.511076
+  tag: pattern
+}
+, class Tag {
+  confidence: 13.433047
+  tag: classroom
+}
+, class Tag {
+  confidence: 13.226725
+  tag: message
+}
+, class Tag {
+  confidence: 12.977269
+  tag: art
+}
+, class Tag {
+  confidence: 12.667926
+  tag: space
+}
+, class Tag {
+  confidence: 12.272134
+  tag: old
+}
+, class Tag {
+  confidence: 11.983301
+  tag: vintage
+}
+, class Tag {
+  confidence: 11.471796
+  tag: college
+}
+, class Tag {
+  confidence: 11.400903
+  tag: card
+}
+, class Tag {
+  confidence: 11.319374
+  tag: write
+}
+, class Tag {
+  confidence: 11.06869
+  tag: lesson
+}
+, class Tag {
+  confidence: 10.981912
+  tag: blank
+}
+, class Tag {
+  confidence: 10.804875
+  tag: paper
+}
+, class Tag {
+  confidence: 10.599234
+  tag: writing
+}
+, class Tag {
+  confidence: 10.077612
+  tag: teacher
+}
+, class Tag {
+  confidence: 10.032436
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 9.713742
+  tag: graphic
+}
+, class Tag {
+  confidence: 9.565654
+  tag: student
+}
+, class Tag {
+  confidence: 9.287501
+  tag: border
+}
+, class Tag {
+  confidence: 9.259375
+  tag: elementary
+}
+, class Tag {
+  confidence: 9.116615
+  tag: dirty
+}
+, class Tag {
+  confidence: 9.053018
+  tag: university
+}
+, class Tag {
+  confidence: 9.001342
+  tag: learn
+}
+, class Tag {
+  confidence: 8.724826
+  tag: drawing
+}
+, class Tag {
+  confidence: 8.691091
+  tag: horizontal
+}
+, class Tag {
+  confidence: 8.438738
+  tag: teach
+}
+, class Tag {
+  confidence: 8.377108
+  tag: decoration
+}
+, class Tag {
+  confidence: 8.351199
+  tag: retro
+}
+, class Tag {
+  confidence: 8.343575
+  tag: information
+}
+, class Tag {
+  confidence: 8.325227
+  tag: business
+}
+, class Tag {
+  confidence: 8.262876
+  tag: digital
+}
+, class Tag {
+  confidence: 8.259144
+  tag: notice
+}
+, class Tag {
+  confidence: 8.00653
+  tag: draw
+}
+, class Tag {
+  confidence: 7.8807087
+  tag: communication
+}
+, class Tag {
+  confidence: 7.716094
+  tag: data
+}
+, class Tag {
+  confidence: 7.5555234
+  tag: science
+}
+, class Tag {
+  confidence: 7.334006
+  tag: textured
+}
+, class Tag {
+  confidence: 7.0144806
+  tag: note
+}
+]
+}
+]
+  unsuccessful: null
+}

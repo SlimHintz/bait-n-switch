@@ -1,0 +1,184 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeBXR4WIAA_alI.jpg
+  tags: [class Tag {
+  confidence: 23.48909
+  tag: business
+}
+, class Tag {
+  confidence: 18.307878
+  tag: newspaper
+}
+, class Tag {
+  confidence: 16.855625
+  tag: conceptual
+}
+, class Tag {
+  confidence: 14.790709
+  tag: money
+}
+, class Tag {
+  confidence: 14.620791
+  tag: word
+}
+, class Tag {
+  confidence: 14.373767
+  tag: text
+}
+, class Tag {
+  confidence: 13.986582
+  tag: finance
+}
+, class Tag {
+  confidence: 13.12017
+  tag: cloud
+}
+, class Tag {
+  confidence: 13.112402
+  tag: design
+}
+, class Tag {
+  confidence: 13.059406
+  tag: bank
+}
+, class Tag {
+  confidence: 12.441412
+  tag: cash
+}
+, class Tag {
+  confidence: 12.242682
+  tag: currency
+}
+, class Tag {
+  confidence: 12.188054
+  tag: paper
+}
+, class Tag {
+  confidence: 11.817035
+  tag: graphic
+}
+, class Tag {
+  confidence: 11.798787
+  tag: success
+}
+, class Tag {
+  confidence: 11.536285
+  tag: one
+}
+, class Tag {
+  confidence: 11.361797
+  tag: financial
+}
+, class Tag {
+  confidence: 10.721207
+  tag: technology
+}
+, class Tag {
+  confidence: 10.61047
+  tag: person
+}
+, class Tag {
+  confidence: 10.031107
+  tag: dollar
+}
+, class Tag {
+  confidence: 9.725739
+  tag: wealth
+}
+, class Tag {
+  confidence: 9.567432
+  tag: hand
+}
+, class Tag {
+  confidence: 9.213778
+  tag: banking
+}
+, class Tag {
+  confidence: 9.17721
+  tag: internet
+}
+, class Tag {
+  confidence: 8.88693
+  tag: definition
+}
+, class Tag {
+  confidence: 8.79963
+  tag: digital
+}
+, class Tag {
+  confidence: 8.615103
+  tag: american
+}
+, class Tag {
+  confidence: 8.4960985
+  tag: black
+}
+, class Tag {
+  confidence: 8.412293
+  tag: adult
+}
+, class Tag {
+  confidence: 8.352251
+  tag: investment
+}
+, class Tag {
+  confidence: 8.335062
+  tag: note
+}
+, class Tag {
+  confidence: 7.9919405
+  tag: market
+}
+, class Tag {
+  confidence: 7.8847246
+  tag: tag
+}
+, class Tag {
+  confidence: 7.8710737
+  tag: male
+}
+, class Tag {
+  confidence: 7.7171016
+  tag: casual
+}
+, class Tag {
+  confidence: 7.598492
+  tag: modern
+}
+, class Tag {
+  confidence: 7.4602304
+  tag: signboard
+}
+, class Tag {
+  confidence: 7.4546533
+  tag: symbol
+}
+, class Tag {
+  confidence: 7.4162254
+  tag: data
+}
+, class Tag {
+  confidence: 7.178389
+  tag: creative
+}
+, class Tag {
+  confidence: 7.142308
+  tag: tagcloud
+}
+, class Tag {
+  confidence: 7.1407166
+  tag: wordcloud
+}
+, class Tag {
+  confidence: 7.134137
+  tag: light
+}
+, class Tag {
+  confidence: 7.1327634
+  tag: tags
+}
+]
+}
+]
+  unsuccessful: null
+}

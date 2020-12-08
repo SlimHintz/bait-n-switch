@@ -1,0 +1,152 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHADlsaWwAA5ofH.jpg
+  tags: [class Tag {
+  confidence: 27.625933
+  tag: publication
+}
+, class Tag {
+  confidence: 24.47835
+  tag: medium
+}
+, class Tag {
+  confidence: 16.472769
+  tag: business
+}
+, class Tag {
+  confidence: 14.803289
+  tag: design
+}
+, class Tag {
+  confidence: 12.105447
+  tag: digital
+}
+, class Tag {
+  confidence: 11.664095
+  tag: press
+}
+, class Tag {
+  confidence: 11.390229
+  tag: graphic
+}
+, class Tag {
+  confidence: 11.104112
+  tag: technology
+}
+, class Tag {
+  confidence: 10.883752
+  tag: newspaper
+}
+, class Tag {
+  confidence: 10.598801
+  tag: art
+}
+, class Tag {
+  confidence: 10.586563
+  tag: slick
+}
+, class Tag {
+  confidence: 10.314421
+  tag: frame
+}
+, class Tag {
+  confidence: 10.246504
+  tag: text
+}
+, class Tag {
+  confidence: 10.117751
+  tag: billboard
+}
+, class Tag {
+  confidence: 10.034743
+  tag: blank
+}
+, class Tag {
+  confidence: 9.917319
+  tag: modern
+}
+, class Tag {
+  confidence: 9.81476
+  tag: light
+}
+, class Tag {
+  confidence: 9.743993
+  tag: box
+}
+, class Tag {
+  confidence: 9.639664
+  tag: happy
+}
+, class Tag {
+  confidence: 9.633324
+  tag: magazine
+}
+, class Tag {
+  confidence: 9.020039
+  tag: smile
+}
+, class Tag {
+  confidence: 8.749933
+  tag: creative
+}
+, class Tag {
+  confidence: 8.422709
+  tag: card
+}
+, class Tag {
+  confidence: 8.352325
+  tag: signboard
+}
+, class Tag {
+  confidence: 7.985226
+  tag: style
+}
+, class Tag {
+  confidence: 7.8812704
+  tag: money
+}
+, class Tag {
+  confidence: 7.837035
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.7345457
+  tag: space
+}
+, class Tag {
+  confidence: 7.7136226
+  tag: internet
+}
+, class Tag {
+  confidence: 7.635122
+  tag: cash
+}
+, class Tag {
+  confidence: 7.597164
+  tag: print media
+}
+, class Tag {
+  confidence: 7.5778437
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 7.561474
+  tag: colorful
+}
+, class Tag {
+  confidence: 7.4743934
+  tag: element
+}
+, class Tag {
+  confidence: 7.3505383
+  tag: conceptual
+}
+, class Tag {
+  confidence: 7.2185826
+  tag: paper
+}
+]
+}
+]
+  unsuccessful: null
+}

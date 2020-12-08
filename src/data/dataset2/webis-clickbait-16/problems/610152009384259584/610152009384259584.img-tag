@@ -1,0 +1,304 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHeyBQHWIAEcdmF.jpg
+  tags: [class Tag {
+  confidence: 38.4139
+  tag: nurse
+}
+, class Tag {
+  confidence: 31.402067
+  tag: student
+}
+, class Tag {
+  confidence: 29.315392
+  tag: person
+}
+, class Tag {
+  confidence: 24.535563
+  tag: adult
+}
+, class Tag {
+  confidence: 24.196922
+  tag: man
+}
+, class Tag {
+  confidence: 23.11985
+  tag: male
+}
+, class Tag {
+  confidence: 21.9972
+  tag: doctor
+}
+, class Tag {
+  confidence: 21.208134
+  tag: caucasian
+}
+, class Tag {
+  confidence: 20.835564
+  tag: people
+}
+, class Tag {
+  confidence: 19.985956
+  tag: medical
+}
+, class Tag {
+  confidence: 19.950172
+  tag: professional
+}
+, class Tag {
+  confidence: 19.248
+  tag: enrollee
+}
+, class Tag {
+  confidence: 18.463531
+  tag: smiling
+}
+, class Tag {
+  confidence: 17.772493
+  tag: happy
+}
+, class Tag {
+  confidence: 16.90413
+  tag: healthcare
+}
+, class Tag {
+  confidence: 15.999982
+  tag: stethoscope
+}
+, class Tag {
+  confidence: 15.640089
+  tag: smile
+}
+, class Tag {
+  confidence: 15.576114
+  tag: schoolchild
+}
+, class Tag {
+  confidence: 15.518197
+  tag: health
+}
+, class Tag {
+  confidence: 15.249466
+  tag: american
+}
+, class Tag {
+  confidence: 15.099252
+  tag: sitting
+}
+, class Tag {
+  confidence: 14.949627
+  tag: attractive
+}
+, class Tag {
+  confidence: 14.478687
+  tag: business
+}
+, class Tag {
+  confidence: 13.951088
+  tag: portrait
+}
+, class Tag {
+  confidence: 13.628372
+  tag: 30s
+}
+, class Tag {
+  confidence: 13.579591
+  tag: casual
+}
+, class Tag {
+  confidence: 13.256796
+  tag: indoors
+}
+, class Tag {
+  confidence: 13.217554
+  tag: medicine
+}
+, class Tag {
+  confidence: 12.742929
+  tag: businessman
+}
+, class Tag {
+  confidence: 12.071365
+  tag: office
+}
+, class Tag {
+  confidence: 12.053375
+  tag: handsome
+}
+, class Tag {
+  confidence: 11.80837
+  tag: hospital
+}
+, class Tag {
+  confidence: 11.533862
+  tag: group
+}
+, class Tag {
+  confidence: 11.484605
+  tag: businesswoman
+}
+, class Tag {
+  confidence: 11.29727
+  tag: women
+}
+, class Tag {
+  confidence: 11.230102
+  tag: mid adult
+}
+, class Tag {
+  confidence: 11.153098
+  tag: worker
+}
+, class Tag {
+  confidence: 11.121951
+  tag: home
+}
+, class Tag {
+  confidence: 10.460404
+  tag: child
+}
+, class Tag {
+  confidence: 10.417318
+  tag: job
+}
+, class Tag {
+  confidence: 10.381478
+  tag: care
+}
+, class Tag {
+  confidence: 10.31453
+  tag: working
+}
+, class Tag {
+  confidence: 10.123427
+  tag: looking
+}
+, class Tag {
+  confidence: 10.021544
+  tag: 20s
+}
+, class Tag {
+  confidence: 9.732639
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.72
+  tag: young person
+}
+, class Tag {
+  confidence: 9.658675
+  tag: patient
+}
+, class Tag {
+  confidence: 9.445697
+  tag: pretty
+}
+, class Tag {
+  confidence: 9.376337
+  tag: men
+}
+, class Tag {
+  confidence: 9.196154
+  tag: occupation
+}
+, class Tag {
+  confidence: 9.193807
+  tag: indoor
+}
+, class Tag {
+  confidence: 9.166299
+  tag: golfer
+}
+, class Tag {
+  confidence: 9.130339
+  tag: work
+}
+, class Tag {
+  confidence: 8.947138
+  tag: color
+}
+, class Tag {
+  confidence: 8.773835
+  tag: boy
+}
+, class Tag {
+  confidence: 8.762871
+  tag: to
+}
+, class Tag {
+  confidence: 8.725778
+  tag: businesspeople
+}
+, class Tag {
+  confidence: 8.686303
+  tag: colour
+}
+, class Tag {
+  confidence: 8.67227
+  tag: uniform
+}
+, class Tag {
+  confidence: 8.517887
+  tag: mature
+}
+, class Tag {
+  confidence: 8.403516
+  tag: friendly
+}
+, class Tag {
+  confidence: 8.402768
+  tag: confident
+}
+, class Tag {
+  confidence: 8.115638
+  tag: physician
+}
+, class Tag {
+  confidence: 8.077788
+  tag: together
+}
+, class Tag {
+  confidence: 8.0393305
+  tag: education
+}
+, class Tag {
+  confidence: 8.011938
+  tag: clinic
+}
+, class Tag {
+  confidence: 7.9833302
+  tag: player
+}
+, class Tag {
+  confidence: 7.867741
+  tag: adults
+}
+, class Tag {
+  confidence: 7.7966895
+  tag: face
+}
+, class Tag {
+  confidence: 7.547839
+  tag: team
+}
+, class Tag {
+  confidence: 7.533438
+  tag: lady
+}
+, class Tag {
+  confidence: 7.297256
+  tag: couple
+}
+, class Tag {
+  confidence: 7.173188
+  tag: profession
+}
+, class Tag {
+  confidence: 7.0953
+  tag: expression
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,168 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTbTyHWcAANqR3.jpg
+  tags: [class Tag {
+  confidence: 17.202688
+  tag: black
+}
+, class Tag {
+  confidence: 15.86
+  tag: roentgenogram
+}
+, class Tag {
+  confidence: 15.191085
+  tag: design
+}
+, class Tag {
+  confidence: 14.630299
+  tag: motion
+}
+, class Tag {
+  confidence: 13.252562
+  tag: pattern
+}
+, class Tag {
+  confidence: 13.199117
+  tag: human
+}
+, class Tag {
+  confidence: 13.171039
+  tag: graphic
+}
+, class Tag {
+  confidence: 12.164857
+  tag: art
+}
+, class Tag {
+  confidence: 12.106617
+  tag: medical
+}
+, class Tag {
+  confidence: 11.756775
+  tag: body
+}
+, class Tag {
+  confidence: 11.34556
+  tag: science
+}
+, class Tag {
+  confidence: 11.0479145
+  tag: photograph
+}
+, class Tag {
+  confidence: 10.7858095
+  tag: 3d
+}
+, class Tag {
+  confidence: 10.674791
+  tag: shape
+}
+, class Tag {
+  confidence: 10.633997
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.627891
+  tag: health
+}
+, class Tag {
+  confidence: 10.425697
+  tag: transparent
+}
+, class Tag {
+  confidence: 10.289832
+  tag: digital
+}
+, class Tag {
+  confidence: 10.199567
+  tag: color
+}
+, class Tag {
+  confidence: 10.17419
+  tag: curve
+}
+, class Tag {
+  confidence: 10.171285
+  tag: light
+}
+, class Tag {
+  confidence: 9.852915
+  tag: space
+}
+, class Tag {
+  confidence: 9.004693
+  tag: business
+}
+, class Tag {
+  confidence: 8.992249
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 8.541218
+  tag: wave
+}
+, class Tag {
+  confidence: 8.305476
+  tag: flow
+}
+, class Tag {
+  confidence: 8.118973
+  tag: backdrop
+}
+, class Tag {
+  confidence: 7.9370484
+  tag: anatomy
+}
+, class Tag {
+  confidence: 7.7544813
+  tag: artistic
+}
+, class Tag {
+  confidence: 7.6619344
+  tag: dynamic
+}
+, class Tag {
+  confidence: 7.561906
+  tag: dark
+}
+, class Tag {
+  confidence: 7.515757
+  tag: smoke
+}
+, class Tag {
+  confidence: 7.4483767
+  tag: technology
+}
+, class Tag {
+  confidence: 7.4452734
+  tag: texture
+}
+, class Tag {
+  confidence: 7.404847
+  tag: fractal
+}
+, class Tag {
+  confidence: 7.2800274
+  tag: soft
+}
+, class Tag {
+  confidence: 7.2721605
+  tag: lines
+}
+, class Tag {
+  confidence: 7.249256
+  tag: world
+}
+, class Tag {
+  confidence: 7.2018385
+  tag: healthcare
+}
+, class Tag {
+  confidence: 7.0551324
+  tag: render
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,64 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHOY9hmVIAAafOt.png
+  tags: [class Tag {
+  confidence: 100.0
+  tag: basketball
+}
+, class Tag {
+  confidence: 100.0
+  tag: basketball equipment
+}
+, class Tag {
+  confidence: 100.0
+  tag: ball
+}
+, class Tag {
+  confidence: 78.96
+  tag: game equipment
+}
+, class Tag {
+  confidence: 78.86579
+  tag: sports equipment
+}
+, class Tag {
+  confidence: 48.195198
+  tag: equipment
+}
+, class Tag {
+  confidence: 14.059779
+  tag: rival
+}
+, class Tag {
+  confidence: 11.61861
+  tag: athlete
+}
+, class Tag {
+  confidence: 11.534865
+  tag: player
+}
+, class Tag {
+  confidence: 11.356584
+  tag: sport
+}
+, class Tag {
+  confidence: 7.936369
+  tag: orange
+}
+, class Tag {
+  confidence: 7.843715
+  tag: game
+}
+, class Tag {
+  confidence: 7.450303
+  tag: man
+}
+, class Tag {
+  confidence: 7.391476
+  tag: person
+}
+]
+}
+]
+  unsuccessful: null
+}

@@ -1,0 +1,300 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHPzjvKUIAArvUu.jpg
+  tags: [class Tag {
+  confidence: 64.55272
+  tag: pizza
+}
+, class Tag {
+  confidence: 49.683334
+  tag: food
+}
+, class Tag {
+  confidence: 45.027027
+  tag: dish
+}
+, class Tag {
+  confidence: 31.607212
+  tag: dinner
+}
+, class Tag {
+  confidence: 29.609968
+  tag: meal
+}
+, class Tag {
+  confidence: 28.325645
+  tag: delicious
+}
+, class Tag {
+  confidence: 27.99464
+  tag: cheese
+}
+, class Tag {
+  confidence: 26.567902
+  tag: meat
+}
+, class Tag {
+  confidence: 26.285568
+  tag: lunch
+}
+, class Tag {
+  confidence: 25.109068
+  tag: snack
+}
+, class Tag {
+  confidence: 25.017855
+  tag: tomato
+}
+, class Tag {
+  confidence: 24.982203
+  tag: nutriment
+}
+, class Tag {
+  confidence: 22.993721
+  tag: tasty
+}
+, class Tag {
+  confidence: 22.941631
+  tag: gourmet
+}
+, class Tag {
+  confidence: 21.237444
+  tag: onion
+}
+, class Tag {
+  confidence: 20.234663
+  tag: vegetable
+}
+, class Tag {
+  confidence: 19.732054
+  tag: slice
+}
+, class Tag {
+  confidence: 19.49953
+  tag: sauce
+}
+, class Tag {
+  confidence: 18.39931
+  tag: italian
+}
+, class Tag {
+  confidence: 18.144358
+  tag: baked
+}
+, class Tag {
+  confidence: 18.12724
+  tag: dough
+}
+, class Tag {
+  confidence: 18.043709
+  tag: restaurant
+}
+, class Tag {
+  confidence: 17.848099
+  tag: eat
+}
+, class Tag {
+  confidence: 17.832817
+  tag: pepper
+}
+, class Tag {
+  confidence: 17.823015
+  tag: cuisine
+}
+, class Tag {
+  confidence: 16.032272
+  tag: plate
+}
+, class Tag {
+  confidence: 14.924396
+  tag: crust
+}
+, class Tag {
+  confidence: 14.423988
+  tag: diet
+}
+, class Tag {
+  confidence: 13.608857
+  tag: mozzarella
+}
+, class Tag {
+  confidence: 13.48185
+  tag: doughnut
+}
+, class Tag {
+  confidence: 12.865735
+  tag: fast
+}
+, class Tag {
+  confidence: 12.847983
+  tag: pastry
+}
+, class Tag {
+  confidence: 12.24318
+  tag: unhealthy
+}
+, class Tag {
+  confidence: 11.932872
+  tag: eating
+}
+, class Tag {
+  confidence: 11.7456
+  tag: fresh
+}
+, class Tag {
+  confidence: 11.6089945
+  tag: close
+}
+, class Tag {
+  confidence: 11.392255
+  tag: healthy
+}
+, class Tag {
+  confidence: 11.262321
+  tag: kitchen
+}
+, class Tag {
+  confidence: 11.145067
+  tag: pepperoni
+}
+, class Tag {
+  confidence: 11.10074
+  tag: olive
+}
+, class Tag {
+  confidence: 11.086477
+  tag: salami
+}
+, class Tag {
+  confidence: 11.049126
+  tag: fat
+}
+, class Tag {
+  confidence: 10.800426
+  tag: vegetables
+}
+, class Tag {
+  confidence: 10.426877
+  tag: appetizer
+}
+, class Tag {
+  confidence: 10.363841
+  tag: mushroom
+}
+, class Tag {
+  confidence: 10.196915
+  tag: ham
+}
+, class Tag {
+  confidence: 10.00003
+  tag: garlic
+}
+, class Tag {
+  confidence: 9.935874
+  tag: hot
+}
+, class Tag {
+  confidence: 9.813604
+  tag: cooked
+}
+, class Tag {
+  confidence: 9.799603
+  tag: color
+}
+, class Tag {
+  confidence: 9.762767
+  tag: sweet
+}
+, class Tag {
+  confidence: 9.59384
+  tag: dessert
+}
+, class Tag {
+  confidence: 9.568
+  tag: friedcake
+}
+, class Tag {
+  confidence: 9.388649
+  tag: nobody
+}
+, class Tag {
+  confidence: 9.1857195
+  tag: nutrition
+}
+, class Tag {
+  confidence: 9.062911
+  tag: closeup
+}
+, class Tag {
+  confidence: 8.949906
+  tag: table
+}
+, class Tag {
+  confidence: 8.847419
+  tag: cooking
+}
+, class Tag {
+  confidence: 8.332196
+  tag: spice
+}
+, class Tag {
+  confidence: 8.209853
+  tag: breakfast
+}
+, class Tag {
+  confidence: 8.077212
+  tag: brown
+}
+, class Tag {
+  confidence: 7.902238
+  tag: portion
+}
+, class Tag {
+  confidence: 7.829644
+  tag: pie
+}
+, class Tag {
+  confidence: 7.6781816
+  tag: ingredients
+}
+, class Tag {
+  confidence: 7.6417003
+  tag: italy
+}
+, class Tag {
+  confidence: 7.536139
+  tag: fruit
+}
+, class Tag {
+  confidence: 7.525751
+  tag: pork
+}
+, class Tag {
+  confidence: 7.5022435
+  tag: serving
+}
+, class Tag {
+  confidence: 7.4109364
+  tag: dainty
+}
+, class Tag {
+  confidence: 7.3920894
+  tag: beef
+}
+, class Tag {
+  confidence: 7.35332
+  tag: refreshment
+}
+, class Tag {
+  confidence: 7.1670575
+  tag: pan
+}
+, class Tag {
+  confidence: 7.0340614
+  tag: health
+}
+]
+}
+]
+  unsuccessful: null
+}

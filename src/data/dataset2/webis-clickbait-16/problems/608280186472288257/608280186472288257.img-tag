@@ -1,0 +1,164 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHELmzGXAAAGFrR.jpg
+  tags: [class Tag {
+  confidence: 32.601788
+  tag: publication
+}
+, class Tag {
+  confidence: 31.887547
+  tag: magazine
+}
+, class Tag {
+  confidence: 16.904243
+  tag: design
+}
+, class Tag {
+  confidence: 16.79668
+  tag: business
+}
+, class Tag {
+  confidence: 15.335456
+  tag: press
+}
+, class Tag {
+  confidence: 14.701341
+  tag: slick
+}
+, class Tag {
+  confidence: 13.767908
+  tag: graphic
+}
+, class Tag {
+  confidence: 13.642889
+  tag: blank
+}
+, class Tag {
+  confidence: 12.749814
+  tag: art
+}
+, class Tag {
+  confidence: 12.256014
+  tag: digital
+}
+, class Tag {
+  confidence: 11.944218
+  tag: frame
+}
+, class Tag {
+  confidence: 11.842932
+  tag: creative
+}
+, class Tag {
+  confidence: 11.117771
+  tag: newspaper
+}
+, class Tag {
+  confidence: 10.773883
+  tag: card
+}
+, class Tag {
+  confidence: 10.634074
+  tag: paper
+}
+, class Tag {
+  confidence: 10.455644
+  tag: text
+}
+, class Tag {
+  confidence: 10.371545
+  tag: element
+}
+, class Tag {
+  confidence: 10.092233
+  tag: print media
+}
+, class Tag {
+  confidence: 9.986846
+  tag: style
+}
+, class Tag {
+  confidence: 9.480328
+  tag: modern
+}
+, class Tag {
+  confidence: 9.342253
+  tag: box
+}
+, class Tag {
+  confidence: 9.3406515
+  tag: smile
+}
+, class Tag {
+  confidence: 8.974587
+  tag: money
+}
+, class Tag {
+  confidence: 8.925658
+  tag: light
+}
+, class Tag {
+  confidence: 8.924274
+  tag: technology
+}
+, class Tag {
+  confidence: 8.681083
+  tag: template
+}
+, class Tag {
+  confidence: 8.398319
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.05835
+  tag: letter
+}
+, class Tag {
+  confidence: 7.991913
+  tag: note
+}
+, class Tag {
+  confidence: 7.8744516
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 7.737673
+  tag: happy
+}
+, class Tag {
+  confidence: 7.565435
+  tag: empty
+}
+, class Tag {
+  confidence: 7.5483403
+  tag: texture
+}
+, class Tag {
+  confidence: 7.477031
+  tag: corporate
+}
+, class Tag {
+  confidence: 7.4737926
+  tag: medium
+}
+, class Tag {
+  confidence: 7.1889987
+  tag: retro
+}
+, class Tag {
+  confidence: 7.1651034
+  tag: financial
+}
+, class Tag {
+  confidence: 7.1525187
+  tag: success
+}
+, class Tag {
+  confidence: 7.0707026
+  tag: conceptual
+}
+]
+}
+]
+  unsuccessful: null
+}

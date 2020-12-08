@@ -1,0 +1,336 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHUIQqfUkAMLYMH.jpg
+  tags: [class Tag {
+  confidence: 32.29431
+  tag: caucasian
+}
+, class Tag {
+  confidence: 27.858675
+  tag: adult
+}
+, class Tag {
+  confidence: 27.445997
+  tag: coat
+}
+, class Tag {
+  confidence: 26.308294
+  tag: lab coat
+}
+, class Tag {
+  confidence: 24.755327
+  tag: person
+}
+, class Tag {
+  confidence: 22.865532
+  tag: man
+}
+, class Tag {
+  confidence: 22.700884
+  tag: people
+}
+, class Tag {
+  confidence: 22.554989
+  tag: clothing
+}
+, class Tag {
+  confidence: 21.339966
+  tag: happy
+}
+, class Tag {
+  confidence: 20.97336
+  tag: portrait
+}
+, class Tag {
+  confidence: 20.950298
+  tag: professional
+}
+, class Tag {
+  confidence: 20.314137
+  tag: male
+}
+, class Tag {
+  confidence: 17.576715
+  tag: smile
+}
+, class Tag {
+  confidence: 17.343302
+  tag: smiling
+}
+, class Tag {
+  confidence: 16.234804
+  tag: medical
+}
+, class Tag {
+  confidence: 16.222105
+  tag: attractive
+}
+, class Tag {
+  confidence: 15.561704
+  tag: doctor
+}
+, class Tag {
+  confidence: 15.324
+  tag: overgarment
+}
+, class Tag {
+  confidence: 15.058141
+  tag: business
+}
+, class Tag {
+  confidence: 14.793377
+  tag: expression
+}
+, class Tag {
+  confidence: 14.491336
+  tag: care
+}
+, class Tag {
+  confidence: 14.38
+  tag: pajama
+}
+, class Tag {
+  confidence: 14.375695
+  tag: health
+}
+, class Tag {
+  confidence: 14.294779
+  tag: work
+}
+, class Tag {
+  confidence: 13.772196
+  tag: model
+}
+, class Tag {
+  confidence: 13.721265
+  tag: holding
+}
+, class Tag {
+  confidence: 12.999165
+  tag: medicine
+}
+, class Tag {
+  confidence: 12.951593
+  tag: pretty
+}
+, class Tag {
+  confidence: 12.8310175
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 12.472677
+  tag: face
+}
+, class Tag {
+  confidence: 12.321931
+  tag: healthcare
+}
+, class Tag {
+  confidence: 11.982952
+  tag: friendly
+}
+, class Tag {
+  confidence: 11.933693
+  tag: fashion
+}
+, class Tag {
+  confidence: 11.746691
+  tag: one
+}
+, class Tag {
+  confidence: 11.497133
+  tag: nightwear
+}
+, class Tag {
+  confidence: 11.47751
+  tag: lady
+}
+, class Tag {
+  confidence: 10.991713
+  tag: garment
+}
+, class Tag {
+  confidence: 10.95752
+  tag: suit
+}
+, class Tag {
+  confidence: 10.848838
+  tag: posing
+}
+, class Tag {
+  confidence: 10.810676
+  tag: uniform
+}
+, class Tag {
+  confidence: 10.687743
+  tag: success
+}
+, class Tag {
+  confidence: 10.653573
+  tag: studio
+}
+, class Tag {
+  confidence: 10.55467
+  tag: american
+}
+, class Tag {
+  confidence: 10.204195
+  tag: pose
+}
+, class Tag {
+  confidence: 10.148358
+  tag: job
+}
+, class Tag {
+  confidence: 10.077911
+  tag: nurse
+}
+, class Tag {
+  confidence: 10.076525
+  tag: worker
+}
+, class Tag {
+  confidence: 10.051056
+  tag: profession
+}
+, class Tag {
+  confidence: 9.936763
+  tag: human
+}
+, class Tag {
+  confidence: 9.842389
+  tag: hospital
+}
+, class Tag {
+  confidence: 9.82071
+  tag: looking
+}
+, class Tag {
+  confidence: 9.741208
+  tag: corporate
+}
+, class Tag {
+  confidence: 9.670355
+  tag: youth
+}
+, class Tag {
+  confidence: 9.65417
+  tag: women
+}
+, class Tag {
+  confidence: 9.378215
+  tag: businessman
+}
+, class Tag {
+  confidence: 9.36256
+  tag: child
+}
+, class Tag {
+  confidence: 9.281498
+  tag: cheerful
+}
+, class Tag {
+  confidence: 9.203095
+  tag: standing
+}
+, class Tag {
+  confidence: 8.949465
+  tag: hair
+}
+, class Tag {
+  confidence: 8.880511
+  tag: casual
+}
+, class Tag {
+  confidence: 8.820074
+  tag: occupation
+}
+, class Tag {
+  confidence: 8.809854
+  tag: 20s
+}
+, class Tag {
+  confidence: 8.748682
+  tag: happiness
+}
+, class Tag {
+  confidence: 8.733166
+  tag: student
+}
+, class Tag {
+  confidence: 8.69976
+  tag: black
+}
+, class Tag {
+  confidence: 8.698551
+  tag: handsome
+}
+, class Tag {
+  confidence: 8.434308
+  tag: stethoscope
+}
+, class Tag {
+  confidence: 8.373036
+  tag: brunette
+}
+, class Tag {
+  confidence: 8.35419
+  tag: office
+}
+, class Tag {
+  confidence: 8.160788
+  tag: cute
+}
+, class Tag {
+  confidence: 8.085177
+  tag: shirt
+}
+, class Tag {
+  confidence: 8.038623
+  tag: confident
+}
+, class Tag {
+  confidence: 7.8085175
+  tag: active
+}
+, class Tag {
+  confidence: 7.8082027
+  tag: sexy
+}
+, class Tag {
+  confidence: 7.613676
+  tag: look
+}
+, class Tag {
+  confidence: 7.5659695
+  tag: laboratory
+}
+, class Tag {
+  confidence: 7.4760303
+  tag: twenties
+}
+, class Tag {
+  confidence: 7.464008
+  tag: hands
+}
+, class Tag {
+  confidence: 7.456848
+  tag: illness
+}
+, class Tag {
+  confidence: 7.269186
+  tag: guy
+}
+, class Tag {
+  confidence: 7.241749
+  tag: hand
+}
+, class Tag {
+  confidence: 7.0159125
+  tag: body
+}
+]
+}
+]
+  unsuccessful: null
+}

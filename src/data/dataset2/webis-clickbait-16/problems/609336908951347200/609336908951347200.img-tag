@@ -1,0 +1,312 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHTKFjUUkAER1PG.png
+  tags: [class Tag {
+  confidence: 44.356647
+  tag: home
+}
+, class Tag {
+  confidence: 42.53234
+  tag: room
+}
+, class Tag {
+  confidence: 39.574474
+  tag: table
+}
+, class Tag {
+  confidence: 38.893177
+  tag: interior
+}
+, class Tag {
+  confidence: 38.679024
+  tag: house
+}
+, class Tag {
+  confidence: 37.565617
+  tag: furniture
+}
+, class Tag {
+  confidence: 26.338327
+  tag: decor
+}
+, class Tag {
+  confidence: 26.29753
+  tag: window
+}
+, class Tag {
+  confidence: 26.075228
+  tag: floor
+}
+, class Tag {
+  confidence: 26.067474
+  tag: sofa
+}
+, class Tag {
+  confidence: 25.911879
+  tag: modern
+}
+, class Tag {
+  confidence: 25.750742
+  tag: living
+}
+, class Tag {
+  confidence: 25.52677
+  tag: luxury
+}
+, class Tag {
+  confidence: 24.349466
+  tag: apartment
+}
+, class Tag {
+  confidence: 24.012394
+  tag: chair
+}
+, class Tag {
+  confidence: 23.346474
+  tag: architecture
+}
+, class Tag {
+  confidence: 20.203892
+  tag: wood
+}
+, class Tag {
+  confidence: 20.171684
+  tag: design
+}
+, class Tag {
+  confidence: 20.123976
+  tag: comfortable
+}
+, class Tag {
+  confidence: 17.950474
+  tag: wall
+}
+, class Tag {
+  confidence: 17.61366
+  tag: residential
+}
+, class Tag {
+  confidence: 17.074047
+  tag: carpet
+}
+, class Tag {
+  confidence: 17.04712
+  tag: indoors
+}
+, class Tag {
+  confidence: 16.978464
+  tag: couch
+}
+, class Tag {
+  confidence: 14.589089
+  tag: pillow
+}
+, class Tag {
+  confidence: 14.325905
+  tag: decoration
+}
+, class Tag {
+  confidence: 14.243123
+  tag: lamp
+}
+, class Tag {
+  confidence: 13.974795
+  tag: relax
+}
+, class Tag {
+  confidence: 13.974253
+  tag: light
+}
+, class Tag {
+  confidence: 13.718527
+  tag: inside
+}
+, class Tag {
+  confidence: 13.388365
+  tag: elegance
+}
+, class Tag {
+  confidence: 12.891337
+  tag: dining table
+}
+, class Tag {
+  confidence: 12.871246
+  tag: indoor
+}
+, class Tag {
+  confidence: 12.56012
+  tag: resort
+}
+, class Tag {
+  confidence: 12.556678
+  tag: 3d
+}
+, class Tag {
+  confidence: 12.389801
+  tag: relaxation
+}
+, class Tag {
+  confidence: 12.265547
+  tag: lifestyle
+}
+, class Tag {
+  confidence: 11.952464
+  tag: corner
+}
+, class Tag {
+  confidence: 11.869937
+  tag: seat
+}
+, class Tag {
+  confidence: 11.633511
+  tag: contemporary
+}
+, class Tag {
+  confidence: 11.62
+  tag: resort hotel
+}
+, class Tag {
+  confidence: 11.574933
+  tag: estate
+}
+, class Tag {
+  confidence: 11.218343
+  tag: balcony
+}
+, class Tag {
+  confidence: 11.109702
+  tag: domestic
+}
+, class Tag {
+  confidence: 11.036783
+  tag: vase
+}
+, class Tag {
+  confidence: 10.802132
+  tag: door
+}
+, class Tag {
+  confidence: 10.54146
+  tag: new
+}
+, class Tag {
+  confidence: 10.443364
+  tag: style
+}
+, class Tag {
+  confidence: 10.113521
+  tag: glass
+}
+, class Tag {
+  confidence: 9.963359
+  tag: lifestyles
+}
+, class Tag {
+  confidence: 9.860914
+  tag: real
+}
+, class Tag {
+  confidence: 9.772469
+  tag: summer
+}
+, class Tag {
+  confidence: 9.544892
+  tag: brown
+}
+, class Tag {
+  confidence: 9.241174
+  tag: wooden
+}
+, class Tag {
+  confidence: 9.14933
+  tag: villa
+}
+, class Tag {
+  confidence: 8.951329
+  tag: nobody
+}
+, class Tag {
+  confidence: 8.921139
+  tag: plant
+}
+, class Tag {
+  confidence: 8.820305
+  tag: building
+}
+, class Tag {
+  confidence: 8.597281
+  tag: fireplace
+}
+, class Tag {
+  confidence: 8.55115
+  tag: chairs
+}
+, class Tag {
+  confidence: 8.51898
+  tag: residence
+}
+, class Tag {
+  confidence: 8.490355
+  tag: elegant
+}
+, class Tag {
+  confidence: 8.451004
+  tag: sky
+}
+, class Tag {
+  confidence: 8.221917
+  tag: space
+}
+, class Tag {
+  confidence: 8.030273
+  tag: holiday
+}
+, class Tag {
+  confidence: 7.748976
+  tag: vacation
+}
+, class Tag {
+  confidence: 7.7411494
+  tag: furnishing
+}
+, class Tag {
+  confidence: 7.727027
+  tag: living room
+}
+, class Tag {
+  confidence: 7.69139
+  tag: travel
+}
+, class Tag {
+  confidence: 7.6340775
+  tag: lounge
+}
+, class Tag {
+  confidence: 7.5940943
+  tag: urban
+}
+, class Tag {
+  confidence: 7.5638638
+  tag: sun
+}
+, class Tag {
+  confidence: 7.337275
+  tag: leisure
+}
+, class Tag {
+  confidence: 7.3075094
+  tag: outdoor
+}
+, class Tag {
+  confidence: 7.245732
+  tag: decorative
+}
+, class Tag {
+  confidence: 7.0051875
+  tag: color
+}
+]
+}
+]
+  unsuccessful: null
+}

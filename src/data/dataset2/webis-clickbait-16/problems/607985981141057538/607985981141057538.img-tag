@@ -1,0 +1,208 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CG__syHUIAAVs81.png
+  tags: [class Tag {
+  confidence: 100.0
+  tag: map
+}
+, class Tag {
+  confidence: 84.37404
+  tag: representation
+}
+, class Tag {
+  confidence: 35.604694
+  tag: geography
+}
+, class Tag {
+  confidence: 29.318125
+  tag: atlas
+}
+, class Tag {
+  confidence: 28.76138
+  tag: country
+}
+, class Tag {
+  confidence: 23.03993
+  tag: world
+}
+, class Tag {
+  confidence: 21.403055
+  tag: continent
+}
+, class Tag {
+  confidence: 20.092863
+  tag: nation
+}
+, class Tag {
+  confidence: 19.186104
+  tag: earth
+}
+, class Tag {
+  confidence: 18.24733
+  tag: travel
+}
+, class Tag {
+  confidence: 16.6988
+  tag: europe
+}
+, class Tag {
+  confidence: 16.042276
+  tag: global
+}
+, class Tag {
+  confidence: 15.252763
+  tag: land
+}
+, class Tag {
+  confidence: 15.074153
+  tag: cartography
+}
+, class Tag {
+  confidence: 14.84036
+  tag: symbol
+}
+, class Tag {
+  confidence: 14.758906
+  tag: state
+}
+, class Tag {
+  confidence: 14.615474
+  tag: globe
+}
+, class Tag {
+  confidence: 13.238774
+  tag: national
+}
+, class Tag {
+  confidence: 13.092861
+  tag: design
+}
+, class Tag {
+  confidence: 12.558012
+  tag: countries
+}
+, class Tag {
+  confidence: 12.5308695
+  tag: topography
+}
+, class Tag {
+  confidence: 12.504896
+  tag: flag
+}
+, class Tag {
+  confidence: 12.499701
+  tag: south
+}
+, class Tag {
+  confidence: 12.4434595
+  tag: planet
+}
+, class Tag {
+  confidence: 12.24884
+  tag: asia
+}
+, class Tag {
+  confidence: 11.794782
+  tag: america
+}
+, class Tag {
+  confidence: 11.528808
+  tag: north
+}
+, class Tag {
+  confidence: 11.386957
+  tag: silhouette
+}
+, class Tag {
+  confidence: 11.370429
+  tag: border
+}
+, class Tag {
+  confidence: 11.293707
+  tag: graphic
+}
+, class Tag {
+  confidence: 10.640293
+  tag: ocean
+}
+, class Tag {
+  confidence: 10.386643
+  tag: color
+}
+, class Tag {
+  confidence: 10.34465
+  tag: africa
+}
+, class Tag {
+  confidence: 10.075457
+  tag: business
+}
+, class Tag {
+  confidence: 9.966484
+  tag: city
+}
+, class Tag {
+  confidence: 9.835825
+  tag: shape
+}
+, class Tag {
+  confidence: 9.308806
+  tag: east
+}
+, class Tag {
+  confidence: 8.942163
+  tag: chart
+}
+, class Tag {
+  confidence: 8.469142
+  tag: australia
+}
+, class Tag {
+  confidence: 8.173601
+  tag: atlantic
+}
+, class Tag {
+  confidence: 8.031351
+  tag: icon
+}
+, class Tag {
+  confidence: 7.843614
+  tag: sea
+}
+, class Tag {
+  confidence: 7.8310027
+  tag: art
+}
+, class Tag {
+  confidence: 7.8011155
+  tag: usa
+}
+, class Tag {
+  confidence: 7.68594
+  tag: sign
+}
+, class Tag {
+  confidence: 7.404905
+  tag: texture
+}
+, class Tag {
+  confidence: 7.3547153
+  tag: wallpaper
+}
+, class Tag {
+  confidence: 7.1467366
+  tag: paper
+}
+, class Tag {
+  confidence: 7.091847
+  tag: borders
+}
+, class Tag {
+  confidence: 7.054713
+  tag: outline
+}
+]
+}
+]
+  unsuccessful: null
+}

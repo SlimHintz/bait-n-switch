@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHRfBqGXAAAPI3E.jpg
+  tags: [class Tag {
+  confidence: 83.42963
+  tag: newspaper
+}
+, class Tag {
+  confidence: 76.354324
+  tag: daily
+}
+, class Tag {
+  confidence: 25.303736
+  tag: press
+}
+, class Tag {
+  confidence: 20.371529
+  tag: money
+}
+, class Tag {
+  confidence: 19.164518
+  tag: print media
+}
+, class Tag {
+  confidence: 18.710995
+  tag: paper
+}
+, class Tag {
+  confidence: 17.548246
+  tag: business
+}
+, class Tag {
+  confidence: 16.860415
+  tag: finance
+}
+, class Tag {
+  confidence: 16.85176
+  tag: currency
+}
+, class Tag {
+  confidence: 16.784012
+  tag: cash
+}
+, class Tag {
+  confidence: 16.283737
+  tag: financial
+}
+, class Tag {
+  confidence: 16.138163
+  tag: banking
+}
+, class Tag {
+  confidence: 16.052881
+  tag: bank
+}
+, class Tag {
+  confidence: 14.349849
+  tag: medium
+}
+, class Tag {
+  confidence: 14.009139
+  tag: bill
+}
+, class Tag {
+  confidence: 13.691176
+  tag: dollar
+}
+, class Tag {
+  confidence: 11.411509
+  tag: wealth
+}
+, class Tag {
+  confidence: 10.965105
+  tag: text
+}
+, class Tag {
+  confidence: 10.157461
+  tag: word
+}
+, class Tag {
+  confidence: 10.103147
+  tag: product
+}
+, class Tag {
+  confidence: 9.71336
+  tag: exchange
+}
+, class Tag {
+  confidence: 9.173508
+  tag: close
+}
+, class Tag {
+  confidence: 9.062641
+  tag: letter
+}
+, class Tag {
+  confidence: 8.899455
+  tag: note
+}
+, class Tag {
+  confidence: 8.367506
+  tag: banknote
+}
+, class Tag {
+  confidence: 8.263451
+  tag: hundred
+}
+, class Tag {
+  confidence: 8.242434
+  tag: investment
+}
+, class Tag {
+  confidence: 7.865918
+  tag: us
+}
+, class Tag {
+  confidence: 7.847301
+  tag: old
+}
+, class Tag {
+  confidence: 7.838884
+  tag: pay
+}
+, class Tag {
+  confidence: 7.8365517
+  tag: usa
+}
+, class Tag {
+  confidence: 7.6909122
+  tag: american
+}
+, class Tag {
+  confidence: 7.6889915
+  tag: states
+}
+, class Tag {
+  confidence: 7.6652474
+  tag: rich
+}
+, class Tag {
+  confidence: 7.397586
+  tag: savings
+}
+, class Tag {
+  confidence: 7.300626
+  tag: print
+}
+, class Tag {
+  confidence: 7.261314
+  tag: success
+}
+, class Tag {
+  confidence: 7.251689
+  tag: united
+}
+, class Tag {
+  confidence: 7.1689
+  tag: market
+}
+, class Tag {
+  confidence: 7.143074
+  tag: book
+}
+, class Tag {
+  confidence: 7.124023
+  tag: america
+}
+]
+}
+]
+  unsuccessful: null
+}

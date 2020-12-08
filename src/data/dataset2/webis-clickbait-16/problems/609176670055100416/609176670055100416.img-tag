@@ -1,0 +1,172 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHQ69CnWIAALxsU.png
+  tags: [class Tag {
+  confidence: 42.105503
+  tag: window
+}
+, class Tag {
+  confidence: 24.494514
+  tag: web site
+}
+, class Tag {
+  confidence: 22.157803
+  tag: design
+}
+, class Tag {
+  confidence: 17.395447
+  tag: business
+}
+, class Tag {
+  confidence: 16.36968
+  tag: graphic
+}
+, class Tag {
+  confidence: 15.52535
+  tag: blank
+}
+, class Tag {
+  confidence: 14.959722
+  tag: template
+}
+, class Tag {
+  confidence: 14.697063
+  tag: modern
+}
+, class Tag {
+  confidence: 13.950981
+  tag: internet
+}
+, class Tag {
+  confidence: 13.499699
+  tag: web
+}
+, class Tag {
+  confidence: 13.438313
+  tag: element
+}
+, class Tag {
+  confidence: 13.003303
+  tag: text
+}
+, class Tag {
+  confidence: 12.990305
+  tag: paper
+}
+, class Tag {
+  confidence: 12.974304
+  tag: frame
+}
+, class Tag {
+  confidence: 12.698575
+  tag: set
+}
+, class Tag {
+  confidence: 12.128253
+  tag: computer
+}
+, class Tag {
+  confidence: 11.922554
+  tag: sign
+}
+, class Tag {
+  confidence: 11.45147
+  tag: art
+}
+, class Tag {
+  confidence: 11.431112
+  tag: black
+}
+, class Tag {
+  confidence: 11.256991
+  tag: symbol
+}
+, class Tag {
+  confidence: 10.817609
+  tag: page
+}
+, class Tag {
+  confidence: 10.802626
+  tag: letter
+}
+, class Tag {
+  confidence: 10.063272
+  tag: corporate
+}
+, class Tag {
+  confidence: 9.967865
+  tag: icon
+}
+, class Tag {
+  confidence: 9.864815
+  tag: card
+}
+, class Tag {
+  confidence: 9.562961
+  tag: website
+}
+, class Tag {
+  confidence: 9.497731
+  tag: color
+}
+, class Tag {
+  confidence: 9.366865
+  tag: digital
+}
+, class Tag {
+  confidence: 9.322414
+  tag: banner
+}
+, class Tag {
+  confidence: 9.181493
+  tag: identity
+}
+, class Tag {
+  confidence: 9.105192
+  tag: communication
+}
+, class Tag {
+  confidence: 9.020318
+  tag: www
+}
+, class Tag {
+  confidence: 8.889884
+  tag: creative
+}
+, class Tag {
+  confidence: 7.895201
+  tag: company
+}
+, class Tag {
+  confidence: 7.8071337
+  tag: space
+}
+, class Tag {
+  confidence: 7.583878
+  tag: information
+}
+, class Tag {
+  confidence: 7.4809294
+  tag: style
+}
+, class Tag {
+  confidence: 7.453419
+  tag: layout
+}
+, class Tag {
+  confidence: 7.292112
+  tag: site
+}
+, class Tag {
+  confidence: 7.0579305
+  tag: idea
+}
+, class Tag {
+  confidence: 7.0292797
+  tag: light
+}
+]
+}
+]
+  unsuccessful: null
+}

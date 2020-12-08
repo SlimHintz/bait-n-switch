@@ -1,0 +1,184 @@
+class TaggingResponse {
+  results: [class TaggingResult {
+  image: http://pbs.twimg.com/media/CHAdeLrUQAA0U_I.jpg
+  tags: [class Tag {
+  confidence: 25.58
+  tag: maypole
+}
+, class Tag {
+  confidence: 22.619436
+  tag: person
+}
+, class Tag {
+  confidence: 19.75031
+  tag: post
+}
+, class Tag {
+  confidence: 19.174274
+  tag: comedian
+}
+, class Tag {
+  confidence: 18.987795
+  tag: happy
+}
+, class Tag {
+  confidence: 18.05801
+  tag: people
+}
+, class Tag {
+  confidence: 17.504128
+  tag: performer
+}
+, class Tag {
+  confidence: 16.403027
+  tag: man
+}
+, class Tag {
+  confidence: 16.090342
+  tag: upright
+}
+, class Tag {
+  confidence: 15.208063
+  tag: caucasian
+}
+, class Tag {
+  confidence: 14.922408
+  tag: male
+}
+, class Tag {
+  confidence: 14.486802
+  tag: smiling
+}
+, class Tag {
+  confidence: 14.2350645
+  tag: adult
+}
+, class Tag {
+  confidence: 14.217543
+  tag: hat
+}
+, class Tag {
+  confidence: 13.298207
+  tag: fun
+}
+, class Tag {
+  confidence: 12.623049
+  tag: portrait
+}
+, class Tag {
+  confidence: 12.391448
+  tag: smile
+}
+, class Tag {
+  confidence: 12.279217
+  tag: entertainer
+}
+, class Tag {
+  confidence: 11.886359
+  tag: expression
+}
+, class Tag {
+  confidence: 11.489389
+  tag: pedestrian
+}
+, class Tag {
+  confidence: 11.23783
+  tag: face
+}
+, class Tag {
+  confidence: 11.048684
+  tag: hair
+}
+, class Tag {
+  confidence: 10.232
+  tag: structural member
+}
+, class Tag {
+  confidence: 10.172563
+  tag: child
+}
+, class Tag {
+  confidence: 9.5355835
+  tag: happiness
+}
+, class Tag {
+  confidence: 9.398526
+  tag: studio
+}
+, class Tag {
+  confidence: 9.268826
+  tag: boy
+}
+, class Tag {
+  confidence: 9.145029
+  tag: women
+}
+, class Tag {
+  confidence: 8.788523
+  tag: season
+}
+, class Tag {
+  confidence: 8.738701
+  tag: cheerful
+}
+, class Tag {
+  confidence: 8.737687
+  tag: pretty
+}
+, class Tag {
+  confidence: 8.583519
+  tag: patriot
+}
+, class Tag {
+  confidence: 8.564198
+  tag: colorful
+}
+, class Tag {
+  confidence: 8.27109
+  tag: cute
+}
+, class Tag {
+  confidence: 8.263229
+  tag: christmas
+}
+, class Tag {
+  confidence: 8.2443075
+  tag: attractive
+}
+, class Tag {
+  confidence: 8.066834
+  tag: clothing
+}
+, class Tag {
+  confidence: 7.974399
+  tag: seller
+}
+, class Tag {
+  confidence: 7.854089
+  tag: yellow
+}
+, class Tag {
+  confidence: 7.8231263
+  tag: skill
+}
+, class Tag {
+  confidence: 7.5067997
+  tag: dark
+}
+, class Tag {
+  confidence: 7.491816
+  tag: joy
+}
+, class Tag {
+  confidence: 7.217301
+  tag: scarf
+}
+, class Tag {
+  confidence: 7.097296
+  tag: ball
+}
+]
+}
+]
+  unsuccessful: null
+}
