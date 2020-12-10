@@ -18,8 +18,20 @@
  - Data was manually labelled, 3 labellers and the majority was taken as truth
 
 #### Dataset 2
+- The Webis Clickbait Corpus 2016 (Webis-Clickbait-16) comprises 2992 Twitter tweets sampled from top 20 news publishers as per retweets in 2014 [2]
+-  Data was manually labelled, 3 labellers and the majority was taken as truth
+- A total of 767 tweets are considered clickbait by the majority of annotators and 2225 where classified as normal
+- 9,276 posts are considered clickbait by the majority of annotators and
 
 #### Dataset 3
+
+- The Webis Clickbait Corpus 2017 (Webis-Clickbait-17) comprises a total of 38,517 Twitter posts from 27 major US news publishers.
+- All posts were annotated on a 4-point scale: not click baiting (0.0), slightly click baiting (0.33), considerably click baiting (0.66), heavily click baiting (1.0) by five annotators from Amazon Mechanical Turk
+- 9,276 posts are considered clickbait by the majority of annotators and 29,241 where considered normal
+
+Data was then evaluated seperately, cleaned seperately and then disimilarity matrices were constructed to evaluate similarity between corpus. 
+
+N closest headlines were added to the first data set from the other two based on similarity.
 
 ### Evaluation
 
@@ -45,4 +57,5 @@
 ```
 ### References
 - [1] Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly. "Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media”. In Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), San Fransisco, US, August 2016.
-- 
+- [2] Potthast, Martin, Stein, Benno, Hagen, Matthias, & Köpsel, Sebastian. (2016). Webis Clickbait Corpus 2016 (Webis-Clickbait-16) [Data set]. Presented at the 38th European Conference on IR Research (ECIR 2016), Zenodo.
+- [3] Potthast, Martin, Gollub, Tim, Wiegmann, Matti, Stein, Benno, Hagen, Matthias, Komlossy, Kristof, … Fernandez, Erika P. Garces. (2018). Webis Clickbait Corpus 2017 (Webis-Clickbait-17) [Data set].
