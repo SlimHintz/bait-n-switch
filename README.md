@@ -12,7 +12,7 @@
 ### The Data
 
 #### Dataset 1
- - from Chakraborty et al., 2016 "Stop Clickbait: Detecting and preventing clickbaits in online news media" [1]
+ - From Chakraborty et al., 2016 "Stop Clickbait: Detecting and preventing clickbaits in online news media" [1]
  - 32,000 news headlines, 16,000 clickbait and 16,000 non-clickbait articles
  -  The clickbait corpus consists of article headlines from ‘BuzzFeed’, ‘Upworthy’, ‘ViralNova’, ‘Thatscoop’, ‘Scoopwhoop’ and ‘ViralStories’. The non-clickbait article headlines are collected from ‘WikiNews’, ’New York Times’, ‘The Guardian’, and ‘The Hindu’.
  - Data was manually labelled, 3 labellers and the majority was taken as truth
