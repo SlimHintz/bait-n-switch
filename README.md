@@ -10,10 +10,8 @@ Using natural language processing on manually labelled datasets <sup>[1](#myfoot
 
 ### Context
 > "While we can't blame all attention distraction on click bait,
-
 > as with any addictive relationship,
-
-> it is an enabler.
+> it is an enabler."
 
 > - *Gloria Mark is a professor specializing in human-computer interactions at the University of California, Irvine.*
 
