@@ -1,7 +1,25 @@
 import pandas as pd
 import numpy as np
+import string
+import re
 
 import matplotlib.pyplot as plt
+
+from nltk.corpus import stopwords
+
+stop_words = set(stopwords.words("english"))
+# Extend stopwords (see analysis below)
+extension = {
+    'trumps',
+    'trump',
+    'obama',
+    'donald',
+    'new',
+    'u'
+}
+stop_words.update(extension)
+
+
 
 
 # Dictionary of English Contractions
@@ -42,6 +60,26 @@ contractions_dict = { "ain't": "are not","'s":" is","aren't": "are not",
                      "y'all've": "you all have", "you'd": "you would","you'd've": "you would have",
                      "you'll": "you will","you'll've": "you will have", "you're": "you are",
                      "you've": "you have"}
+
+
+def lemmetise(title):
+    return " ".join([Lemmatizer.lemmatize(word) for word in title.split()])
+
+def cleaner(headline):
+    """
+    Used in conjunction with Series.apply()
+    
+    Will remove html and non standard characters from the tweets in a series.
+    
+    Used mostly to clean tweets but can be broadly applied to cleaning all text.
+    """
+    
+    text=re.compile("(http\w+)")
+    tweet= tweet.replace("RT", "")
+    tweet = "".join([char.lower() for char in tweet if char not in string.punctuation + "’" + "‘" + "“" + "–"])
+    return " ".join(word for word in tweet.split() if word not in text.findall(tweet))
+
+
 
 
 
