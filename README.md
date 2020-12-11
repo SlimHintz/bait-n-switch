@@ -13,7 +13,7 @@ Using natural language processing on manually labelled datasets <sup>[1](#myfoot
 > as with any addictive relationship,
 > it is an enabler."
 
-> - *Gloria Mark is a professor specializing in human-computer interactions at the University of California, Irvine.*
+- Gloria Mark is a professor specializing in human-computer interactions at the University of California, Irvine.
 
 ### The Model
 
