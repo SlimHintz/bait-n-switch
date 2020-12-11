@@ -9,11 +9,9 @@ Using natural language processing on manually labelled datasets[1][2][3], I was 
 
 
 ### Context
-> "While we can't blame all attention distraction on click bait,
-> as with any addictive relationship,
-> it is an enabler."
-    
-    - *Gloria Mark is a professor specializing in human-computer interactions at the University of California, Irvine.*
+> "While we can't blame all attention distraction on click bait, \n
+> as with any addictive relationship, \n
+> it is an enabler. \n\n - *Gloria Mark is a professor specializing in human-computer interactions at the University of California, Irvine.*
 
 ### The Model
 
