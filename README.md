@@ -25,7 +25,6 @@ Using natural language processing on manually labelled datasets[1][2][3], I was 
 - The Webis Clickbait Corpus 2016 (Webis-Clickbait-16) comprises 2992 Twitter tweets sampled from top 20 news publishers as per retweets in 2014 [2]
 -  Data was manually labelled, 3 labellers and the majority was taken as truth
 - A total of 767 tweets are considered clickbait by the majority of annotators and 2225 where classified as normal
-- 9,276 posts are considered clickbait by the majority of annotators and
 
 #### Dataset 3
 
