@@ -9,8 +9,7 @@ Using natural language processing on manually labelled datasets[1][2][3], I was 
 
 
 ### Context
-
-> We are living in the future
+> While we can't blame all attention distraction on click bait, as with any addictive relationship, it is an enabler.
 
 ### The Model
 
