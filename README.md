@@ -12,8 +12,16 @@ Using natural language processing on manually labelled datasets <sup>[1](#myfoot
 > "While we can't blame all attention distraction on click bait,
 > as with any addictive relationship,
 > it is an enabler."
-
 - Gloria Mark is a professor specializing in human-computer interactions at the University of California, Irvine.
+
+Clickbait can be defined as a headline or hyperlink that is intentionally designed to grab 
+readers attention and are typically sensationalist or misleading. The superficial consequences of clickbait are the erosion of trust in the webpage or a perceived lack of credibility of a news source. For businesses built on an economy of clicks, where the more views a page gets, the more the business can charge their advertisers, click bait is a natural design evolution. However, now that this style of heading is pervasive in social media and in news agencies, the ability for malicious actors to add false information into headlines is becoming easier. Detecting fake news directly is difficult, but click bait sensationalism can act as a proxy for fake news articles . Therefore, I wanted to create a feed-back loop that penalizes news agencies for producing clickbait and frees up the user’s web browsing experience.
+
+Reducing the amount of clickbait from the browsing experience has two major advantages for the browser of choice: 
+The reduction in click bait will likely increase the usage of the browser due to the reduced cognitive load brought about by information overload.
+Removing click bait from the browser will aid in the protection non-tech natives from accessing or spreading false information  
+
+Internet privacy and data integrity are the foremost issues in big tech. By adding a feature that protects users from the spread of fake news while simultaneously boosting usership on the browsing platform is an absolute win. The benefit of providing a negative feed-back loop to news agencies who have built their empire around sensationalism is just gravy. 
 
 ### The Model
 
