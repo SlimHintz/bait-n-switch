@@ -5,7 +5,7 @@
 
 For this project, I assumed the mindset of a data scientist working for a small, yet competitive internet browser startup. The stakeholders are looking for an edge on the larger browsers by implementing some quality of life improvements. The executives have asked me to create an extension for the browser that will filter out `click-bait` from webpages.
 
-Using natural language processing on manually labelled datasets <sup>[1](#myfootnote1)</sup><sup>[2](#dataset2)</sup><sup>[3](#dataset3)</sup> , I was able to produce a statistical model that could predict click bait with 98% accuracy. Then, using a combination of regular expressions and the python module `Beautiful Soup` I created a function that takes in as it’s argument raw html and returns a webpage that has the click bait filtered from it.
+Using natural language processing on manually labelled datasets <sup>[1](#myfootnote1)</sup><sup>[2](#dataset2)</sup><sup>[3](#dataset3)</sup> , I was able to produce a statistical model that could predict click bait with 90% accuracy. Then, using a combination of regular expressions and the python module `Beautiful Soup` I created a function that takes in as it’s argument raw html and returns a webpage that has the click-bait filtered from it.
 
 
 ### Context
