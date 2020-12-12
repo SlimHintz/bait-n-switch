@@ -37,6 +37,7 @@ Internet privacy and data integrity are the foremost issues in big tech. By addi
 - The Webis Clickbait Corpus 2016 (Webis-Clickbait-16) comprises 2992 Twitter tweets sampled from top 20 news publishers as per retweets in 2014 <sup>[2](#dataset2)</sup>.
 -  Data was manually labelled, 3 labellers and the majority was taken as truth
 - A total of 767 tweets are considered clickbait by the majority of annotators and 2225 where classified as normal
+- The dataset contains the raw tweets containing urls. The urls are links to news headlines. I used those urls as tests for the model. 
 
 #### Dataset 3
 
