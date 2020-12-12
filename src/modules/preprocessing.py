@@ -2,10 +2,15 @@ import pandas as pd
 import numpy as np
 import string
 import re
-
+from unidecode import unidecode
+from nltk.tokenize import RegexpTokenizer
+from nltk.probability import FreqDist
+tokenizer = RegexpTokenizer(r'[a-zA-Z0-9]+')
 import matplotlib.pyplot as plt
 
 from nltk.corpus import stopwords
+
+from nltk.stem import WordNetLemmatizer 
 
 stop_words = set(stopwords.words("english"))
 # Extend stopwords (see analysis below)
@@ -23,47 +28,72 @@ stop_words.update(extension)
 
 
 # Dictionary of English Contractions
-contractions_dict = { "ain't": "are not","'s":" is","aren't": "are not",
-                     "can't": "cannot","can't've": "cannot have",
-                     "'cause": "because","could've": "could have","couldn't": "could not",
-                     "couldn't've": "could not have", "didn't": "did not","doesn't": "does not",
-                     "don't": "do not","hadn't": "had not","hadn't've": "had not have",
-                     "hasn't": "has not","haven't": "have not","he'd": "he would",
-                     "he'd've": "he would have","he'll": "he will", "he'll've": "he will have",
-                     "how'd": "how did","how'd'y": "how do you","how'll": "how will",
-                     "I'd": "I would", "I'd've": "I would have","I'll": "I will",
-                     "I'll've": "I will have","I'm": "I am","I've": "I have", "isn't": "is not",
-                     "it'd": "it would","it'd've": "it would have","it'll": "it will",
-                     "it'll've": "it will have", "let's": "let us","ma'am": "madam",
-                     "mayn't": "may not","might've": "might have","mightn't": "might not", 
-                     "mightn't've": "might not have","must've": "must have","mustn't": "must not",
-                     "mustn't've": "must not have", "needn't": "need not",
-                     "needn't've": "need not have","o'clock": "of the clock","oughtn't": "ought not",
-                     "oughtn't've": "ought not have","shan't": "shall not","sha'n't": "shall not",
-                     "shan't've": "shall not have","she'd": "she would","she'd've": "she would have",
-                     "she'll": "she will", "she'll've": "she will have","should've": "should have",
-                     "shouldn't": "should not", "shouldn't've": "should not have","so've": "so have",
-                     "that'd": "that would","that'd've": "that would have", "there'd": "there would",
-                     "there'd've": "there would have", "they'd": "they would",
-                     "they'd've": "they would have","they'll": "they will",
-                     "they'll've": "they will have", "they're": "they are","they've": "they have",
-                     "to've": "to have","wasn't": "was not","we'd": "we would",
-                     "we'd've": "we would have","we'll": "we will","we'll've": "we will have",
-                     "we're": "we are","we've": "we have", "weren't": "were not","what'll": "what will",
-                     "what'll've": "what will have","what're": "what are", "what've": "what have",
-                     "when've": "when have","where'd": "where did", "where've": "where have",
-                     "who'll": "who will","who'll've": "who will have","who've": "who have",
-                     "why've": "why have","will've": "will have","won't": "will not",
-                     "won't've": "will not have", "would've": "would have","wouldn't": "would not",
-                     "wouldn't've": "would not have","y'all": "you all", "y'all'd": "you all would",
-                     "y'all'd've": "you all would have","y'all're": "you all are",
-                     "y'all've": "you all have", "you'd": "you would","you'd've": "you would have",
-                     "you'll": "you will","you'll've": "you will have", "you're": "you are",
-                     "you've": "you have"}
+contraction_mapping = {"ain't": "is not", "aren't": "are not","can't": "cannot", 
+                   "can't've": "cannot have", "'cause": "because", "could've": "could have", 
+                   "couldn't": "could not", "couldn't've": "could not have","didn't": "did not", 
+                   "doesn't": "does not", "don't": "do not", "hadn't": "had not", 
+                   "hadn't've": "had not have", "hasn't": "has not", "haven't": "have not", 
+                   "he'd": "he would", "he'd've": "he would have", "he'll": "he will", 
+                   "he'll've": "he will have", "he's": "he is", "how'd": "how did", 
+                   "how'd'y": "how do you", "how'll": "how will", "how's": "how is", 
+                   "I'd": "I would", "I'd've": "I would have", "I'll": "I will", 
+                   "I'll've": "I will have","I'm": "I am", "I've": "I have", 
+                   "i'd": "i would", "i'd've": "i would have", "i'll": "i will", 
+                   "i'll've": "i will have","i'm": "i am", "i've": "i have", 
+                   "isn't": "is not", "it'd": "it would", "it'd've": "it would have", 
+                   "it'll": "it will", "it'll've": "it will have","it's": "it is", 
+                   "let's": "let us", "ma'am": "madam", "mayn't": "may not", 
+                   "might've": "might have","mightn't": "might not","mightn't've": "might not have", 
+                   "must've": "must have", "mustn't": "must not", "mustn't've": "must not have", 
+                   "needn't": "need not", "needn't've": "need not have","o'clock": "of the clock", 
+                   "oughtn't": "ought not", "oughtn't've": "ought not have", "shan't": "shall not",
+                   "sha'n't": "shall not", "shan't've": "shall not have", "she'd": "she would", 
+                   "she'd've": "she would have", "she'll": "she will", "she'll've": "she will have", 
+                   "she's": "she is", "should've": "should have", "shouldn't": "should not", 
+                   "shouldn't've": "should not have", "so've": "so have","so's": "so as", 
+                   "this's": "this is",
+                   "that'd": "that would", "that'd've": "that would have","that's": "that is", 
+                   "there'd": "there would", "there'd've": "there would have","there's": "there is", 
+                       "here's": "here is",
+                   "they'd": "they would", "they'd've": "they would have", "they'll": "they will", 
+                   "they'll've": "they will have", "they're": "they are", "they've": "they have", 
+                   "to've": "to have", "wasn't": "was not", "we'd": "we would", 
+                   "we'd've": "we would have", "we'll": "we will", "we'll've": "we will have", 
+                   "we're": "we are", "we've": "we have", "weren't": "were not", 
+                   "what'll": "what will", "what'll've": "what will have", "what're": "what are", 
+                   "what's": "what is", "what've": "what have", "when's": "when is", 
+                   "when've": "when have", "where'd": "where did", "where's": "where is", 
+                   "where've": "where have", "who'll": "who will", "who'll've": "who will have", 
+                   "who's": "who is", "who've": "who have", "why's": "why is", 
+                   "why've": "why have", "will've": "will have", "won't": "will not", 
+                   "won't've": "will not have", "would've": "would have", "wouldn't": "would not", 
+                   "wouldn't've": "would not have", "y'all": "you all", "y'all'd": "you all would",
+                   "y'all'd've": "you all would have","y'all're": "you all are","y'all've": "you all have",
+                   "you'd": "you would", "you'd've": "you would have", "you'll": "you will", 
+                   "you'll've": "you will have", "you're": "you are", "you've": "you have" }
+
+
+Lemmatizer = WordNetLemmatizer
 
 
 def lemmetise(title):
     return " ".join([Lemmatizer.lemmatize(word) for word in title.split()])
+
+def lower_case(title):
+    return " ".join([word.lower() for word in title.split()])
+                     
+def remove_non_ascii_chars(title):
+    return "".join([unidecode(char) for char in title])            
+
+def remove_contractions(title):
+    return ' '.join([contraction_mapping[t] if t in contraction_mapping else t for t in title.split(" ")])
+                     
+def remove_punctuation(title):
+    return "".join([char for char in title if char not in string.punctuation])
+
+def remove_stopwords(title):
+    return " ".join([word.lower() for word in tokenizer.tokenize(title) if word.lower() not in stop_words])
+
 
 def cleaner(headline):
     """
@@ -74,6 +104,7 @@ def cleaner(headline):
     Used mostly to clean tweets but can be broadly applied to cleaning all text.
     """
     
+
     text=re.compile("(http\w+)")
     tweet= tweet.replace("RT", "")
     tweet = "".join([char.lower() for char in tweet if char not in string.punctuation + "’" + "‘" + "“" + "–"])
@@ -84,26 +115,30 @@ def cleaner(headline):
 
 
 
-class Cleaner(self):
-    def __init__(self, dataframe)
-        self.dataframe = dataframe
-        self.length = len(dataframe)
-        self.shape = dataframe.shape
+
+
+
+
+# class Cleaner(self):
+#     def __init__(self, dataframe)
+#         self.dataframe = dataframe
+#         self.length = len(dataframe)
+#         self.shape = dataframe.shape
         
-    def change_dataframe(self, dataframe):
-        self.dataframe = dataframe
+#     def change_dataframe(self, dataframe):
+#         self.dataframe = dataframe
     
-    def get_dataframe(self):
-        return self.dataframe
+#     def get_dataframe(self):
+#         return self.dataframe
     
-    def clean_tweets(tweet):
-        tweet= tweet.replace("RT", "")
-        tweet = "".join([char.lower() for char in tweet if char not in string.punctuation + "’"])
-        return tweet.lstrip(" ").rstrip(" ")
+#     def clean_tweets(tweet):
+#         tweet= tweet.replace("RT", "")
+#         tweet = "".join([char.lower() for char in tweet if char not in string.punctuation + "’"])
+#         return tweet.lstrip(" ").rstrip(" ")
     
-    def remove_non_english_words(tweet, words):
-        return " ".join(word for word in nltk.wordpunct_tokenize(tweet) if word in words)
+#     def remove_non_english_words(tweet, words):
+#         return " ".join(word for word in nltk.wordpunct_tokenize(tweet) if word in words)
     
     
-    def get_heading_lengths(self):
-        return array
+#     def get_heading_lengths(self):
+#         return array
