@@ -8,6 +8,8 @@ from nltk.probability import FreqDist
 tokenizer = RegexpTokenizer(r'[a-zA-Z0-9]+')
 import matplotlib.pyplot as plt
 
+from textblob import TextBlob
+
 from nltk.corpus import stopwords
 
 from nltk.stem import WordNetLemmatizer 
@@ -73,11 +75,12 @@ contraction_mapping = {"ain't": "is not", "aren't": "are not","can't": "cannot",
                    "you'll've": "you will have", "you're": "you are", "you've": "you have" }
 
 
-Lemmatizer = WordNetLemmatizer
 
 
-def lemmetise(title):
-    return " ".join([Lemmatizer.lemmatize(word) for word in title.split()])
+wnl = WordNetLemmatizer()
+
+def lemmetise_series(title):
+    return " ".join([wnl.lemmatize(word) for word in title.split(" ")])
 
 def lower_case(title):
     return " ".join([word.lower() for word in title.split()])
@@ -94,6 +97,8 @@ def remove_punctuation(title):
 def remove_stopwords(title):
     return " ".join([word.lower() for word in tokenizer.tokenize(title) if word.lower() not in stop_words])
 
+def fix_spelling_mistakes(title):
+    return " ".join([str(TextBlob(word).correct()) for word in tokenizer.tokenize(title)])
 
 def cleaner(headline):
     """
