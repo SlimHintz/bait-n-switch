@@ -8,11 +8,16 @@ from nltk.probability import FreqDist
 tokenizer = RegexpTokenizer(r'[a-zA-Z0-9]+')
 import matplotlib.pyplot as plt
 
+import requests
+from bs4 import BeautifulSoup
+
 from textblob import TextBlob
 
 from nltk.corpus import stopwords
 
-from nltk.stem import WordNetLemmatizer 
+from nltk.stem import WordNetLemmatizer
+wnl = WordNetLemmatizer()
+
 
 stop_words = set(stopwords.words("english"))
 # Extend stopwords (see analysis below)
@@ -25,8 +30,6 @@ extension = {
     'u'
 }
 stop_words.update(extension)
-
-
 
 
 # Dictionary of English Contractions
@@ -54,7 +57,7 @@ contraction_mapping = {"ain't": "is not", "aren't": "are not","can't": "cannot",
                    "she's": "she is", "should've": "should have", "shouldn't": "should not", 
                    "shouldn't've": "should not have", "so've": "so have","so's": "so as", 
                    "this's": "this is",
-                   "that'd": "that would", "that'd've": "that would have","that's": "that is", 
+                   "that'd": "that would", "that'd've": "that would have","that's": "that is", "that'll": "that will",
                    "there'd": "there would", "there'd've": "there would have","there's": "there is", 
                        "here's": "here is",
                    "they'd": "they would", "they'd've": "they would have", "they'll": "they will", 
@@ -74,10 +77,65 @@ contraction_mapping = {"ain't": "is not", "aren't": "are not","can't": "cannot",
                    "you'd": "you would", "you'd've": "you would have", "you'll": "you will", 
                    "you'll've": "you will have", "you're": "you are", "you've": "you have" }
 
+# A more manageable way of dealing with the contractions
+def decontracted(phrase):
+    # specific
+    phrase = re.sub(r"won\'t", "will not", phrase)
+    phrase = re.sub(r"can\'t", "can not", phrase)
+
+    # general
+    phrase = re.sub(r"n\'t", " not", phrase)
+    phrase = re.sub(r"\'re", " are", phrase)
+    phrase = re.sub(r"\'s", " is", phrase)
+    phrase = re.sub(r"\'d", " would", phrase)
+    phrase = re.sub(r"\'ll", " will", phrase)
+    phrase = re.sub(r"\'t", " not", phrase)
+    phrase = re.sub(r"\'ve", " have", phrase)
+    phrase = re.sub(r"\'m", " am", phrase)
+    return phrase
 
 
+def get_headlines(response_text, tags=['h1', 'h2', 'h3', 'h4']):
+    soup = BeautifulSoup(response_text, 'lxml')
+    headers = soup.find_all(tags)
+    return [header.text for header in headers]
 
-wnl = WordNetLemmatizer()
+def clean_headlines(title, length=3):
+    # strip newline characters
+    title = title.replace("\n", "")
+    title = title.replace("\t", "")
+    title = remove_non_ascii_chars(title)
+    title = " ".join(title.split("-")) # deal with hiphenation
+    title = lower_case(title) # Lower case the title
+    title = remove_contractions(title) # Remove all contractions
+    title = lemmetise_series(title) # Lemmetize the headline
+    title = "".join([char for char in title if char not in string.punctuation])
+    # remove stopwords
+    title = " ".join([char for char in tokenizer.tokenize(title) if char not in stop_words ])
+    if len(title.split()) >= length:
+        return title
+    else:
+        return None
+    
+    
+def preprocess(title):
+    # strip newline characters
+    title = title.replace("\n", "")
+    title = title.replace("\t", "")
+    title = remove_non_ascii_chars(title)
+    title = " ".join(title.split("-")) # deal with hiphenation
+    title = lower_case(title) # Lower case the title
+    title = remove_contractions(title) # Remove all contractions
+    title = lemmetise_series(title) # Lemmetize the headline
+    title = "".join([char for char in title if char not in string.punctuation])
+    # remove stopwords
+    title = " ".join([char for char in tokenizer.tokenize(title) if char not in stop_words ])
+    return title
+    
+    
+def get_cleaned_headlines(url, length=3, tags=['h1', 'h2', 'h3']):
+    text = requests.get(url).text
+    return [clean_headlines(headline, length) for headline in get_headlines(text, tags=tags)]
 
 def lemmetise_series(title):
     return " ".join([wnl.lemmatize(word) for word in title.split(" ")])
@@ -100,7 +158,10 @@ def remove_stopwords(title):
 def fix_spelling_mistakes(title):
     return " ".join([str(TextBlob(word).correct()) for word in tokenizer.tokenize(title)])
 
-def cleaner(headline):
+def replace_text(text, pattern, replacement):
+    return re.sub(pattern, replacement, text)
+
+def cleanTweet(headline):
     """
     Used in conjunction with Series.apply()
     
@@ -112,7 +173,6 @@ def cleaner(headline):
 
     text=re.compile("(http\w+)")
     tweet= tweet.replace("RT", "")
-    tweet = "".join([char.lower() for char in tweet if char not in string.punctuation + "’" + "‘" + "“" + "–"])
     return " ".join(word for word in tweet.split() if word not in text.findall(tweet))
 
 
