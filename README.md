@@ -1,5 +1,5 @@
 # Bait 'n' Switch
-## A tool for decluttering a busy browsing experience
+## This One Simple Model has EVERY Marketing Firm Furious
 
 ### Overview
 
