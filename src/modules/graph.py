@@ -172,3 +172,30 @@ def proportion_with_cardinals(df):
     plt.ylabel("Percent %", size = 15)
     
     return ax
+
+
+# ================================= Viz title false positives/negatives ================================= 
+
+def get_false_positives(predictions, y_test):
+    """
+    Returns a numpy array of index matched false negatives
+    predictions --> binary or bool
+    y_test --> binary or bool
+    theshold 
+    
+    returns a np.array
+    """
+    comparisons = list(zip(y_test, predictions))
+    return np.array([1 if (true == 0 and prediction == 1) else 0 for true, prediction in comparisons])
+
+def get_false_negatives(predictions, y_test):
+    """
+    Returns a numpy array of index matched false negatives
+    predictions --> binary or bool
+    y_test --> binary or bool
+    theshold 
+    
+    returns a np.array
+    """
+    comparisons = list(zip(y_test, predictions))
+    return np.array([1 if (true == 1 and prediction == 0) else 0 for true, prediction in comparisons])

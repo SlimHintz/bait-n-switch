@@ -5,7 +5,7 @@ import re
 from unidecode import unidecode
 from nltk.tokenize import RegexpTokenizer
 from nltk.probability import FreqDist
-tokenizer = RegexpTokenizer(r'[a-zA-Z0-9]+')
+tokenizer = RegexpTokenizer(r'[a-zA-Z0-9!]+')
 import matplotlib.pyplot as plt
 
 import requests
@@ -118,7 +118,7 @@ def clean_headlines(title, length=3):
         return None
     
     
-def preprocess(title):
+def preprocess(title, remove_punct=True):
     # strip newline characters
     title = title.replace("\n", "")
     title = title.replace("\t", "")
@@ -127,7 +127,8 @@ def preprocess(title):
     title = lower_case(title) # Lower case the title
     title = remove_contractions(title) # Remove all contractions
     title = lemmetise_series(title) # Lemmetize the headline
-    title = "".join([char for char in title if char not in string.punctuation])
+    if remove_punct:
+        title = "".join([char for char in title if char not in string.punctuation])
     # remove stopwords
     title = " ".join([char for char in tokenizer.tokenize(title) if char not in stop_words ])
     return title
