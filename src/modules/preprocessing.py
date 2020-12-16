@@ -118,7 +118,7 @@ def clean_headlines(title, length=3):
         return None
     
     
-def preprocess(title, remove_punct=True):
+def preprocess(title, remove_punct=True, lem=True):
     # strip newline characters
     title = title.replace("\n", "")
     title = title.replace("\t", "")
@@ -126,7 +126,8 @@ def preprocess(title, remove_punct=True):
     title = " ".join(title.split("-")) # deal with hiphenation
     title = lower_case(title) # Lower case the title
     title = remove_contractions(title) # Remove all contractions
-    title = lemmetise_series(title) # Lemmetize the headline
+    if lem:
+        title = lemmetise_series(title) # Lemmetize the headline
     if remove_punct:
         title = "".join([char for char in title if char not in string.punctuation])
     # remove stopwords
@@ -179,9 +180,45 @@ def cleanTweet(headline):
 
 
 
+# ================================== Generate Features ================================= #
+
+# Get average word length per title
+def get_average_word_length(title):
+    return np.mean([len(word) for word in title.split()])
 
 
+# Get the title length
+def get_len(title):
+    return len(tokenizer.tokenize(title))
 
+
+# Get proportion of stopwords
+def remove_stopwords_tokenized(title):
+    return ([word.lower() for word in tokenizer.tokenize(title) if word.lower() not in pp.stop_words])
+
+def stopword_proportion(title):
+    tokenized = tokenizer.tokenize(title)
+    return (len(tokenized) + 1)/(len(remove_stopwords_tokenized(title)) + 1)
+
+# Get count of punctuation
+def get_punctuation(title):
+    punct =  sum([1 for i in title if i in string.punctuation])
+    if punct:
+        return punct
+    else:
+        return 0
+
+def exclamation(title):
+    return sum([1 if "!" in title else 0])
+
+def generate_features(df, title='title'):
+    average_len =df[title].apply(get_average_word_length)
+    length = df[title].apply(get_len)
+    stop_proportion = df[title].apply(stopword_proportion)
+    punct_prop = df[title].apply(get_punctuation)
+    exclamation_ = df[title].apply(exclamation)
+    
+    return (average_len, length, stop_proportion, punct_prop, exclamation_)
 
 
 
