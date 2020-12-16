@@ -6,8 +6,12 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 from PIL import Image
 import numpy as np
 from nltk.corpus import stopwords
-
+import os
+import sys
 from textblob import TextBlob
+
+from sklearn.metrics import roc_curve, auc
+from sklearn.metrics import accuracy_score, f1_score, confusion_matrix
 
 stop_words = set(stopwords.words("english"))
 # Extend stopwords (see analysis below)
@@ -20,6 +24,16 @@ extension = {
     'u'
 }
 stop_words.update(extension)
+
+# Import module
+module_path = os.path.abspath(os.path.join('./src'))
+if module_path not in sys.path:
+    sys.path.append(module_path)
+    
+from modules import preprocessing as pp
+from modules import graph, modelling 
+
+
 
 tokenizer = RegexpTokenizer(r'[a-zA-Z0-9]+')
 
@@ -65,12 +79,19 @@ def show_wordcloud(dictionary, title, min_font = 10):
 
     plt.show() 
 
-def show_class_imbalance(df, title='Class Imbalance'):
-    plt.bar(x=['Normal', 'Clickbait'], height=df.groupby(['target']).target.count(), color='b');
+def show_class_imbalance(df, title='Class Imbalance', PATH=None):
+    plt.bar(x=['Normal', 'Clickbait'], height=df.groupby(['target']).target.count(), color='dimgrey');
     plt.title(title)
-    plt.ylabel("Document Count")
+    plt.ylabel("Document Count", size = 14)
+    plt.xlabel("Class", size = 14)
+    if PATH:
+        plt.savefig(PATH, bbox_inches="tight")
     plt.show()
-
+    
+    
+    
+    
+    
 # ================================= Viz Average word length  =================================    
 def get_average_word_length(title):
     return np.mean([len(word) for word in title.split()])
@@ -115,7 +136,7 @@ def title_lengths(df, ax, content='title', title='data', x_lim = [0,100]):
     ax.set_title(f"Distribution of Title Length Between \n Clickbait and Non-Clickbait News Headlines {title}", size =10)
     return ax;
 
-# ================================= Viz title Length  ================================= 
+# ================================= Viz stopword differences  ================================= 
 
 
 def remove_stopwords_tokenized(title):
@@ -153,7 +174,7 @@ def stopword_bar(df, stop_words, ax):
 def contains_cardinal(title):
     return any(char.isdigit() for char in title)
 
-def proportion_with_cardinals(df):
+def proportion_with_cardinals(df, PATH):
     
     df_test = df.copy()
     df_test['cardinal'] = df.title.apply(contains_cardinal)
@@ -170,6 +191,8 @@ def proportion_with_cardinals(df):
     plt.title("Percent of Titles Containing Cardinal Numbers", size = 16)
     plt.xlabel("Classes", size=15)
     plt.ylabel("Percent %", size = 15)
+    if PATH:
+        plt.savefig(PATH, bbox_inches="tight")
     
     return ax
 
@@ -199,3 +222,164 @@ def get_false_negatives(predictions, y_test):
     """
     comparisons = list(zip(y_test, predictions))
     return np.array([1 if (true == 1 and prediction == 0) else 0 for true, prediction in comparisons])
+
+
+
+
+# ================================= Viz word clouds ================================= 
+
+def generate_wordcloud(dict_, title='WordCloud', PATH=None):
+    wordcloud  = WordCloud(min_font_size=10).generate_from_frequencies(dict_)
+    plt.figure(figsize = (8, 8), facecolor = None) 
+    plt.imshow(wordcloud) 
+    plt.axis("off") 
+    plt.title(title)
+    plt.tight_layout(pad = 0) 
+    if PATH:
+        plt.savefig(PATH, bbox_inches="tight")
+    plt.show() 
+    
+
+    
+    
+# ================================= Viz Difference and Intersection Word Clouds ================================= 
+
+def get_intersect(df):
+    click_corpus = " ".join(df[df.target==1].title.to_list())
+    non_corpus = " ".join(df[df.target==0].title.to_list())
+    
+    tokenizer = RegexpTokenizer(r'[a-zA-Z0-9]+')
+    
+    click_tokenized = tokenizer.tokenize(click_corpus)
+    non_tokenized = tokenizer.tokenize(non_corpus)
+
+    fil_click = [word.lower() for word in click_tokenized if word.lower() not in pp.stop_words]
+    fil_non = [word.lower() for word in non_tokenized if word.lower() not in pp.stop_words]
+    
+    non_set = set(fil_non)
+    click_set = set(fil_click)
+    
+    return click_set.intersection(non_set), click_tokenized
+
+def get_difference(df):
+    click_corpus = " ".join(df[df.target==1].title.to_list())
+    non_corpus = " ".join(df[df.target==0].title.to_list())
+    
+    tokenizer = RegexpTokenizer(r'[a-zA-Z0-9]+')
+    
+    click_tokenized = tokenizer.tokenize(click_corpus)
+    non_tokenized = tokenizer.tokenize(non_corpus)
+
+    fil_click = [word.lower() for word in click_tokenized if word.lower() not in pp.stop_words]
+    fil_non = [word.lower() for word in non_tokenized if word.lower() not in pp.stop_words]
+    
+    non_set = set(fil_non)
+    click_set = set(fil_click)
+    
+    return click_set.difference(non_set), click_tokenized
+
+def countX(lst, x): 
+    return lst.count(x) 
+   
+    
+def visualize_intersection(df):
+    
+    click_corpus = " ".join(df[df.target==1].title.to_list())
+    non_corpus = " ".join(df[df.target==0].title.to_list())
+    
+    tokenizer = RegexpTokenizer(r'[a-zA-Z0-9]+')
+    
+    click_tokenized = tokenizer.tokenize(click_corpus)
+    non_tokenized = tokenizer.tokenize(non_corpus)
+
+    fil_click = [word.lower() for word in click_tokenized if word.lower() not in pp.stop_words]
+    fil_non = [word.lower() for word in non_tokenized if word.lower() not in pp.stop_words]
+    
+    non_set = set(fil_non)
+    click_set = set(fil_click)
+    
+    # Generate sets of words
+    diff = non_set.difference(click_set)
+    overlap = non_set.intersection(click_set)
+    
+    # Generate word clouds of each
+    def countX(lst, x): 
+        return lst.count(x) 
+    def freq_of_specific_words(tokenized_list, list_of_interest):
+        freqDict = {}
+        for word in list_of_interest:
+            freqDict[word] = countX(tokenized_list, word)
+
+
+    non_diff = {}
+    for word in diff:
+        non_diff[word] = countX(list(non_set), word)
+    difference_frequency = sorted(non_diff.items(), reverse=True, key = (lambda x: x[1]))
+    
+    wordcloud  = WordCloud(min_font_size=10).generate_from_frequencies(dict(difference_frequency))
+    plt.figure(figsize = (8, 8), facecolor = None) 
+    plt.imshow(wordcloud) 
+    plt.axis("off") 
+    plt.title("Difference Between Click-Bait and Normal Headlines")
+    plt.tight_layout(pad = 0) 
+
+    plt.show() 
+    
+    
+    click_diff = {}
+    for word in overlap:
+        click_diff[word] = countX(fil_click, word)
+
+    difference_frequency = sorted(click_diff.items(), reverse=True, key = (lambda x: x[1]))
+    wordcloud  = WordCloud(min_font_size=5).generate_from_frequencies(dict(difference_frequency))
+    plt.figure(figsize = (8, 8), facecolor = None) 
+    plt.imshow(wordcloud) 
+    plt.axis("off") 
+    plt.title("Intersection Between Click-Bait and Normal Headlines")
+    plt.tight_layout(pad = 0) 
+
+    plt.show() 
+    
+    
+    
+    
+    
+# ================================= Viz Evaluation Metrics =================================     
+    
+    
+def plot_cmatrix(actual, predictions, model):
+    '''Takes in arrays of actual binary values and model predictions and generates and plots a confusion matrix'''
+    cmatrix = confusion_matrix(actual, predictions)
+
+    fig, ax = plt.subplots(figsize = (12,6))
+    sns.heatmap(cmatrix, annot=True, fmt='g', ax=ax, cmap='Blues')
+    ax.set_xticklabels(['Normal', 'Clickbait'])
+    ax.set_yticklabels(['Normal', 'Clickbait'])
+    ax.set_ylabel('Actual', size=15)
+    ax.set_xlabel('Predicted', size=15)
+    ax.set_title(f'Confusion Matrix for {model} Predictions', size =18)
+  
+    return plt.show()
+
+def plot_roc_curve(actual, predictions):
+    '''Takes in arrays of actual binary values and model predictions and generates and plots an ROC curve'''
+    
+    fpr, tpr, threshholds = roc_curve(actual, predictions)
+    
+    sns.set_style('darkgrid', {'axes.facecolor': '0.9'})
+    
+    print('AUC: {}'.format(auc(fpr, tpr)))
+    plt.figure(figsize=(10, 8))
+    lw = 2
+    plt.plot(fpr, tpr, color='darkorange',
+         lw=lw, label='ROC curve')
+    plt.plot([0, 1], [0, 1], color='navy', lw=lw, linestyle='--')
+    plt.xlim([0.0, 1.0])
+    plt.ylim([0.0, 1.05])
+    plt.yticks([i/20.0 for i in range(21)])
+    plt.xticks([i/20.0 for i in range(21)])
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    plt.title('Receiver operating characteristic Curve')
+    plt.legend(loc='lower right')
+    return plt.show()

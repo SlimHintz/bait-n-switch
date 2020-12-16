@@ -1,7 +1,14 @@
 import os
 import sys
+import numpy as np
+import pandas as pd
+import string
 
+from nltk.tokenize import RegexpTokenizer
+tokenizer = RegexpTokenizer(r'[a-zA-Z0-9]+')
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from sklearn.feature_extraction.text import TfidfVectorizer
+analyzer = SentimentIntensityAnalyzer()
 
 # Modelling
 from sklearn.dummy import DummyClassifier
@@ -39,7 +46,7 @@ extension = {
 }
 stop_words.update(extension)
 
-
+# ================================== baseline models ===========================================
 
 def run_baselines(df):
 # Train test split
@@ -100,3 +107,58 @@ def run_baselines(df):
     print(f"Training f1 scores:{f1_dummy_tr, f1_bayes_tr, f1_log_tr} \n\n Testing f1 Scores: {f1_dummy_te,f1_bayes_te, f1_log_te}")
     
     return bayes_clf, log_clf
+
+
+
+
+
+# ================================== Feature Generation ===========================================
+
+
+# Get average word length per title
+def get_average_word_length(title):
+    return np.mean([len(word) for word in title.split()])
+
+
+# Get the title length
+def get_len(title):
+    return len(tokenizer.tokenize(title))
+
+# Get proportion of stopwords
+def remove_stopwords_tokenized(title):
+    return ([word.lower() for word in tokenizer.tokenize(title) if word.lower() not in pp.stop_words])
+
+def stopword_proportion(title):
+    tokenized = tokenizer.tokenize(title)
+    return (len(tokenized) + 1)/(len(remove_stopwords_tokenized(title)) + 1)
+
+# Get count of punctuation
+def get_punctuation(title):
+    punct =  sum([1 for i in title if i in string.punctuation])
+    if punct:
+        return punct
+    else:
+        return 0
+
+def exclamation(title):
+    return sum([1 if "!" in title else 0])
+
+def get_polarity(title):
+    return analyzer.polarity_scores(title.lower())['compound']
+
+def get_tags(corpus):
+    return [TextBlob(word).tags for word in corpus.split()]
+
+def generate_features(df, title='title'):
+    if isinstance(df, pd.Series):
+        series = df
+    else: 
+        series = df[title]
+    average_len =series.apply(get_average_word_length)
+    length = series.apply(get_len)
+    stop_proportion = series.apply(stopword_proportion)
+    punct_prop = series.apply(get_punctuation)
+    exclamation_ = series.apply(exclamation)
+    get_polarity_ = series.apply(get_polarity)
+    
+    return (average_len, length, stop_proportion, punct_prop, exclamation_, get_polarity_)
