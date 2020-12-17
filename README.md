@@ -47,13 +47,12 @@ Internet privacy and data integrity are the foremost issues in big tech. By addi
 - All posts were annotated on a 4-point scale: not click baiting (0.0), slightly click baiting (0.33), considerably click baiting (0.66), heavily click baiting (1.0) by five annotators from Amazon Mechanical Turk
 - 9,276 posts are considered clickbait by the majority of annotators and 29,241 where considered normal
 
-Data was then evaluated seperately, cleaned seperately and then disimilarity matrices were constructed to evaluate similarity between corpus. 
 
-N closest headlines were added to the first data set from the other two based on similarity.
+![img](./src/images/classimbance.png)
+
 
 ### Evaluation
-
-
+![img](./src/images/baselinef1.png)
 ### Discussion
 
 
