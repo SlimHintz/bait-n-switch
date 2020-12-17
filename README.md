@@ -88,7 +88,11 @@ My baselines were all in the low to mid 80's for f1 score. Compared to the dummy
 
 ![img](./src/images/Multibayes.png)
 
-### Discussion
+I decided that I was unable to improve on this model on this dataset. If I were to exclude all of that data from dataset 3 I would have acheived an f1 score of 0.98 on the testing data. However, I wanted to expose my model to as much information as possible. It is a weaker model over all but hopefully will show less variance when it comes to putting the model into production.
+
+### Discussion and next steps
+
+
 
 
 ### How to
