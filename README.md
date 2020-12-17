@@ -51,10 +51,13 @@ Internet privacy and data integrity are the foremost issues in big tech. By addi
 - The Webis Clickbait Corpus 2017 (Webis-Clickbait-17) comprises a total of 38,517 Twitter posts from 27 major US news publishers <sup>[3](#dataset3)</sup>. 
 - All posts were annotated on a 4-point scale: not click baiting (0.0), slightly click baiting (0.33), considerably click baiting (0.66), heavily click baiting (1.0) by five annotators from Amazon Mechanical Turk
 - 9,276 posts are considered clickbait by the majority of annotators and 29,241 where considered normal
+
+
+
+The Final model was combination of datasets 1 and 3. Dataset 2 was only twitter posts which were too different to news headlines to include into the model.
+
 ![img](./src/images/classimbance.png)
 
-
-The final
 ### Exploratory Data Analysis
 
 I didn't realize how unconventional this project was going to be. It was my first NLP project and I had learnt somethings were important:
