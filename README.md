@@ -71,17 +71,21 @@ I believed I could leverage these class disparities using a Bag of Words approac
 
 The Disadvantage to bag of words is that during tokenization, you produce as many features as there are words. If you increase the n_gram range, which is the number of successive words that can be linked together into a token, you can create truly enormous matrices. 
 
-My matrix that I used had over 50k rows and over 300k columns so it was very important that I use a statistical model that can evaluate quickly.
+My matrix that I used had over 50k rows and over 300k columns so it was very important that I use a statistical model that can evaluate quickly. To that end, I decdied to use Naive Bayes and Logistic Regression. I did try other models, SVM, random forest, XGboost, but none were as good in the current contexct as naive bayes.
 
 ### Evaluation
 ![img](./src/images/baselinef1.png)
 
-My baselines were all in the low to mid 80's for f1 score. Compared to the dummy classifier set to "most frequent" where it simply guesses the dominant class everytime.
+My baselines were all in the low to mid 80's for f1 score. Compared to the dummy classifier set to "most frequent" where it simply guesses the dominant class everytime. I was able to increase that number to 0.88 using cross validation and adjusting the categorical smoothing (Laplace Smoothing).
+
+![img](./src/images/Multibayes.png)
+
 ### Discussion
 
 
 ### How to
 
+TODO. This section will outline the use of the broswer extension
 
 ### Repository Structure
 ```
