@@ -197,6 +197,7 @@ def proportion_with_cardinals(df, PATH):
     return ax
 
 
+
 # ================================= Viz title false positives/negatives ================================= 
 
 def get_false_positives(predictions, y_test):
@@ -380,6 +381,6 @@ def plot_roc_curve(actual, predictions):
     plt.xticks([i/20.0 for i in range(21)])
     plt.xlabel('False Positive Rate')
     plt.ylabel('True Positive Rate')
-    plt.title('Receiver operating characteristic Curve')
+    plt.title('ROC Curve')
     plt.legend(loc='lower right')
     return plt.show()

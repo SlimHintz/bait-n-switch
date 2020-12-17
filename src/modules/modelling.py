@@ -48,7 +48,7 @@ stop_words.update(extension)
 
 # ================================== baseline models ===========================================
 
-def run_baselines(df):
+def run_baselines(df, stopwords=False):
 # Train test split
     df_dummy = df.copy()
 #     df_dummy.title = df_dummy.title.apply(pp.clean_headlines)
@@ -66,8 +66,10 @@ def run_baselines(df):
     X_test = X_test.apply(pp.preprocess)
 
     # Instantiate my tfidf Vectorizer
-    tfidf = TfidfVectorizer(stop_words = stop_words, ngram_range=(1,2))
-
+    if stopwords:
+        tfidf = TfidfVectorizer(stop_words = stop_words, ngram_range=(1,2))
+    else:
+        tfidf = TfidfVectorizer(ngram_range=(1,2))
     #tfidf
     X_train_tfidf = tfidf.fit_transform(X_train)
     X_test_tfidf = tfidf.transform(X_test)
@@ -106,7 +108,7 @@ def run_baselines(df):
     print("Models: \t\t Dummy\t\t Naive Bayes\t\tLogistic Regression")
     print(f"Training f1 scores:{f1_dummy_tr, f1_bayes_tr, f1_log_tr} \n\n Testing f1 Scores: {f1_dummy_te,f1_bayes_te, f1_log_te}")
     
-    return bayes_clf, log_clf
+    return bayes_clf, log_clf, ([f1_dummy_tr, f1_bayes_tr, f1_log_tr], [f1_dummy_te,f1_bayes_te, f1_log_te])
 
 
 
