@@ -1,6 +1,8 @@
 # Bait 'n' Switch
 ## This One Simple Model has EVERY Marketing Firm Furious
 
+![img](./images/src/images/clickbaitImage.jpg)
+
 ### Overview
 
 For this project, I assumed the mindset of a data scientist working for a small, yet competitive internet browser startup. The stakeholders are looking for an edge on the larger browsers by implementing some quality of life improvements. The executives have asked me to create an extension for the browser that will filter out `click-bait` from webpages.
