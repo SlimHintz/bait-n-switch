@@ -59,7 +59,9 @@ I didn't realize how unconventional this project was going to be. It was my firs
 - remove stopwords
 
 It turned out that both of things damaged my models predictability. Two key findins where the presence of cardinal numbers and the proportion of stopwords present in either class
+
 ![img](./src/images/cardinality.png)
+
 70% of all clickbait articles in my corpus contained cardinal numbers. This made a lot of sense to me. The number of "listicles" online are growing. In addition, there are the "17 surprising facts about bald eagles you should know" type headlines.
 
 ![img](./src/images/stopwords.png)
