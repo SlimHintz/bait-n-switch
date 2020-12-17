@@ -80,7 +80,7 @@ def show_wordcloud(dictionary, title, min_font = 10):
     plt.show() 
 
 def show_class_imbalance(df, title='Class Imbalance', PATH=None):
-    plt.bar(x=['Normal', 'Clickbait'], height=df.groupby(['target']).target.count(), color='dimgrey');
+    plt.bar(x=['Normal', 'Clickbait'], height=df.groupby(['target']).target.count());
     plt.title(title)
     plt.ylabel("Document Count", size = 14)
     plt.xlabel("Class", size = 14)
@@ -187,7 +187,8 @@ def proportion_with_cardinals(df, PATH):
     non = non[1]/non[0] * 100
     click = click[1]/click[0] * 100
     # plot the results
-    ax = sns.barplot(x=['Normal', "Clickbait"], y=[non, click])
+    fig, ax = plt.subplots(figsize=(12,6))
+    sns.barplot(x=['Normal', "Clickbait"], y=[non, click], ax=ax)
     plt.title("Percent of Titles Containing Cardinal Numbers", size = 16)
     plt.xlabel("Classes", size=15)
     plt.ylabel("Percent %", size = 15)
@@ -263,6 +264,11 @@ def get_intersect(df):
     return click_set.intersection(non_set), click_tokenized
 
 def get_difference(df):
+    
+    """
+    Given a dataframe, returns a set of words that are unique to the the clickbait data set and then a list of all the words 
+    used in the clickbait dataset
+    """
     click_corpus = " ".join(df[df.target==1].title.to_list())
     non_corpus = " ".join(df[df.target==0].title.to_list())
     
@@ -277,12 +283,11 @@ def get_difference(df):
     non_set = set(fil_non)
     click_set = set(fil_click)
     
-    return click_set.difference(non_set), click_tokenized
+    return click_set.difference(non_set), click_tokenized # This should return nothing
 
 def countX(lst, x): 
     return lst.count(x) 
-   
-    
+     
 def visualize_intersection(df):
     
     click_corpus = " ".join(df[df.target==1].title.to_list())
@@ -348,7 +353,7 @@ def visualize_intersection(df):
 # ================================= Viz Evaluation Metrics =================================     
     
     
-def plot_cmatrix(actual, predictions, model):
+def plot_cmatrix(actual, predictions, model, PATH = None):
     '''Takes in arrays of actual binary values and model predictions and generates and plots a confusion matrix'''
     cmatrix = confusion_matrix(actual, predictions)
 
@@ -359,10 +364,12 @@ def plot_cmatrix(actual, predictions, model):
     ax.set_ylabel('Actual', size=15)
     ax.set_xlabel('Predicted', size=15)
     ax.set_title(f'Confusion Matrix for {model} Predictions', size =18)
+    if PATH:
+        plt.savefig(PATH, bbox_inches = "tight")
   
     return plt.show()
 
-def plot_roc_curve(actual, predictions):
+def plot_roc_curve(actual, predictions, model = "ROC Curve", PATH=None):
     '''Takes in arrays of actual binary values and model predictions and generates and plots an ROC curve'''
     
     fpr, tpr, threshholds = roc_curve(actual, predictions)
@@ -373,7 +380,7 @@ def plot_roc_curve(actual, predictions):
     plt.figure(figsize=(10, 8))
     lw = 2
     plt.plot(fpr, tpr, color='darkorange',
-         lw=lw, label='ROC curve')
+         lw=lw, label=model)
     plt.plot([0, 1], [0, 1], color='navy', lw=lw, linestyle='--')
     plt.xlim([0.0, 1.0])
     try:
@@ -382,8 +389,10 @@ def plot_roc_curve(actual, predictions):
         print("plt.ylim throwing an type error")
     plt.yticks([i/20.0 for i in range(21)])
     plt.xticks([i/20.0 for i in range(21)])
-    plt.xlabel('False Positive Rate')
-    plt.ylabel('True Positive Rate')
-    plt.title('ROC Curve')
+    plt.xlabel('False Positive Rate', size=15)
+    plt.ylabel('True Positive Rate', size=15)
+    plt.title(f'{model} ROC Curve')
     plt.legend(loc='lower right')
+    if PATH:
+        plt.savefig(PATH, bbox_inches='tight')
     return plt.show()

@@ -126,12 +126,12 @@ def preprocess(title, remove_punct=True, lem=True):
     title = " ".join(title.split("-")) # deal with hiphenation
     title = lower_case(title) # Lower case the title
     title = remove_contractions(title) # Remove all contractions
-    if lem:
-        title = lemmetise_series(title) # Lemmetize the headline
-    if remove_punct:
-        title = "".join([char for char in title if char not in string.punctuation])
-    # remove stopwords
-    title = " ".join([char for char in tokenizer.tokenize(title) if char not in stop_words ])
+# #    if lem:
+#         title = lemmetise_series(title) # Lemmetize the headline
+#     if remove_punct:
+#         title = "".join([char for char in title if char not in string.punctuation])
+#     # remove stopwords
+#     title = " ".join([char for char in tokenizer.tokenize(title) if char not in stop_words ])
     return title
     
     
