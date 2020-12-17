@@ -63,7 +63,7 @@ N closest headlines were added to the first data set from the other two based on
 ### Repository Structure
 ```
 .
-├── Index.ipynb
+├── bait'n'switch.ipynb
 ├── README.md
 ├── notebooks
 │   ├── EDA
