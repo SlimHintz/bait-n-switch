@@ -7,7 +7,9 @@
 
 For this project, I assumed the mindset of a data scientist working for a small, yet competitive internet browser startup. The stakeholders are looking for an edge on the larger browsers by implementing some quality of life improvements. The executives have asked me to create an extension for the browser that will filter out `click-bait` from webpages.
 
-Using natural language processing on manually labelled datasets <sup>[1](#myfootnote1)</sup><sup>[2](#dataset2)</sup><sup>[3](#dataset3)</sup> , I was able to produce a statistical model that could predict click bait with 96% accuracy (0.95 f1 score). Then, using a combination of regular expressions and the python module `Beautiful Soup` I created a function that takes in as it’s argument raw html and returns a webpage that has the click-bait filtered from it.
+The first step in the process was building the classifier. Using natural language processing on manually labelled datasets <sup>[1](#myfootnote1)</sup><sup>[2](#dataset2)</sup><sup>[3](#dataset3)</sup> , I was able to produce a statistical model that could predict click bait with close to 90% accuracy (0.88 f1 score).
+
+The next step in this project is to build out a browser extension. I plan on using a combination of regular expressions and the python module `Beautiful Soup` to creat a function that takes in as it’s argument raw html and returns a webpage that has the click-bait filtered from it. 
 
 
 ### Context
@@ -50,9 +52,20 @@ Internet privacy and data integrity are the foremost issues in big tech. By addi
 
 ![img](./src/images/classimbance.png)
 
+### Exploratory Data Analysis
+
+I didn't realize how unconventional this project was going to be. It was my first NLP project and I had learnt somethings were important:
+- Stem and lemmetise your corpus
+- remove stopwords
+
+It turned out that both of things damaged my models predictability. Two key findins where the presence of cardinal numbers and the proportion of stopwords present in either class
+![img](./src/images/cardinality.png)
+
 
 ### Evaluation
-![img](./src/images/baselinef1.png)
+![img](./src/images/stopwords.png)
+
+My baselines were all in the low to mid 80's for f1 score. Compared to the dummy classifier set to "most frequent" where it simply guesses the dominant class everytime, that is a substantial improvement
 ### Discussion
 
 
