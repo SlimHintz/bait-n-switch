@@ -1,7 +1,7 @@
 # Bait 'n' Switch
 ## This One Simple Model has EVERY Marketing Firm Furious
 
-![img](./images/src/images/clickbaitImage.jpg)
+![img](./src/images/clickbaitImage.jpg)
 
 ### Overview
 
@@ -63,7 +63,7 @@ N closest headlines were added to the first data set from the other two based on
 ### Repository Structure
 ```
 .
-├── Index.ipynb
+├── bait'n'switch.ipynb
 ├── README.md
 ├── notebooks
 │   ├── EDA
