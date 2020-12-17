@@ -71,6 +71,8 @@ It turned out that both of things damaged my models predictability. Two key find
 70% of all clickbait articles in my corpus contained cardinal numbers. This made a lot of sense to me. The number of "listicles" online are growing. In addition, there are the "17 surprising facts about bald eagles you should know" type headlines.
 
 ![img](./src/images/stopwords.png)
+
+
 This was more surprising. Clickbait tends to have 20% more stopwords in each title than normal headlines. 
 
 I believed I could leverage these class disparities using a Bag of Words approach. A Bag of Words is where you treat the words themselves as the features of the model. You then look at the corpus statistics. For instance, how many times does the word "frequency" appear in corpus. You can then take that and ask how many times frequency occurs in each class and you begin to get a sense of which words are more common to subclasses. For this study, I used Term Frequency-Inverse Document Frequency (Tf-idf) which is simply the number of times a word appears within a document weighted by the inverse of the number of times that word appears the corpus. 
