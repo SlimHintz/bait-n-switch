@@ -376,7 +376,10 @@ def plot_roc_curve(actual, predictions):
          lw=lw, label='ROC curve')
     plt.plot([0, 1], [0, 1], color='navy', lw=lw, linestyle='--')
     plt.xlim([0.0, 1.0])
-    plt.ylim([0.0, 1.05])
+    try:
+        plt.ylim([0.0, 1.05])
+    except:
+        print("plt.ylim throwing an type error")
     plt.yticks([i/20.0 for i in range(21)])
     plt.xticks([i/20.0 for i in range(21)])
     plt.xlabel('False Positive Rate')

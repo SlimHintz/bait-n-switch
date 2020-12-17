@@ -62,8 +62,8 @@ def run_baselines(df, stopwords=False):
 
 
     # Clean the data
-    X_train = X_train.apply(pp.preprocess)
-    X_test = X_test.apply(pp.preprocess)
+    X_train = X_train#.apply(pp.preprocess)
+    X_test = X_test#.apply(pp.preprocess)
 
     # Instantiate my tfidf Vectorizer
     if stopwords:
