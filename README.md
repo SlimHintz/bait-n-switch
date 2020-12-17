@@ -48,10 +48,10 @@ Internet privacy and data integrity are the foremost issues in big tech. By addi
 - The Webis Clickbait Corpus 2017 (Webis-Clickbait-17) comprises a total of 38,517 Twitter posts from 27 major US news publishers <sup>[3](#dataset3)</sup>. 
 - All posts were annotated on a 4-point scale: not click baiting (0.0), slightly click baiting (0.33), considerably click baiting (0.66), heavily click baiting (1.0) by five annotators from Amazon Mechanical Turk
 - 9,276 posts are considered clickbait by the majority of annotators and 29,241 where considered normal
-
-
 ![img](./src/images/classimbance.png)
 
+
+The final
 ### Exploratory Data Analysis
 
 I didn't realize how unconventional this project was going to be. It was my first NLP project and I had learnt somethings were important:
@@ -60,12 +60,21 @@ I didn't realize how unconventional this project was going to be. It was my firs
 
 It turned out that both of things damaged my models predictability. Two key findins where the presence of cardinal numbers and the proportion of stopwords present in either class
 ![img](./src/images/cardinality.png)
+70% of all clickbait articles in my corpus contained cardinal numbers. This made a lot of sense to me. The number of "listicles" online are growing. In addition, there are the "17 surprising facts about bald eagles you should know" type headlines.
 
+![img](./src/images/stopwords.png)
+This was more surprising. Clickbait tends to have 20% more stopwords in each title than normal headlines. 
+
+I believed I could leverage these class disparities using a Bag of Words approach. A Bag of Words is where you treat the words themselves as the features of the model. You then look at the corpus statistics. For instance, how many times does the word "frequency" appear in corpus. You can then take that and ask how many times frequency occurs in each class and you begin to get a sense of which words are more common to subclasses. For this study, I used Term Frequency-Inverse Document Frequency (Tf-idf) which is simply the number of times a word appears within a document weighted by the inverse of the number of times that word appears the corpus. 
+
+The Disadvantage to bag of words is that during tokenization, you produce as many features as there are words. If you increase the n_gram range, which is the number of successive words that can be linked together into a token, you can create truly enormous matrices. 
+
+My matrix that I used had over 50k rows and over 300k columns so it was very important that I use a statistical model that can evaluate quickly.
 
 ### Evaluation
-![img](./src/images/stopwords.png)
+![img](./src/images/baselinef1.png)
 
-My baselines were all in the low to mid 80's for f1 score. Compared to the dummy classifier set to "most frequent" where it simply guesses the dominant class everytime, that is a substantial improvement
+My baselines were all in the low to mid 80's for f1 score. Compared to the dummy classifier set to "most frequent" where it simply guesses the dominant class everytime.
 ### Discussion
 
 
