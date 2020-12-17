@@ -4,7 +4,10 @@
 ![img](./src/images/clickbaitImage.jpg)
 
 ### Overview
-
+**KEY FINDINGS**
+- Final model had an f1 of 0.88 on the combined testing data.
+- Made a model that had an f1 of 0.98 on the testing data using only one of the three data sets.
+- Click bait is perhaps more difficult to label than to detect. 
 For this project, I assumed the mindset of a data scientist working for a small, yet competitive internet browser startup. The stakeholders are looking for an edge on the larger browsers by implementing some quality of life improvements. The executives have asked me to create an extension for the browser that will filter out `click-bait` from webpages.
 
 The first step in the process was building the classifier. Using natural language processing on manually labelled datasets <sup>[1](#myfootnote1)</sup><sup>[2](#dataset2)</sup><sup>[3](#dataset3)</sup> , I was able to produce a statistical model that could predict click bait with close to 90% accuracy (0.88 f1 score).
