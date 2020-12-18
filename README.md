@@ -71,6 +71,7 @@ It turned out that both stemming/lemmetizing and removing stopwords damaged my m
 70% of all clickbait articles in my corpus contained cardinal numbers. This made a lot of sense to me. The number of "listicles" online are growing. In addition, there are the "17 surprising facts about bald eagles you should know" type headlines.
 
 **Presence of Stopwords**
+
 ![img](./src/images/stopwords.png)
 
 
@@ -78,6 +79,7 @@ This was more surprising. Clickbait tends to have 20% more stopwords in each tit
 
 
 **Difference in Sentiment/Tone**
+
 I wanted a qualitative sense of the vocabularies to motivate further analysis. Headlines are supposed to be sentiment neutral, however looking at the normal headline word cloud versus clickbait, we definitely see differences in overall tone which is reflected by the near mirror image sentiment polarity scores between the classes.
 
 Non-Clickbait WordCloud           |  Clickbait WordCloud
