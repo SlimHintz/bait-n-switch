@@ -73,6 +73,14 @@ It turned out that both of things damaged my models predictability. Two key find
 
 This was more surprising. Clickbait tends to have 20% more stopwords in each title than normal headlines. 
 
+I wanted a qualitative sense of the vocabularies to motivate further analysis. Headlines are supposed to be sentiment neutral, however looking at the normal headline word cloud versus clickbait, we definitely see differences in overall tone which is reflected by the near mirror image sentiment polarity scores between the classes.
+
+Non-Clickbait WordCloud           |  Clickbait WordCloud
+:-------------------------:|:-------------------------:
+![img](./src/images/NORMALwc.png) | ![img](./src/images/CLICKwc.png)
+
+![img](./src/images/sentiment.png)
+
 I believed I could leverage these class disparities using a Bag of Words approach. A Bag of Words is where you treat the words themselves as the features of the model. You then look at the corpus statistics. For instance, how many times does the word "frequency" appear in corpus. You can then take that and ask how many times frequency occurs in each class and you begin to get a sense of which words are more common to subclasses. For this study, I used Term Frequency-Inverse Document Frequency (Tf-idf) which is simply the number of times a word appears within a document weighted by the inverse of frequency of documents that word appears in within the corpus. 
 
 The Disadvantage to bag of words is that during tokenization, you produce as many features as there are words. If you increase the n_gram range, which is the number of successive words that can be linked together into a token, you can create truly enormous matrices. 
