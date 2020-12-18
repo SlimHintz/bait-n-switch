@@ -396,3 +396,47 @@ def plot_roc_curve(actual, predictions, model = "ROC Curve", PATH=None):
     if PATH:
         plt.savefig(PATH, bbox_inches='tight')
     return plt.show()
+
+
+
+
+# ================================= Viz Final Evaluation Metrics =================================     
+
+def generate_prediction_matrix(list_of_models, X_test):
+    n = len(X_test)
+    m = len(list_of_models)
+    
+    prediction_matrix = np.ones(n,m)
+    
+    for i, model in enumerate(list_of_models):
+        model = list_of_models[i]
+        try:
+            predictions = model.predict_proba(X_test)
+        except Exception as e:
+            print(str(e))
+        prediction_matrix[:,i] *= predictions
+    
+    return prediction_matrix
+
+
+
+def plot_final_roc(prediction_matrix, model_names):
+    plt.figure(figsize=(10, 8))
+    for i, model in enumerate(names):    
+        predictions = prediction_matrix[:,i]
+        fpr, tpr, threshholds = roc_curve(y_test, predictions)
+        sns.set_style('darkgrid', {'axes.facecolor': '0.9'})
+        print('AUC: {}'.format(auc(fpr, tpr)))
+        lw = 2
+        plt.plot(fpr, tpr,
+             lw=lw, label=f'{names[i]} AUC: {round(auc(fpr, tpr), 3)}')
+        plt.plot([0, 1], [0, 1], lw=lw, linestyle='--')
+    plt.xlim([0.0, 1.0])
+    plt.ylim([0.0, 1.05])
+    plt.yticks([i/20.0 for i in range(21)])
+    plt.xticks([i/20.0 for i in range(21)])
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    plt.title('Receiver operating characteristic (ROC) Curve')
+    plt.legend(loc='lower right')
+    plt.show()
