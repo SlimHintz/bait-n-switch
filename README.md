@@ -30,8 +30,6 @@ Removing click bait from the browser will aid in the protection non-tech natives
 
 Internet privacy and data integrity are the foremost issues in big tech. By adding a feature that protects users from the spread of fake news while simultaneously boosting usership on the browsing platform is an absolute win. The benefit of providing a negative feed-back loop to news agencies who have built their empire around sensationalism is just gravy. 
 
-### The Model
-
 ### The Data
 
 #### Dataset 1
@@ -81,6 +79,13 @@ The Disadvantage to bag of words is that during tokenization, you produce as man
 
 My matrix that I used had over 50k rows and over 300k columns so it was very important that I use a statistical model that can evaluate quickly. To that end, I decdied to use Naive Bayes and Logistic Regression. I did try other models, SVM, random forest, XGboost, but none were as good in the current contexct as naive bayes.
 
+### The Model
+I tried a variety of models but only two satisfied the business need of being light weight and fast as well as performing well on my performance metrics:
+- `Logistic Regression`
+- `Multinomial Naive Bayes`
+
+
+
 ### Evaluation
 ![img](./src/images/baselinef1.png)
 
@@ -102,15 +107,16 @@ TODO. This section will outline the use of the broswer extension
 ### Repository Structure
 ```
 .
-├── bait'n'switch.ipynb
-├── README.md
-├── notebooks
-│   ├── EDA
-│   └── modelling
+├── bait'n'switch.ipynb  | Project Walkthrough
+├── README.md            | 
+├── notebooks            | 
+│   ├── EDA              | Notebooks outlining data set creation and early exploration
+│   └── modelling        | Testing potential modelling techniques
 └── src
-    ├── data
-    ├── models
-    └── modules
+    ├── data             | Access to the raw data json and the processed data csv
+    ├── images           | Images generated within this project
+    ├── models           | Saved models
+    └── modules          | .py files
 ```
 ### References
 - <a name="dataset1">[1]</a>: Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly. "Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media”. In Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), San Fransisco, US, August 2016.
