@@ -62,17 +62,22 @@ I didn't realize how unconventional this project was going to be. It was my firs
 - Stem and lemmetise your corpus
 - remove stopwords
 
-It turned out that both of things damaged my models predictability. Two key findins where the presence of cardinal numbers and the proportion of stopwords present in either class
+It turned out that both stemming/lemmetizing and removing stopwords damaged my models predictability. This threw me initially, however, I imbraced the oddity as a feature of the dataset and persued the line of inquiry.
+
+**Presence of Cardinality**
 
 ![img](./src/images/cardinality.png)
 
 70% of all clickbait articles in my corpus contained cardinal numbers. This made a lot of sense to me. The number of "listicles" online are growing. In addition, there are the "17 surprising facts about bald eagles you should know" type headlines.
 
+**Presence of Stopwords**
 ![img](./src/images/stopwords.png)
 
 
-This was more surprising. Clickbait tends to have 20% more stopwords in each title than normal headlines. 
+This was more surprising. Clickbait tends to have 20% more stopwords in each title than normal headlines. Rather than being a hinderence to the model, in this instance, stopwords were actually a feature.
 
+
+**Difference in Sentiment/Tone**
 I wanted a qualitative sense of the vocabularies to motivate further analysis. Headlines are supposed to be sentiment neutral, however looking at the normal headline word cloud versus clickbait, we definitely see differences in overall tone which is reflected by the near mirror image sentiment polarity scores between the classes.
 
 Non-Clickbait WordCloud           |  Clickbait WordCloud
