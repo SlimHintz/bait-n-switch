@@ -30,8 +30,6 @@ Removing click bait from the browser will aid in the protection non-tech natives
 
 Internet privacy and data integrity are the foremost issues in big tech. By adding a feature that protects users from the spread of fake news while simultaneously boosting usership on the browsing platform is an absolute win. The benefit of providing a negative feed-back loop to news agencies who have built their empire around sensationalism is just gravy. 
 
-### The Model
-
 ### The Data
 
 #### Dataset 1
@@ -64,22 +62,44 @@ I didn't realize how unconventional this project was going to be. It was my firs
 - Stem and lemmetise your corpus
 - remove stopwords
 
-It turned out that both of things damaged my models predictability. Two key findins where the presence of cardinal numbers and the proportion of stopwords present in either class
+It turned out that both stemming/lemmetizing and removing stopwords damaged my models predictability. This threw me initially, however, I imbraced the oddity as a feature of the dataset and persued the line of inquiry.
+
+**Presence of Cardinality**
 
 ![img](./src/images/cardinality.png)
 
 70% of all clickbait articles in my corpus contained cardinal numbers. This made a lot of sense to me. The number of "listicles" online are growing. In addition, there are the "17 surprising facts about bald eagles you should know" type headlines.
 
+**Presence of Stopwords**
+
 ![img](./src/images/stopwords.png)
 
 
-This was more surprising. Clickbait tends to have 20% more stopwords in each title than normal headlines. 
+This was more surprising. Clickbait tends to have 20% more stopwords in each title than normal headlines. Rather than being a hinderence to the model, in this instance, stopwords were actually a feature.
 
-I believed I could leverage these class disparities using a Bag of Words approach. A Bag of Words is where you treat the words themselves as the features of the model. You then look at the corpus statistics. For instance, how many times does the word "frequency" appear in corpus. You can then take that and ask how many times frequency occurs in each class and you begin to get a sense of which words are more common to subclasses. For this study, I used Term Frequency-Inverse Document Frequency (Tf-idf) which is simply the number of times a word appears within a document weighted by the inverse of the number of times that word appears the corpus. 
+
+**Difference in Sentiment/Tone**
+
+I wanted a qualitative sense of the vocabularies to motivate further analysis. Headlines are supposed to be sentiment neutral, however looking at the normal headline word cloud versus clickbait, we definitely see differences in overall tone which is reflected by the near mirror image sentiment polarity scores between the classes.
+
+Non-Clickbait WordCloud           |  Clickbait WordCloud
+:-------------------------:|:-------------------------:
+![img](./src/images/NORMALwc.png) | ![img](./src/images/CLICKwc.png)
+
+![img](./src/images/sentiment.png)
+
+I believed I could leverage these class disparities using a Bag of Words approach. A Bag of Words is where you treat the words themselves as the features of the model. You then look at the corpus statistics. For instance, how many times does the word "frequency" appear in corpus. You can then take that and ask how many times frequency occurs in each class and you begin to get a sense of which words are more common to subclasses. For this study, I used Term Frequency-Inverse Document Frequency (Tf-idf) which is simply the number of times a word appears within a document weighted by the inverse of frequency of documents that word appears in within the corpus. 
 
 The Disadvantage to bag of words is that during tokenization, you produce as many features as there are words. If you increase the n_gram range, which is the number of successive words that can be linked together into a token, you can create truly enormous matrices. 
 
 My matrix that I used had over 50k rows and over 300k columns so it was very important that I use a statistical model that can evaluate quickly. To that end, I decdied to use Naive Bayes and Logistic Regression. I did try other models, SVM, random forest, XGboost, but none were as good in the current contexct as naive bayes.
+
+### The Model
+I tried a variety of models but only two satisfied the business need of being light weight and fast as well as performing well on my performance metrics:
+- `Logistic Regression`
+- `Multinomial Naive Bayes`
+
+
 
 ### Evaluation
 ![img](./src/images/baselinef1.png)
@@ -92,6 +112,9 @@ I decided that I was unable to improve on this model on this dataset. If I were 
 
 ### Discussion and next steps
 
+For my next steps, I would like to improve this model. Though I do have a strong, MVP its performance may note be good enough to put into production. One in ten misclassifications is potentially too high. We see upwards of hundreds of headlines everyday and we would notice a misclassification of a few dozen. To that end, I want to Explore alternative modeling techniques like feature unions. Feature unions are similar to a voting classifer but they combine the output of one model with a collection of engineered features. Features unions have been very successful in combining sparse and non sparse data together which is my exact usecase.
+
+Further more, I will ontinue testing the model out on real websites and make sure that the false negatives and false positives aren’t glaring. When I Deploy the model I would like to set up a method for active learning whereby users can help train and personalize the filter to their own preferences.
 
 
 
@@ -102,15 +125,16 @@ TODO. This section will outline the use of the broswer extension
 ### Repository Structure
 ```
 .
-├── bait'n'switch.ipynb
-├── README.md
-├── notebooks
-│   ├── EDA
-│   └── modelling
+├── bait'n'switch.ipynb  | Project Walkthrough
+├── README.md            | 
+├── notebooks            | 
+│   ├── EDA              | Notebooks outlining data set creation and early exploration
+│   └── modelling        | Testing potential modelling techniques
 └── src
-    ├── data
-    ├── models
-    └── modules
+    ├── data             | Access to the raw data json and the processed data csv
+    ├── images           | Images generated within this project
+    ├── models           | Saved models
+    └── modules          | .py files
 ```
 ### References
 - <a name="dataset1">[1]</a>: Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly. "Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media”. In Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), San Fransisco, US, August 2016.
