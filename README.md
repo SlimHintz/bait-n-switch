@@ -97,6 +97,9 @@ I decided that I was unable to improve on this model on this dataset. If I were 
 
 ### Discussion and next steps
 
+For my next steps, I would like to improve this model. Though I do have a strong, MVP its performance may note be good enough to put into production. One in ten misclassifications is potentially too high. We see upwards of hundreds of headlines everyday and we would notice a misclassification of a few dozen. To that end, I want to Explore alternative modeling techniques like feature unions. Feature unions are similar to a voting classifer but they combine the output of one model with a collection of engineered features. Features unions have been very successful in combining sparse and non sparse data together which is my exact usecase.
+
+Further more, I will ontinue testing the model out on real websites and make sure that the false negatives and false positives aren’t glaring. When I Deploy the model I would like to set up a method for active learning whereby users can help train and personalize the filter to their own preferences.
 
 
 
