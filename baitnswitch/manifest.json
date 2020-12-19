@@ -1,6 +1,6 @@
 {
-    "name": "Getting Started Example",
+    "name": "Bait-N-Switch",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "Filter Clickbait From Your Browswer!",
     "manifest_version": 2
   }
