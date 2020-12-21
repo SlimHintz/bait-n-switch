@@ -38,6 +38,10 @@ from modules import graph, modelling
 tokenizer = RegexpTokenizer(r'[a-zA-Z0-9]+')
 
 def get_vocab_length(Series, words=30, title="Word Frequency", show_graph=True):
+    """
+    Returns a frequency dictionary of the top words in the corpus
+    
+    """
     corpus = " ".join(Series.to_list())
     corpus = tokenizer.tokenize(corpus)
     freqdist = FreqDist(corpus)
@@ -49,24 +53,54 @@ def get_vocab_length(Series, words=30, title="Word Frequency", show_graph=True):
 
 
 def get_subjectivity(text):
+    """
+    
+    Returns subjectivity using the TextBlob Implementation
+    
+    """
     blob = TextBlob(text)
     return blob.sentiment[1]
 
 def get_polarity(text):
+    """
+    Returns polarity score of a string using TextBlobs implementation
+    
+    """
     blob = TextBlob(text)
     return blob.sentiment[0]
 
 
 def countX(lst, x): 
+    """
+    
+    Giving a list lst and an item, returns the frequency of that specific 
+    item in the list.
+    
+    """
     return lst.count(x) 
 
 def freq_of_specific_words(tokenized_list, list_of_interest):
+    """
+    tokenized_list: A tokenized cropus
+    list_of_interst: A set of unique words in the corpus
+    
+    returns 
+    
+    dictionary: str:int --> count of each word
+    """
     freqDict = {}
     for word in list_of_interest:
         freqDict[word] = countX(tokenized_list, word)
     return freqDict
 
 def show_wordcloud(dictionary, title, min_font = 10):
+    """
+    generates a word cloud from a frequency dictionary
+    
+    Returns 
+    
+    Nothing. Just plots 
+    """
     wordcloud  = WordCloud(min_font_size=min_font).generate_from_frequencies(dictionary)
     plt.figure(figsize = (8, 8), facecolor = None) 
     plt.imshow(wordcloud) 
@@ -80,6 +114,14 @@ def show_wordcloud(dictionary, title, min_font = 10):
     plt.show() 
 
 def show_class_imbalance(df, title='Class Imbalance', PATH=None):
+    """
+    SPECIFIC FOR THE CURRENT PROJECT
+    
+    Given the df will show a bar plot demonstrating the class imbalance between 
+    clickbait and non clickbait.
+    
+    
+    """
     plt.bar(x=['Normal', 'Clickbait'], height=df.groupby(['target']).target.count());
     plt.title(title)
     plt.ylabel("Document Count", size = 14)
@@ -94,10 +136,25 @@ def show_class_imbalance(df, title='Class Imbalance', PATH=None):
     
 # ================================= Viz Average word length  =================================    
 def get_average_word_length(title):
+    """
+    
+    Returns the average word length in a document
+    
+    """
     return np.mean([len(word) for word in title.split()])
 
 
 def word_lengths(df, ax=None, content='title', title='data', x_lim = [0,10]):
+    """
+    
+    Creates a histogram showing the difference in the distribution in word length between class.
+    optionally can be given a matplotlib axes object.
+    
+    Returns 
+    
+    seaborn axes object 
+    
+    """
     click_len = df[df.target == 1][content].apply(get_average_word_length)
     non_len = df[df.target == 0][content].apply(get_average_word_length)
     
@@ -122,9 +179,23 @@ def word_lengths(df, ax=None, content='title', title='data', x_lim = [0,10]):
 
 # ================================= Viz title Length  =================================    
 def get_len(string):
+    """
+    
+    Returns the number of words in the string
+    
+    
+    """
     return len(tokenizer.tokenize(string))
 
 def title_lengths(df, ax, content='title', title='data', x_lim = [0,100]):
+    """
+    Displays class difference in class document word count as a histogram
+    
+    Returns
+    
+    matplotlib Axes object.
+    
+    """
     click_len = df[df.target == 1][content].apply(get_len)
     non_len = df[df.target == 0][content].apply(get_len)
 
@@ -147,6 +218,15 @@ def stopword_proportion(title):
     return (len(tokenized) + 1)/(len(remove_stopwords_tokenized(title)) + 1)
 
 def stopword_hist(df, stop_words, ax):
+    """
+    Shows a histogram of the classes proportion of stopwords. 
+    
+    Stopword content is between 1-2:
+    
+    This is because I wanted to avoid zero division errors so I added a 1 to the numerator and the denominator.
+    returns a matplotlib axes object
+    
+    """
         click_props = df[df.target == 1].title.apply(stopword_proportion)
         non_props = df[df.target == 0].title.apply(stopword_proportion)
         for a, b in zip([non_props, click_props], ['Normal','Clickbait']):
@@ -159,6 +239,20 @@ def stopword_hist(df, stop_words, ax):
 
 
 def stopword_bar(df, stop_words, ax):
+    
+    """
+    Shows a histogram of the classes proportion of stopwords. 
+    
+    Stopword content is between 1-2:
+    
+    This is because I wanted to avoid zero division errors so I added a 1 to the numerator and the denominator.
+    
+    Returns 
+    
+    matplotlib axes object
+    
+    
+    """
     df_test = df.copy()
     df_test['prop'] = df.title.apply(stopword_proportion)
     sns.barplot(data=df_test, x='target', y='prop', ax=ax, ci=False)
@@ -175,6 +269,16 @@ def contains_cardinal(title):
     return any(char.isdigit() for char in title)
 
 def proportion_with_cardinals(df, PATH):
+
+    """
+    Shows a histogram of the classes proportion of documents containing cardinal numbers.
+    
+    Returns 
+    
+    matplotlib axes object
+    
+    
+    """
     
     df_test = df.copy()
     df_test['cardinal'] = df.title.apply(contains_cardinal)
@@ -231,6 +335,13 @@ def get_false_negatives(predictions, y_test):
 # ================================= Viz word clouds ================================= 
 
 def generate_wordcloud(dict_, title='WordCloud', PATH=None):
+    
+    """
+    Displays a word cloud of the frequency dictionary
+    
+    No return object
+    
+    """
     wordcloud  = WordCloud(min_font_size=10).generate_from_frequencies(dict_)
     plt.figure(figsize = (8, 8), facecolor = None) 
     plt.imshow(wordcloud) 
@@ -247,6 +358,15 @@ def generate_wordcloud(dict_, title='WordCloud', PATH=None):
 # ================================= Viz Difference and Intersection Word Clouds ================================= 
 
 def get_intersect(df):
+    
+    """
+    Returns the intersect of words between the click bait corpus and the non clickbait corpus
+    
+    Return 
+    
+    click_set.intersection(non_set), click_tokenized
+    
+    """
     click_corpus = " ".join(df[df.target==1].title.to_list())
     non_corpus = " ".join(df[df.target==0].title.to_list())
     
@@ -289,6 +409,11 @@ def countX(lst, x):
     return lst.count(x) 
      
 def visualize_intersection(df):
+    
+    """
+    Generates two wordclouds, for the intersect and one for the difference between the classes words frequencies
+    
+    """
     
     click_corpus = " ".join(df[df.target==1].title.to_list())
     non_corpus = " ".join(df[df.target==0].title.to_list())
@@ -395,6 +520,7 @@ def plot_roc_curve(actual, predictions, model = "ROC Curve", PATH=None):
     plt.legend(loc='lower right')
     if PATH:
         plt.savefig(PATH, bbox_inches='tight')
+        
     return plt.show()
 
 
@@ -403,6 +529,12 @@ def plot_roc_curve(actual, predictions, model = "ROC Curve", PATH=None):
 # ================================= Viz Final Evaluation Metrics =================================     
 
 def generate_prediction_matrix(list_of_models, X_test):
+    
+    """
+    This is a helper function that creates a prediction matrix to feed into either 
+    roc auc curve or a voting classifier
+    
+    """
     n = len(X_test)
     m = len(list_of_models)
     
@@ -421,6 +553,15 @@ def generate_prediction_matrix(list_of_models, X_test):
 
 
 def plot_final_roc(prediction_matrix, model_names):
+    """
+    Given a prediction matrix generated using  generate_prediction_matrix() and the matching
+    model names, will return a roc auc curve containing all of the models predictions
+    
+    returns
+    
+    Nothing. Just shows an image. Don't be greedy.
+    
+    """
     plt.figure(figsize=(10, 8))
     for i, model in enumerate(names):    
         predictions = prediction_matrix[:,i]
