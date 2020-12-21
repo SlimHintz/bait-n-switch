@@ -88,7 +88,7 @@ Non-Clickbait WordCloud           |  Clickbait WordCloud
 
 ![img](./src/images/sentiment.png)
 
-I believed I could leverage these class disparities using a Bag of Words approach. A Bag of Words is where you treat the words themselves as the features of the model. You then look at the corpus statistics. For instance, how many times does the word "frequency" appear in corpus. You can then take that and ask how many times frequency occurs in each class and you begin to get a sense of which words are more common to subclasses. For this study, I used Term Frequency-Inverse Document Frequency (Tf-idf) which is simply the number of times a word appears within a document weighted by the inverse of frequency of documents that word appears in within the corpus. 
+I believed I could leverage these class disparities using a Bag of Words approach. A Bag of Words is where you treat the words themselves as the features of the model. If the corpus is large enough, a bag of words approach is capable of capturing almost all of the features in corpus<sup>[5](The Unreasonable Effectiveness of Data)</sup>. You then look at the corpus statistics. For instance, how many times does the word "frequency" appear in corpus. You can then take that and ask how many times frequency occurs in each class and you begin to get a sense of which words are more common to subclasses. For this study, I used Term Frequency-Inverse Document Frequency (Tf-idf) which is simply the number of times a word appears within a document weighted by the inverse of frequency of documents that word appears in within the corpus. 
 
 The Disadvantage to bag of words is that during tokenization, you produce as many features as there are words. If you increase the n_gram range, which is the number of successive words that can be linked together into a token, you can create truly enormous matrices. 
 
@@ -112,7 +112,7 @@ I decided that I was unable to improve on this model on this dataset. If I were 
 
 ### Discussion and next steps
 
-For my next steps, I would like to improve this model. Though I do have a strong, MVP its performance may note be good enough to put into production. One in ten misclassifications is potentially too high. We see upwards of hundreds of headlines everyday and we would notice a misclassification of a few dozen. To that end, I want to Explore alternative modeling techniques like feature unions. Feature unions are similar to a voting classifer but they combine the output of one model with a collection of engineered features. Features unions have been very successful in combining sparse and non sparse data together which is my exact usecase.
+For my next steps, I would like to improve this model. Though I do have a strong, MVP its performance may not be good enough to put into production. One in ten misclassifications is potentially too high. We see upwards of hundreds of headlines everyday and we would notice a misclassification of a few dozen. To that end, I want to Explore alternative modeling techniques like feature unions. Feature unions are similar to a voting classifer but they combine the output of one model with a collection of engineered features. Features unions have been very successful in combining sparse and non sparse data together which is my exact usecase.
 
 Further more, I will ontinue testing the model out on real websites and make sure that the false negatives and false positives aren’t glaring. When I Deploy the model I would like to set up a method for active learning whereby users can help train and personalize the filter to their own preferences.
 
@@ -141,3 +141,4 @@ TODO. This section will outline the use of the broswer extension
 - <a name="dataset2">[2]</a>:  Potthast, Martin, Stein, Benno, Hagen, Matthias, & Köpsel, Sebastian. (2016). Webis Clickbait Corpus 2016 (Webis-Clickbait-16) [Data set]. Presented at the 38th European Conference on IR Research (ECIR 2016), Zenodo.
 - <a name="dataset3">[3]</a>: Potthast, Martin, Gollub, Tim, Wiegmann, Matti, Stein, Benno, Hagen, Matthias, Komlossy, Kristof, … Fernandez, Erika P. Garces. (2018). Webis Clickbait Corpus 2017 (Webis-Clickbait-17) [Data set].
 - <a name="dataset2">[4]</a>: Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
+-<a name="The Unreasonable Effectiveness of Data">[5]</a>: [The Unreasonable Effectiveness of Data](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf)
