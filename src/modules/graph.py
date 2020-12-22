@@ -227,15 +227,15 @@ def stopword_hist(df, stop_words, ax):
     returns a matplotlib axes object
     
     """
-        click_props = df[df.target == 1].title.apply(stopword_proportion)
-        non_props = df[df.target == 0].title.apply(stopword_proportion)
-        for a, b in zip([non_props, click_props], ['Normal','Clickbait']):
-            sns.distplot(a, bins=30, ax=ax, kde=True,  label=b)
-            ax.legend()
-        ax.set_xlim([0.5,3])
-        ax.set_xlabel("Proportion of Stopwords")
-        ax.set_title(f"Proportion of Stopwords Between \n Clickbait and Non-Clickbait News Headlines", size =15)
-        return ax;
+    click_props = df[df.target == 1].title.apply(stopword_proportion)
+    non_props = df[df.target == 0].title.apply(stopword_proportion)
+    for a, b in zip([non_props, click_props], ['Normal','Clickbait']):
+        sns.distplot(a, bins=30, ax=ax, kde=True,  label=b)
+        ax.legend()
+    ax.set_xlim([0.5,3])
+    ax.set_xlabel("Proportion of Stopwords")
+    ax.set_title(f"Proportion of Stopwords Between \n Clickbait and Non-Clickbait News Headlines", size =15)
+    return ax;
 
 
 def stopword_bar(df, stop_words, ax):
