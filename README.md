@@ -110,9 +110,12 @@ My baselines were all in the low to mid 80's for f1 score. Compared to the dummy
 
 I decided that I was unable to improve on this model on this dataset. If I were to exclude all of that data from dataset 3 I would have acheived an f1 score of 0.98 on the testing data. However, I wanted to expose my model to as much information as possible. It is a weaker model over all but hopefully will show less variance when it comes to putting the model into production.
 
+
 ### Discussion and next steps
 
 For my next steps, I would like to improve this model. Though I do have a strong, MVP its performance may not be good enough to put into production. One in ten misclassifications is potentially too high. We see upwards of hundreds of headlines everyday and we would notice a misclassification of a few dozen. To that end, I want to Explore alternative modeling techniques like feature unions. Feature unions are similar to a voting classifer but they combine the output of one model with a collection of engineered features. Features unions have been very successful in combining sparse and non sparse data together which is my exact usecase.
+
+I may be able to improve the model further by reducing noise produced from the Webis dataset. The issue with the webis data set is that they used hard voting. This means that if the subjective "mean" score of a particular headline is less than 0.5 (as low as 0.4 in the case of the present data set) but the mode was 0.66 (ie in the case of 5 voters [0,0,0.66,0.66,0.66], that headline was labelled as clickbait. I disagree with that methodology. The entire point of using a likert scale is to gain a more precise subjective evaluation. If you are going to reduce the voting to hard voting, you may as well have binarized the problem and asked a simple dichotomous question.
 
 Further more, I will ontinue testing the model out on real websites and make sure that the false negatives and false positives aren’t glaring. When I Deploy the model I would like to set up a method for active learning whereby users can help train and personalize the filter to their own preferences.
 
@@ -141,4 +144,4 @@ TODO. This section will outline the use of the broswer extension
 - <a name="dataset2">[2]</a>:  Potthast, Martin, Stein, Benno, Hagen, Matthias, & Köpsel, Sebastian. (2016). Webis Clickbait Corpus 2016 (Webis-Clickbait-16) [Data set]. Presented at the 38th European Conference on IR Research (ECIR 2016), Zenodo.
 - <a name="dataset3">[3]</a>: Potthast, Martin, Gollub, Tim, Wiegmann, Matti, Stein, Benno, Hagen, Matthias, Komlossy, Kristof, … Fernandez, Erika P. Garces. (2018). Webis Clickbait Corpus 2017 (Webis-Clickbait-17) [Data set].
 - <a name="dataset2">[4]</a>: Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
--<a name="The Unreasonable Effectiveness of Data">[5]</a>: [The Unreasonable Effectiveness of Data](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf)
+- <a name="The Unreasonable Effectiveness of Data">[5]</a>: [The Unreasonable Effectiveness of Data](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf)
