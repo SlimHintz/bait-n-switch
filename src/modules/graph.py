@@ -528,7 +528,7 @@ def plot_roc_curve(actual, predictions, model = "ROC Curve", PATH=None):
 
 # ================================= Viz Final Evaluation Metrics =================================     
 
-def generate_prediction_matrix(list_of_models, X_test):
+def generate_prediction_matrix(list_of_models, list_of_tfidf, X_test):
     
     """
     This is a helper function that creates a prediction matrix to feed into either 
@@ -538,21 +538,24 @@ def generate_prediction_matrix(list_of_models, X_test):
     n = len(X_test)
     m = len(list_of_models)
     
-    prediction_matrix = np.ones(n,m)
+    prediction_matrix = np.ones((n,m))
     
     for i, model in enumerate(list_of_models):
+        print(f"Generating predictions for model: {i+1}")
         model = list_of_models[i]
+        tfidf = list_of_tfidf[i]
         try:
-            predictions = model.predict_proba(X_test)
+            X_test_tfidf = tfidf.transform(X_test)
+            predictions = model.predict_proba(X_test_tfidf)[:,1]
         except Exception as e:
             print(str(e))
+        print(predictions)
         prediction_matrix[:,i] *= predictions
-    
+        
     return prediction_matrix
 
 
-
-def plot_final_roc(prediction_matrix, model_names):
+def plot_final_roc(prediction_matrix, model_names, y_test, PATH = None):
     """
     Given a prediction matrix generated using  generate_prediction_matrix() and the matching
     model names, will return a roc auc curve containing all of the models predictions
@@ -563,21 +566,22 @@ def plot_final_roc(prediction_matrix, model_names):
     
     """
     plt.figure(figsize=(10, 8))
-    for i, model in enumerate(names):    
+    for i, model in enumerate(model_names):    
         predictions = prediction_matrix[:,i]
         fpr, tpr, threshholds = roc_curve(y_test, predictions)
         sns.set_style('darkgrid', {'axes.facecolor': '0.9'})
-        print('AUC: {}'.format(auc(fpr, tpr)))
         lw = 2
         plt.plot(fpr, tpr,
-             lw=lw, label=f'{names[i]} AUC: {round(auc(fpr, tpr), 3)}')
+             lw=lw, label=f'{model_names[i]} AUC: {round(auc(fpr, tpr), 3)}')
         plt.plot([0, 1], [0, 1], lw=lw, linestyle='--')
     plt.xlim([0.0, 1.0])
     plt.ylim([0.0, 1.05])
-    plt.yticks([i/20.0 for i in range(21)])
-    plt.xticks([i/20.0 for i in range(21)])
-    plt.xlabel('False Positive Rate')
-    plt.ylabel('True Positive Rate')
-    plt.title('Receiver operating characteristic (ROC) Curve')
+    plt.yticks([i/20.0 for i in range(21)], size = 14)
+    plt.xticks([i/20.0 for i in range(21)], rotation = 45, size = 14)
+    plt.xlabel('False Positive Rate', size =16)
+    plt.ylabel('True Positive Rate', size =16)
+    plt.title('ROC Curve', size = 20)
     plt.legend(loc='lower right')
+    if PATH:
+        plt.savefig(PATH, bbox_inches='tight')
     plt.show()
