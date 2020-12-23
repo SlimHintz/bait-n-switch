@@ -128,16 +128,18 @@ TODO. This section will outline the use of the broswer extension
 ### Repository Structure
 ```
 .
-├── bait'n'switch.ipynb  | Project Walkthrough
-├── README.md            | 
-├── notebooks            | 
-│   ├── EDA              | Notebooks outlining data set creation and early exploration
-│   └── modelling        | Testing potential modelling techniques
+├── README.md
+├── application <- Flask application backend API for chrome extension
+├── bait-n-switch.ipynb <- Project Walkthrough
+├── baitnswitch <- Chrome Extension
+├── notebooks 
+│   ├── EDA <- Exploration of the data and dataset creation
+│   └── modelling <- Experiemental modelling techniques
 └── src
-    ├── data             | Access to the raw data json and the processed data csv
-    ├── images           | Images generated within this project
-    ├── models           | Saved models
-    └── modules          | .py files
+    ├── data <- Raw and processed data as 
+    ├── images <- images generated within the project
+    ├── models <- Where the models will save if you clone and run this repo
+    └── modules <- .py files
 ```
 ### References
 - <a name="dataset1">[1]</a>: Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly. "Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media”. In Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), San Fransisco, US, August 2016.
