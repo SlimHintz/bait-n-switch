@@ -25,7 +25,7 @@ def index():
     is a url, request the url 
     """
     if request.method == "GET":
-        return "This is a GET request"
+         return render_template("index.html", name="Tim")
     
     elif request.method == "POST":
         return "This is a POST request"
@@ -38,9 +38,9 @@ def predict():
     """
     This function should handle a POST request by running the model through 
     my pipeline and then predicting on it.
-    
+
     """
-    if request.method == "POST"
+    if request.method == "POST":
 
         return "Working on it"
 
