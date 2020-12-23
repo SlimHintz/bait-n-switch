@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, send_from_directory
 import sqlite3
 import json
 import re
@@ -17,7 +17,7 @@ f = open('./../src/models/tfidf1.1.pickle', 'rb')
 tfidf = pickle.load(f)
 
 
-@app.route("/", methods=["GET"])
+@app.route("/", methods=["GET", "POST"])
 def index():
     """
     This is the welcome screen to the application. It needs to have a form. The form will accept a string as input. The 
@@ -25,7 +25,8 @@ def index():
     is a url, request the url 
     """
     if request.method == "GET":
-         return render_template("index.html", name="Tim")
+
+         return render_template("input.html")
     
     elif request.method == "POST":
         return "This is a POST request"
@@ -40,9 +41,16 @@ def predict():
     my pipeline and then predicting on it.
 
     """
+    if request.method == "GET":
+        return "Working on it"
+        
     if request.method == "POST":
 
-        return "Working on it"
+        return render_template("success.html")
 
-
+@app.route("/display", methods=["POST"])
+def display():
+    """
+    This function will display an image of the 
+    """
 app.run()

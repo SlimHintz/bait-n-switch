@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+<!-- {% block title %}
+    Input
+{% endblock %} -->
+
+{% block main %}
+<!--
+
+This Page displays a form for the user to enter a url or a headline.
+
+
+-->
+<h1>Bait 'n' Switch</h1>
+<h3>A Tool to Classify Tag and Remove Clickbait</h3>
+    <form action="/predict" method="post">
+        <div class="form-group">
+            <input autocomplete="off" autofocus class="form-control" name="symbol" placeholder="Enter Headline or URL" type="text">
+        </div>
+        <button class="btn btn-primary" type="submit">predict</button>
+    </form>
+{% endblock %}
