@@ -1,10 +1,15 @@
 from flask import Flask, render_template, request, jsonify, send_from_directory
+import os 
+import sys
 import sqlite3
 import json
 import re
 import pickle
 
+
+
 app = Flask(__name__)
+
 app.config["DEBUG"] = True
 
 
@@ -50,6 +55,7 @@ def predict():
 
 @app.route("/display", methods=["POST"])
 def display():
+    
     """
     This function will display an image of the 
     """
