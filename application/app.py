@@ -45,8 +45,8 @@ def predict():
         return "Working on it"
         
     if request.method == "POST":
-
-        return render_template("success.html")
+        headline = request.form.get("headline")
+        return render_template("success.html", headline = headline)
 
 @app.route("/display", methods=["POST"])
 def display():
