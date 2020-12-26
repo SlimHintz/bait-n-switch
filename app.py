@@ -14,11 +14,11 @@ app.config["DEBUG"] = True
 
 
 # Import the fit model 
-f = open('src/models/model1.1.pickle', 'rb')
+f = open('./../src/models/model1.1.pickle', 'rb')
 model = pickle.load(f)
 
 # import the fit tfidf 
-f = open('src/models/tfidf1.1.pickle', 'rb')
+f = open('./../src/models/tfidf1.1.pickle', 'rb')
 tfidf = pickle.load(f)
 
 
@@ -39,8 +39,8 @@ def index():
 
 
 
-@app.route("/predictheadline", methods=["GET", "POST"])
-def predictheadline():
+@app.route("/predict", methods=["GET", "POST"])
+def predict():
     """
     This function should handle a POST request by running the model through 
     my pipeline and then predicting on it.
@@ -51,26 +51,7 @@ def predictheadline():
         
     if request.method == "POST":
         headline = request.form.get("headline")
-        #  
-
         return render_template("success.html", headline = headline)
-
-
-@app.route("/predicturl", methods=["GET", "POST"])
-def predicturl():
-    """
-    This function should handle a POST request by running the model through 
-    my pipeline and then predicting on it.
-
-    """
-    if request.method == "GET":
-        return "Working on it"
-        
-    if request.method == "POST":
-        url = request.form.get("headline")
-        # Check if the url is valid, 
-
-        return render_template("success.html", headline = url)
 
 @app.route("/display", methods=["POST"])
 def display():
