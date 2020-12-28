@@ -1,10 +1,10 @@
 from flask import Flask, render_template, request, jsonify, send_from_directory
-# import os 
-# import sys
-# import sqlite3
-# import json
-# import re
-# import pickle
+import os 
+import sys
+import sqlite3
+import json
+import re
+import pickle
 
 
 # # Add custom module to flask app
@@ -38,37 +38,36 @@ def index():
     is a url, request the url 
     """
     if request.method == "GET":
-        return "Hello, World!"
-        #  return render_template("input.html")
+         return render_template("input.html")
     
-#     elif request.method == "POST":
-#         return "This is a POST request"
+    elif request.method == "POST":
+        return "This is a POST request"
 
 
 
 
-# @app.route("/predictheadline", methods=["GET", "POST"])
-# def predict():
-#     """
-#     This function should handle a POST request by running the model through 
-#     my pipeline and then predicting on it.
+@app.route("/predictheadline", methods=["GET", "POST"])
+def predict():
+    """
+    This function should handle a POST request by running the model through 
+    my pipeline and then predicting on it.
 
-#     """
-#     if request.method == "GET":
-#         return "Working on it"
+    """
+    if request.method == "GET":
+        return "Working on it"
         
-#     if request.method == "POST":
-#         headline = request.form.get("headline")
+    if request.method == "POST":
+        headline = request.form.get("headline")
 
 
-#         return render_template("success.html", headline = headline)
+        return render_template("success.html", headline = headline)
 
-# @app.route("/display", methods=["POST"])
-# def display():
+@app.route("/display", methods=["POST"])
+def display():
     
-#     """
-#     This function will display an image of the 
-#     """
+    """
+    This function will display an image of the 
+    """
 
 if __name__ == '__main__':
     app.run()
