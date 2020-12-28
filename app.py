@@ -7,14 +7,14 @@ import re
 import pickle
 
 
-# Add custom module to flask app
-module_path = os.path.abspath(os.path.join('./src'))
-if module_path not in sys.path:
-    sys.path.append(module_path)
+# # Add custom module to flask app
+# module_path = os.path.abspath(os.path.join('./src'))
+# if module_path not in sys.path:
+#     sys.path.append(module_path)
 
-# import the custom modules 
-from modules import preprocessing as pp
-from modules import graph, modelling
+# # import the custom modules 
+# from modules import preprocessing as pp
+# from modules import graph, modelling
 
 app = Flask(__name__)
 
@@ -38,8 +38,8 @@ def index():
     is a url, request the url 
     """
     if request.method == "GET":
-
-         return render_template("input.html")
+        return "Hello, World!"
+        #  return render_template("input.html")
     
     elif request.method == "POST":
         return "This is a POST request"
