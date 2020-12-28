@@ -71,4 +71,4 @@ def display():
     """
 
 if __name__ == '__main__':
-    my_awesome_app.run()
+    app.run()
