@@ -1,10 +1,10 @@
 from flask import Flask, render_template, request, jsonify, send_from_directory
-import os 
-import sys
-import sqlite3
-import json
-import re
-import pickle
+# import os 
+# import sys
+# import sqlite3
+# import json
+# import re
+# import pickle
 
 
 # # Add custom module to flask app
@@ -21,13 +21,13 @@ app = Flask(__name__)
 app.config["DEBUG"] = True
 
 
-# Import the fit model 
-f = open('./src/models/model1.1.pickle', 'rb')
-model = pickle.load(f)
+# # Import the fit model 
+# f = open('./src/models/model1.1.pickle', 'rb')
+# model = pickle.load(f)
 
-# import the fit tfidf 
-f = open('./src/models/tfidf1.1.pickle', 'rb')
-tfidf = pickle.load(f)
+# # import the fit tfidf 
+# f = open('./src/models/tfidf1.1.pickle', 'rb')
+# tfidf = pickle.load(f)
 
 
 @app.route("/", methods=["GET", "POST"])
