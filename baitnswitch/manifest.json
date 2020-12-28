@@ -2,5 +2,16 @@
     "name": "Bait-N-Switch",
     "version": "1.0",
     "description": "Filter Clickbait From Your Browswer!",
-    "manifest_version": 2
+    "manifest_version": 2,
+    "icons":
+    {
+      "16": "./images/clickbait.png",
+      "48": "./images/clickbait.png",
+      "128": "./images/clickbait.png"
+    },
+    "browser_action":
+    {
+      "default_icon": "./images/clickbait.png",
+      "default_popup": "popup.html"
+    }
   }
