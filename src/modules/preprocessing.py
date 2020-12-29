@@ -173,8 +173,8 @@ def cleanTweet(headline):
     """
     
 
-    text=re.compile("(http\w+)")
-    tweet= tweet.replace("RT", "")
+    text = re.compile("(http\w+)")
+    tweet = text.replace("RT", "")
     return " ".join(word for word in tweet.split() if word not in text.findall(tweet))
 
 
@@ -194,7 +194,7 @@ def get_len(title):
 
 # Get proportion of stopwords
 def remove_stopwords_tokenized(title):
-    return ([word.lower() for word in tokenizer.tokenize(title) if word.lower() not in pp.stop_words])
+    return ([word.lower() for word in tokenizer.tokenize(title) if word.lower() not in stop_words])
 
 def stopword_proportion(title):
     tokenized = tokenizer.tokenize(title)

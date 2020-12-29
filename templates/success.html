@@ -13,7 +13,12 @@
 </div>
 
 <body>
-    <h1>The headline you entered is: {{ headline }}!</h1>
+    {% if prediction %}
+    <h2> According to Bait 'n' Switch, the headline you entered is probably clickbait </h2>
+
+    {% else %}
+    <h2> According to Bait 'n' Switch, the headline you entered is unlikely to be clickbait </h2>
+    {% endif %}
 </body>
 
 {% endblock %}

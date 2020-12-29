@@ -19,14 +19,21 @@
 
     <body>
 
+        <!-- Create a navigation bar, code template adapted from harvard's cs50 -->
         <nav class="navbar navbar-expand-md navbar-light bg-light border">
             <a class="navbar-brand" href="/"><span class="blue">B</span><span class="red">A</span><span class="yellow">I</span><span class="blue">T</span><span class="green">'N'</span> <span class="red">SWITCH</span></a>    
+            <ul class="navbar-nav mr-auto mt-2">
+                <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="/evidence">Evidence</a></li>
+            </ul>
+            <ul class="navbar-nav ml-auto mt-2">
+                <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
+            </ul>
         </nav>
+
         <main class="container p-5">
             {% block main %}{% endblock %}
         </main>
-        </ul>
-
     </body>
 
 </html>
