@@ -235,7 +235,7 @@ def stopword_hist(df, stop_words, ax):
     ax.set_xlim([0.5,3])
     ax.set_xlabel("Proportion of Stopwords")
     ax.set_title(f"Proportion of Stopwords Between \n Clickbait and Non-Clickbait News Headlines", size =15)
-    return ax;
+    return ax
 
 
 def stopword_bar(df, stop_words, ax):
