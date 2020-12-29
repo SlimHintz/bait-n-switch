@@ -119,5 +119,9 @@ def evidence():
 def contact():
     return "This route will show the authors contact information"
 
+@app.route("/endpoint", method=["POST"])
+def endpoint():
+    return "You have reached the API endpoint"
+
 if __name__ == '__main__':
     app.run()

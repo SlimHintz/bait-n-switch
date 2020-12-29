@@ -13,5 +13,8 @@
     {
       "default_icon": "./images/clickbait.png",
       "default_popup": "popup.html"
-    }
+    },
+    "permissions": [
+      "<all_urls>"
+    ]
   }
