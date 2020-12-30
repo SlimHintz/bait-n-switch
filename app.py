@@ -65,14 +65,22 @@ def predict():
 
         # check to see if the user entered a url
         urls  = find_url(headline)
-
         if urls:
             prediction_dfs = [predict_on_html(get_html_series(url), model, tfidf) for url in urls]
             clickbait_proportion = np.mean([df.target.mean() for df in prediction_dfs])
+            
+            df = prediction_dfs[0]
+            total_headlines = len(df)
+            num_bait = len(df[df.target==1])
+            num_norm = len(df[df.target==0])
+
             str_percentage = str(round((clickbait_proportion * 100), 0))
             return render_template("url_prediction.html", 
                                     proportion = (clickbait_proportion),
-                                    percentage = str_percentage)
+                                    percentage = str_percentage,
+                                    total_headlines = total_headlines,
+                                    num_bait = num_bait,
+                                    num_norm = num_norm)
 
         # Check if the headline is at least 4 words long
         headline_length = len(headline.split())

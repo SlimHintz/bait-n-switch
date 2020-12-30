@@ -11,17 +11,17 @@
 {% if proportion <= 0.33 %}
     <div class="alert alert-success alert-dismissible">
         <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-        <strong>The url you entred contains only {{percentage}}% clickbait </strong>
+        <strong>Very little Clickbait: {{num_bait}} of the {{total_headlines}} headlines are likely to be clickbait</strong>
     </div>
 {% elif proportion <= 0.66 %}
     <div class="alert alert-warning alert-dismissible">
         <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-        <strong>The url you entered contains {{percentage}}% clickbait. Take the articles with a grain of salt </strong>
+        <strong>Some Clickbait: {{num_bait}} of the {{total_headlines}} headlines are likely to be clickbait</strong>
     </div>
 {% else  %}
 <div class="alert alert-danger alert-dismissible">
     <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-    <strong>The url you entered contains {{percentage}}% clickbait. This website should not be trusted </strong>
+    <strong>A lof of Clickbait: {{num_bait}} of the {{total_headlines}} headlines are likely to be clickbait. </strong>
 </div>    
 {% endif %}
 
