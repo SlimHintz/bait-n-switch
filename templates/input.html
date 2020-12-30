@@ -10,23 +10,13 @@
 This page displays an input box that accepts a headline and posts the form to the
 predict route.
 
-
-
 -->
 <h1>Bait 'n' Switch</h1>
 <h3>A Tool to Classify Tag and Remove Clickbait</h3>
-
     <form action="/predict" method="post">
         <div class="form-group">
             <input autocomplete="off" autofocus class="form-control" name="headline" placeholder="Enter Headline" type="text">
         </div>
         <button class="btn btn-primary" type="submit">predict</button>
     </form>
-    <div> 
-        <form action="https://www.google.com/" method="get">   
-                <input autocomplete="off" autofocus class="form-control" name="headline" placeholder="Test" type="text">
-            </div>
-            <button class="btn btn-primary" type="submit">predict</button>
-        </form>
-        <div>
 {% endblock %}
