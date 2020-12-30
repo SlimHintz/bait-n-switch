@@ -13,3 +13,4 @@ vadersentiment
 seaborn
 pillow
 wordcloud
+lxml
