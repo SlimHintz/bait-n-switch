@@ -121,9 +121,10 @@ def contact():
 
 @app.route("/endpoint", method=["POST", "GET"])
 def endpoint():
-    if request.method == "POST"
+    if request.method == "POST":
         return "You have reached the API endpoint"
     else:
         return "GET requests have not yet been configured for this endpoint"
+
 if __name__ == '__main__':
     app.run()
