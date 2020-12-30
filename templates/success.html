@@ -11,7 +11,7 @@
 {% if prediction == 1 %}
     <div class="alert alert-danger alert-dismissible">
         <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-        <strong>The headline you entred is likely to be clickbait</strong>
+        <strong>The headline you entered is likely to be clickbait</strong>
     </div>
 {% else %}
     <div class="alert alert-success alert-dismissible">
@@ -25,7 +25,7 @@
 <h3>A Tool to Classify Tag and Remove Clickbait</h3>
     <form action="/predict" method="post">
         <div class="form-group">
-            <input autocomplete="off" autofocus class="form-control" name="headline" placeholder="Enter Headline" type="text">
+            <input autocomplete="off" autofocus class="form-control" name="headline" placeholder="Enter a URL or Headline" type="text">
         </div>
         <button class="btn btn-primary" type="submit">predict</button>
     </form>
