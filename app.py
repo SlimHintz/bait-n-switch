@@ -11,6 +11,7 @@ import re
 import pickle
 
 import requests
+from helpers import find_url, preprocess, predict_on_html, get_html_series
 
 from bs4 import BeautifulSoup 
 
@@ -18,23 +19,6 @@ from bs4 import BeautifulSoup
 module_path = os.path.abspath(os.path.join('./src/'))
 if module_path not in sys.path:
     sys.path.append(module_path)
-
-# import the custom modules 
-from modules import preprocessing as pp
-from modules import graph, modelling
-
-# Temporary functions 
-
-# code from https://www.geeksforgeeks.org/python-check-url-string/
-def find_url(string): 
-    """
-        A piece of regex that accepts a string and returns a list of urls
-        if there are any urls present otherwise return None.
-
-    """
-    regex = r"(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'\".,<>?«»“”‘’]))"
-    url = re.findall(regex,string)       
-    return [x[0] for x in url] 
 
 app = Flask(__name__)
 
@@ -50,7 +34,7 @@ f = open('./src/models/tfidf1.1.pickle', 'rb')
 tfidf = pickle.load(f)
 
 
-@app.route("/")
+@app.route("/", methods=["GET"])
 def index():
     """
     This is the welcome screen to the application. It needs to have a form. The form will accept a string as input. The 
@@ -74,10 +58,32 @@ def predict():
 
     """
     if request.method == "GET":
-        return "Working on it"
+        return render_template("input.html")
         
     if request.method == "POST":
         headline = request.form.get("headline")
+
+        # check to see if the user entered a url
+        urls  = find_url(headline)
+
+        if urls:
+            prediction_dfs = [predict_on_html(get_html_series(url), model, tfidf) for url in urls]
+            clickbait_proportion = np.mean([df.target.mean() for df in prediction_dfs])
+            str_percentage = str(round((clickbait_proportion * 100), 0))
+            return render_template("url_prediction.html", 
+                                    proportion = (clickbait_proportion),
+                                    percentage = str_percentage)
+
+        # Check if the headline is at least 4 words long
+        headline_length = len(headline.split())
+
+        if headline_length <= 3:
+            return render_template("to_short.html", 
+                                   headline_length = str(headline_length))
+
+        #  to see if the user entered a url
+        # Clean headline 
+        headline = preprocess(headline, length=0)
 
         # Convert the headline to a series
         headline_series = pd.Series(data=(headline), index = [0])
@@ -88,6 +94,7 @@ def predict():
         # Predict on the tfidf headline
         prediction = model.predict(headline_tfidf)
 
+        
         # Send headline prediction to display
         return render_template("success.html",
                                 headline = headline_series[0],

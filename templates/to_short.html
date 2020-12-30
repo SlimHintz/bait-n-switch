@@ -8,15 +8,15 @@
 
 {% block main %}
 
-{% if prediction == 1 %}
-    <div class="alert alert-danger alert-dismissible">
+{% if headline_length == "1" %}
+    <div class="alert alert-success alert-dismissible">
         <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-        <strong>The headline you entred is likely to be clickbait</strong>
+        <strong>Your headline only contains {{ headline_length}} word. The machine learning model works best with 4 or more words.</strong>
     </div>
 {% else %}
     <div class="alert alert-success alert-dismissible">
         <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-        <strong>The headline you entered is unlikely to be clickbait</strong>
+        <strong>Your headline only contains {{ headline_length}} words. The machine learning model works best with 4 or more words.</strong>
     </div>
 {% endif %}
 <h1>Bait 'n' Switch</h1>
@@ -31,4 +31,3 @@
     </form>
 
 {% endblock %}
-

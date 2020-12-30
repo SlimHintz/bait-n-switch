@@ -22,18 +22,31 @@
         <!-- Create a navigation bar, code template adapted from harvard's cs50 -->
         <nav class="navbar navbar-expand-md navbar-light bg-light border">
             <a class="navbar-brand" href="/"><span class="blue">B</span><span class="red">A</span><span class="yellow">I</span><span class="blue">T</span><span class="green">'N'</span> <span class="red">SWITCH</span></a>    
-            <ul class="navbar-nav mr-auto mt-2">
-                <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
-                <li class="nav-item"><a class="nav-link" href="/evidence">Evidence</a></li>
-            </ul>
             <ul class="navbar-nav ml-auto mt-2">
-                <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
+                <li class="nav-item"><a class="nav-link" href="/evidence">To Jupyter Notebook</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Contact and Links
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                      <a class="dropdown-item" href="https://github.com/SlimHintz">GitHub</a>
+                      <a class="dropdown-item" href="https://www.linkedin.com/in/tjhintz/">Linkedin</a>
+                      <a class="dropdown-item" href="#">tjhintz@gmail.com</a>
+                    </div>
+                  </li>
             </ul>
         </nav>
 
         <main class="container p-5">
             {% block main %}{% endblock %}
         </main>
+
+
+        <footer class="small text-center text-muted">
+            Created by Tim Hintz, 2020. The project is completely open source and can be located in my <a href="https://github.com/SlimHintz/bait-n-switch">GitHub</a>. 
+        </footer>
+
+
     </body>
 
 </html>
