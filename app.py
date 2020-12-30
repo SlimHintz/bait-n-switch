@@ -5,21 +5,23 @@ import numpy as np
 
 import os 
 import sys
-import sqlite3
 
 import json
 import re
 import pickle
 
+import requests
+
+from bs4 import BeautifulSoup 
 
 # Add custom module to flask app
-module_path = os.path.abspath(os.path.join('./src'))
+module_path = os.path.abspath(os.path.join('./src/'))
 if module_path not in sys.path:
     sys.path.append(module_path)
 
 # import the custom modules 
-# from modules import preprocessing as pp
-# from modules import graph, modelling
+from modules import preprocessing as pp
+from modules import graph, modelling
 
 # Temporary functions 
 
@@ -113,7 +115,7 @@ def evidence():
     """
     This route will display the jupyter notebook for people who want to go into a deeper dive
     """
-    return "This route will show the jupyter note book for those who want to do a deeper dive"
+    return render_template("bait-n-switch.html")
 
 @app.route("/contact", methods=["GET"])
 def contact():
@@ -124,6 +126,14 @@ def endpoint():
     if request.method == "POST":
 
         headline = request.form.get("headline")
+
+        urls = find_url(headline)
+
+        if urls:
+
+
+
+            pass 
 
         # Convert the headline to a series
         headline_series = pd.Series(data=(headline), index = [0])

@@ -123,7 +123,11 @@ Further more, I will ontinue testing the model out on real websites and make sur
 
 ### How to
 
-TODO. This section will outline the use of the broswer extension
+You can use the application at https://baitnswitch.herokuapp.com. 
+
+You can send POST requests containing either a url or a headline to https://baitnswitch.herokuapp.com/apiendpoint. If you send a headline, it will return the probability that the headline is clickbait. If you send a url, it will return the proportion of headlines in the url that are likely to be clickbait.
+
+Hopefully you will be able to build something cool with it.
 
 ### Repository Structure
 ```

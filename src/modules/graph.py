@@ -405,8 +405,6 @@ def get_difference(df):
     
     return click_set.difference(non_set), click_tokenized # This should return nothing
 
-def countX(lst, x): 
-    return lst.count(x) 
      
 def visualize_intersection(df):
     

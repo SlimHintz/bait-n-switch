@@ -144,3 +144,4 @@ cython_debug
 *pickle
 ./src/models/
 ./src/data/
+.nltk.txt.swp
