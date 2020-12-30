@@ -134,7 +134,7 @@ def endpoint():
         # Predict on the tfidf headline
         prediction = model.predict_proba(headline_tfidf)[:,1]
 
-        return prediction 
+        return str(prediction)
     else:
         return "GET requests have not yet been configured for this endpoint"
 
