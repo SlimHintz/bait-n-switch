@@ -18,8 +18,8 @@ if module_path not in sys.path:
     sys.path.append(module_path)
 
 # import the custom modules 
-from modules import preprocessing as pp
-from modules import graph, modelling
+# from modules import preprocessing as pp
+# from modules import graph, modelling
 
 # Temporary functions 
 
@@ -119,10 +119,22 @@ def evidence():
 def contact():
     return "This route will show the authors contact information"
 
-@app.route("/endpoint", methods=["POST"])
+@app.route("/apiendpoint", methods=["POST"])
 def endpoint():
     if request.method == "POST":
-        return "You have reached the API endpoint"
+
+        headline = request.form.get("headline")
+
+        # Convert the headline to a series
+        headline_series = pd.Series(data=(headline), index = [0])
+        
+        # Use the prefit tfidf vectorizer to transform the headline
+        headline_tfidf = tfidf.transform(headline_series)
+        
+        # Predict on the tfidf headline
+        prediction = model.predict_proba(headline_tfidf)[:,1]
+
+        return prediction 
     else:
         return "GET requests have not yet been configured for this endpoint"
 
