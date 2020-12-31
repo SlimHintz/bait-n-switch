@@ -1,3 +1,5 @@
+**Author**: [Tim Hintz](mailto:tjhintz@gmail.com)
+
 # Bait 'n' Switch
 ## This One Simple Model has EVERY Marketing Firm Furious
 
@@ -8,6 +10,13 @@
 - Final model had an f1 of 0.88 on the combined testing data.
 - Made a model that had an f1 of 0.98 on the testing data using only one of the three data sets.
 - Click bait is perhaps more difficult to label than to detect. 
+
+![img](./src/images/final_roc.png)
+
+*A collection of all of the ROC-AUC curves of tested models. As you can see, the simpler models perforemed better on this data set.*
+
+## Business Case 
+
 For this project, I assumed the mindset of a data scientist working for a small, yet competitive internet browser startup. The stakeholders are looking for an edge on the larger browsers by implementing some quality of life improvements. The executives have asked me to create an extension for the browser that will filter out `click-bait` from webpages.
 
 The first step in the process was building the classifier. Using natural language processing on manually labelled datasets <sup>[1](#myfootnote1)</sup><sup>[2](#dataset2)</sup><sup>[3](#dataset3)</sup> , I was able to produce a statistical model that could predict click bait with close to 90% accuracy (0.88 f1 score).
@@ -119,12 +128,20 @@ I may be able to improve the model further by reducing noise produced from the W
 
 Further more, I will ontinue testing the model out on real websites and make sure that the false negatives and false positives aren’t glaring. When I Deploy the model I would like to set up a method for active learning whereby users can help train and personalize the filter to their own preferences.
 
+#### An example of my model running on some popular US news websites:
+![img](./src/images/urlpredictions.png)
 
+*This model behaves as we would expect and could be a useful reminder for people to keep their gaurd up when entering a clickbaity news site*
 
 ### How to
 
-You can use the application at https://baitnswitch.herokuapp.com. 
+You can use the application at https://baitnswitch.herokuapp.com.  If you enter a headline, the model will tell you whether or not that headline has a greater than 50% chance of being clickbait (likely or not). I could imagine this being a usefull tool for Journalists to practice high integrity writing. 
 
+If you submit a full url (include *http..*), the model will return the proportion of headlines in that url that are likely to be clickbait. This feature is what I hope to utlize to create a chrome extension. 
+
+
+
+#### API 
 You can send POST requests containing either a url or a headline to https://baitnswitch.herokuapp.com/apiendpoint. If you send a headline, it will return the probability that the headline is clickbait. If you send a url, it will return the proportion of headlines in the url that are likely to be clickbait.
 
 Hopefully you will be able to build something cool with it.
@@ -133,9 +150,12 @@ Hopefully you will be able to build something cool with it.
 ```
 .
 ├── README.md
-├── application <- Flask application backend API for chrome extension
+├── app.py <- Flask application backend API for chrome extension
+├── templates <- HTML templates for flask application
+├── static <- CSS and images for flask application
+├── requirements.txt <- Flask application backend API for chrome extension
 ├── bait-n-switch.ipynb <- Project Walkthrough
-├── baitnswitch <- Chrome Extension
+├── baitnswitch <- Chrome Extension (WIP)
 ├── notebooks 
 │   ├── EDA <- Exploration of the data and dataset creation
 │   └── modelling <- Experiemental modelling techniques
