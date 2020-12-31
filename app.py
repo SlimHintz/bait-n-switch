@@ -76,12 +76,12 @@ def predict():
             return render_template("apology.html", message = message)
         if urls:
             """
-            Bug, if a url is entered that has no h1-h4 tags, an error is thrown
+            Bug, if a url is entered that has no h1-h4 tags, an error is thrown FIXED
+            Bug, some urls just don't return anything at all.
             """
             try:
                 prediction_dfs = [predict_on_html(get_html_series(url), model, tfidf) for url in urls]
                 clickbait_proportion = np.mean([df.target.mean() for df in prediction_dfs])
-                
                 df = prediction_dfs[0]
                 total_headlines = len(df)
                 num_bait = len(df[df.target==1])
@@ -178,9 +178,9 @@ def endpoint():
                 total_headlines = len(df)
                 num_bait = len(df[df.target==1])
                 num_norm = len(df[df.target==0])
+                
                 API_dict = {   
                     "information" : {
-                        "return object": "pandas dataframe",
                         "date": date.today(),
                         "url" : urls[0]
                     },
