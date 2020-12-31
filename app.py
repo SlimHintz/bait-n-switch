@@ -63,7 +63,10 @@ def predict():
     if request.method == "POST":
         headline = request.form.get("headline")
 
-        # check to see if the user entered a url
+        # check to see if the user entered a url:
+        """
+        The url is defined as starting with http.
+        """
         urls  = find_url(headline)
         if urls:
             prediction_dfs = [predict_on_html(get_html_series(url), model, tfidf) for url in urls]
@@ -86,7 +89,7 @@ def predict():
         headline_length = len(headline.split())
 
         if headline_length <= 3:
-            return render_template("to_short.html", 
+            return render_template("too_short.html", 
                                    headline_length = str(headline_length))
 
         #  to see if the user entered a url
@@ -145,8 +148,6 @@ def endpoint():
         urls = find_url(headline)
 
         if urls:
-
-
 
             pass 
 
