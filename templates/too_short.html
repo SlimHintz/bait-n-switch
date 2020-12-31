@@ -9,12 +9,12 @@
 {% block main %}
 
 {% if headline_length == "1" %}
-    <div class="alert alert-success alert-dismissible">
+    <div class="alert alert-info alert-dismissible">
         <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
         <strong>Your headline only contains {{ headline_length}} word. The machine learning model works best with 4 or more words.</strong>
     </div>
 {% else %}
-    <div class="alert alert-success alert-dismissible">
+    <div class="alert alert-info alert-dismissible">
         <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
         <strong>The headline you entered only contains {{ headline_length}} words. This machine learning model works best with 4 or more words.</strong>
     </div>

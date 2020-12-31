@@ -91,12 +91,6 @@ def decontracted(phrase):
     return phrase
 
 
-def get_headlines(response_text, tags=['h1', 'h2', 'h3', 'h4']):
-    soup = BeautifulSoup(response_text, 'lxml')
-    headers = soup.find_all(tags)
-    return [header.text for header in headers]
-
-
 def preprocess(title, length=4):
     # strip newline characters
     title = title.replace("\n", "")
@@ -109,9 +103,15 @@ def preprocess(title, length=4):
         return title
     else:
         return None
+
+
+def get_headlines(response_text, tags=['h1', 'h2', 'h3', 'h4']):
+    soup = BeautifulSoup(response_text, 'lxml')
+    headers = soup.find_all(tags)
+    return [header.text for header in headers]
     
 def get_cleaned_headlines(url, length=3, tags=['h1', 'h2', 'h3']):
-    text = requests.get(url).text
+    text = requests.get(url, headers= {'User-Agent': 'Foo bar'}).text # remove headers if breaks
     return [preprocess(headline, length) for headline in get_headlines(text, tags=tags)]
 
 def get_html_series(url):

@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, jsonify, send_from_directory
 
 import pandas as pd
 import numpy as np 
+import json
 
 import os 
 import sys
@@ -14,6 +15,7 @@ import requests
 from helpers import find_url, preprocess, predict_on_html, get_html_series
 
 from bs4 import BeautifulSoup 
+from datetime import date
 
 # Add custom module to flask app
 module_path = os.path.abspath(os.path.join('./src/'))
@@ -68,16 +70,28 @@ def predict():
         The url is defined as starting with http.
         """
         urls  = find_url(headline)
-        if urls:
-            prediction_dfs = [predict_on_html(get_html_series(url), model, tfidf) for url in urls]
-            clickbait_proportion = np.mean([df.target.mean() for df in prediction_dfs])
-            
-            df = prediction_dfs[0]
-            total_headlines = len(df)
-            num_bait = len(df[df.target==1])
-            num_norm = len(df[df.target==0])
 
-            str_percentage = str(round((clickbait_proportion * 100), 0))
+        if len(urls) > 1:
+            message = "please only submit 1 url at a time" 
+            return render_template("apology.html", message = message)
+        if urls:
+            """
+            Bug, if a url is entered that has no h1-h4 tags, an error is thrown
+            """
+            try:
+                prediction_dfs = [predict_on_html(get_html_series(url), model, tfidf) for url in urls]
+                clickbait_proportion = np.mean([df.target.mean() for df in prediction_dfs])
+                
+                df = prediction_dfs[0]
+                total_headlines = len(df)
+                num_bait = len(df[df.target==1])
+                num_norm = len(df[df.target==0])
+
+                str_percentage = str(round((clickbait_proportion * 100), 0))
+            except:
+                message = "Bait 'n' Switch was unable to parse the website you provided"
+                return render_template("apology.html", message=message)
+
             return render_template("url_prediction.html", 
                                     proportion = (clickbait_proportion),
                                     percentage = str_percentage,
@@ -139,17 +153,50 @@ def evidence():
 def contact():
     return "This route will show the authors contact information"
 
-@app.route("/apiendpoint", methods=["POST"])
+@app.route("/apiendpoint", methods=["POST", "GET"])
 def endpoint():
     if request.method == "POST":
 
         headline = request.form.get("headline")
 
-        urls = find_url(headline)
+        """
+        The url is defined as starting with http.
+        """
+        urls  = find_url(headline)
+
+        if len(urls) > 1:
+            return "please only submit 1 url at a time"
 
         if urls:
+            """
+            If request fails, return an error
+            """
+            try:
+                prediction_dfs = [predict_on_html(get_html_series(url), model, tfidf) for url in urls]
+                # clickbait_proportion = np.mean([df.target.mean() for df in prediction_dfs])
+                df = prediction_dfs[0]
+                total_headlines = len(df)
+                num_bait = len(df[df.target==1])
+                num_norm = len(df[df.target==0])
+                API_dict = {   
+                    "information" : {
+                        "return object": "pandas dataframe",
+                        "date": date.today(),
+                        "url" : urls[0]
+                    },
+                    "contents" : {
+                        "num_normal": num_norm,
+                        "num_clickbait": num_bait,
+                        "total_headlines": total_headlines
+                    }
+                }
 
-            pass 
+                json_object = json.dumps(API_dict)
+                # str_percentage = str(round((clickbait_proportion * 100), 0))
+            except Exception as e:
+                return str(e) + "\n\n GET request failed on url"
+
+            return json_object
 
         # Convert the headline to a series
         headline_series = pd.Series(data=(headline), index = [0])
@@ -162,7 +209,7 @@ def endpoint():
 
         return str(prediction)
     else:
-        return "GET requests have not yet been configured for this endpoint"
+        return "Please use the '/' route for GET requests. This route is purely for POST API calls."
 
 if __name__ == '__main__':
     app.run()
