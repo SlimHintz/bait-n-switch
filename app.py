@@ -181,7 +181,7 @@ def endpoint():
                 
                 API_dict = {   
                     "information" : {
-                        "date": date.today(),
+                        "date": str(date.today()),
                         "url" : urls[0]
                     },
                     "contents" : {
@@ -191,12 +191,11 @@ def endpoint():
                     }
                 }
 
-                json_object = json.dumps(API_dict)
-                # str_percentage = str(round((clickbait_proportion * 100), 0))
+            # str_percentage = str(round((clickbait_proportion * 100), 0))
             except Exception as e:
                 return str(e) + "\n\n GET request failed on url"
 
-            return json_object
+            return json.dumps(API_dict)
 
         # Convert the headline to a series
         headline_series = pd.Series(data=(headline), index = [0])
