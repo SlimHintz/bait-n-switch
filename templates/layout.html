@@ -38,7 +38,18 @@
         </nav>
 
         <main class="container p-5">
+            <!-- Location for warning to be inserted -->
             {% block main %}{% endblock %}
+
+            <!-- Consistent between responses -->
+            <h1 class="large text-center text-muted">Bait 'n' Switch</h1>
+            <h3 class="medium text-center text-muted">A Tool to Classify, Tag, and Remove Clickbait</h3>
+            <form action="/predict" method="post">
+                <div class="form-group">
+                    <input autocomplete="off" autofocus class="form-control" name="headline" placeholder="Enter URL or Headline" type="text">
+                </div>
+                <button class="btn btn-primary" type="submit">predict</button>
+            </form>
         </main>
 
 

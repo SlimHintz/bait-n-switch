@@ -19,15 +19,4 @@
         <strong>The headline you entered only contains {{ headline_length}} words. This machine learning model works best with 4 or more words.</strong>
     </div>
 {% endif %}
-<h1>Bait 'n' Switch</h1>
-
-
-<h3>A Tool to Classify, Tag, and Remove Clickbait</h3>
-    <form action="/predict" method="post">
-        <div class="form-group">
-            <input autocomplete="off" autofocus class="form-control" name="headline" placeholder="Enter a URL or Headline" type="text">
-        </div>
-        <button class="btn btn-primary" type="submit">predict</button>
-    </form>
-
 {% endblock %}
