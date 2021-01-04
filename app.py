@@ -160,10 +160,8 @@ def endpoint():
     if request.method == "POST":
 
         headline = request.form.get("headline")
-
-        if len(headline.split()) < 4:
-            return "Please enter a headline with 4 or more words"
-        # The url is defined as starting with http. For full method see the function
+        
+        #  The url is defined as starting with http. For full method see the function
         urls  = find_url(headline)
 
         if len(urls) > 1:
@@ -202,6 +200,9 @@ def endpoint():
 
             return json.dumps(API_dict)
 
+        if len(headline.split()) < 4:
+            return "Please enter a headline with 4 or more words"
+            
         # Convert the headline to a series
         headline_series = pd.Series(data=(headline), index = [0])
         
