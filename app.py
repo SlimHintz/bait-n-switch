@@ -80,6 +80,7 @@ def predict():
             Bug, some urls just don't return anything at all.
             """
             try:
+                # retrieve the urls using the function created in helpers.py
                 prediction_dfs = [predict_on_html(get_html_series(url), model, tfidf) for url in urls]
                 clickbait_proportion = np.mean([df.target.mean() for df in prediction_dfs])
                 df = prediction_dfs[0]
@@ -107,6 +108,7 @@ def predict():
                                    headline_length = str(headline_length))
 
         #  to see if the user entered a url
+        
         # Clean headline 
         headline = preprocess(headline, length=0)
 
@@ -159,9 +161,9 @@ def endpoint():
 
         headline = request.form.get("headline")
 
-        """
-        The url is defined as starting with http.
-        """
+        if len(headline.split()) < 4:
+            return "Please enter a headline with 4 or more words"
+        # The url is defined as starting with http. For full method see the function
         urls  = find_url(headline)
 
         if len(urls) > 1:
@@ -172,26 +174,29 @@ def endpoint():
             If request fails, return an error
             """
             try:
-                prediction_dfs = [predict_on_html(get_html_series(url), model, tfidf) for url in urls]
-                # clickbait_proportion = np.mean([df.target.mean() for df in prediction_dfs])
-                df = prediction_dfs[0]
+                # Generate a predictions dataframe usingthe extracted URL 
+                df = predict_on_html(get_html_series(urls[0]), model, tfidf)
+
+                # Get the df length/number of headlines
                 total_headlines = len(df)
                 num_bait = len(df[df.target==1])
                 num_norm = len(df[df.target==0])
-                
+
+                # Create a return object 
                 API_dict = {   
                     "information" : {
                         "date": str(date.today()),
                         "url" : urls[0]
                     },
                     "contents" : {
+                        "titles" : df.title.to_list(),
+                        "target" : df.target.to_list(),
                         "num_normal": num_norm,
                         "num_clickbait": num_bait,
                         "total_headlines": total_headlines
                     }
                 }
 
-            # str_percentage = str(round((clickbait_proportion * 100), 0))
             except Exception as e:
                 return str(e) + "\n\n GET request failed on url"
 
@@ -209,6 +214,66 @@ def endpoint():
         return str(prediction)
     else:
         return "Please use the '/' route for GET requests. This route is purely for POST API calls."
+
+# @app.route("/apiendpoint", methods=["POST", "GET"])
+# def endpointlong():
+#     """
+#     This endpoint will take a POST request and return to the user a 
+
+#     """
+#     if request.method == "POST":
+        
+#         # listen for both pieces of information 
+#         headline = request.form.get("headline")
+
+#         # Try to parse out a url
+#         url  = find_url(headline)
+
+#         # If more than 1 url is found, end the route and inform the user
+#         if len(url) > 1:
+#             return "please only submit 1 url at a time"
+#         # I a URL is found run the prediction and return the 
+#         if url:
+#             """
+#             If request fails, return an error
+#             """
+#             try:
+#                 df = predict_on_html(get_html_series(url), model, tfidf)
+#                 # clickbait_proportion = np.mean([df.target.mean() for df in prediction_dfs])
+#                 total_headlines = len(df)
+#                 num_bait = len(df[df.target==1])
+#                 num_norm = len(df[df.target==0])
+#                 # Create a return object 
+#                 API_dict = {   
+#                     "information" : {
+#                         "date": str(date.today()),
+#                         "url" : url
+#                     },
+#                     "contents" : {
+#                         "num_normal": num_norm,
+#                         "num_clickbait": num_bait,
+#                         "total_headlines": total_headlines
+#                     }
+#                 }
+
+#             # str_percentage = str(round((clickbait_proportion * 100), 0))
+#             except Exception as e:
+#                 return str(e) + "\n\nGET request failed on url"
+
+#             return json.dumps(API_dict)
+
+#         # Convert the headline to a series
+#         headline_series = pd.Series(data=(headline), index = [0])
+        
+#         # Use the prefit tfidf vectorizer to transform the headline
+#         headline_tfidf = tfidf.transform(headline_series)
+        
+#         # Predict on the tfidf headline
+#         prediction = model.predict_proba(headline_tfidf)[:,1]
+
+#         return str(prediction)
+#     else:
+#         return "Please use the '/' route for GET requests. This route is purely for POST API calls."
 
 if __name__ == '__main__':
     app.run()
