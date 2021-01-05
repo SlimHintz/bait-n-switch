@@ -42,26 +42,30 @@
         </nav>
         <main class="container p-5">
             <p>
-                <h5>POST request to: https://baitnswitch.herokuapp.com/apiendpoint</h5>
+                <h5 class = 'text-left'>POST request to: https://baitnswitch.herokuapp.com/apiendpoint</h5>
 
-                <h5>Data label: "headline"</h5>
+                <h5 class = 'text-left'>Data label: "headline"</h5>
 
                 <p class = text-left>
                 When given a url, this endpoint will return to the user a json
-                object containing some metadata as well as all the scraped headline and the predictions the model generates from them
+                object containing some metadata as well as all the scraped headline
+                and the predictions the model generates from them
                 predictions.
+                </p>
+                <p class = text-left>
+                    If given a headline, the api will return a plaintext probability of that headline being clickbait
                 </p>
             </p>
         </main>
-        <main class = "container p-1 card">
-            <h4>Example From Terminal</h4>
-            <pre class = "medium text-center">
-                <code>
+        <main class = "container p-1 card text-left">
+            <h4 class = "text-left">Using Curl:</h4>
+            <pre class = "medium text-left">
+                <code class="text-left">
             >>> curl 'http://baitnswitch.herokuapp.com/apiendpoint' --data 'headline="https://nytimes.com"'
                 {"information": {"date": "2021-01-02", "url": "https://nytimes.com"},
                 "contents": {"num_normal": 19, "num_clickbait": 10, "total_headlines": 29}}
 
-            <p>Note: headlines and predictions have been edited out to save space.</p>
+                    <p class = text-center>Note: headlines and predictions have been edited out to save space.</p>
                 </code>
             </pre>
         </main>
