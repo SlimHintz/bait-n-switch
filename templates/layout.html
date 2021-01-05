@@ -21,9 +21,13 @@
 
         <!-- Create a navigation bar, code template adapted from harvard's cs50 -->
         <nav class="navbar navbar-expand-md navbar-light bg-light border">
-            <a class="navbar-brand" href="/"><span class="blue">B</span><span class="red">A</span><span class="yellow">I</span><span class="blue">T</span><span class="green">'N'</span> <span class="red">SWITCH</span></a>    
+            <a class="navbar-brand" href="/"><span class="blue">B</span><span class="blue">A</span><span class="blue">I</span><span class="blue">T</span><span class="red">'N'</span><span class="green">SWITCH</span></a> 
+            
+
             <ul class="navbar-nav ml-auto mt-2">
                 <li class="nav-item"><a class="nav-link" href="/evidence">To Jupyter Notebook</a></li>
+                <li class="nav-item"><a class="nav-link" href="/about">For Developers</a></li>
+                
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Contact and Links
@@ -40,23 +44,37 @@
         <main class="container p-5">
             <!-- Location for warning to be inserted -->
             {% block main %}{% endblock %}
-
             <!-- Consistent between responses -->
-            <h1 class="large text-center text-muted">Bait 'n' Switch</h1>
-            <h3 class="medium text-center text-muted">A Tool to Classify, Tag, and Remove Clickbait</h3>
+            <h3 class="medium text-center text-muted">Classify, Tag, and Remove Clickbait</h>
+            <main class="container p-3"></main>
             <form action="/predict" method="post">
+
                 <div class="form-group">
                     <input autocomplete="off" autofocus class="form-control" name="headline" placeholder="Enter URL or Headline" type="text">
                 </div>
-                <button class="btn btn-primary" type="submit">predict</button>
+                <button class="btn btn-primary" type="submit">Predict</button>
+
+                <!-- https://getbootstrap.com/docs/4.1/components/collapse/ -->
+                <a type="button" class="btn btn-light text-center text-muted" data-toggle="collapse" href="#information" role="button" aria-expanded="false" aria-controls="#information">
+                    Instructions
+                </a>
+
+                <div class="collapse" id="information">
+                    <div class="card card-body small text-center">
+                        
+                        This is a simple UX for the Bait'n'Switch API. If you enter a headline, Bait'n'Switch will tell you whether or not it thinks 
+                        that article is click bait. If you enter a url link, Bait'n'Switch will look at 
+                        all headlines from that webpage and let you know how many clickbait articles it sees.
+                    
+                    </div>
+                </div>
+
             </form>
         </main>
-
 
         <footer class="small text-center text-muted">
             Created by Tim Hintz, 2020. The project is completely open source and can be located in my <a href="https://github.com/SlimHintz/bait-n-switch">GitHub</a>. 
         </footer>
-
 
     </body>
 

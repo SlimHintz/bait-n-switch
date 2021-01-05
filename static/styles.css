@@ -46,10 +46,26 @@ main img
     max-width: 100%;
 }
 
-
-/* table formating 
-table {
-  border: 1px solid black;
+/* https://stackoverflow.com/questions/4000792/how-can-i-style-code-listings-using-css */
+pre .codesnipped
+{
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    border-left: 3px solid #ff824d;
+    color: #666;
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 1.6em;
+    max-width: 100%;
+    overflow: auto;
+    padding: 1em 1.5em;
+    display: block;
+    word-wrap: break-word;
 }
-shaded altrernating rows for table formating 
-tr:nth-child(even) {background-color: #f2f2f2;}
+
+main .code 
+{
+    color: #537fbe;
+}

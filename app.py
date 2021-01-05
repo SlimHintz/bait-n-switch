@@ -140,9 +140,8 @@ def display():
 def about():
     """
     This route will display important inforamion and background about the applicaiton
-
     """
-    return "This route will give background and motivation for the project"
+    return render_template("about.html")
 
 @app.route("/evidence", methods=["GET"])
 def evidence():

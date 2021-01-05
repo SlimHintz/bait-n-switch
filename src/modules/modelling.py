@@ -10,6 +10,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from sklearn.feature_extraction.text import TfidfVectorizer
 analyzer = SentimentIntensityAnalyzer()
 
+from textblob import TextBlob
 # Modelling
 from sklearn.dummy import DummyClassifier
 from sklearn.tree import DecisionTreeClassifier

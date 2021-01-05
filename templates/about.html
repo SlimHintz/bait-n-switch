@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html lang='en'>
+
+    <head>
+        <!-- documentation at http://getbootstrap.com/docs/4.1/, alternative themes at https://bootswatch.com/ -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> 
+        <link href="/static/styles.css" rel="stylesheet">
+
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> 
+        
+        <link href="/static/corn_revealed.ico" rel="icon"> 
+
+        <title>Bait'n'Switch: Developers </title> 
+
+    </head>
+
+    <body>
+
+        <!-- Create a navigation bar, code template adapted from harvard's cs50 -->
+        <nav class="navbar navbar-expand-md navbar-light bg-light border">
+            <a class="navbar-brand" href="/"><span class="blue">B</span><span class="red">A</span><span class="yellow">I</span><span class="blue">T</span><span class="green">'N'</span> <span class="red">SWITCH</span></a> 
+            
+
+            <ul class="navbar-nav ml-auto mt-2">
+                <li class="nav-item"><a class="nav-link" href="/evidence">To Jupyter Notebook</a></li>
+                <li class="nav-item"><a class="nav-link" href="/about">For Developers</a></li>
+                
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Contact and Links
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                      <a class="dropdown-item" href="https://github.com/SlimHintz">GitHub</a>
+                      <a class="dropdown-item" href="https://www.linkedin.com/in/tjhintz/">Linkedin</a>
+                      <a class="dropdown-item" href="mailto:tjhintz@gmail.com">Email</a>
+                    </div>
+                  </li>
+            </ul>
+        </nav>
+        <main class="container p-5">
+            <p>
+                <h5>POST request to: https://baitnswitch.herokuapp.com/apiendpoint</h5>
+
+                <h5>Data label: "headline"</h5>
+
+                <p class = text-left>
+                When given a url, this endpoint will return to the user a json
+                object containing some metadata as well as all the scraped headline and the predictions the model generates from them
+                predictions.
+                </p>
+            </p>
+        </main>
+        <main class = "container p-1 card">
+            <h4>Example From Terminal</h4>
+            <pre class = "medium text-center">
+                <code>
+            >>> curl 'http://baitnswitch.herokuapp.com/apiendpoint' --data 'headline="https://nytimes.com"'
+                {"information": {"date": "2021-01-02", "url": "https://nytimes.com"},
+                "contents": {"num_normal": 19, "num_clickbait": 10, "total_headlines": 29}}
+
+            <p>Note: headlines and predictions have been edited out to save space.</p>
+                </code>
+            </pre>
+        </main>
+
+    <main class="container p-5">
+
+    </main>
+
+    
+    <footer class="small text-center text-muted">
+        Created by Tim Hintz, 2020. The project is completely open source and can be located in my <a href="https://github.com/SlimHintz/bait-n-switch">GitHub</a>. 
+    </footer>
+</body>
+</html>

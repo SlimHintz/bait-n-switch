@@ -122,13 +122,14 @@ def show_class_imbalance(df, title='Class Imbalance', PATH=None):
     
     
     """
-    plt.bar(x=['Normal', 'Clickbait'], height=df.groupby(['target']).target.count());
-    plt.title(title)
-    plt.ylabel("Document Count", size = 14)
-    plt.xlabel("Class", size = 14)
+    ax = sns.barplot(x=["Normal", "Clickbait"], y=df.groupby(['target']).target.count())
+    ax.set_title(title, size=20)
+    plt.xticks([0,1],["Normal", "Clickbait"], size = 20)
+    ax.set_ylabel("Document Count", size=17)
+    ax.set_xlabel("Article Class", size=20)
     if PATH:
         plt.savefig(PATH, bbox_inches="tight")
-    plt.show()
+    return ax
     
     
     
@@ -232,8 +233,9 @@ def stopword_hist(df, stop_words, ax):
     for a, b in zip([non_props, click_props], ['Normal','Clickbait']):
         sns.distplot(a, bins=30, ax=ax, kde=True,  label=b)
         ax.legend()
+    ax.set_ylabel("Density", )
     ax.set_xlim([0.5,3])
-    ax.set_xlabel("Proportion of Stopwords")
+    ax.set_xlabel("Proportion of Stopwords", size=20)
     ax.set_title(f"Proportion of Stopwords Between \n Clickbait and Non-Clickbait News Headlines", size =15)
     return ax
 
@@ -256,11 +258,11 @@ def stopword_bar(df, stop_words, ax):
     df_test = df.copy()
     df_test['prop'] = df.title.apply(stopword_proportion)
     sns.barplot(data=df_test, x='target', y='prop', ax=ax, ci=False)
-    ax.set_title("Proportion of Stopwords between classes")
+    ax.set_title("Proportion of Stopwords between classes", size=20)
     ax.set_ylim([1,2])
-    ax.set_ylabel("Proportion")
-    ax.set_xlabel("Article Class")
-    plt.xticks(ticks=range(2),labels=['Normal','Clickbait'])
+    ax.set_ylabel("Proportion", size=20)
+    ax.set_xlabel("Article Class", size=20)
+    plt.xticks(ticks=range(2),labels=['Normal','Clickbait'], size=20)
     return ax
 
 # ================================= Viz title Cardinality  ================================= 
@@ -293,9 +295,10 @@ def proportion_with_cardinals(df, PATH):
     # plot the results
     fig, ax = plt.subplots(figsize=(12,6))
     sns.barplot(x=['Normal', "Clickbait"], y=[non, click], ax=ax)
-    plt.title("Percent of Titles Containing Cardinal Numbers", size = 16)
-    plt.xlabel("Classes", size=15)
-    plt.ylabel("Percent %", size = 15)
+    plt.title("Percent of Titles Containing Cardinal Numbers", size = 20)
+    plt.xlabel("Article Class", size=20)
+    plt.ylabel("Percent %", size = 20)
+    plt.xticks([0,1], label=["Normal", "Clickbait"], size=20)
     if PATH:
         plt.savefig(PATH, bbox_inches="tight")
     
@@ -357,12 +360,12 @@ def generate_wordcloud(dict_, title='WordCloud', PATH=None):
     
 # ================================= Viz Difference and Intersection Word Clouds ================================= 
 
-def get_intersect(df):
+def get_intersect(df, get_numbers=False):
     
     """
     Returns the intersect of words between the click bait corpus and the non clickbait corpus
     
-    Return 
+    Returns:
     
     click_set.intersection(non_set), click_tokenized
     
@@ -383,7 +386,7 @@ def get_intersect(df):
     
     return click_set.intersection(non_set), click_tokenized
 
-def get_difference(df):
+def get_difference(df, click_as_base=True):
     
     """
     Given a dataframe, returns a set of words that are unique to the the clickbait data set and then a list of all the words 
@@ -403,8 +406,10 @@ def get_difference(df):
     non_set = set(fil_non)
     click_set = set(fil_click)
     
-    return click_set.difference(non_set), click_tokenized # This should return nothing
-
+    if click_as_base:
+        return click_set.difference(non_set), click_tokenized 
+    else: 
+        return non_set.difference(click_set), non_tokenized
      
 def visualize_intersection(df):
     
