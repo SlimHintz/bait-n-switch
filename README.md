@@ -8,8 +8,9 @@
 ### Overview
 **KEY FINDINGS**
 - Final model had an f1 of 0.88 on the combined testing data.
-- Made a model that had an f1 of 0.98 on the testing data using only one of the three data sets.
-- Click bait is perhaps more difficult to label than to detect. 
+- One of the models had an f1 of 0.98 on the testing data using only one ofthe three data sets.
+- Used the final model to create an API 
+- Used the API to create a simple  webapp 
 
 ![img](./src/images/final_roc.png)
 
