@@ -14,7 +14,7 @@
 
 ![img](./src/images/final_roc.png)
 
-*A collection of all of the ROC-AUC curves of tested models. As you can see, the simpler models perforemed better on this data set.*
+*A collection of all of the ROC-AUC curves of tested models. The simpler models performed better on this data set.*
 
 ## Business Case 
 
