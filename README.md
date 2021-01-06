@@ -22,7 +22,9 @@ For this project, I assumed the mindset of a data scientist working for a small,
 
 The first step in the process was building the classifier. Using natural language processing on manually labelled datasets <sup>[1](#myfootnote1)</sup><sup>[2](#dataset2)</sup><sup>[3](#dataset3)</sup> , I was able to produce a statistical model that could predict click bait with close to 90% accuracy (0.88 f1 score).
 
-The next step in this project is to build out a browser extension. I plan on using a combination of regular expressions and the python module `Beautiful Soup` to creat a function that takes in as it’s argument raw html and returns a webpage that has the click-bait filtered from it. 
+The next step was host the model as an API on a server which I did using flask, gunicorn and heroku as the host.
+
+Finally, I am building a browser extension. The current plan is to have the the extension make calls to the API on mouse over and return a red, yellow or green flas depending on the click bait content of the linked URL. 
 
 
 ### Context
