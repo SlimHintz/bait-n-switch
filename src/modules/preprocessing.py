@@ -7,7 +7,7 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.probability import FreqDist
 tokenizer = RegexpTokenizer(r'[a-zA-Z0-9!]+')
 import matplotlib.pyplot as plt
-
+from scipy.stats import ttest_ind 
 import requests
 from bs4 import BeautifulSoup
 
@@ -76,6 +76,32 @@ contraction_mapping = {"ain't": "is not", "aren't": "are not","can't": "cannot",
                    "y'all'd've": "you all would have","y'all're": "you all are","y'all've": "you all have",
                    "you'd": "you would", "you'd've": "you would have", "you'll": "you will", 
                    "you'll've": "you will have", "you're": "you are", "you've": "you have" }
+
+
+
+# ========================================= statistics ==================================================
+
+# https://stackoverflow.com/questions/15984221/how-to-perform-two-sample-one-tailed-t-test-with-numpy-scipy
+def t_test(x,y,alternative='both-sided'):
+    """
+    given two samples, allows the user to perfrom a 2 sample 1 or two talk
+    """
+    _, double_p = ttest_ind(x,y,equal_var = False)
+    if alternative == 'both-sided':
+        pval = double_p
+    elif alternative == 'greater':
+        if np.mean(x) > np.mean(y):
+            pval = double_p/2.
+        else:
+            pval = 1.0 - double_p/2.
+    elif alternative == 'less':
+        if np.mean(x) < np.mean(y):
+            pval = double_p/2.
+        else:
+            pval = 1.0 - double_p/2.
+    return pval
+
+# ========================================= Headline Cleaning ==================================================
 
 # A more manageable way of dealing with the contractions
 def decontracted(phrase):

@@ -206,7 +206,7 @@ def title_lengths(df, ax, content='title', title='data', x_lim = [0,100]):
     ax.set_xlim(x_lim)
     ax.set_xlabel("Length of Title (words)")
     ax.set_title(f"Distribution of Title Length Between \n Clickbait and Non-Clickbait News Headlines {title}", size =10)
-    return ax;
+    return ax
 
 # ================================= Viz stopword differences  ================================= 
 
@@ -233,10 +233,10 @@ def stopword_hist(df, stop_words, ax):
     for a, b in zip([non_props, click_props], ['Normal','Clickbait']):
         sns.distplot(a, bins=30, ax=ax, kde=True,  label=b)
         ax.legend()
-    ax.set_ylabel("Density", )
+    ax.set_ylabel("Density", size=20)
     ax.set_xlim([0.5,3])
-    ax.set_xlabel("Proportion of Stopwords", size=20)
-    ax.set_title(f"Proportion of Stopwords Between \n Clickbait and Non-Clickbait News Headlines", size =15)
+    ax.set_xlabel("Ratio of Stopwords", size=20)
+    ax.set_title(f"Ratio of Stopwords Between \n Clickbait and Non-Clickbait News Headlines", size =15)
     return ax
 
 
@@ -258,9 +258,9 @@ def stopword_bar(df, stop_words, ax):
     df_test = df.copy()
     df_test['prop'] = df.title.apply(stopword_proportion)
     sns.barplot(data=df_test, x='target', y='prop', ax=ax, ci=False)
-    ax.set_title("Proportion of Stopwords between classes", size=20)
+    ax.set_title("Ratio of Stopwords Between Classes", size=20)
     ax.set_ylim([1,2])
-    ax.set_ylabel("Proportion", size=20)
+    ax.set_ylabel("Ratio", size=20)
     ax.set_xlabel("Article Class", size=20)
     plt.xticks(ticks=range(2),labels=['Normal','Clickbait'], size=20)
     return ax
@@ -298,6 +298,7 @@ def proportion_with_cardinals(df, PATH):
     plt.title("Percent of Titles Containing Cardinal Numbers", size = 20)
     plt.xlabel("Article Class", size=20)
     plt.ylabel("Percent %", size = 20)
+    plt.ylim(0, 100)
     plt.xticks([0,1], label=["Normal", "Clickbait"], size=20)
     if PATH:
         plt.savefig(PATH, bbox_inches="tight")
