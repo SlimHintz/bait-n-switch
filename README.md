@@ -145,19 +145,14 @@ If you submit a full url (include *http..*), the model will return the proportio
 
 
 #### API 
-You can send POST requests containing either a url or a headline to https://baitnswitch.herokuapp.com/apiendpoint. If you send a headline, it will return the probability that the headline is clickbait. If you send a url, it will return the proportion of headlines in the url that are likely to be clickbait.
+You can send POST requests containing either a url or a headline to https://baitnswitch.herokuapp.com/apiendpoint. If you send a headline, it will return the a json object containing somne metadata as well as all headlines scraped from the website and an array of index matched predictions of those headlines. 
 
 endpoint: https://baitnswitch.herokuapp.com/apiendpoint
 POST data: "headline"
 
-note that baitnswitch will automatically parse the a url if you enter one. If you do not enter a url, the baitnswitch will treat whatever you entered as a news headline and will return the probability that it is clickbait.
+note that baitnswitch will automatically parse the a url if you enter one. If you do not enter a url, the baitnswitch will treat whatever you entered as a news headline and will return the probability as plaintext that it is clickbait.
 
-endpoint: https://baitnswitch.herokuapp.com/apiendpointlong
-POST data: "headline"
-
-This endpoint will return to the user a json object representation of a pandas dataframe containing all of the scraped headlines with each headlines associated probability of being clickbait.
-
-I invite you to use either enpoints for your own research. I am more than happy to discuss use of either one. 
+I invite you to use the API endpoint. Fair warning, it is hosted on a heroku server and they may throttle access so I sugggest waiting between calls to avoid failed POST requests. 
 
 ### Repository Structure
 ```
