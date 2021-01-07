@@ -128,7 +128,7 @@ def show_class_imbalance(df, title='Class Imbalance', PATH=None):
     ax.set_ylabel("Document Count", size=17)
     ax.set_xlabel("Article Class", size=20)
     if PATH:
-        plt.savefig(PATH, bbox_inches="tight")
+        plt.savefig(PATH, bbox_inches="tight", transparent=True)
     return ax
     
     
@@ -295,13 +295,13 @@ def proportion_with_cardinals(df, PATH):
     # plot the results
     fig, ax = plt.subplots(figsize=(12,6))
     sns.barplot(x=['Normal', "Clickbait"], y=[non, click], ax=ax)
-    plt.title("Percent of Titles Containing Cardinal Numbers", size = 20)
-    plt.xlabel("Article Class", size=20)
-    plt.ylabel("Percent %", size = 20)
+    plt.title("Percent of Titles Containing Cardinal Numbers", size = 24)
+    plt.xlabel("Article Class", size=24)
+    plt.ylabel("Percent %", size = 24)
     plt.ylim(0, 100)
-    plt.xticks([0,1], label=["Normal", "Clickbait"], size=20)
+    plt.xticks([0,1], label=["Normal", "Clickbait"], size=24)
     if PATH:
-        plt.savefig(PATH, bbox_inches="tight")
+        plt.savefig(PATH, bbox_inches="tight", transparent=True)
     
     return ax
 
@@ -350,10 +350,10 @@ def generate_wordcloud(dict_, title='WordCloud', PATH=None):
     plt.figure(figsize = (8, 8), facecolor = None) 
     plt.imshow(wordcloud) 
     plt.axis("off") 
-    plt.title(title)
+    plt.title(title, size = 24)
     plt.tight_layout(pad = 0) 
     if PATH:
-        plt.savefig(PATH, bbox_inches="tight")
+        plt.savefig(PATH, bbox_inches="tight", transparent=True)
     plt.show() 
     
 
@@ -494,7 +494,7 @@ def plot_cmatrix(actual, predictions, model, PATH = None):
     ax.set_xlabel('Predicted', size=15)
     ax.set_title(f'Confusion Matrix for {model} Predictions', size =18)
     if PATH:
-        plt.savefig(PATH, bbox_inches = "tight")
+        plt.savefig(PATH, bbox_inches = "tight", transparent=True)
   
     return plt.show()
 
@@ -516,14 +516,14 @@ def plot_roc_curve(actual, predictions, model = "ROC Curve", PATH=None):
         plt.ylim([0.0, 1.05])
     except:
         print("plt.ylim throwing an type error")
-    plt.yticks([i/20.0 for i in range(21)])
-    plt.xticks([i/20.0 for i in range(21)])
-    plt.xlabel('False Positive Rate', size=15)
-    plt.ylabel('True Positive Rate', size=15)
-    plt.title(f'{model} ROC Curve')
-    plt.legend(loc='lower right')
+    plt.yticks([i/20.0 for i in range(21)], size=17)
+    plt.xticks([i/20.0 for i in range(21)], rotation=45, size=17)
+    plt.xlabel('False Positive Rate', size=24)
+    plt.ylabel('True Positive Rate', size=24)
+    plt.title(f'{model} ROC Curve', size = 24)
+    plt.legend(loc='lower right', prop = {"size" : 20})
     if PATH:
-        plt.savefig(PATH, bbox_inches='tight')
+        plt.savefig(PATH, bbox_inches='tight', transparent=True)
         
     return plt.show()
 
@@ -585,7 +585,7 @@ def plot_final_roc(prediction_matrix, model_names, y_test, PATH = None):
     plt.xlabel('False Positive Rate', size =16)
     plt.ylabel('True Positive Rate', size =16)
     plt.title('ROC Curve', size = 20)
-    plt.legend(loc='lower right')
+    plt.legend(loc='lower right', prop = {"size" : 20})
     if PATH:
-        plt.savefig(PATH, bbox_inches='tight')
+        plt.savefig(PATH, bbox_inches='tight', transparent = True)
     plt.show()
