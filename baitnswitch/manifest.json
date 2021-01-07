@@ -1,17 +1,17 @@
 {
     "name": "Bait-N-Switch",
     "version": "1.0",
-    "description": "Filter Clickbait From Your Browswer!",
+    "description": "Filter Click-Bait From Your Browswer!",
     "manifest_version": 2,
     "icons":
     {
-      "16": "./images/clickbait.png",
-      "48": "./images/clickbait.png",
-      "128": "./images/clickbait.png"
+      "16": "./images/corn_revealed.png",
+      "48": "./images/corn_revealed.png",
+      "128": "./images/corn_revealed.png"
     },
     "browser_action":
     {
-      "default_icon": "./images/clickbait.png",
+      "default_icon": "./images/corn_revealed.png",
       "default_popup": "popup.html"
     },
     "permissions": [

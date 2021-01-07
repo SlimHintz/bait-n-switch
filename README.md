@@ -162,13 +162,14 @@ I invite you to use the API endpoint. Fair warning, it is hosted on a heroku ser
 ├── templates <- HTML templates for flask application
 ├── static <- CSS and images for flask application
 ├── requirements.txt <- Flask application backend API for chrome extension
+├── slideDeck.pdf <- Capstone presentation slide Deck
 ├── bait-n-switch.ipynb <- Project Walkthrough
 ├── baitnswitch <- Chrome Extension (WIP)
 ├── notebooks 
 │   ├── EDA <- Exploration of the data and dataset creation
 │   └── modelling <- Experiemental modelling techniques
 └── src
-    ├── data <- Raw and processed data as 
+    ├── data <- Raw and processed data 
     ├── images <- images generated within the project
     ├── models <- Where the models will save if you clone and run this repo
     └── modules <- .py files

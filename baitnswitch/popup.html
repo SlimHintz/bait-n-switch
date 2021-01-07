@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+     <!-- documentation at http://getbootstrap.com/docs/4.1/, alternative themes at https://bootswatch.com/ -->
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> 
+     <link href="/static/styles.css" rel="stylesheet">
+
+     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> 
 
     <script>
     function connect()
     {
         fetch('https://baitnswitch.herokuapp.com/').then(r => r.text()).then(result => {
-            // Do something awesome
+            // Do some thing awesome
         })
     }
     </script>
@@ -14,12 +21,26 @@
 </head>
 <body>
       <form onsubmit ="connect(); return false;">
-            <div class="form-group">
+            <!-- <div class="form-group">
                 <input autocomplete="off" autofocus class="form-control" name="headline" placeholder="Enter Headline" type="text">
+            </div> -->
+
+            <button class="btn btn-warning" type="submit">Bait'n'Switch</button>
+            <!-- https://getbootstrap.com/docs/4.1/components/collapse/ -->
+            <a type="button" class="btn btn-light text-center text-muted" data-toggle="collapse" href="#information" role="button" aria-expanded="false" aria-controls="#information">
+                Instructions
+            </a>
+
+            <div class="collapse" id="information">
+                <div class="card card-body small text-center">
+                    
+                    This is a simple web application built on the Bait'n'Switch API. If you enter a headline, Bait'n'Switch will tell you whether or not it thinks 
+                    that article is click bait. If you enter a url link, Bait'n'Switch will look at 
+                    all headlines from that webpage and let you know how many clickbait articles it sees.
+                </div>
             </div>
-            <button class="btn btn-primary" type="submit">predict</button>
+            
         </form>
-        <div> 
     
       
 </body>
