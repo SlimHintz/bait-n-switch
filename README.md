@@ -1,7 +1,7 @@
 **Author**: [Tim Hintz](mailto:tjhintz@gmail.com)
 
 # Bait 'n' Switch
-## This One Simple Model has EVERY Marketing Firm Furious
+## An AI powered API for Clickbait classification 
 
 ![img](./src/images/clickbaitImage.jpg)
 
