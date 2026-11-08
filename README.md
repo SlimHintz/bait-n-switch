@@ -11,7 +11,7 @@ This started as my Flatiron School data science capstone in January 2021. In 202
 
 ## What it does
 
-- **Chrome extension** ([`extension/`](extension/)): click the corn on any news site and every headline that reads like clickbait gets outlined, with a probability badge and a sensitivity slider. The model ships inside the extension as 1.5 MB of weights, so no page content leaves your browser and it needs only the `activeTab` permission.
+- **Chrome extension** ([`extension/`](extension/)): click the corn on any news site and every headline that reads like clickbait is highlighted with a probability badge, blurred (hover to reveal), or hidden along with its story card. A sensitivity slider sets how much goes, and "Show everything" puts it all back. The model ships inside the extension as 1.5 MB of weights, so no page content leaves your browser and it needs only the `activeTab` permission.
 - **JSON API** ([`baitnswitch/app.py`](baitnswitch/app.py)): score headlines you send, or give it a URL and it fetches the page, extracts the headlines and scores them.
 - **Training pipeline** ([`baitnswitch/train.py`](baitnswitch/train.py)): one command that rebuilds the model, the extension weights and the [evaluation report](reports/metrics.md).
 
@@ -91,7 +91,7 @@ curl -X POST localhost:5000/api/predict -H 'Content-Type: application/json' \
 
 1. Run the training step, or use the committed `extension/weights.json`.
 2. Open `chrome://extensions`, turn on **Developer mode**, click **Load unpacked** and choose the `extension/` folder.
-3. Visit a news site and click the corn icon.
+3. Visit a news site and click the corn icon. Pick **Highlight**, **Blur** or **Hide**; the choice and the slider are remembered.
 
 ## Limitations
 

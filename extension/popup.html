@@ -16,6 +16,12 @@
     ol { padding-left: 18px; margin: 10px 0 0; max-height: 220px; overflow: auto; }
     li { margin-bottom: 6px; } li b { color: var(--bait); font-weight: 600; margin-right: 4px; }
     .actions { display: flex; gap: 8px; margin-top: 12px; }
+    .modes { display: flex; margin-top: 12px; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+    .modes label { flex: 1; margin: 0; padding: 6px 0; text-align: center; font-size: 13px; color: var(--fg); cursor: pointer; }
+    .modes label + label { border-left: 1px solid var(--line); }
+    .modes input { position: absolute; opacity: 0; }
+    .modes label:has(input:checked) { background: var(--accent); color: #1d1d1b; font-weight: 600; }
+    .modes label:has(input:focus-visible) { outline: 2px solid var(--fg); outline-offset: -2px; }
     button { flex: 1; font: inherit; padding: 6px; border-radius: 8px; border: 1px solid var(--line);
              background: none; color: var(--fg); cursor: pointer; }
   </style>
@@ -25,10 +31,15 @@
   <div class="muted">Scored on your device. Nothing leaves your browser.</div>
   <div id="big">…</div>
   <div id="sub" class="muted"></div>
+  <div class="modes" role="radiogroup" aria-label="What to do with clickbait">
+    <label><input type="radio" name="mode" value="highlight">Highlight</label>
+    <label><input type="radio" name="mode" value="blur">Blur</label>
+    <label><input type="radio" name="mode" value="hide">Hide</label>
+  </div>
   <label for="sens">Sensitivity <span id="sensval"></span></label>
   <input id="sens" type="range" min="0.2" max="0.8" step="0.01">
   <ol id="list"></ol>
-  <div class="actions"><button id="clear">Clear highlights</button></div>
+  <div class="actions"><button id="clear">Show everything</button></div>
   <script type="module" src="popup.js"></script>
 </body>
 </html>
