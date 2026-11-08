@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bait 'n' Switch</title>
+  <link rel="icon" href="{{ url_for('static', filename='corn.png') }}">
+  <style>
+    :root { --bg: #fafaf7; --fg: #1d1d1b; --muted: #6b6b66; --card: #fff; --line: #e4e4de;
+            --bait: #c2410c; --ok: #15803d; --accent: #ca8a04; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #141412; --fg: #ecece6; --muted: #9a9a92; --card: #1d1d1a; --line: #2e2e2a;
+              --bait: #fb923c; --ok: #4ade80; --accent: #facc15; }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.5 system-ui, sans-serif; }
+    main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+    h1 { margin: 0; font-size: 2rem; } h1 span { color: var(--accent); }
+    .lede { color: var(--muted); margin: 4px 0 24px; }
+    .tabs { display: flex; gap: 8px; margin-bottom: 12px; }
+    .tabs button { background: none; border: 1px solid var(--line); color: var(--fg); padding: 6px 14px;
+                   border-radius: 999px; cursor: pointer; font: inherit; }
+    .tabs button[aria-selected="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+    textarea, input { width: 100%; font: inherit; color: var(--fg); background: var(--card);
+                      border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
+    textarea { min-height: 140px; resize: vertical; }
+    .go { margin-top: 12px; background: var(--accent); color: #1d1d1b; border: 0; border-radius: 10px;
+          padding: 10px 20px; font: 600 1rem system-ui; cursor: pointer; }
+    .go:disabled { opacity: .5; cursor: wait; }
+    #summary { margin: 24px 0 8px; color: var(--muted); }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin-bottom: 8px; }
+    .row { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+    .tag { font-size: .8rem; font-weight: 600; white-space: nowrap; }
+    .bait .tag { color: var(--bait); } .ok .tag { color: var(--ok); }
+    .bar { height: 4px; background: var(--line); border-radius: 2px; margin-top: 8px; overflow: hidden; }
+    .bar i { display: block; height: 100%; }
+    .bait .bar i { background: var(--bait); } .ok .bar i { background: var(--ok); }
+    .err { color: var(--bait); }
+    footer { margin-top: 40px; color: var(--muted); font-size: .9rem; }
+    footer a { color: inherit; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Bait <span>'n'</span> Switch</h1>
+  <p class="lede">Paste headlines (one per line) or a news site URL. The model flags headlines that look like clickbait.</p>
+
+  <div class="tabs" role="tablist">
+    <button role="tab" aria-selected="true" data-mode="text">Headlines</button>
+    <button role="tab" aria-selected="false" data-mode="url">Website</button>
+  </div>
+  <form id="form">
+    <textarea id="text" placeholder="You won't believe what this dog did next&#10;Senate passes budget bill after overnight session"></textarea>
+    <input id="url" type="url" placeholder="https://www.example.com" hidden>
+    <button class="go" type="submit">Check</button>
+  </form>
+
+  <p id="summary"></p>
+  <ul id="results"></ul>
+
+  <footer>
+    Threshold {{ threshold }} · logistic regression on word n-grams ·
+    <a href="https://github.com/SlimHintz/bait-n-switch">source &amp; evaluation</a>
+  </footer>
+</main>
+<script>
+  const $ = (s) => document.querySelector(s);
+  let mode = "text";
+  document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("click", () => {
+    mode = b.dataset.mode;
+    document.querySelectorAll(".tabs button").forEach((x) => x.setAttribute("aria-selected", x === b));
+    $("#text").hidden = mode !== "text"; $("#url").hidden = mode !== "url";
+  }));
+
+  $("#form").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const go = $(".go"); go.disabled = true;
+    $("#summary").textContent = ""; $("#summary").className = ""; $("#results").replaceChildren();
+    try {
+      const [path, body] = mode === "url"
+        ? ["/api/scan", { url: $("#url").value }]
+        : ["/api/predict", { headlines: $("#text").value.split("\n").map((s) => s.trim()).filter(Boolean) }];
+      const res = await fetch(path, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || res.statusText);
+      const flagged = data.results.filter((r) => r.clickbait).length;
+      $("#summary").textContent = data.results.length
+        ? `${flagged} of ${data.results.length} headlines look like clickbait`
+        : "No headlines found on that page.";
+      for (const r of data.results.sort((a, b) => b.probability - a.probability)) {
+        const li = document.createElement("li");
+        li.className = r.clickbait ? "bait" : "ok";
+        li.innerHTML = `<div class="row"><span></span><span class="tag"></span></div><div class="bar"><i></i></div>`;
+        li.querySelector(".row span").textContent = r.headline;
+        li.querySelector(".tag").textContent = `${r.clickbait ? "clickbait" : "ok"} · ${Math.round(r.probability * 100)}%`;
+        li.querySelector(".bar i").style.width = `${r.probability * 100}%`;
+        $("#results").append(li);
+      }
+    } catch (err) {
+      $("#summary").textContent = err.message; $("#summary").className = "err";
+    } finally { go.disabled = false; }
+  });
+</script>
+</body>
+</html>

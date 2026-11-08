@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <style>
+    :root { --bg: #fafaf7; --fg: #1d1d1b; --muted: #6b6b66; --line: #e4e4de; --bait: #c2410c; --accent: #ca8a04; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #1d1d1a; --fg: #ecece6; --muted: #9a9a92; --line: #2e2e2a; --bait: #fb923c; --accent: #facc15; }
+    }
+    body { width: 340px; margin: 0; padding: 14px 16px; background: var(--bg); color: var(--fg); font: 14px/1.4 system-ui, sans-serif; }
+    h1 { font-size: 16px; margin: 0 0 2px; } h1 span { color: var(--accent); }
+    .muted { color: var(--muted); font-size: 12px; }
+    #big { font-size: 28px; font-weight: 700; margin: 12px 0 0; }
+    label { display: block; margin: 12px 0 4px; font-size: 12px; color: var(--muted); }
+    input[type=range] { width: 100%; accent-color: var(--accent); }
+    ol { padding-left: 18px; margin: 10px 0 0; max-height: 220px; overflow: auto; }
+    li { margin-bottom: 6px; } li b { color: var(--bait); font-weight: 600; margin-right: 4px; }
+    .actions { display: flex; gap: 8px; margin-top: 12px; }
+    button { flex: 1; font: inherit; padding: 6px; border-radius: 8px; border: 1px solid var(--line);
+             background: none; color: var(--fg); cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h1>Bait <span>'n'</span> Switch</h1>
+  <div class="muted">Scored on your device. Nothing leaves your browser.</div>
+  <div id="big">…</div>
+  <div id="sub" class="muted"></div>
+  <label for="sens">Sensitivity <span id="sensval"></span></label>
+  <input id="sens" type="range" min="0.2" max="0.8" step="0.01">
+  <ol id="list"></ol>
+  <div class="actions"><button id="clear">Clear highlights</button></div>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>

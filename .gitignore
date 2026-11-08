@@ -141,7 +141,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug
 .vscode/
-*pickle
-./src/models/
-./src/data/
-.nltk.txt.swp
+
+# Trained model (rebuilt by `python -m baitnswitch.train`; extension/weights.json is committed)
+models/
+*.pickle
+*.joblib
