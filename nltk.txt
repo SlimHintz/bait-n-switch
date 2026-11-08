@@ -1,5 +1,0 @@
-wordnet
-stopwords
-punkt
-words
-averaged_perceptron_tagger
